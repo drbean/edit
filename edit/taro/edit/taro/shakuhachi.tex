@@ -1,8 +1,11 @@
 \documentclass[b5paper,draft]{memoir}
+
+\usepackage{fontspec}
+\setmainfont{Linux Libertine O}
 \usepackage{xeCJK}
 \setCJKmainfont{WenQuanYi Zen Hei}
 
-\usepackage{fontspec}
+\usepackage{graphicx}
 
 \setcounter{tocdepth}{1}
 
@@ -38,13 +41,17 @@
 \section{Maintenance}
 \input{Maintainance}
 
-\backmatter
+\appendix
+\appendixpage
+\addappheadtotoc
 
 \section{Fingering}
 \input{Fingering}
 
 \section{The author}
 \input{Taro_Matsumoto}
+
+\backmatter
 
 \end{document}
 
