@@ -8,6 +8,8 @@
 \usepackage{graphicx}
 \graphicspath{ {/home/drbean/圖片/taro/} }
 % \usepackage{pdf14}
+\usepackage{tikz}
+\usepackage{float}
 
 \setsecnumdepth{none}
 \setcounter{tocdepth}{1}
@@ -19,7 +21,19 @@
 \title{An elementary guide to the 尺八 (Shakuhachi)}
 \author{松本太郎 (Taro Matsumoto)}
 \date{2014}
-\maketitle
+% \maketitle
+
+\begin{tikzpicture}[remember picture,overlay]
+\coordinate [below=12cm] (midpoint) at (current page.north);
+\node at (current page.north west)
+{\begin{tikzpicture}[remember picture,overlay]
+\node[anchor=north west,inner sep=0pt] at (0,0) {\includegraphics[angle=90,width=\paperwidth]{IMG_2854.JPG}}; % Background image
+\draw[anchor=north] (midpoint) node [fill=blue!30!white,fill opacity=0.6,text opacity=1,inner sep=1cm]{\Huge\centering\bfseries\sffamily\parbox[c][][t]{\paperwidth}{\centering An elementary guide to the 尺八 (Shakuhachi)\\[15pt] % Book title
+{\Large 2014}\\[20pt] % Subtitle
+{\huge 松本太郎 (Taro Matsumoto)}}}; % Author name
+\end{tikzpicture}};
+\end{tikzpicture}
+\vfill
 
 \newpage
 
@@ -53,6 +67,8 @@
 
 \section{Fingering}
 \input{Fingering}
+
+\newpage
 
 \section{The author}
 \input{Taro_Matsumoto}
