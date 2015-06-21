@@ -1,0 +1,341 @@
+﻿An integrated evaluation model of teaching and learning: A case study of the X university in Taiwan
+
+Abstract
+Knowledge transmission and knowledge construction are two common approaches adopted in higher education to teaching and learning, and each approach has its own proponents. Based on the principles of the two, this paper developed an integrated evaluation model of teaching-and-learning, which comprises three main conceptual blocks: teaching, learning and learning assistance, in the hope of integrating the arguments of the two learning approaches. A quantitative survey was utilised for data generation. This was centred on randomly selected 108 courses at the X University in Taiwan. The modified questionnaire of Student Assessment of Learning Gains (SALG) developed by Seymore (1997, 2000) along with Student Evaluation of Teaching (SET) currently applied at the university was adopted by the study for data analysis. The results demonstrated that R² value is 0.794. The route between teaching and learning is not statistically significant (t=0.0359), indicating that knowledge is constructed in the mind of the student, with the complete mediator, learning assistance. Therefore, learning assistance has to be measured in the teaching-and-learning relationship. In addition, many colleges/universities in Taiwan use SET as the primary assessment tool to evaluate teacher effectiveness. This ignores learning assistance in the teaching-and-learning relationship. SET should be supplemented with SALG or other measurements to realise integrated evaluation for teaching improvement.   
+
+Key words
+Knowledge construction, knowledge transmission, SET, SALG 
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction   
+Nowadays, the student population is becoming increasingly diverse (Bramer, 2011). In the case of Taiwan, Ministry of Education in 2002 made some important reforms regarding the higher education system. The Multi-route Promotion Programme for College-bound Seniors (see Figure 1) is one of the most important schemes of the reforms (Ministry of Education, 2014). According to the scheme, admission to colleges/universities can be divided into three paths: recommendation, application and examination. For students who select recommendation or application, they are required to take the General Scholastic Ability Test, which assesses students’ general competence in Chinese, English, mathematics and the natural and social sciences, and the Practical Test, which evaluates students’ performances in the specialised subject areas they choose. Students then apply to colleges/universities of choice themselves. Examination represents another choice for students who have failed to have admission to the institution of their choice through above-mentioned methods. In this route, students take the Advanced Subjects Test, depending on the individual requirements of colleges/universities chosen. Students then assigned to colleges/universities based on their preference and performance of the examination (Executive Yuan, 2014). This scheme not only indicates that admission to higher education in Taiwan is multivariate but also reveals that the student population at colleges/universities is heterogeneous. According to Cheng at al. (2012), different manners of admission to higher education cater for different groups of students with different characteristics. The way of application is able to recruit students who intend to develop similar profession as planned by the department of the university chosen. Examination is likely to reflect learning attitudes. Such the manner of admission is suitable students who have a more positive learning attitude. Recommendation focuses on the student group with a talent in certain areas. Given the diverse student population, one teaching method is not possible to meet the learning preferences of different groups of students. 
+
+Considering the diverse student population in Taiwan, different cohorts of students have rather different learner needs and approaches to learning (Muñoz et al., 2013). Thus, the teacher is required to differentiate instruction and provide ‘responsive teaching’ (Bramer, 2011:40) in order to facilitate students to achieve good learning. Traditionally, teaching is a unidirectional process, imparting knowledge to the head of the student. Therefore, there is not much interaction between the teacher and the student as the former’s job is to give lectures while the latter’s job is to sit quietly and digest information. Such the learning model, which is called knowledge transmission, might not cause major problems if the student population is homogenous (Wu and Chiu, 2011). The other learning model which is supported by more and more education theorists and researchers nowadays is called knowledge construction (Ellerman et al., 2001; Reder, 2007; Rogoff, 1993, 2001; Von Glasersfeld, 1995; Zohar, 2004). In this model, the teacher’s job is much more than being a knowledge presenter as in the knowledge transmission model; his or her role is multidimensional. This means that he or she plays different roles depending on the learning needs of the student in order to establish and enforce learning (Mascolo, 2009). The interaction between the teacher and the student is a dynamic and two-way process.  
+
+The aim of this study is twofold: (1) to integrate the arguments of two different learning approaches, knowledge transmission and knowledge construction, developing an integrated evaluation model of teaching-and-learning and (2) to facilitate the institutions of higher education to understand the teaching and learning pattern, improving and enhancing student learning. The reason for setting up this aim is derived from a phenomenon that at all levels of education a great effort has been placed on the improvement of student learning. At the X University, one of the ultimate goals is to provide good teaching in the hope that such the effort could improve and enhance student learning. Therefore, there is a need to grasp a firm understanding of the teaching-and-learning mechanism. A quantitative approach is utilised to fulfil the aim. This is centred on Taiwanese university students studying in the various departments at the X University. Two assessment tools, SET (Student Evaluation of Teaching) and Student Assessment of Learning Gains (SALG), are used to examine the integrated model. 
+
+Knowledge construction versus knowledge transmission 
+Martin et al. (2000:409) have indicated that there is a clear distinction of how college/university teachers approach their teaching, ‘knowledge as constructed’ or ‘knowledge as given’. In pedagogy, these two approaches represent two rather different learning models, and the role of the teacher is quite different in these two models. Knowledge construction originates from the constructivist developmental theory (Piaget, 1973, 1985). Constructivism believes that individuals construct and build up their own understanding of how this world works. Reality for them is socially constructed by actors who interact with the world. For Piaget, the process of knowing the world is through basing new knowledge learned in accordance with people’s past experience or with relevant information stored in memories (existing knowledge). In this sense, learning is not simply the process in which learners obtain new knowledge by absorbing information transmitted to them. Instead, learners themselves construct knowledge because understanding takes place on the basis of learners’ pre-existing knowledge (Zohar, 2004), as Von Glasersfeld (1995:22) said ‘knowledge is not passively received either through the senses or by way of communication. Knowledge is actively built up by the cognising subject’. The notion of knowledge construction in fact fundamentally changes how educators approach their teaching. For those believing that learning is a matter of constructing knowledge, teaching is a transaction in which knowledge is meaningfully and collaboratively constructed between the teacher and the student. Put more directly, the process of obtaining knowledge is not simply the process in which the teacher is good at instructing and the student is good at listening and comprehending, and by such the process, the former’s knowledge can be and will be transmitted to the latter. Rather, the teacher and the student are unavoidably active since both sides are involved in the work of meaning-making and knowledge-constructing. In this sense, students are not like an empty vessel waiting to be poured knowledge by an external agent (e.g. textbooks, teachers, etc.). Rather, they build up their own theories and understanding of how this world operates based on their pre-existing knowledge or experience (Von Glasersfeld, 1996). Ellerman et al. (2001:171) note that knowledge construction represents active learning in which the teacher’s role is much more than simply transmitting knowledge. They are responsible for ‘fostering, enabling and catalysing learning in learners’, and cerate supportive learning experience in which learners are encouraged to actively discover and build up knowledge. 
+
+If knowledge is built up by rather than transmitted to learners as assumed in this learning model, an important issue thus needs to be born in mind is the role of the teacher. What should teachers do in order to facilitate the process of knowledge construction? Reder (2007) has noted that the role of the teacher is even more demanding in this active and empowering learning as Mascolo (2009) said that promoting active engagement of learners in the process of knowledge construction is not possible to achieve without the teacher who plays a critical role in organising the learning process. In other words, active learning does not imply that learners have to construct skills and knowledge by themselves. Teachers must provide proper learning assistance during the process of knowledge construction with learners. This could be further illustrated by the notion of the Zone of Proximal Development (ZPD) proposed by Vygotsky (Gass and Selinker, 2008; Lightbown and Spada, 2006; Mitchell and Myles, 2004). ZPD is the domain of knowledge or skills which is not yet functioned by the learner on his or her own. However, with the support or assistance of a capable other or others, the learner can produce the desired outcome. This supportive process is called scaffolding (Wood et al., 1976). In other words, learning can be seen as a social activity, taking place through social interaction. An unskilled learner learns new things by carrying out or engaging in tasks under the support and guidance of more skilled people. Later, the learner himself or herself comes to develop the ability and knowledge to complete the task (Ellis, 2008). Collaborative activities, such as pair work or group work, are therefore often designed for learners to help others and to learn from others (Wells, 1999). In this study, learning assistance refers to supports a teacher provides in various learning activities and in different learning stages in order to lead to active learning. Depending on learner needs, the teacher plays a multidimensional role. Gurney’s (2007) five key elements of being an effective teacher might make this point clear. An effective teacher is required (1) to have knowledge and enthusiasm—such the feature is important to present knowledge and to create a supportive learning environment, (2) to organise classroom activities—a good teacher should be able to effectively arrange classroom activities, the nature of which is to encourage learning and thinking, (3) to give assessment—a teacher needs to carry out assessment and help his or her learners see the value of the assessment, that is, the part of the learning rather than competition, (4) to provide feedback—feedback is an instrumental tool to be used by a good teacher in order to enhance learning and (5) to have interaction with learners—particular attention of a teacher needs to pay to the interaction with his or her learners because this is how knowledge is built up. Reder (2007) emphasises that there has been a fundamental shift away from seeing teaching as a passive knowledge transmission to accepting knowledge as being constructed. In such the shift, it is believed that the learner is at the centrality of learning. In this sense, the teacher’s focus is not placed on knowledge but the learner.
+
+A rather different learning model is knowledge transmission. The proponents of knowledge transmission are inclined to accept the notion of teacher-centred in which the teacher has sound subject knowledge and his or her main job is to pour knowledge into the head of the student. This concept is in fact consistent with the notion of what a good teacher should do in the Chinese educational perception (Zhang and Watkins, 2007), which believes that a good teacher imparts knowledge and improves the academic performance. The student, in part, plays a relatively passive role whose main job is to sit quietly in the class, digest the information, and absorb knowledge. In the transmission theory of teaching knowledge is believed to be true and certain. A way to enable the truth and certainties to be accumulated in one’s mind is through ‘teach’ (Swann, 1998). Here, teach means the process of imparting information to the learner’s head. In this sense, ‘to teach is to give (e.g. give a lecture); to learn is to take (e.g. take notes; acquire knowledge)’ (Mascolo, 2009:6). A good teacher is thus regarded as one who obtains mastery of knowledge. Therefore, if a student has difficulties understanding his or her teacher’s instruction, one of the major reasons for this can be attributed to his or her learning deficiencies or to the teacher’s failure in clearly and logically delivering the instruction. Improving learning and teaching, in this sense, equals to improving the test scores of students. Such the traditional belief, according to Kellaghan and Greaney (2001), has been criticised as it overly emphasised the teacher rather than the student. Similarly, Rogoff (2001) indicates that the notion of knowledge transmission is to see educating students as merely producing products in a factory, in which the teacher is responsible for packaging knowledge and the student is forced to be filled with knowledge. Swann (1998) emphasises that the notion of knowledge transmission somehow remains questionable and flawed in that there is no convincing theory underpinning it. She emphasises that human being is different from an inanimate object because human ‘grows through curiosity, play, learning from mistakes, making connections and surprise’ (Zohar, 1997: II).  
+
+Evaluation of teaching and learning effectiveness  
+In higher education, colleges/universities rely heavily on student responses to evaluate teacher effectiveness (Ferguson, 2012), as Jackson (2006) has noted whether knowledge transmission or knowledge construction is good or bad is always judged by students. The reason for this is that students are now seen as consumers and customers in the educational market, and their opinions on teaching receive much more attention than ever before. SET and SALG are two common assessment tools adopted by colleges/universities to evaluate teacher effectiveness (Wu and Chiu, 2011). SET, according to Zabaleta (2007), is widely used in institutions of higher education throughout the world. It is able to serve both formative purposes (e.g. providing instrumental feedback for teaching improvement) and summative purposes (e.g. making administrative decisions) (Loveland, 2007). According to Pike (1998) and Wu and Chiu (2011), SET has been welcomed and used as a primary indicator of teacher effectiveness among colleges/universities. In promotion or annual reviews, the scores of SET account for a significant part in the process of decision-making. The reason for this might be attributed to the belief that an effective teacher, to a significant degree, exerts a positive influence on student learning and leads to student success in academic performance (Darling-Hammond and Youngs, 2002, Stronge and Hindman, 2003; Stronge and Tucker, 2000). Stronge et al. (2007) indicate that in recent years at all levels of education a great interest lies in how to improve student learning, and having good teachers is believed to be the most important factor to achieve this goal. As Wright et al. (1997:63) said ‘…more can be done to improve education by improving the effectiveness of teachers than by any other single factor’. Thus, it might be easy for administrators to assume that as long as teachers have high scores of SET, good learning outcomes can be expected. 
+
+SALG is an on-line assessment tool developed by Seymour (1997, 2000) to determine the state of student learning in a specific area within the course. Students are asked a series of questions related to their learning in terms of (1) content knowledge, (2) skill development, (3) learning attitudes and (4) learning integration. In other words, it sees learning from a wider perspective rather than focusing only on the subject-based outcomes. This in fact corresponds to the arguments of Allan (1996) and Nichols (1991) that learning outcomes in higher education should be examined from more than one dimension. SALG not only stresses the end-products of the course (i.e. learning outcomes), but also devotes particular attention to the learning route, that is, how to start from the ‘lacks’ (i.e. knowledge or skills that the learner lacks) to the ‘necessities’ (knowledge or skills the learner needs to learn) (Hutchinson and Waters, 1987:55-56). What the learning route emphasises is that the process that the learner goes through in order to gain knowledge. The teacher plays a critical role in assisting learners during such the process in that it is unlikely that learners can learn something beyond their levels mostly on their own. For this, SALG asks questions related to (1) class overall, (2) class activities, (3) assessments, (4) class resources, (5) information and (6) assistance to develop learner autonomy. This characteristic corresponds to the knowledge construction model introduced above, that is, knowledge is built up through various class activities and learning assistance provided. Unlike SET focusing on the measure of teacher effectiveness, SALG emphasises how much the student has learned. Originally developed for science and math students at the University of Wisconsin to effectively look back over their own learning, SALG now has been widely used in various subject fields. For example, Yadav et al. (2011) used SALG to examine students’ perspectives on problem-based learning of an electrical engineering course. Vogt et al. (2005) described the process of using SALG to evaluate the learning outcomes of an advanced business course and concluded that SALG is able to effectively evaluate student learning and to realise accountability standards for academic purposes. Douglass et al. (2012) have noted that self-reported gains survey, if properly designed, is able to reflect the learning outcomes of students in different majors at a large university composed of various departments. 
+
+Theoretical framework of the study  
+Good learning, according to Whetten (2007), is fostered by good teaching. Therefore, it is necessary to explore the mechanism between teaching and learning. The integrated evaluation model (see Figure 2) developed in this study includes three conceptual blocks: (1) teaching, (2) learning and (3) learning assistance, and serves as guideline to explore teaching-and-learning mechanism—can teaching automatically translate into learning (Route A)? Or as believed in Route B, learning assistance is necessary for teaching to lead to learning as it is the main media catalysing learning. To be more specific, there are three different possible combinations of teaching and learning resulting from this evaluation model. First, the Route B does not exist while the relationship between teaching and learning, as indicated in Route A, is represented as the single-headed arrow pointing teaching to learning. This means that teaching can turn into learning. The second possibility is that Route A does not exist. In this case, learning assistance plays the role of being a complete mediator, which is prerequisite for teaching to lead to learning. The third is that both Route A and B exist. In this case, learning assistance is the partial mediator. This integrated model is in fact built upon the principles of the two rather different learning models introduced above, knowledge construction and knowledge transmission. Route A represents the path of knowledge transmission. Mascolo (2009:6) used the term ‘conduit’ to describe such the unidirectional process. Thus, the arrow in this route is one-way. This means that teaching can automatically translate into learning. In other words, if one is teaching, his or her student is learning. Route B stands for the path of knowledge construction. In this route, learning assistance provided by the teacher in class activities and in different stages of learning is the main media catalysing learning. It is assumed to exert a positive impact on student learning (Hancock et al., 2003; Mascolo, 2009). 
+
+The instrument to evaluate the aspect of teaching is SET (see Appendix 1) while the instrument to measure the aspects of learning and learning assistance is SALG (see Appendix 2). The reasons for adopting SET to evaluate teaching is that, as mentioned above, it is widely used to evaluate teacher effectiveness in higher education institutions throughout the world. More importantly, at the X University, SET has been implemented for years. As shown in SET, teaching is more like a unidirectional process in which the teacher’s job is to pure knowledge into the head of the student; therefore, the student is asked to evaluate whether the teacher has a serious attitude towards teaching, whether the teacher arrange the learning content based on the course outline, whether the teacher is able to effectively deliver the course and so on. On the other hand, the student’s role in SET is quite passive as nearly all the questions are designed to evaluate teaching. Such the characteristics in fact correspond to those in the knowledge transmission model. SALG, on the hand, was chosen to evaluate two conceptual blocks in the model: learning and learning assistance. For the block of learning, the student is asked a series of questions related to learning in terms of content knowledge, skill development, learning attitudes and learning integration. For the block of learning assistance, SAGL asks the student questions related to the guided process that he or she goes through to acquire knowledge because in the model of knowledge construction, the learner needs the assistance of a capable other or others to produce desired learning outcomes. The guided process includes the questions in six areas: class overall, class activities, assessments, class resources, information and assistance to develop learner autonomy.
+
+Research design 
+A quantitative survey research is utilised to provide insights about teaching and learning. This is centred on Taiwanese university students from various departments at the X University. 108 courses were randomly selected from the school course list for data generation. The instrument used was a structured written questionnaire modified from SALG developed by Seymore (1997, 2000) and SET developed by the X University. The modified questionnaire was distributed to these classes for data analysis. The collected data for fulfilling the aim of the study is indeed classified as a kind of survey data. Concerning the practicability and feasibility, the current study adopted the group administration of questionnaires for data collection. The period for data collection was over three months, from November 2012 to February 2013 (after the mid-term examination) at the X University. The consent form clearly explained the purpose of the study and the manner of data collection. Participants were orally informed again in accessible language and were assured that their participation was voluntary. The confidentiality and anonymity of the participants were protected. The entire process of data collection was about 20 minutes in each class with the well designed instruments and well prepared instructions.   
+
+Instrument for data collection   
+The modified questionnaire of SALG developed by Seymore (1997, 2000) along with SET currently applied at the X University is adopted by the current study for data collection and data analysis, as Dörnyei (2010) suggested that previously developed questionnaires have underwent extensive piloting and re-piloting, and most of the problematic items have been rooted out. SALG is intended to understand two aspects in the model invented (see Figure 2): learning and learning assistance, while SET is designed to measure the aspect of teaching. The adoption of the modified questionnaire combining SALG and SET is based on the aim of this study associated with a review of previous studies. Both SALG and SET have been used in different contexts for various disciplines over the past decades. The research results have provided considerable and revealing insights. Such the insights are the matrix upon which a variety of the understandings of teaching and learning can be built, and the integrated teaching and learning model in the current study can be developed. In SALG, 22 items measure the learning factor and 26 items measure the learning assistance factor. For the factor of learning, four constructs can be identified: (A) content knowledge, (B) skill development, (C) learning attitudes and (D) learning integration, and each construct has several corresponding question items. The learning assistance has six constructs: (E) class overall, (F) class activities, (G) assessments, (H) class resources, (I) information and (J) assistance to develop learner autonomy. Similarly, each construct also has several corresponding question items (see Table 1 for the summary of the content of SALG). There are 48 question items in total in SALG. For each question item, students are required to select statements of agreement or disagreement reflecting their learning and learning assistance. Each response of SALG was predetermined by the use of five-point Likert scale. The original version of SALG is written in English; therefore, a great effort was made to translate the English version to the Chinese one for reading convenience in view of terminologies and concepts. Examples and explanations were supplied in order to make those terminologies and concepts easier to be comprehended and understood. SET, which has been used as a primary indicator for teacher effectiveness in Taiwan, includes three constructs: (K) teaching methods, (L) teaching attitudes and (M) teacher interaction with the student. There are 10 question items in total in SET. Each construct also has several corresponding question items (see Table 1 for the summary of the content of SET). Figure 3 shows the path model of relationship among the three main blocks of the study: teaching, learning and learning assistance. This figure is actually based on the theoretical framework (Figure 2) underpinning this study. However, Figure 3 shows more details about what these blocks are composed of and how they can be measured. In addition, the figure also shows that the model is a hierarchical construct model, which includes two orders: the first and the second order latent variables. The theoretical and empirical contributions of hierarchical construct models have been discussed and approved by several researchers and theorists (see Hair et al., 2011; Jarvis et al., 2003; Petter et al., 2007). In this study, the first-order latent variables (constructs A to M) were constructed and were related to their respective block of manifest variables (i.e. question items). The second-order latent variables (teaching, learning assistance, and learning) were then built up by relating them to the blocks of the first-order latent variables. Put more directly, the second-order concepts comprise first-order constructs. Therefore, teaching involves teaching methods, teaching attitudes, and teacher interaction with the student. Learning is composed of content knowledge, skill development, learning attitudes, and learning integration. Learning assistance encompasses class overall, class activities, assessments, class resources, information, and assistance to develop learner autonomy. Based on the aim of the study, two hypotheses (see Figure 3) were developed, 
+
+Hypothesis 1: Teaching can turn into learning.
+Hypothesis 2: Teaching is catalysed by learning assistance in order to lead to learning.
+The current research included one pilot study with two university instructors who are based at the Foreign Language Department and Business Management Department of the X University before the main research instrument (i.e. questionnaire) was applied. The two main things piloted were the structure and the question items. The four purposes of conducting pilot work in this research were (1) to examine how well the structure works in fulfilling the aim of this study, (2) to identify and iron out leading and confusing questions and offensive language, (3) to evaluate the quality of equivalence on the original and the translated items and (4) to ensure the translation is simple and easy to be understood. Amendments were made based on the comments of the instructors.     
+
+The background information of the X University 
+In this study, the X University was chosen as being the research object. It is a large-scale national university located in central Taiwan, with about 8000 students. One of the goals of the university is to provide quality teaching in order to equip learners with the subject knowledge required by their workplace or subject discipline. There are six main colleges related to academic learning and teaching, including College of Engineering and Science, College of Electrical Engineering and Computer Science, College of Management, College of Hakka Studies, College of Design, and College of Humanities and Social Sciences. There are more than 25 departments covered by the six colleges. 
+
+Teaching Development Centre at the university is responsible for the evaluation of teacher effectiveness each semester. The policy of evaluating teacher effectiveness dates back to 1996, the purpose of which is for the teacher and the university to understand the student’s responses to teaching and to make formative and summative decisions. SET has been used for fulfilling such the purposes since then. However, the impetus to prompt the university to make a change of such the policy is due to the concern of diverse student population and the degree of discrimination. For the former, SET focuses on the aspect of teaching in terms of teaching attitudes, teaching methods and teacher interaction with the student. As shown in SET, teaching is more like a unidirectional process in which the teacher’s job is to transmit knowledge; however, the student population at the university is getting increasingly diverse due to the scheme of The Multi-route Promotion Programme for College-bound Seniors introduced above and the increasing number of foreign students from various countries in Asia, such as Malaysia, Mainland China, Hong Kong, Mongolia, and Vietnam. This means that the traditional knowledge transmission model might not be able to fulfil the learning needs and learning preferences of the entire cohort of students. For the latter, the degree of discrimination, the average score of SET reaches up to 92 (0-100; 0 represents the lowest while 100 indicate the highest), which is not only questionable but also provides limited information for the teacher to further improve their teaching. Therefore, before making any important reforms regarding the evaluation system, there is a need to grasp a firm understanding of the teaching-and-learning mechanism. 
+
+The X University itself represents a typical university in Taiwan for three reasons. First, because of scheme of The Multi-route Promotion Programme for College-bound Seniors, nearly all the colleges/universities in Taiwan has the diverse student population. Secondly, due to the increasing shortage of student numbers in Taiwan, many colleges/universities actively recruit international students. Third, based on Chang’s (2005) research findings, up to 80% of colleges/universities in Taiwan (based on 36 national and 40 private colleges/universities) implement the SET system to evaluate teacher effectiveness. Thus, the selected university represents both a typical case in Taiwan. It is worthy of investigating, and the results from research on this university might have insights for teachers working in similar contexts. 
+
+Research sample  
+The population sample consisted of randomly selected 108 courses. The cases with incomplete data were deleted, and there were 2313 students involved in total. Those students included fresher, sophomore, junior and senior from various departments with different backgrounds (engineering, business, management, Chinese literature, etc.), and enrolled full-time on courses at the X University. Their ages ranged from 19-22. Because of the anonymous nature of the evaluation, no details of demographic information are provided. The participant population was required to rate the teaching, learning assistance, and learning aspects of the courses.    
+
+Data analysis   
+The hierarchical model of integrated teaching-and-learning was estimated by PLS (partial least square) path modelling, as Wetzels et al. (2009) and Petter et al. (2007) indicate that PLS is suitable to be used in measuring hierarchical construct models though the real application nowadays is still limited. In order to reduce influence of within-group variance on the measurement model, the mean score of each course would be calculated before estimated by PLS path modelling. PLS path modelling is a modelling approach which intents to maximise the explained variance of the endogenous latent constructs. It is particularly suitable for testing a confirmatory theory, and such the characteristic is particularly suitable to fulfil the aim of this study. Figure 3 shows a PLS path model example. Estimates of 58 question items (48 question items in SAGL and 10 question items in SET) are called indicator variables, which are used to compute the proxy scores for 13 latent constructs A to M. There are two kinds of measurement models: reflective and formative. In the former, ‘reflective indicators are seen as functions of the latent construct, and changes in the latent construct are reflected in changes in the indicator (manifest) variables’ (Hair et al., 2011:141). In the latter, formative indicators are ‘assumed to cause a latent construct, and changes in the indicators determine changes in the value of the latent construct’. In this study, the PLS path model of integrated teaching-and-learning is a reflective measurement model as the 13 constructs in both SALG and SET cannot be directly gauged; however, they indeed can be indirectly estimated via indicator (observed) variables (i.e. 58 corresponding question items in the questionnaire). Put more directly, observed variables are the reflections of 13 constructs. The proxy scores of these constructs were computed based on the scores of the observed variables. The PLS path model then can be constructed via calculating the interrelationship among indicator variables and latent constructs. According to Edwards (2001), the measurements of validity and reliability in a hierarchical construct model are particularly important, as Wetzels et al. (2009:179) note that ‘as the heterogeneity of the dimensions of the multidimensional construct increase, the internal consistency of the summed dimension scores will eventually be reduced’. Hair et al. (2011:145) propose certain criteria for model evaluation (see Table 2). Basically, model evaluation involves two levels: measurement models (the outer circle in Figure 3) evaluation and structural model (the inner circle in Figure 3) evaluation.  
+
+Results and discussions
+Table 3 demonstrates the results of the reflective measurement models. For the first-order constructs, the loading of each manifest variable is higher than 0.7. This reveals that the question items in the combined SALG and SET questionnaire are good indicators of teaching, learning and learning assistance. All the loadings reach the significant level. The composite reliability (CR) exceeds 0.7, and the AVE of all measures is higher than the cut-off value of 0.5. For the second-order constructs, the CR exceeds 0.7, and the AVE is higher than 0.5. Table 4 indicates that the square root of the AVE is higher than the intercorrelations of the construct with the other constructs in the model. Such the outcome provides sufficient evidence that the model itself shows both reliability and validity. As to the structural model, R² value is 0.794 (see Figure 4). This provides evidence that the model performs well, substantially explaining the endogenous latent variables’ variance. The path coefficients were assessed via bootstraping. As shown in Table 5, the coefficient for the route between teaching and learning is 0.005, with t=0.0359, for the route between teaching and learning assistance the coefficient 0.7717, with t=18.6795, for the route between learning assistance and learning the coefficient 0.8849, with t=13.2732. The path coefficient of the first route (i.e. teaching→learning) does not reach the significant level (t<1.65). Therefore, this route is then deleted from the integrated model. This finding corresponds to the second teaching and learning combination resulting from the integrated model created, that is, knowledge is constructed, and learning assistance is prerequisite and plays the role of being the complete mediator catalysing teaching to lead to learning.    
+ 
+The results of this study raise issues regarding knowledge acquisition and the utility of SET ratings. For the first issue, knowledge acquisition, the research findings reveal that Route A is not statistically significant. The research participants learned new knowledge via Route B in Figure 2. This suggests that knowledge is constructed in the mind of the student, with the different forms of social scaffolding that more capable others (e.g. teachers) use to support learning development. This finding relates to the notion of guided participation of Rogoff (1993) and Rogoff et al. (2001). Learning occurs in the context of socio-cultural activities. Nearly all forms of learning and teaching activities (e.g. lecture, test, group discussion, etc.) are a kind of socio-cultural activities in which the student is learning through interpersonal engagements and arrangements. In other words, the student cannot learn in a vacuum or without the support of a skilled person or persons since learning is a kind of activities in which individuals exchanging meanings and making understanding with others. The student develops desired skills or learns new knowledge via participating in the socio-cultural process. The process is interactive. This means that the student cannot simply take knowledge from an external agent (e.g. the teacher, the lecture or books). What he or she must do is to actively engage with the agent in order to comprehend the meanings or learn the skills. This is also what Mascolo (2009:12) called the ‘dynamic teacher-object-student relation’. Two vital elements of guided participation are communication and coordination because when the student is trying to make sense of new knowledge or skills, communication and coordination with capable others are able to stretch their understanding. This is not a unidirectional process. In fact, both sides (the teacher and the student) are active and are participating in shared endeavours as they are attempting to reach a common ground of understanding of activities or tasks at hand. Dewey’s words (1916:5) make this clearer, people ‘live in a community in virtue of the things which they have in common; and communication is the way in which they come to possess things in common’.
+
+The traditional knowledge transmission approach (e.g. lecture) is popular in Taiwan. The cause of such the phenomenon might be due to two reasons. Firstly, giving lectures, compared to designing learning activities in which learners can actively discover and build up knowledge and understanding is relatively uncomplicated. However, ‘illusory understanding’ (Shulman, 2000:131), something people assume that they have a good understanding about but in fact they do not, is one of the potential and possible dangers brought by lectures. Shulman has indicated the prevalence of this phenomenon in education and the need for teachers to fight against this problem. One of the ways to avoid illusory understanding, according to Shulman, is to interact with students in created conditions—to discuss and listen to what and how they understand (or do not understand), and then to decide to what learning assistances should be offered in order to deal with misconceptions (or to enhance understanding). Teaching beings with understanding. Only when the teacher understands his or her students well could he or she know what to teach and how to help. Therefore, the teacher needs to interact, discuss and work with the student to understand what is already inside the learner’s head and what is not yet acquired. When the teacher is involved in the work of interaction and conversation with his or her students, he or she in fact stops playing the dominating role as the responses and the needs of students are difficult to predict. As a result, the complexity and unpredictability of teaching eventually increase. However, Meier (1995) succinctly expressed the importance of interaction and conversation between the teacher and the student—teaching is a science of listening; learning is a science of talking. As teacher ourselves, we all hope that our students can learn better and can articulate the thing they learn from the course with greater precision. Secondly, the belief to move a body of practical or theoretical knowledge from the head of the lecturer or academician and then to put it in the student’s head, for most teachers in Taiwan, is considered to be what a teacher ought to do for the top priority. Such the belief implicitly implies that lecturing (or teaching) can eventually turn into learning. However, the dissemination of knowledge might be able to fulfill the certain goals of the course but surly not all of them, as Allan (1996) contends that learning outcomes in higher education include much more than mastery of content knowledge. Different forms of guided learning activities have potential to serve other goals of the course, which should not be ignored for any reasons. Therefore, what a teacher can do in the socio-cultural process in order to develop ZPD of the student is to provide various forms of social scaffolding (see Mascolo, 2005) in which the teacher (or the capable other) could support learning development and to promote a deep approach to learning (Jarvis and Woodrow, 2001).  
+
+For the second issue, the utility of SET ratings, SET is widely used for evaluating teacher effectiveness in Taiwan (Chang, 2005). The debate on whether the teacher makes a difference in student learning has been going on for decades. For colleges/universities in Taiwan, they are inclined to accept the plausible assumption that the teacher plays a crucial role in determining the success of student learning and that teacher performance is closely related to student performance. However, the finding of the current study reveals that there is no direct and causal relationship between teaching and learning. In other words, this is not how human beings learn new thing—to be imparted information. This finding is in fact related to the first issue discussed above. Therefore, to sorely use SET ratings to evaluate how much the student has learned from the course and how great the student’s academic performance would be is problematic. SET focuses on the aspect of teaching. Students express their opinions of how they feel about a teacher’s teaching through SET. It in fact provides limited information of learning. In other words, learning outcomes cannot be measured simply by viewing the scores of SET. Several researchers and theorists have ever questioned the utility and the validity of SET. For example, Wu and Chiu (2011) point out that merely using SET to evaluate student learning is not objective since it might be influenced by other factors. Blackmore (2009) remarks that SET has been largely used as an indicator of internal quality assurance due to the demands of consumer satisfaction, making the measure of teaching quality as merely being the reflection of how much students’ expectations have been met rather than how much students have learned from the course. Otani et al. (2012) note that there are many uncontrollable variables (e.g. class size, prior interests, expected grades, etc.) which are not considered in routine SET. 
+ 
+Pedagogical implications
+The current study explored the relationship between teaching and learning. Some pedagogical implications for teachers and administrators are carried. First, the integrated evaluation model developed in this study is able to facilitate the teacher to understand how his or her students acquire knowledge. As mentioned in the theoretical framework, there could be three possible teaching and learning combinations resulting from the integrated model developed. In this study, knowledge construction is found to be the learning model in the case studied in which learning assistance plays the role of being the complete mediator catalysing teaching to lead to learning. Therefore, it has to be measured in the teaching-and-learning relationship. Only using SET to measure teacher effectiveness in fact ignores learning assistance, which is not able to reflect the teaching and learning relationship. If the teacher devotes much effort and invest time in improving his or her teaching in the hope that such the effort could lead to good learning, learning assistance must be born in mind. Therefore, the teacher needs to recognise the learning pattern of his or her students. Teaching is a complicated science; it involves multiple domains and the role of the teacher is multidimensional. It is important for the teacher to have the cognition of the complicated nature of teaching and learning. Besides, the teacher should be well-prepared to respond student needs and be flexible enough to adjust his or her teaching approaches, offering various learning assistance and bridging the gap between teaching and learning.  
+
+Secondly, many colleges/universities in Taiwan welcome and use SET as a primary assessment tool to evaluate teacher effectiveness, believing that the high scores of SET are equal to success in student learning (Chang, 2005; Wu and Chiu, 2011). However, how much the student has learned from one particular course remains unknown simply through viewing the scores of SET as the research results demonstrate that there is no direct relationship between teaching and learning. The phenomenon in Taiwan is that most teachers are looking for the higher scores of SET to secure their teaching positions or to be promoted. In fact, as revealed by the current study, multiple indicators gathered in different occasions and in different stages to evaluate student learning are necessary. SET should not be the only source in the evaluation system. It should be supplemented with SALG or other valid and reliable measurements to realise integrated evaluation. In this sense, the results will not just fall on improving the teacher’s teaching performance but on the understanding of how much students have learned so that the teacher can make changes, facilitating students to learn better. 
+
+References
+Allan J (1996) Learning outcomes in higher education. Studies in Higher Education 21(1): 93－108.  
+Blackmore J (2009) Academic pedagogies, quality logics and performative universities: Evaluating teaching and what students want. Studies in Higher Education 34: 857－872. 
+Bramer JV (2011) Teacher talk and assistance and self-regulated learning within the context of RtI and explicit and systematic teaching. The NERA Journal 46(2): 40－44. 
+Chang TS (2005) College and university student rating system in Taiwan. Journal of National Taiwan Normal University 50(2): 203－225. 
+Cheng HF, Liao CT and Cheng YH (2012) The adaptation to the Multi-route Promotion Programme for College-bound Seniors: A case study of college of design in Chung-Yung University. In: 2012 Global Education Conference, Taipei, Taiwan, 12－17 November 2012, pp. ? –?. Taipei: National Academy for Educational Research.  
+Darling-Hammond L and Youngs P (2002) Defi
+ing “highly qualified teachers”: What does “scientifically-based research” actually tell us? Educational Researcher 31(9): 13－25.
+Dewey J (1916) Democracy and Education: An Introduction to the Philosophy of Education. New York: Macmillan.
+Dörnyei Z (2010) Questionnaires in Second Language Research: Construction, Administration, and Processing. London: Routledge
+Douglass JA, Thomson G and Zhao CM (2012) The learning outcomes race: The value of self-reported gains in large research universities. High Education  64: 317－335.
+Edwards JR (2001) Multidimensional constructs in organisational behaviour research: An integrative analytical framework. Organisational Research Methods 4(2): 144－192. 
+Ellerman D, Denning S and Hanna N (2001) Active learning and development assistance. Journal of Knowledge Management (5)2: 171－179. 
+Ellis R (2008) The Study of Second Language Acquisition. Oxford: Oxford University Press.
+Executive Yuan (2014) Yearbook 2014: Education System. Available at: http://www.ey.gov.tw/en/cp.aspx?n=00B16C6FEB500D8B (Accessed 14th Mar 2015). 
+Ferguson RF (2012) Can student surveys measure teaching quality? Phi Delta Kappa 94(3): 24－28.
+Gass SM and Selinker L (2008) Second Language Acquisition: An Introductory Course. London: Routledge. 
+Gurney P (2007) Five factors for effective teaching. New Zealand Journal of Teachers’ Work 4(2): 89－98. 
+Hair JF, Ringle CM and Sarstedt M (2011) PLS-SEM: Indeed a silver bullet. Journal of Marketing Theory and Practice 19(2): 139－151. 
+Hancock DR, Bray M and Nason SA (2003) Influencing university students’ achievement and motivation in a technology course. The Journal of Educational Research 95: 365－372.  
+Hutchinson T and Waters A (1987) English for Specific Purposes. Cambridge: Cambridge University Press.
+Jackson M (2006) “Serving time”: The relationship of good and bad teaching. Quality Assurance in Education 14(4): 385－397.
+Jarvis D, MacKenzie S and Podsakoff P (2003). A critical review of construct indicators and measurement model mis-specification in marketing and consumer research. Journal of Consumer Research 30(3): 199－218. 
+Jarvis J and Woodrow D (2001) Learning Preferences in Relation to Subjects of Study of Students in Higher Education. In: British Educational Research Association Annual Conference, Leeds, UK, 13－15 September 2001, pp. 158－167. London: BSRLM Publications
+Kellaghan T and Greaney V (2001) Using Assessment to Improve the Quality of Education. Paris: UNESCO. 
+Lightbown PM and Spada N (2006) How Languages are Learned. Oxford: Oxford University Press.
+Loveland KA (2007) Student Evaluation of Teaching (SET) in Web-based classes: preliminary findings and a call for further research. The Journal of Educators Online 4(2): 1－18. 
+Martin E, Prosser M and Trigwell K et al (2000) What university teachers teach and how they teach it? Instructional Science 28: 387－412. 
+Mascolo MF (2009) Beyond student-centred and teacher-centred pedagogy: Teaching and learning as guided participation. Pedagogy and the Human Science 1(1): 3－27. 
+Meier D (1995) The Power of Their Ideas: Lessons for America from a Small School in Harlem. Boston: Beacon Press  
+Ministry of Education (2014) The Multi-route Promotion Programme for College-bound Seniors. Available at: http://webcache.googleusercontent.com/search?q=cache:3kUIx2InsFoJ:nsdua.moe.edu.tw/+&cd=1&hl=zh-TW&ct=clnk&gl=tw (Accessed 14 March 2015).
+
+Mitchell R and Myles F (2004) Second Language Learning Theories. London: Hodder Arnold. 
+Muñoz MA, Scoskie JR and French DL (2013) Investigating the “black box” of effective teaching: The relationship between teachers’ perception and student achievement in a large urban district. Educational Assessment, Evaluation and Accountability 25(3): 205－230. 
+Nichols JO (1991) The Departmental Guide and Record Book for Student Outcomes Assessment and Institutional Effectiveness. New York: Agathon Press.   
+Otani K, Kim BJ and Cho J (2012) Student Evaluation of Teaching (SET) in higher education: How to use SET more effectively and efficiently in public affairs education. Journal of Public Affairs education 18(3): 531－544. 
+Petter S, Straub D and Rai A (2007) Specifying formative constructs in information systems research. MIS Quarterly 31(1): 623－656. 
+Piaget J (1973) To Understand is to Invent: The Future of Education. New York: Grossman. 
+Piaget J (1985) Equilibration of Cognitive Structures. Chicago, IL: University of Chicago Press. 
+Pike CK (1998) A validity study of an instrument designed to measure teaching effectiveness. Journal of Social Work Education 34: 261–271. 
+Reder M (2007) Does your college really support teaching and learning? Peer Review 9(4): 9－13. 
+Rogoff B (1993) Children’s guided participation and participatory appropriation in sociocultural activity. In: Wozniak R and Fischer K (eds) Development in Context. Hillsdale, NJ: Erlbaum, pp.121－153.
+Rogoff B, Turkanis CG and Bartlett L (2001) Learning Together: Children and Adult in a School Community. New York: Oxford. 
+Seymour E (1997) Student Assessment of Learning Gains. Wisconsin Centre for Educational Research: University of Wisconsin-Madison, Madison, WI.
+Seymour E, Wiese DG and Hunter AB et al (2000) Creating a Better Mousetrap: On-line Student Assessment of Their Learning Gains. Available at:  http://www.salgsite.org/docs/SALG-Paper PresentationAtACS.pdf (accessed 22 March 2015)
+Shulman LS (2000) Teacher development: Roles of domain expertise and pedagogical knowledge. Journal of Applied Developmental Psychology 21(1): 129－135. 
+Stronge JH, Ward TJ and Tucker PD et al (2007) What is the relationship between teacher quality and student achievement? An exploratory study. Journal of Personnel Evaluation in Education 20: 165－184.
+Stronge JH and Hindman JL (2003) Hiring the best teachers. Educational Leadership. 60(8): 48－52. 
+Stronge JH and Tucker PD (2000) Teacher Evaluation and Student Achievement. Washington, DC: National Education Association. 
+Swann J (1998) What doesn’t happen in teaching and learning? Oxford Review of Education 24(2): 211－223. 
+Vogt G, Atwong C and Fuller J (2005) Student assessment of learning gains (SALGains). Business Communication Quarterly 68(1): 36－43.
+Von Glasersfeld E (1995) Radical Constructivism: A Way of Knowing and Learning. London and Washington: The Palmer Press.  
+Von Glasersfeld E (1996) Introduction: Aspects of constructivism. In: Fosnot CF (ed) Constructivism: Theory, perspectives, and practice. New York: Teachers College Press, pp. 3－7.
+Wells G (1999) Dialogic Inquiry: Towards a Sociocultural Practice and Theory of Education. Cambridge: Cambridge University Press. 
+Wetzels M, Odekerken-Schröder G and Van Oppen C (2009) Using PLS path modelling for assessing hierarchical construct models: Guidelines and empirical illustration. MIS Quarterly 33(1): 177－195. 
+Whetten DA (2007) Principles of effective course design: What I wish I had known about learning-centred teaching 30 years ago. Journal of Management Education 31(3): 339－357. 
+Wood D, Bruner JS and Ross G (1976) The Role of tutoring in problem solving. Journal of Child Psychology & Psychiatry & Allied Disciplines 17(2): 89–100.
+Wright SP, Horn SP and Sanders WL (1997) Teacher and classroom context effects on student achievement: Implications for teacher evaluation. Journal of Personnel Evaluation in Education 11: 57–67.
+Wu CW and Chiu YS (2011) Investigating the management strategies of teaching excellence by analysing the structural elements of student ratings of instruction. Journal of Logistics and Management 10(2): 41－50.
+Yadav A, Subedi D and Lundeberg MA (2011) Problem-based learning: Influence on students’ learning in an electrical engineering course. Journal of Engineering Education 100(2): 253－280.
+Zabaleta F (2007) The use and misuse of student evaluation of teaching. Teaching in Higher Education 12: 55－76.
+Zhang Q and Watkins D (2007) Conceptions of a good tertiary EFL teacher in China. TESOL Quarterly 41(4): 781－790. 
+Zohar D (1997) Observations on a cat in a box. Times Educational Supplement, 9 May, II. 
+Zohar A (2004) Higher Order Thinking in Science Classrooms: Students’ Learning and Teachers’ Professional Development. The Netherlands: Kluwer Academic Press.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appendix 1
+Student Evaluation of Teaching (SET) 
+
+                                                      SA   A   NA   D   SD 
+ 
+Teaching methods
+1. Learning content designed accords with the course outline			□	□	□	□	□
+2. Assessments arranged reflect learning outcomes 					□	□	□	□	□    
+3. The instructor meets the teaching schedule planed, effectively using 
+class hours											□	□	□	□	□   
+4. The instructor clearly delivers the course, making the learning content 
+easy to be understood and comprehended						□	□	□	□	□	
+5. This course is helpful to me								□	□	□	□	□  
+
+Teaching attitudes
+1. The instructor is never late to the course						□	□	□	□	□  
+2. The instructor marks the examination papers and assignments			□	□	□	□	□   
+3. The instructor has a serious attitude towards teaching and shows 
+enthusiasm to teaching									□	□	□	□	□  
+
+Interaction with the student  
+1. The instructor answers the questions of students during the class		□	□	□	□	□         
+2. The teacher devotes his or her attention to the learning situation and 
+the response of students									□	□	□	□	□ 
+
+
+Note: SA: strongly agree; A: agree; NA: not applicable; SD: strongly disagree; D: disagree
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Appendix 2
+Student Assessment of Learning Gains (SAGL)
+           
+                                                                  No help   a little help  moderate help  much help  great help  not applicable
+
+Class overall 
+1. The instructional approach taken in this class 						□          □          □          □          □          □
+2. How the class topics, activities, reading and assignments fit together			□          □          □          □          □          □ 
+3. The pace of the class											□          □          □          □          □          □ 
+
+Class activities
+1. Attending lectures											□          □          □          □          □          □ 
+2. Participating in discussions during class							□          □          □          □          □          □
+3. Listening to discussions during class								□          □          □          □          □          □ 
+4. Participating in group work during class							□          □          □          □          □          □
+5. Doing hands-on classroom activities								□          □          □          □          □          □ 
+
+Assessments7
+1. Graded assignments in this class									□          □          □          □          □          □
+2. Writing assignments											□          □          □          □          □          □
+3. Graded group projects										□          □          □          □          □          □
+4. The number and spacing of tests									□          □          □          □          □          □
+5. The fit between class content and tests								□          □          □          □          □          □	
+6. The mental stretch required by tests								□          □          □          □          □          □ 
+7. The way the grading system helped me understand what I needed to work on	□          □          □          □          □          □
+8. The feedback on my work received after tests or assignments				□          □          □          □          □          □
+
+Class resources4
+1. The primary textbook										□          □          □          □          □          □	
+2. Other reading materials										□          □          □          □          □          □
+3. Online materials (other than teacher-provided online notes or presentations)	□          □          □          □          □          □
+4. Online notes or presentations posted by instructor						□          □          □          □          □          □
+5. Visual resources used in class (i.e. PowerPoint, slides, model, demonstrations)	□          □          □          □          □          □
+
+Information
+1. Explanation of how the class activities, reading and assignments related to each 
+other													□          □          □          □          □          □
+2. Explanation given by instructor of how to learn or study the materials		□          □          □          □          □          □
+3. Explanation of why the class focused on the topics presented				□          □          □          □          □          □
+
+Assistance to develop learner autonomy4
+1. Interacting with the instructor during class							□          □          □          □          □          □
+2. Interacting with the instructor during office hours						□          □          □          □          □          □
+3. Working with teaching assistants during class						□          □          □          □          □          □
+4. Working with teaching assistants outside of class						□          □          □          □          □          □
+5. Working with peers during class									□          □          □          □          □          □
+6. Working with peers outside of class								□          □          □          □          □          □
+
+
+                                                                  No gain   a little gain  moderate gain  good gain  great gain  not applicable
+
+Content knowledge
+1. The main concepts explored in this class							□          □          □          □          □          □  
+2. The relationships between main concepts							□          □          □          □          □          □
+3. How ideas from this class related to ideas encountered in other classes within	 
+this subject area											□          □          □          □          □          □
+4. How ideas from this class relate to ideas encountered in classes outside of this 
+subject are												□          □          □          □          □          □			 
+5. How studying this subject area helps you address real world issues			□          □          □          □          □          □ 
+ 
+Skill development7
+1. Finding articles relevant to a particular problem in professional journals or 
+Elsewhere												□          □          □          □          □          □ 
+2. Critically reading articles about issues raised in class					□          □          □          □          □          □
+3. Identifying patterns in data										□          □          □          □          □          □
+4. Recognizing a sound argument and appropriate use of evidence				□          □          □          □          □          □ 
+5. Developing a logical argument									□          □          □          □          □          □ 
+6. Writing documents in discipline-appropriate style and format				□          □          □          □          □          □ 
+7. Working effectively with others									□          □          □          □          □          □ 
+8. Preparing and giving oral presentations								□          □          □          □          □          □
+
+Learning attitudes6
+1. Enthusiasm for the subject										□          □          □          □          □          □
+2. Interest in discussing the subject area with friends or family				□          □          □          □          □          □ 
+3. Interest in taking or planning to take additional classes in this subject			□          □          □          □          □          □
+4. Confidence that you understand the material							□          □          □          □          □          □
+5. Confidence that you can do this subject area							□          □          □          □          □          □ 
+6. Your comfort level in working with complex ideas						□          □          □          □          □          □ 
+7. Willingness to seek help from others (e.g. teacher, peers, teaching assistant) 
+when working on academic problems								□          □          □          □          □          □  
+
+Learning integration
+1. Connecting key class ideas with other knowledge						□          □          □          □          □          □ 
+2. Applying what I learned in this class in other situations					□          □          □          □          □          □
+3. Using systematic reasoning in my approach to problems					□          □          □          □          □          □	 
+4. Using a critical approach to analysing data and arguments in my daily life		□          □          □          □          □          □
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
