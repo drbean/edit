@@ -50,11 +50,11 @@ Working Unit/ Department
 Years of working experience
 Languages spoken
 Pei
-leader nurse
-ER (Emergence Room)/ specific specialisation department
+lead nurse
+ER (Emergency Room)/ specialist center
 9 years
 1. Mandarin-fluent
-2. Haka-fluent
+2. Hakka-fluent
 3. Taiwanese-fluent
 4. English-poor
 Chia
@@ -66,14 +66,14 @@ general surgical ward/ surgical department
 3. English-poor
 Jin
 registered nurse
-infection ward/ medical department
+infection ward/ internal medicine department
 11 years
 
 1. Mandarin-fluent
 2. Taiwanese-fluent
 3. English-poor 
 Yi
-leader nurse
+lead nurse
 colon-rectal surgical ward/ surgical department 
 10 years
 1. Mandarin-fluent 
@@ -81,25 +81,25 @@ colon-rectal surgical ward/ surgical department
 3. English-poor  
 Hua
 associated  head nurse
-infection ward / medical department
+infection ward / internal medicine department
 12 years
 1. Mandarin-fluent 
 2. Taiwanese-fluent
 3. English-poor  
 Cho
 registered nurse
-nephrological ward/ medical department 
+nephrological ward/ internal medicine department 
 3 years
 1. Mandarin-fluent 
 2. Taiwanese-fluent
 3. English-poor  
 Yek
 registered nurse
-ER / specific specialisation department
+ER / specialist center
 10 years
 1. Mandarin-fluent
 2. Taiwanese-fluent
-3. Haka-fair
+3. Hakka-fair
 4. English-fair
 Ling
 associated head nurse
@@ -110,7 +110,7 @@ general surgical ward / surgical department
 3. English-fair
 Chung
 registered nurse
-OR (Operation Room) / specific specialisation department
+OR (Operation Room) / specialist center
 10 years
 1. Mandarin-fluent
 2. Taiwanese-fluent
