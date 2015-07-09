@@ -97,7 +97,7 @@ You can’t use this [medical language] to your patients, no matter they are Tai
 The great majority of the participants’ difficulties in English occur while caring for foreign patients. During the period of observation, I was lucky to have a number of opportunities to observe interactions between nurses and foreign patients, and note down some instances of the nurses’ English difficulties caused by such interactions. The nurses’ difficulties in English can be discussed in terms of four aspects of these interactions: (1) vocabulary limitations, (2) pronunciation problems, (3) unfamiliar accents and (4) passive coping strategies. 
  
 4.2.1 Vocabulary limitations 
-Vocabulary limitations were indicated as a problem by four nurses in the interview. The following examples show them recalling instances in which they could not think of the proper word to express themselves when talking with foreign patients.     
+Vocabulary limitations were indicated as a problem by four nurses in the interviews. The following examples show them recalling instances in which they could not think of the proper word to express themselves when talking with foreign patients.     
 
 I think I know too little vocabulary [in English]. So, whenever I need to say something, I just can’t find the word…For example, I want to say－Don’t carry heavy stuff more than 3 kilograms to my patient. I don’t know the English word for heavy stuff (Participant Yi) 
  
@@ -118,7 +118,7 @@ This example, apart from providing an instance of the nurses’ English vocabula
 What nurses have difficulties with is general English used in oral communication with foreign patients and foreign healthcare aides. This finding is in line with those of other studies of the language difficulties of ESL-speaking nursing students (see Cameron, 1998; Miguel et al., 2006). It has been indicated in these studies that ESL-speaking nursing students have no problem with using technical English. Their main difficulty lies in paraphrasing it in vernacular terms understandable to outsiders of the medical field. In this study, the words “start”, “heavy stuff” and “before meals” in the examples above are included in the 1000 must-learn basic English words that primary school students in Taiwan have to learn (Ministry of Education, 2003). When I told the nurses the English words for “heavy stuff”, “start” and “before meals”, the following response was typical, “It’s so simple. Of course, I’ve learned the words in high school. But I don’t know how to use these general English words in the hospital.”
 
 4.2.2 Pronunciation problems
-Pronunciation problems are identified to be an obstacle to the interaction with foreign patients and foreign doctors. The following examples indicate that the nurses’ English pronunciation is problematic. This problem might not have an immediate and obvious effect since it does not impede mutual understanding among Taiwanese healthcare professionals. See the following example (Table 3) noted in my field notes. 
+Pronunciation problems are identified as an obstacle in the interaction with foreign patients and foreign doctors. The following examples indicate that the nurses’ English pronunciation is problematic. The problem might not be immediately recognised as an obvious one since it does not impede mutual understanding among Taiwanese healthcare professionals. See the following example (Table 3) from my field notes. 
 Table 3 An example of the nurses’ pronunciation problems in English 
 Time/Place
 Event/ Interaction
@@ -129,13 +129,13 @@ Shift reports/
 nurse-nurse
 Nurse A: …“/gɑːrdʒ/” is used on the patient’s right leg. Please change dressings four times a day. Use special surgical tapes for covering over wounds because the patient is “/ˈɑːˈlɑːr.dʒ/” to common surgical tapes. 
 Nurse B: Ok, no problem… 
-(Note: The words /gɑːrdʒ/ and /ˈɑːˈlɑːr.dʒ/ appeared in the conversation for more than one time, but I had no idea what they meant. I really wondered what they were and followed the nurse to check them out. Finally, I realised that /gɑːrdʒ/ meant gauze and that /ˈɑːˈlɑːr.dʒ/ meant allergic).  
+(Note: The words /gɑːrdʒ/ and /ˈɑːˈlɑːr.dʒ/ appeared in the conversation more than once, but I had no idea what they meant. I was really curious what they were and followed the nurse to check them out. Finally, I realised that /gɑːrdʒ/ meant gauze and that /ˈɑːˈlɑːr.dʒ/ meant allergic).  
 
-In fact, the words /gɑːrdʒ/ and /ˈɑːˈlɑːr.dʒ/ have appeared in the shift reports among the nurses in the observation site many times during the period of observation. Although the English pronunciation of these two words is problematic, the nurses seem to get used to this. My interview data also confirm this. A nurse from the surgical department noted that she understood clearly that her pronunciation was problematic. But, she argued, in the hospital, no one actually cared about their pronunciation as long as their pronunciation was the same as others.  
+In fact, the words /gɑːrdʒ/ and /ˈɑːˈlɑːr.dʒ/ appeared in the shift reports of the nurses at the observation site many times during the period of observation. Although the English pronunciation of these two words is problematic, the nurses seemed not to recognise this. My interview data also confirm this. A nurse from the surgical department noted that she understood clearly that her pronunciation was problematic. But, she argued, in the hospital, no one actually cared about their pronunciation as long as their pronunciation was the same as others.  
 
 In our hospital, there are few foreign doctors from Indonesia or Malaysia. One of these doctors has ever mentioned to me that many Taiwanese healthcare professionals’ English pronunciation is problematic. I can give you an example…um…the word esophagus should be pronounced as “/ɪˈsɒf.ə.gəs/”, but you know in here we always pronounce as “/ɪ.səˈfɒ.dul/”. You know in the hospital, everyone says in this way, and you wouldn’t think your pronunciation is wrong (Participant Ling)
 
-Problematic English pronunciation, although being accepted by the group members, causes a problem when the nurses need to communicate with foreign patients or foreign doctors. The following example (see Table 4) noted in my field notes indicates this.
+Problematic English pronunciation, although being accepted by the group members, causes a problem when the nurses need to communicate with foreign patients or foreign doctors. The following example (see Table 4) from my field notes indicates this.
 
 Table 4 An example of the nurses’ pronunciation problems in English
 Time/Place
@@ -144,7 +144,7 @@ Content
 Feb, 17 / the patient’s room  
 Administering medications/ 
 nurse-foreign patient
-A nurse was performing morning care at around 8:30 am. She bought medications and walked into Room x. The patient was from Thailand and could only speak a little Chinese. Before giving the medications to the patient, the nurse tried very hard to explain the effects and side effects of the medications. She said in English, “This is for /gəʊl/. It can decrease your urine acid.” The patient seemed to have difficulty understanding her. He replied, “What? /gəʊl/?” The nurse said in a higher volume, “Yes, /gəʊl/… /gəʊst/, you know?” The conversation went on for a while. Finally, the patient gave up clarifying what /gəʊl/ or/gəʊst/ was and took the medications. Afterwards, I clarified with the nurse and realised what she wanted to express was the word gout. 
+A nurse was performing morning care at around 8:30 am. She bought medications and walked into the room. The patient was from Thailand and could only speak a little Chinese. Before giving the medications to the patient, the nurse tried very hard to explain the effects and side effects of the medications. She said in English, “This is for /gəʊl/. It can decrease your urine acid.” The patient seemed to have difficulty understanding her. He replied, “What? /gəʊl/?” The nurse said in a higher volume, “Yes, /gəʊl/… /gəʊst/, you know?” The conversation went on for a while. Finally, the patient gave up clarifying what /gəʊl/ or/gəʊst/ was and took the medications. Afterwards, I clarified with the nurse and realised what she wanted to express was the word gout. 
  
 4.2.3 Unfamiliar accent  
 Complicating the participants’ attempts to understand oral English is the unfamiliar accent. The following data from interview show that foreign patients’ accents pose challenges to the nurses studied. 
