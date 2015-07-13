@@ -1,0 +1,90 @@
+\documentclass[b5paper]{memoir}
+
+\usepackage{fontspec}
+\setmainfont{Linux Libertine O}
+\usepackage{xeCJK}
+\setCJKmainfont{WenQuanYi Zen Hei}
+
+\usepackage{graphicx}
+\graphicspath{ {/home/drbean/圖片/taro/} }
+% \usepackage{pdf14}
+\usepackage{tikz}
+\usepackage{float}
+
+\setsecnumdepth{none}
+\setcounter{tocdepth}{1}
+
+\begin{document}
+
+\frontmatter
+
+\title{An elementary guide to the 尺八 (Shakuhachi)}
+% \author{松本太郎 (Taro Matsumoto)}
+\date{}
+\maketitle
+
+\newpage
+\null
+\newpage
+
+\begin{tikzpicture}[remember picture,overlay]
+\coordinate [below=12cm] (midpoint) at (current page.north);
+\node at (current page.north west)
+{\begin{tikzpicture}[remember picture,overlay]
+\node[anchor=north west,inner sep=0pt] at (0,0) {\includegraphics[angle=90,width=\paperwidth]{IMG_2854.JPG}}; % Background image
+\draw[anchor=north] (midpoint) node [fill=blue!30!white,fill opacity=0.6,text opacity=1,inner sep=1cm]{\Huge\centering\bfseries\sffamily\parbox[c][][t]{\paperwidth}{\centering An elementary guide to the 尺八 (Shakuhachi)\\[15pt] % Book title
+{\Large 2014}\\[20pt] % Subtitle
+{\huge 松本太郎 (Taro Matsumoto)}}}; % Author name
+\end{tikzpicture}};
+\end{tikzpicture}
+\vfill
+
+\newpage
+\null
+\newpage
+
+\tableofcontents
+
+\clearpage
+\null
+\newpage
+
+\section{Preface}
+\input{Preface}
+
+\clearpage
+\newpage
+
+\mainmatter
+
+\section{Brief history of the instrument}
+\input{Brief_history_of_the_instrument}
+
+\section{Breath and mind}
+\input{Breath_and_mind}
+
+\section{Meri and kari}
+\input{Meri_and_kari}
+
+\section{Maintenance}
+\input{Maintainance}
+
+\section{Notes}
+\input{Notes}
+
+\appendix
+\appendixpage
+% \addappheadtotoc
+
+\section{Fingering}
+\input{Fingering}
+
+\newpage
+
+\section{The author}
+\input{Taro_Matsumoto}
+
+\backmatter
+
+\end{document}
+
