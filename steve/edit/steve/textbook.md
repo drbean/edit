@@ -1,37 +1,8 @@
----
-title:
-  - type: main
-    text: The Writing Textbook
-  - type: subtitle
-    text: Putting Our Thoughts Down on Paper
-author:
-  - name: Steve Hoover
-    affiliation: MUST
-  - name: Greg Matheson
-    affiliation: NUU
-publisher:  My Press
-rights:  (c) 2015 Steve Hoover & Greg Matheson, all rights reserved
-...
-
-\usepackage{graphicx}
-\usepackage{tikz}
-\graphicspath{ {/home/drbean/圖片/taro/} }
-
-\setsecnumdepth{none}
-\setcounter{tocdepth}{1}
-
-\begin{document}
-
 \frontmatter
 
-\title{An elementary guide to the 尺八 (Shakuhachi)}
-% \author{松本太郎 (Taro Matsumoto)}
+\title{The Writing Textbook: Putting Thoughts Down on Paper}
 \date{}
 \maketitle
-
-\newpage
-\null
-\newpage
 
 \begin{tikzpicture}[remember picture,overlay]
 \coordinate [below=12cm] (midpoint) at (current page.north);
@@ -43,54 +14,12 @@ rights:  (c) 2015 Steve Hoover & Greg Matheson, all rights reserved
 {\huge 松本太郎 (Taro Matsumoto)}}}; % Author name
 \end{tikzpicture}};
 \end{tikzpicture}
-\vfill
 
-\newpage
-\null
-\newpage
+# Preface
 
-\tableofcontents
+Writing distinguishes the superior person from the fool.
 
-\clearpage
-\null
-\newpage
+When you put words on paper, you are creating a thing, with no shape or form, but which is real, like a smartphone app, which can change others' lives.
 
-\section{Preface}
-\input{Preface}
-
-\clearpage
-\newpage
 
 \mainmatter
-
-\section{Brief history of the instrument}
-\input{Brief_history_of_the_instrument}
-
-\section{Breath and mind}
-\input{Breath_and_mind}
-
-\section{Meri and kari}
-\input{Meri_and_kari}
-
-\section{Maintenance}
-\input{Maintainance}
-
-\section{Notes}
-\input{Notes}
-
-\appendix
-\appendixpage
-% \addappheadtotoc
-
-\section{Fingering}
-\input{Fingering}
-
-\newpage
-
-\section{The author}
-\input{Taro_Matsumoto}
-
-\backmatter
-
-\end{document}
-
