@@ -1,15 +1,21 @@
-\documentclass[b5paper]{memoir}
-
-\usepackage{fontspec}
-\setmainfont{Linux Libertine O}
-\usepackage{xeCJK}
-\setCJKmainfont{WenQuanYi Zen Hei}
+---
+title:
+  - type: main
+    text: The Writing Textbook
+  - type: subtitle
+    text: Putting Our Thoughts Down on Paper
+author:
+  - name: Steve Hoover
+    affiliation: MUST
+  - name: Greg Matheson
+    affiliation: NUU
+publisher:  My Press
+rights:  (c) 2015 Steve Hoover & Greg Matheson, all rights reserved
+...
 
 \usepackage{graphicx}
-\graphicspath{ {/home/drbean/圖片/taro/} }
-% \usepackage{pdf14}
 \usepackage{tikz}
-\usepackage{float}
+\graphicspath{ {/home/drbean/圖片/taro/} }
 
 \setsecnumdepth{none}
 \setcounter{tocdepth}{1}
