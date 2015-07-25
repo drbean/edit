@@ -1,9 +1,18 @@
 \documentclass[b5paper]{memoir}
 
 \usepackage{fontspec}
-\setmainfont{Linux Libertine O}
+\setmainfont
+	[ Ligatures = TeX,
+	Extension = .otf,
+	SmallCapsFeatures={Letters=SmallCaps},
+	UprightFont    = *_R,
+	ItalicFont     = *_RI,
+	% BoldFont       = *_B,
+	BoldItalicFont = *_BI,
+	]
+	{LinLibertine}
 \usepackage{xeCJK}
-\setCJKmainfont{WenQuanYi Zen Hei}
+\setCJKmainfont{WenQuanYi Zen Hei Mono}
 
 \usepackage{graphicx}
 \graphicspath{ {/home/drbean/圖片/taro/} }
