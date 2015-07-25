@@ -1,14 +1,16 @@
 \documentclass[b5paper]{memoir}
 
 \usepackage{fontspec}
-\usepackage{fontspec}
 \setmainfont
-	[
-	BoldFont       = {Linux Libertine O Bold},
-	ItalicFont     = {Linux Libertine O Italic},
-	BoldItalicFont = {Linux Libertine O Bold Italic}
+	[ Ligatures = TeX,
+	Extension = .otf,
+	SmallCapsFeatures={Letters=SmallCaps},
+	UprightFont    = *_R,
+	ItalicFont     = *_RI,
+	% BoldFont       = *_B,
+	BoldItalicFont = *_BI,
 	]
-	{Linux Libertine O}
+	{LinLibertine}
 \usepackage{xeCJK}
 \setCJKmainfont{WenQuanYi Zen Hei Mono}
 
