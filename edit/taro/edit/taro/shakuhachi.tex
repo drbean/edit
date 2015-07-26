@@ -23,6 +23,11 @@
 \setsecnumdepth{none}
 \setcounter{tocdepth}{1}
 
+\makeatletter
+\counterwithout{figure}{chapter}
+\renewcommand\@memmain@floats{}
+\makeatother
+
 \begin{document}
 
 \frontmatter
