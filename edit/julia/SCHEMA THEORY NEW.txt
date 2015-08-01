@@ -1,0 +1,388 @@
+﻿An investigation of effects of activating background knowledge in nursing on reading comprehension  
+Abstract
+This research explored the effect of a nursing English reading course (the schema-oriented instruction, SOI) on reading comprehension. This research design was pretest-intervention-posttest, being conducted by the researcher at a nursing college in 2014. Two intact classes of students were randomly assigned to one of two conditions: the SOI group and the control group. The SOI group was taught through a more top-down process which emphasised the interaction of incoming data with students’ background knowledge in the nursing field. The research results analysed by SPSS demonstrated that the SOI group performed significantly better than those in TPOI in the post test and unit tests. However, SOI demonstrated no transferring effect, indicating that SOI was not able to transfer to reading novel medical & nursing texts. 
+
+Keywords
+Schema-oriented instruction; English for nursing purposes
+
+Highlights
+(1) Students receiving schema-oriented instruction (SOI) outperform those having textbook procedure-oriented instruction in reading comprehension of professional nursing English;
+(2) There is no transferring effect of SOI. Students in the SOI group could not apply nursing knowledge activated to reading novel texts introducing similar diseases as the learned content;
+(3) Students have a positive attitude towards SOI as the activation of background knowledge was helpful to their understanding and prediction of the coming reading text.
+ 
+
+ 
+
+
+
+
+
+
+
+
+1. Introduction 
+From its appearance, schema theory has enjoyed a considerable popularity within the field of English language teaching (Alptekin, 2006; Carrell, 1984; Chen & Graves, 1995; He, 2001; McVee et al., 2005; Nassaji, 2002; Zhang, 2008). Schema theory emphasises the active role of readers, seeing a reading process as a constructive process which stresses the importance of interaction between readers and texts. In other words, reading is not regarded as simply the decoding process and reconstructing the author’s original meaning. Such the reader-oriented nature of a reading process urges researchers (e.g. Alptekin, 2006; Chen & Grave, 1995; Gürkan, 2012; Erten & Razi, 2009; Zhang, 2008) to conduct studies exploring how readers’ background knowledge influenced reading comprehension. The research results showed positive evidence, indicating that readers’ schemata related to reading texts exerted an impact on how well readers understood and comprehended the texts.  
+
+In Taiwan, there is a paucity of published research exploring the relation between the activation of background knowledge and English reading comprehension in nursing English as traditional grammar teaching pedagogy has been widely used (Chang, 2014; Yang & Su, 2003). According to Wang et al. (2008), English is treated as a subject at school rather than as a communication tool used to exchange messages in daily life. Thus, traditional teaching approach has been dominant in nursing colleges/universities in Taiwan. The language learning process is then reduced to merely the memorisation of medical terminology and grammar. Therefore, the purpose of this paper is to fill the gap identified in existing research, that is, to use a schema-oriented instruction (SOI) approach to teach a nursing English reading course, exploring the relationship between background knowledge in nursing and English reading comprehension. 
+ 
+2. Literature Review
+2.1 The nature of schema theory
+The appearance of the concept, schema, according to Marshall (1995), dates back to Plato and Aristotle. In recent years, many similar terms to schema such as prior knowledge, existing knowledge or background knowledge appear, indicating that schema theory has been used widely (Gaffney & Anderson, 2000). However, this phenomenon also reveals that there is no consensus among researchers about this term (Ghosh & Gilboa, 2014). Jitendra et al. (2009) observe that schema refers to a knowledge structure serving as a matrix upon which new knowledge learned is able to be organised, facilitating learners to sort problems and come up with solutions. After reviewing research in the neuroscience, psychology, and education, Ghosh and Gilboa (2014) state that schema has four defining features. The four defining features are:  
+(1) composed of a variety of constructing units (e.g. events, nodes, etc.) and their interrelationships;
+(2) multi-episodes are the basses upon which schema is built;
+(3) possesses the characteristic of generality, which is able to tolerate and store newly learned information;
+(4) flexible about newly learned information from different events, which means that such information could be able to integrated into an existing schema.    
+
+The appearance of schema theory could be described as a legitimate force prompting the development of research exploring how reading comprehension occurs (McVee et al., 2005). Such the development exerts a great influence on L2 comprehension research in the field of EFL/ESL (Nassaji, 2002). According to Carrell (1984) and Carrell and Eisterhold (1983), schema theory changes the traditional view of L2 comprehension, which emphasises the aspect of language to be comprehended rather than the aspect of language learners. In the traditional point of view, Zhang (2008) has remarked, reading comprehension occurs through decoding every single word in the text and then successfully reconstructing the author’s intended meanings. In other words, reading is a bottom-up process, which sees understanding and comprehension being built upon the smallest textual units (i.e. words) at the bottom level and then move to larger units (i.e. sentences and paragraphs) at the top. Therefore, if a student has difficulties understanding texts, one of the major reasons for this can be attributed to his or her linguistic deficiencies. The appearance of schema theory fundamentally changes such the standpoint. Schema theory challenges the thinking of how knowledge is assimilated and how texts are to be understood. While engaging in the process of reading, readers are actively interacting with texts (Erten & Razi, 2009; Grabe & Stoller, 2002). In other words, readers are unavoidably active since they are involved in the work of meaning-making with texts by applying their background knowledge. In other words, meaning is not just on printed reading materials. Rather, it is interactively built up in the interaction between readers and reading materials in the reading encounter. While reading a text, learners use both literal and inferential comprehension (Gürkan, 2012). The former refers to a bottom-up process while the latter could be regarded as a top-down process. A top-down process emphasises that learners apply their background knowledge, when attempting to understand a text, to draw inferences and to make predictions about the relationship of information which is not explicitly stated in the text. For some researchers (e.g. Alptekin, 2006; Nassaji, 2002), effective reading requires these two kinds of comprehension. Literal comprehension ensures that learners are sensitive to coming information; inferential comprehension facilitates learners to match the newly learned information with their conceptual expectations.  
+
+2.2 Activating background knowledge through class activities
+Activation of background knowledge in schema theory, according to Huang (2008), is an essential step. The degree to which reading comprehension could occur depends largely on the degree to which background knowledge could be triggered. Activating background knowledge could be achieved by using proper pre-reading activities. In the traditional point of view, pre-reading activities emphasise the instruction of difficult words, which is believed to be effective in improving second or foreign language learners’ linguistic difficulties. However, such the belief, Ajideh (2003) notes, remains questionable. Pre-reading activities are not exclusively to compensate for language deficiencies. Rather, they enable learners to develop a conceptual framework and expectations of what is going to happen. Therefore, learners are able to connect their own expectations or experience with reading materials. For L1 learners, pre-reading activities are to “prepare native speakers for the concepts that follow, make the reading task easier, connect the new content more meaningfully to prior knowledge and make reading more enjoyable” (Taglieber et al., 1988, p. 456). Likewise, for L2 learners, pre-reading activities are also able to act as a bridge connecting students’ schema and the content of texts. Previewing, according to Chen and Graves (1995), is a kind of pre-reading activity which is suitable to be adopted when reading materials appear to be difficult and contain culturally unfamiliar information to students. The theoretical bases of previewing can be explained by cognitive theories which see previewing as at the higher level of abstraction, providing learners with a clear framework for what they will read later. It is a kind of top-down structural information facilitating learners to grab and predict the main idea before reading. Such structural information compensates for information that learners do not obtain in the bottom-up reading process. 
+
+2.3 The results of previous research in schema theory
+Not only does schema theory influence the belief of reading comprehension, it also urges many researchers to conduct studies exploring how learners’ background knowledge exerts an impact on reading comprehension. In fact, many researchers were interested in exploring cultural schema, that is, how cultural schema influenced reading comprehension. For example, Erten and Razi (2009) conducted an experiment in order to understand whether learners’ cultural background knowledge influenced their reading comprehension. Four groups of Turkish students participated in the study (group 1 read an original story without any pre-reading activities; group 2 had the original story with pre-reading activities; group 3 read the nativised version of the story without pre-reading activities; group 4 was provided with the nativised version and pre-reading activities). The research outcomes showed that students with the treatment of the nativised version outperformed those provided with the original version. Besides, pre-reading activities were found to play an important and positive role in facilitating students’ comprehension of the reading text. Chen and Graves (1995) intended to find out the difference of effectiveness between providing background knowledge and previews. 240 Taiwanese college students were randomly assigned to one of four groups: one receiving the previews of two American short stories, one being provided with background knowledge of the two stories, one being treated with both the previews and background knowledge of the stories, and one obtaining no assistance at all. After the treatments, students were required to read the two American short stories followed by short-answer and multiple choice questions in relation to the two stories. The results demonstrated that students received the previews and combined treatments outperformed students who had background knowledge treatments and who were offered no assistance. This study shows that background knowledge, although being a vital element in schema theory, needs to be presented in a way that is acceptable and understandable for learners. There are some researchers attempting to apply schema theory in instructing mathematics. For instance, Jitendra et al (2009, 2011) reported the process of delivering schema-based instruction (SBI) to instruct ratio and proportion problems in mathematics for middle school students. They divided participants into two groups: the SBI group and the control group. In the SBI group, teaching focus was placed on the instruction of the mathematical structure of ratio and proportion problems and the process of self-monitoring of problem solving. Participants in the control group received a traditional approach, that was, a detailed explanation of key concepts followed by various exercises. After a 10-day intervention of SBI, the research results indicated that the SBI group outperformed the control group in the post-test (p<.01).  
+
+2.4 Aim of the study 
+Based on the research results above, schema-based instruction proved to be effective. If it is utilised in instructing professional English, could outcomes be positive and encouraging as well? Therefore, the aim of this study is to explore the relationship between background knowledge in nursing and reading comprehension. In order to fulfil this, the present study designed a teaching programme which adopted the schema-oriented instruction (SOI) approach, which emphasises the activation of background knowledge and on the connection of knowledge with the reading text,  to teach a compulsory reading course, Professional Medical & Nursing English, compared to textbook procedure-oriented instruction (TPOI). This aim results in three research questions. 
+
+(1) Do students receiving SOI perform better in reading comprehension than those having TPOI? 
+(2) Does SOI have a transferring effect on reading novel medical & nursing texts?
+(3) What are students’ attitudes and responses towards SOI?
+
+3. Methodology 
+3.1 Research Design
+A teaching (刪除)course, Professional Medical & Nursing English, concerning how learners’ background knowledge influenced reading comprehension was piloted by the researcher at a nursing college in Taiwan in 2014 as a 2-credit course. The duration of the course lasted four months. The class met once a week for 2 hours for 18 weeks, for a total of 36 hours of instructional time and examinations. This course, according to the stated aim regulated by the school, intended to equip students with the reading ability in medical and nursing English as it is necessary to perform nursing duties (e.g. reading progress notes, case report, etc.) in the future. This research was a pretest-intervention-posttest design, and a quasi-experiment was utilised to answer research questions. Due to limitations in reality, two intact classes of students (i.e. samples of convenience) were randomly assigned to one of two conditions: the experimental group (n=57) and the control group (n=56). Students in the experimental group received the SOI treatment, while students in the control group had the TPOI treatment. The learning material for both groups was the same. 
+ 
+3.2 The preparation procedure for the experiment 
+Particular efforts regarding teaching methodologies had been made prior to delivering this course. First, students’ nursing textbooks were reviewed in order to have an understanding of what diseases learners had learned and how diseases had been introduced in the textbooks. Such review was helpful in facilitating the design of the conceptual map and (see Figure 1) and the reading model (see Figure 2), both of which played critical roles in the SOI group in the main experiment stage. Second, a meeting with three teachers who were also responsible for teaching the same course for other classes was arranged in order to understand their previous teaching experience, including teaching methods adopted, learning activities designed, students’ responses received, etc. Several key messages were obtained during the meeting, 
+(1)  Dislocation－according to the teachers, students were not able to connect their background knowledge in nursing with the reading text taught in this course. A dislocation seemed to exist, preventing them from doing so. This illustrates the need to introduce the SOI approach 
+(2)  Assessment－the primary aim of the course is to equip students with reading ability in medical and nursing English; however, the content of the assessment, based on the descriptions of the teachers, was mainly about testing students’ knowledge of the medical terminologies and grammar. If reading ability is emphasised by this course, the main focus of the assessment should be placed on reading comprehension. Thus, the assessment could reflect the focus of the course. Therefore, the format of the assessment in both groups would be about the reading comprehension test. 
+(3)  Teaching methods－the three teachers maintained that the main teaching methods they adopted in previous years were based on the procedures outlined in the textbook. Each lesson began with a brief introduction of the topic, followed by the detailed explanation of vocabulary, grammar and reading texts. Some exercises about grammar were then performed. However, the teachers admitted that students were not interested in learning this course since it relied heavily on rote memory and translation. This message is important; it again revealed the need to introduce the new teaching approach. 
+
+3.3 Descriptions of research participants 
+Research participants were 4th graders of the five-year programme EFL Taiwanese learners who were taking Professional Medical & Nursing English Course taught by the researcher. Before taking this course, they had learned general English for more than 10 years. Generally, the English proficiency level of the students was low-intermediate to intermediate based on their academic performance on the entrance examination. All participants were female in their early twenties, born and brought up in Taiwan. Their first language was Mandarin Chinese. Participants shared a similar educational background; they were all studying in nursing. The reasons for intentionally choosing the students were: (1) realistically, they had to take the course for one semester (a 4-month-period) as one of their compulsory subjects under the same curriculum; (2) they had finished all their nursing subjects (e.g. Basic Nursing, General Medical & Surgical Nursing, etc.); therefore, they could be considered to be ones having nursing knowledge, which is regarded as an essential element in the schema theory and (3) students had some experience of clinical nursing practice. Such experience is important since it might play an important role in facilitating the process of activating background knowledge and in connecting students’ expectation with learning materials. 
+
+
+3.4 Experimental group	
+The experimental group is the SOI group. The teaching approach adopted is a top-down teaching approach, which emphasises the interaction and connection between incoming data and background knowledge. This is not to imply that the components of grammar and vocabulary were dismissed. Rather, they were taught through the integration of texts as comprehension requires knowledge of grammar and vocabulary (Pressley, 2000). However, compared to that of TPOI group, this approach indeed focuses less on the explanation of vocabulary, grammar and translation. Five learning units: (1) cardiovascular, (2) gastrointestinal, (3) endocrine, (4) respiratory and (5) neurologic systems would be taught in this group. Across the five learning units, the teaching steps were shown as the following (see Figure 1). 
+
+
+
+ 
+
+Figure 1
+Learning steps in the SOI group. 
+
+The first step begins with dividing students into small groups (five students per group). The second step is to provide a short description of the day’s topic was presented. For the third step, to adopt proper pre-reading activities is regarded as a crucial step of activating background knowledge of the participants. For this, instead of having a direct instruction approach as the control group did, students in the SOI group were encouraged to work in groups, trying to recall what was taught about the day’s topic when they were in their grade 3. This was achieved by providing a conceptual map (see Figure 2), the purpose of which was to facilitate students’ reconstruction of a disease(s). The main circle in the centre was a case with a disease(s), and the five surrounding circles (i.e. symptoms, risk factors, mechanisms, treatments, and nursing care) were the conceptual blocks of the disease(s). The construction of the map was based on nursing textbooks students used in grade 3. In the textbooks, each disease is divided into these five dimensions in order for students to systematically understand it. Therefore, the underlying philosophy of similar design aims to facilitate students to think back over their learning and systematically re-gain prior knowledge. The role of the teacher was like a facilitator whose job was to encourage discussion and help construct the conceptual map. After all groups shared and presented their answers, the completeness of the map was built up by asking more questions related to the disease(s), for example, are there any treatments apart from ones written on the board? Based on your clinical experience, what other nursing interventions can be offered? 
+
+
+
+
+
+
+
+
+Figure 2 
+The conceptual map of a disease.
+
+As to the last step, particular attention is also devoted to the connection of knowledge with the reading material. This aim was achieved by designing a reading model, which was composed of four sub-stages (see Figure 3). This model utilises such comprehension strategies as predicting, making connections, questioning and summarising. The researcher provided explicit explanations about when and how to apply these strategies in facilitating the process of understanding text, and then used a selected section in one unit as an example to demonstrate these strategies. The model in Figure 3 clearly indicated the goal that had to be achieved in each sub-stage. The first sub-stage began with circling keywords. The second sub-stage concerned making predictions based on the keywords circled. Questions requiring inferences were asked in order to facilitate students to reflect back on the conceptual map developed and to predict what might happen. In the third sub-stage, students focused on reading the text individually and then within a group, examining their predictions. They were taught to ask themselves questions which are to clarify meanings and enhance deeper understanding of the reading text. For example, does this case remind me of anything during my clinical placement? What nursing interventions/treatments are missing? Based on my understanding of the disease, what might the phrase ‘substernal area’ mean in this text? The researcher, depending on the situation, might provide explanations of grammar and the construction of medical terminologies. The last sub-stage is to relate the reading text with the conceptual map generated. This was achieved by assisting students to extract key information from the reading text and then to put the pieces of information into the five corresponding blocks of the map. In this sense, students could connect the conceptual map with the reading text. In addition, students were required to orally summarise the main idea of the text based on the conceptual map they drew. 
+
+
+
+
+
+
+
+
+
+
+Figure 3 
+The reading model.
+
+3.5 Control group
+The control group is the TPOI group. In this group, five learning units as covered in the SOI group were taught. Teaching procedure was similar to that of other three teachers in the meeting, that was, following what was outlined in the textbook. Each lesson began with a short description of the day’s topic. Subsequently, detailed explanations of grammar and medical terminologies, including roots, affixes, and the use in the clinical practice were then provided. Subsequently, guided reading was carried out, with a focus on explaining mechanisms, treatments, and nursing care of diseases. A direct approach of instruction to define key concepts related to reading text was adopted. Finally, some exercises about grammar were performed. Compared to that of SOI group, this approach focuses more on the explanation of vocabulary, grammar and translation. The teaching procedure was summarised as Figure 4 
+
+
+
+
+Figure 4
+Learning steps in the TPOI group. 
+
+3.6 Measures  
+The current research includes four measures in order to understand the effects of SOI.  
+(1)  Prestest and posttest－to assess the treatment effect, a researcher-made reading comprehension test was designed prior to (pretest) and after the course (posttest). For this test, students were required to read four passages adapted from the textbook about clinical cases diagnosed with cardiovascular, neurologic, gastrointestinal and respiratory diseases, respectively, followed by five comprehension questions. The purpose of designing the reading text is to evaluate whether students could understand the reading text and comprehend its meaning. The test consisted of 20 tick-all-that-apply questions in total. The duration of the test lasted for 40 minutes. It was only that students had all correct items tick for each question could they obtain points. 
+(2)  Unit test－to examine the extent to which students in both groups comprehended the reading text taught in each unit, researcher-designed reading comprehension tests were created for students to take whenever a learning unit was completed. The test consisted of eight to ten questions, the content of which was about the reading text taught. The format of questions included tick-all-that-apply questions and short-answer questions. The duration of the test was 20 minutes.  
+(3) Transferring effect test－an experimenter-made transferring effect test was administered at the beginning and at the end of the course in both the SOI and TPOI groups in order to understand whether SOI has a transferring effect. The transferring effect test aimed to understand whether the students in the SOI group could apply background knowledge to reading novel texts introducing diseases which could be classified as branches or sub-branches of diseases taught in class. The test consisted of four reading passages adapted from clinical case studies. Each case focused on a disease(s), and was followed by five reading comprehension questions. There were 20 tick-all-that-apply questions in total. The duration of the test lasted for 40 minutes. 
+(4)  Students’ perceptions of SOI－to understand the students’ acceptability of the new teaching approach, an open-ended questionnaire was designed for the SOI group at the end of the course. In the questionnaire, learners could write down their perspectives on SOI, including perceived advantages and disadvantages, feelings and suggestions in order to let their voices be heard. Based on their feedback, adequate adjustments could be made for the future improvement. 
+ 
+3.7 Pilot work
+The current research included two pilot studies before the main experiment: a pre-pilot study with three Taiwanese clinical professionals (one clinical nursing specialist and two clinical instructors), who are currently involved in nursing practice in three different large-scale hospitals, and a pilot study with 52 Taiwanese nursing students, whose background was similar to students who would participate in the main study. In the pre-pilot study, the three clinical professionals were asked to examine the authenticity and difficulty of five unit tests, the pre-posttest and the transferring test in reflecting real reading passages in the hospital context. Amendments were then made based on the examination and the face to face discussion. In the pilot study, 52 nursing students were required to sit the tests (i.e. pre-posttest and the transferring test) in order to ensure the validity and reliability. Pilot test-retests were administered during the period from 14th of Oct to 14th of Dec, 2014. The data showed that there was a correlation in pre-posttest (Pearson’s r=.847, p<0.05) and in the transferring test (Pearson’s r=.836, p<0.05) between the two scores (i.e. scores in test and retest). Besides, students were also asked to provide their feedback on the test paper regarding time adequacy, suitability of the number of questions, intelligibility and difficulty of questions.  
+
+4. Data analysis and results   
+The 1st research question compared the effectiveness of SOI and TPOI. 2-way ANOVA showed the mean scores of the pre-test, five unit tests, and post-test in both SOI and TPOI groups (see Table 1). Table 2 demonstrated statistically significant effects for group (F (1, 776)=28.462, p=.000) and test (F (6, 776)=119.680, p=.000). This indicated that whether students participated in the SOI group influenced their reading comprehension tests. The SOI group significantly outperformed those in the TPOI group. No significant interaction between group and test was found, (F (6, 776)=.619, p=.715). Figure 5 demonstrated the graph of the comparison between the SOI and TPOI groups. For the pre-test, since all of the participants had not taken the course yet, the mean scores of the SOI group was 27.98 and was 24.68 for the TPOI group (p=.107, t=1.623, df=103.077). In the 3rd unit test, there was no apparent difference between two groups (p=.204, t=1.278, df=88.214). 
+ 
+Table 1 
+The test scores of SOI and TPOI group. 
+
+N
+M
+SD
+SOI Group 
+1. Pre-test
+2. 1st unit test
+3. 2nd unit test
+4. 3rd unit test
+5. 4th unit test
+6. 5th unit test
+7. Post-test
+
+57
+57
+57
+57
+57
+57
+57
+
+27.98
+63.68
+73.68
+77.15
+74.03
+77.19
+74.63
+
+11.628
+16.207
+17.38
+13.13
+18.69
+18.20
+13.56
+TPOI Group
+1. Pre-test
+2. 1st unit test
+3. 2nd unit test
+4. 3rd unit test
+5. 4th unit test
+6. 5th unit test
+7. Post-test
+
+56
+56
+56
+56
+56
+56
+56
+
+24.86
+56.08
+67.50
+72.71
+64.10
+70.17
+67.21
+
+8.586
+18.68
+20.38
+22.51
+19.33
+17.63
+15.31
+
+Table 2 
+Analysis of variance on the main effects of SOI and different tests.
+	Tests of Between-Subjects Effects
+Dependent Variable: score
+Source
+Type III Sum of Squares
+Df
+Mean Square
+F
+Sig.
+Corrected Model
+209468.758a
+13
+16112.981
+57.761
+.000
+Intercept
+3209145.428
+1
+3209145.428
+11503.929
+.000
+Test
+200315.464
+6
+33385.911
+119.680
+.000
+Group
+7939.671
+1
+7939.671
+28.462
+.000
+test * group
+1036.306
+6
+172.718
+.619
+.715
+Error
+216473.601
+776
+278.961
+
+
+Total
+3636998.000
+790
+
+
+
+Corrected Total
+425942.359
+789
+
+
+
+a. R Squared = .492 (Adjusted R Squared = .483)
+
+Figure 5 
+Comparison of reading performance between SOI and TPOI groups.
+
+
+The 2nd research question explored the transferring effect of SOI. Table 3 showed the results of the transferring test taken before and after the course in both the SOI and TPOI groups. Independent samples t test (see Table 4) demonstrated that the scores of the transferring tests in two groups were not significantly different before (p=.121, t= -1.561, df=111) and after the course (p=.758, t=0.310, df=111).
+
+Table 3 
+Scores of transferring effect tests between the SOI and TPOI groups.
+The transferring test               
+N
+Mean
+Std. Deviation
+SOI  
+Before 
+After 
+TPOI
+Before
+After
+
+57
+57
+
+56
+56
+
+28.50
+51.49
+
+32.07
+50.95
+
+13.27
+9.387
+
+10.82
+9.323
+
+Table 4 
+Comparison of transferring effects tests between SOI and TPOI groups.
+The reading comprehension test               
+T
+df
+Sig. (2-tailed)
+Before
+After
+-1.561
+0.310
+111
+111
+.121
+.758
+
+The 3rd question in this study explored the students’ attitudes towards SOI. Content analysis was carried out by the researcher to identify codes and categories explaining reappearing phenomena in the data set. The manuscript was examined by an English professor who was not involved in this study for the adequacy of codes and categories developed. The results demonstrated that students had a positive attitude towards SOI. Three main categories in relation to SOI were identified: (1) serving as a clear framework; (2) inspiring a positive learning atmosphere; (3) being an effective approach to review nursing knowledge learned. 
+
+For the 1st category－serving as a clear framework, the following data demonstrated participants’ positive evaluations of SOI for being able to act as a clear framework. SOI facilitated them to predict the main idea of the coming reading text and to develop some expectations of the text before reading. In other words, SOI is like a map, which helps students develop a conceptual framework, guiding them how to read and what to read. As some of the participants indicated,    
+          
+ I can have a rough idea of what I am going to read later on and can guess what might be introduced in the reading text.
+
+The conceptual map taught in class is like a map, leading me how to read the text.
+
+However, even though SOI is useful and helpful, the following data showed that it should be arranged in accordance with the clinical placement or with major nursing courses. As the courses were arranged in different academic years, dislocation came into being. Such dislocation caused students’ dissatisfaction. As some of the learners noted,
+
+The course [Professional Medical & Nursing English] should have been arranged in grade 3. It introduced many important concepts which had been taught in nursing courses. 
+
+    If this [The Medical & Nursing English] was arranged in grade 3, we wouldn’t need to torture our brain in class trying to think of what we had learned long time ago. 
+
+As to the 2nd category－inspiring a positive learning atmosphere, the following data showed that students in the experimental group held a positive attitude towards SOI Being students involved in the SOI group for some time, they believed that this approach encouraged discussion and thinking.
+     
+I like the part when the teacher asked us questions, trying to remind us what we had learned before. We [group members] worked together, trying to think of the answers.
+
+The course was completely different from other English courses requiring rote memorisation a lot. It has many discussions, group competition, and questioning. It’s interesting.   
+
+Regarding the 3rd category－being an effective approach to review nursing knowledge learned, the following data indicated that the conceptual map taught in class could help the participants systematically review important concepts about diseases (i.e. symptoms, mechanisms, treatments, risk factors, and nursing interventions) in previous years. The review was important for them to predict the main idea and develop expectations before they were required to read the reading text. As they said,
+ 
+This teaching method can help me review nursing knowledge learned before and develop a clear understanding of how to apply such knowledge 
+ 
+I like this new method because I can review nursing knowledge learned and learn English knowledge. What the most important is that nursing knowledge is necessary for learning this course.  
+
+5. Discussions
+In respect to the 1st research question, the data showed that the overall performance of the SOI group appears significantly better than that of TPOI in reading comprehension tests. The outcome is consistent with that of the previous studies introduced in Section 2.3. However, there was one time that the SOI group did not outperform the TPOI group, that was, the 3rd unit test. According to students in the TPOI group, during the period when the 3rd unit (i.e. neurological system) was instructed, their tutor was giving them a review of the neurological system in that such knowledge was necessary to study pharmacology taught by him. Perhaps it was this additional review exerting a positive influence on the reading performance; perhaps not sufficient information was provided to the SOI group to activate students’ background knowledge. Despite this, the overall performance of the SOI group was better than that of the TPOI group. SOI emphasises the deep understanding of a disease(s) from five conceptual blocks which are closely related to one another. The conceptual map conveys an important message to students, that is, a disease(s) could be systematically comprehended and recalled from five blocks when they read medical & nursing texts. The finding that SOI is able to improve students’ reading comprehension is encouraging, and it sheds light on how SOI could be applied, prompting the change of the shape of professional English course structures. On the other hand, the TPOI group did not receive such trainings; therefore, students understanding of a disease(s) mainly came from the word by word translation of every single word printed on the text, rather than the systematic activation of their background knowledge and the deep understanding of building concepts of the disease(s). 
+
+As to the 2nd research question, the results showed that there is no transferring effect of SOI. In other words, students in the SOI group were not able to transfer nursing knowledge activated to reading novel texts which introduced similar diseases as the learned content. This finding is in accordance with the research of Jitendra et al. (2011) in which the transferring effect of schema-based education is discussed. In the current study, it was assumed that since certain diseases in the medical & nursing field could be classified into the same category of diseases taught in the SOI group, sharing similar causes, treatments and nursing care, the effect of SOI should be able to transfer. However, the research results lack evidence to prove so. Three possible reasons are identified to explain such the phenomenon. First, students in the SOP group were required to draw the conceptual map of the day’s topic and then to read the text in the textbook. In other words, they understood clearly that the conceptual map was directly and closely related to the text. Therefore, they could easily connect the conceptual map with the text. However, when they needed to read something with which there was no conceptual map to connect, they had no idea how to apply their domain knowledge. The second reason is that there was no training practice to teach learners how to apply their knowledge to read novel texts which introduce diseases categorised as branches or sub-branches as the ones taught in class. As a result, in the transferring effect test, when students encountered new diseases, although those were, to a certain degree, similar to ones taught in class, students did not know how to apply their background knowledge. The third explanation is the time issue. SOI only lasted for four months, and only five units were taught. Within such a short period of time, students did not develop a notion of how to relate learned concepts to a new domain. 
+
+Regarding the 3rd question, most participants in the SOI group had a positive attitude towards SOI. This could be explained in terms of two aspects, the first of which is related to a macro level, the other of which is at a micro level. For the former, participants indicated that the activation of background knowledge related to the day’s topic was helpful to their understanding of the reading text. Armed with their beliefs was the conviction that such the activation played the role of being a framework which was able to predict the main idea of the coming reading text. The conceptual map taught, based on participants’ feedback, has the function of being a map. It is able to act as guideline, facilitating them to extract key information in the text and then to put information into the conceptual map. Therefore, the text was no longer merely the descriptive one. Rather, it was the layout of a disease(s) which could be connected to the conceptual map. As a result, students could develop a deep understanding of the text. Such findings correspond to the observations of Chen and Graves (1995) and Ajideh (2003) that schema is at a higher level of abstraction which is able to provide a clear structure for learners to develop a basic idea of what they might read and how thing is going to happen. Therefore, when encountering the reading text, learners are able to resort to the structure to compensate for information that they do not understand in the bottom-up reading process. For the latter, learners remarked that the activation of background knowledge was useful in assisting them to effectively and correctly guess the meaning of unknown words. Obvious examples are ‘substernal area’ and ‘strenuous’. In the pre-viewing activity of the day’s topic, through group discussion and questioning, learners developed a notion that chest tightness, one of the obvious symptoms in acute coronary syndrome, radiates over the substernal area. Such tightness becomes worse when patients engage in strenuous activities. As a result, when reading the text written in English, most of students were able to associate the unknown terms ‘substernal area’ and ‘strenuous’ with their background knowledge. This finding indicates that schema can improve foreign language learners’ linguistic deficiencies. In sum, based on the students’ accounts, it shows that SOI is beneficial in terms of both a top-down process and a bottom-up process. The former emphasises the interaction of newly learned information with learners’ conceptual expectations while the latter is centred on the understanding of small textual units.  
+
+6. Pedagogical implications 
+The current study explored the relationship between domain knowledge and reading comprehension in a nursing English course. The research results are encouraging. This could be illustrated by positive feedback of the students in the SOI group and by the significant difference in reading comprehension between the SOI and TPOI groups. Three main pedagogical implications for nursing English teachers are carried. First, SOI might be an effective teaching approach to instructing medical & nursing English. This teaching approach is able to systematically activate learners’ background knowledge and instructs learners how to connect knowledge with the reading text. The conceptual map and the reading model proposed by the present study are by no means to be exclusive. Each teacher can create his or her own teaching methods and materials. Second, professional English courses could be arranged in accordance with the clinical placement or with major nursing courses. The students who participated in the SOI group indicated on the evaluation sheet that there was a time dislocation of course arrangement. They had nursing courses in grade 3 and then were placed on the clinical practice. However, the professional English course taught by the researcher was arranged in grade 4. It is suggested that professional English courses could be arranged in accordance with the clinical placement or nursing courses if time permits. In this case, there will be a strong connection between courses. Third, there is a need for teachers to optimise learning opportunities in order for students to have transferring trainings. This might be achieved by designing reading comprehension activities introducing diseases which are medically classified into the similar category of diseases taught in class.  
+
+7. Limitations  
+The research results should be considered in light of several limitations. First, the research participants are limited to a small number of students in one nursing college in Taiwan; therefore, the findings cannot be generalised. Second, both TPOI and SOI groups were taught by the researcher. It might be possible that they felt compelled to take part in this study. Such the teacher-student relationship may have prevented them from reporting what they really think in their own minds. Third, there is no following research examining whether the effect of SOI is able to maintain when SOI is no longer in effect due to limitations in reality. Fourth, other variables (e.g. prior learning habits, expectations, etc.) are not considered in this study. Fifth, the SOI approach is intertwined with reading comprehension strategies. This means that this research does not permit isolating the effects of different components.   
+
+Acknowledgements
+The completion of this research is largely due to the help of the participants for their assistance in data collection and data analysis.  
+
+
+
+
+
+
+
+
+
+
+
+References
+Ajideh, P. (2003). Schema theory-based pre-reading tasks: A neglected essential in the ESL reading class. The Reading Matrix, 3 (1), 1–14.
+Alptekin, C. (2006). Cultural Familiarity in Inferential and Literal Comprehension in L2 Reading. System, 34, 494-508. 
+Bartlett, F. C. (1995). Remembering. New York: CUP, (Chapter 10).  
+Carrell, P. L. (1984). Schema Theory and ESL Reading: Classroom Implications and Applications. The Modern Language Journal, 68 (4), 332-343. 
+Carrell, P. L., & Eisterhold, J. C. (1983). Schema Theory and ESL Reading Pedagogy. TESOL Quarterly, 17 (4), 553-570.
+Chang, H.-C. (2014). Motivating TVES Nursing Students: Effects of CLT on Learner Motivation. Chang Gung Journal of Humanities and Social Sciences, 7 (1), 75-101. 
+Chen, H. C., & Graves, M. F. (1995). Effects of Previewing and Providing Background Knowledge on Taiwanese College Students’ Comprehension of American Short Stories. TESOL Quarterly, 29 (4), 663-686.
+Erten, I. H., & Razi, S. (2009). The Effects of Cultural Familiarity on Reading Comprehension. Reading in a Foreign Language, 21, 60-77. 
+Gaffney, J. S., & Anderson, R. C. (2000). Trends in Reading Research in the United States: Changing Intellectual Currents over Three Decades. In M. L. Kamil, P. B. Mosenthal, P. D. Pearson, & R. Barr (Eds.), Handbook of Reading Research (pp. 53-74). Mahwah, NJ: Lawrence Erlbaum.  
+Ghosh, V., & Gilboa, A. (2014). What is a Memory Schema? A Historical Perspective on Current Neuroscience Literature. Neuropsychologia, 53, 104-114.
+Grabe, W., & Stoller, L. F. (2002). Teaching and researching reading. Harlow, England: Pearson Education, (Chapter 1). 
+Gürkan, S. (2012). The Effects of Cultural Familiarity and Reading Activities on L2 Reading Comprehension. Procedia—Social and Behavioral Sciences, 55, 1196-1206.  
+He, T. h. (2001). Schema Theory in ESL/EFL Reading Contexts: Its Past and Its Future. Academic Journal of National Pingtung Institute of Commence, 3, 71-88.
+Hejný, M., Slezáková, J., & Jirotková, D. (2013). Understanding Equations in Schema-oriented Education. Procedia-Social and Behavioural Sciences, 93, 995-999. 
+Huang, B. C. (2008). Apply Schema Theory to the Teaching of Reading. Spectrum: Studies in Languages, Literature, Translations, and Interpretation, 2, 169-183. 
+Jitendra, A. K., Star, J. R., Starosta, K., Leh, J. M., Sood, S., Caskie, G., Hughes, C. L., & Mack, T. R. (2009). Improving Seventh Grade Students’ Learning of Ratio and Proportion: The Role of Schema-based Instruction. Contemporary Educational Psychology, 34, 250-264.
+Jitendra, A. K., Star, J. R., Rodriguez, M., Lindell, M., & Someki, F. (2011). Improving Students’ Proportional Thinking Using Schema-based Instruction. Learning and Instruction, 21, 731-745.  
+Lee, C. Y. (1998). English for Nursing Purposes: A Needs Assessment for Professional- Oriented Curriculum Design. Academic Journal of Kang-Ning, 1(1), 55-71.
+Marshall, S.P. (1995). Schemas in Problem Solving. Cambridge: CUP, (Chapter 1).
+McVee, M. B., Dunsmore, K., & Gavelek, J. R. (2005). Schema Theory Revisited. Review of Educational Research, 75 (4), 531-566.  
+Nassaji, H. (2002). Schema Theory and Knowledge-Based Processes in Second Language Reading Comprehension: A Need for Alternative Perspectives. Language Learning, 52 (2), 439-481.  
+Pressley, M. (2000). What Should Comprehension Instruction be the Instruction of? In M.L. Kamil, P.B. Mosenthal, P.D. Pearson, & R. Barr (Eds.), Handbook of reading research (Vol. 3, pp. 545–562). Mahwah, NJ: Erlbaum.
+Taglieber, L. K., Johnson L. L., & Anderson, R. C. (1988). Effects of Prereading Activities on EFL Reading by Brazilian College Students. TESOL Quarterly, 22, 455-472. 
+Wang, C. W., Singh, C., Bird, B., & Ives, G. (2008). The Learning Experiences of Taiwanese Nursing Students Studying in Australia. Journal of Transcultural Nursing, 19 (2), 140-150. 
+Yang, M. N., & Su, S. M. (2003). A Study of Taiwanese Nursing Students’ and In-Service Nurses’ English Needs. Journal of Chang Gung Institute of Technology, 2, 269-284.  
+Zhang, X. (2008). The Effects of Formal Schema on Reading Comprehension－An Experiment with Chinese EFL Readers. Computational Linguistics and Chinese Language Processing, 13 (2), 197-214. 
+
+
+
+ 
