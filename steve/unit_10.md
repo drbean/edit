@@ -6,6 +6,8 @@ What is the effect of your brushing your teeth this morning? Was it good or not 
 
 We brush our teeth, not because of any effect we notice, but because we're supposed to brush them. Everyone brushes them. We think it is a good idea to brush them.
 
+We believe it stops tooth decay, but although we brush our teeth everyday, we still have holes in our teeth.
+
 B.  Other things we do, we do by chance and we see a good result. For example, pieces of bread in fruit salad.
 
 Hey, pieces of bread in fruit salad tastes great. Like cake. The texture of bread suits the sweet fruit salad. Try it, you'll like it.
