@@ -14,7 +14,7 @@
 
 ## Johari Window on self
 
-The Johari Window compares and contrasts what you know/think about yourself and what you DON'T know/think about yourself with what others know/think and don't know/think about you.
+The Johari Window compares and contrasts what you know/DON'T know (or think) about yourself with what others know/DON'T know (or think) about you.
 
 Writing about the person you know best, yourself.
 
