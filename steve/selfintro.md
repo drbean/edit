@@ -11,7 +11,7 @@
 * At home
 
 1. 1-2 paragraphs, 70 words about self
-2. Essay on Internet
+2. Essay on Internet, due Friday night, at the end of Week 2
 
 ## Johari Window on self
 
