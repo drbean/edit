@@ -1,6 +1,6 @@
 \appendix
 \appendixpage
-% \addappheadtotoc
+\addappheadtotoc
 
 \backmatter
 
