@@ -1,5 +1,24 @@
 # Action Research
 
+## Plan of work
+	
+* In class
+
+1. Something you did: what happened, what do you think
+2. Questions from the audience
+3. Mind Maps
+
+* At home
+
+1. 3-4 paragraphs, 100 words about an attempt to do something
+2. Essay on Internet, due Friday night, at the end of Week 4
+
+* One more time
+
+1. We do it all again, writing about the same thing, but using a "scientific" format, or writing about a different thing we did.
+
+## Rationale for an unusual kind of essay
+
 A.  Some things we do, it is difficult to see the effect of. For example, brushing your teeth.
 
 What is the effect of your brushing your teeth this morning? Was it good or not good? You can't see your teeth without a mirror. Even then, it is difficult to see your teeth, because they are hidden inside your mouth.
