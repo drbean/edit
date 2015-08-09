@@ -1,3 +1,5 @@
+## Whiteout
+
 People in Taiwan use whiteout fluid (塗改液), a lot.
 
 Westerners don't use whiteout a lot. The people who mostly use it are typists who are copying something someone else has written. When typists make a mistake in a letter they are going to send, they will white it out.
