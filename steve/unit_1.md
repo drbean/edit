@@ -4,18 +4,21 @@
 	
 * In class
 
-1. Write Johari Windows
-2. Draw mind maps
+1. Johari Windows
+2. Questions from the audience
+3. Mind Maps
 
 * At home
 
-1. Write 70 words about self
-2. Upload to Internet
+1. 1-2 paragraphs, 70 words about self
+2. Essay on Internet
 
 ## Johari Window on self
 
 The Johari Window compares and contrasts what you know/DON'T know (or think) about yourself with what others know/DON'T know (or think) about you.
 
-Writing about the person you know best, yourself.
+You will be writing about the person you know best, yourself.
 
 But do you know yourself best? Or, do others know you better than you know yourself?
+
+## Johari Window--The revealed self, the hidden self, the unknown self
