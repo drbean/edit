@@ -1,4 +1,4 @@
-\appendix
+\appendixpage
 \addappheadtotoc
 
 \backmatter
