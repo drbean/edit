@@ -1,3 +1,5 @@
+# Personality-describing adjectives
+
      * able
      * accepting
      * adaptable
