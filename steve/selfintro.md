@@ -30,7 +30,7 @@ Things about self that OTHERS:
  |               +------------+------------+--------------+
  |  Things about |   Knows    | Open self  | Hidden self  |
  |  self that    +------------+------------+--------------+
- |  SELF:        | Don't Know | Blind self | Unknown self |
+ |  SELF:        |Doesn't Know| Blind self | Unknown self |
  +---------------+------------+------------+--------------+
 
 ## Adjectives describing personality
