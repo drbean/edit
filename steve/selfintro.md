@@ -33,13 +33,13 @@ Things about self that OTHERS:
  |  SELF:        |Doesn't Know| Blind self | Unknown self |
  +---------------+------------+------------+--------------+
 
-		+------------+------------+--------------+
-		|            |   Know     |  Don't Know  |
-		+------------+------------+--------------+
-		|   Knows    | Open self  | Hidden self  |
-		+------------+------------+--------------+
-		|Doesn't Know| Blind self | Unknown self |
-		+------------+------------+--------------+
+Things		+------------+------------+--------------+
+Things		|            |   Know     |  Don't Know  |
+Things		+------------+------------+--------------+
+Things		|   Knows    | Open self  | Hidden self  |
+Things		+------------+------------+--------------+
+Things		|Doesn't Know| Blind self | Unknown self |
+Things		+------------+------------+--------------+
 
 ## Adjectives describing personality
 
