@@ -25,13 +25,13 @@ But do you know yourself best? Or, do others know you better than you know yours
 
 Things about self that OTHERS:
 
-              +------------+------------+--------------+
-              |            |   Know     |  Don't Know  |
-              +------------+------------+--------------+
- Things about |   Knows    | Open self  | Hidden self  |
- self that    +------------+------------+--------------+
- SELF:        | Don't Know | Blind self | Unknown self |
-              +------------+------------+--------------+
+ +---------------+------------+------------+--------------+
+ |               |            |   Know     |  Don't Know  |
+ |               +------------+------------+--------------+
+ |  Things about |   Knows    | Open self  | Hidden self  |
+ |  self that    +------------+------------+--------------+
+ |  SELF:        | Don't Know | Blind self | Unknown self |
+ +---------------+------------+------------+--------------+
 
 ## Adjectives describing personality
 
