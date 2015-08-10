@@ -21,4 +21,14 @@ You will be writing about the person you know best, yourself.
 
 But do you know yourself best? Or, do others know you better than you know yourself?
 
-## Johari Window--The revealed self, the hidden self, the unknown self
+## The open self, the hidden self, the unknown self and the blind self
+
+Things about self that OTHERS:
+
+              +------------+------------+--------------+
+              |            |   Know     |  Don't Know  |
+              +------------+------------+--------------+
+ Things about |   Knows    | Open self  | Hidden self  |
+ self that    +------------+------------+--------------+
+ SELF:        | Don't Know | Blind self | Unknown self |
+              +------------+------------+--------------+
