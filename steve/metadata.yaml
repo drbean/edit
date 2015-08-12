@@ -1,9 +1,7 @@
 ---
 title:
-  - type: main
-    text: The Writing Textbook
-  - type: subtitle
-    text: Putting Our Thoughts Down on Paper
+  - main: The Writing Textbook
+  - subtitle: Putting Our Thoughts Down on Paper
 author:
   - name: Steve Hoover
     affiliation: MUST
