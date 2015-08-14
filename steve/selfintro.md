@@ -41,6 +41,17 @@ Things		+------------+------------+--------------+
 Things		|Doesn't Know| Blind self | Unknown self |
 Things		+------------+------------+--------------+
 
+\begin{center}
+\begin{tabular}{m{2.0cm}m{0.6cm}m{2.0cm}m{2.0cm}}
+\multicolumn{2}{c}{
+\hfill Things about self that OTHERS:} \\
+&  & Know & Don't Know \\ \cmidrule(r){3-4}
+Things about self that SELF: & Knows & Open self & Hidden self  \\
+& Doesn't Know & Blind self & Unknown self \\
+\end{tabular}
+\end{center}
+
+
 ## Adjectives describing personality
 
 * able
