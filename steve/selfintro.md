@@ -23,24 +23,6 @@ But do you know yourself best? Or, do others know you better than you know yours
 
 ## The open self, the hidden self, the unknown self and the blind self
 
-Things about self that OTHERS:
-
- +---------------+------------+------------+--------------+
- |               |            |   Know     |  Don't Know  |
- |               +------------+------------+--------------+
- |  Things about |   Knows    | Open self  | Hidden self  |
- |  self that    +------------+------------+--------------+
- |  SELF:        |Doesn't Know| Blind self | Unknown self |
- +---------------+------------+------------+--------------+
-
-Things		+------------+------------+--------------+
-Things		|            |   Know     |  Don't Know  |
-Things		+------------+------------+--------------+
-Things		|   Knows    | Open self  | Hidden self  |
-Things		+------------+------------+--------------+
-Things		|Doesn't Know| Blind self | Unknown self |
-Things		+------------+------------+--------------+
-
 \begin{center}
 \begin{tabular}{m{2.0cm}m{0.6cm}m{2.0cm}m{2.0cm}}
 \multicolumn{2}{c}{
