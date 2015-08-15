@@ -1,6 +1,6 @@
-# Action Research
+\part{Action Research}
 
-## Plan of work
+# Plan of work
 	
 * In class
 
@@ -17,7 +17,7 @@
 
 1. We do it all again, writing about the same thing, but using a "scientific" format, or writing about a different thing we did.
 
-## Rationale for an unusual kind of essay
+# Rationale for an unusual kind of essay
 
 A.  Some things we do, it is difficult to see the effect of. For example, brushing your teeth.
 
