@@ -149,11 +149,11 @@ Table: Characteristics of the 3 people in the group
 ### Draw your Johari window.
 
 ------------------------------------------------------------------------
-2X2       Characteristics of the               Characteristics of the
+2X2       Characteristics of your              Characteristics of your
           self that OTHERS know                self that OTHERS DON'T
                                                know
 ------- -----------------------------        ---------------------------
-        Open self                            Hidden self
+        The Open You                         The Hidden You
 
  \
 
@@ -165,11 +165,10 @@ Table: Characteristics of the 3 people in the group
 
 Things
 about
-the
-self
+yourself
 that
-SELF
-knows
+you
+know
 
 \
 
@@ -179,7 +178,7 @@ knows
 
 \
 
-        Blind self                           Unknown self
+        The Blind You                        The Unknown You
 
  \
 
@@ -191,11 +190,10 @@ knows
 
 Things
 about
-the
-self
+yourself
 that
-SELF
-DOESN'T
+YOU
+DON'T
 know
 
 \
