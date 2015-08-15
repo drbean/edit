@@ -209,3 +209,11 @@ know
 Table: Your Johari window
 
 In your *unknown self*, put characteristics you would like to have, but don't know if you have or not. Perhaps you can develop these characteristics from resources inside you
+
+### Important note: What has been said about you may not be true
+
+Are your partners good judges of character? Are you a good judge of your own character? What they said about you and what you said about yourself may not be true. It may just be wishful thinking or you may be too critical of yourself.
+
+## Questions from the audience
+
+
