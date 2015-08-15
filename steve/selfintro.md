@@ -1,3 +1,5 @@
+\part{The Self, Opinions, and Ideas}
+
 # Self-introductions
 
 ## Plan of work
