@@ -111,29 +111,29 @@ The *unknown self* is things about the self that the self doesn't know and other
 
 In groups of three people who know each other, and who are happy working with each other, choose words in English and Chinese which describe A, B and C, ie, yourself and your partners. Write sentences if you can. Follow the example. Write 20 characteristics.
 
-              A                         B                      C
-    ----------------------   -----------------------   -----------------
-1.          tall                      dark                  handsome
-2.          strong                    silent
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.
-20.
+--------------------------------------------------------------------
+      A                         B                      C
+----------------------   -----------------------   -----------------
+            tall                      dark                  handsome
 
+            strong                    silent
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+
+--------------------------------------------------------------------
 
 Table: Characteristics of the 3 people in the group
 
@@ -142,9 +142,58 @@ Table: Characteristics of the 3 people in the group
 * If you are surprised by what they said, then this is a characteristic of your *blind self*.
 * If you are NOT surprised by what they said, then this is a characteristic of your *open self*.
 
-### Compare their descriptions of you with your own description of yourself?
+### Compare their descriptions of you with your own description of yourself.
 
 * If any of your descriptions were not also mentioned by your partners, then these are characteristic of your *hidden self*. 
 
-### Drawing your Johari window
-In your unknow
+### Draw your Johari window.
+
+------------------------------------------------------------------------
+2X2     Characteristics of the               Characteristics of the self
+        self that OTHERS know                     that OTHERS DON'T know
+------- -----------------------------        ---------------------------
+Things  Open self                            Hidden self
+about
+the
+self
+that
+SELF
+knows
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+
+Things  Blind self                           Unknown self
+about
+the
+self
+that
+SELF
+DOESN'T
+know
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+
+------------------------------------------------------------------------
+
+Table: Your Johari window
+
+In your *unknown self*, put characteristics you would like to have, but don't know if you have or not. Perhaps you can develop these characteristics from resources inside you
