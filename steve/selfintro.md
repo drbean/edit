@@ -37,7 +37,7 @@ The *open self* is things that the self is aware of and others are aware of too.
 
 The *hidden self* is things that the self is aware of but others perhaps are not aware of. For example, Greg Matheson doesn't like to spend money. He knows it, but his students/friends don't know it. He keeps this part of his self private, or *hidden.*
 
-The *blind self* is things that the self is not aware of, but others know about. For example, Greg Matheson was surprised to be told that he doesn't stand straight up, when he is walking. He was not aware that he was bending forward, walking like an old man. He was *blind* to that fact.
+The *blind self* is things that the self is not aware of, but others know about. For example, Greg Matheson was surprised to be told that he doesn't stand straight up, when he is walking. He was not aware that he was bending forward, walking like an old man. He was *blind* to that fact. As another example, his wife told him he is inflexible, or stubborn, and that he won't compromise with her, even though she makes compromises for his sake. This also surprised him because he considers himself very flexible.
 
 The *unknown self* is things about the self that the self doesn't know and others don't know either. Greg Matheson would like to be a business man but he doesn't know if he has the ability to be a good business man and other people don't know either. Many of the reasons we do things are *unknown* by ourselves and others.
 
@@ -105,4 +105,44 @@ The *unknown self* is things about the self that the self doesn't know and other
 
 ## Activity: Drawing your and your partners' Johari Windows
 
+### What are you and your partners' characteristic?
 
+In groups of three people who know each other, and who are happy working with each other, choose words in English and Chinese which describe A, B and C, ie, yourself and your partners. Write sentences if you can. Follow the example. Write 20 characteristics.
+
+              A                         B                      C
+    ----------------------   -----------------------   -----------------
+1.          tall                      dark                  handsome
+2.          strong                    silent
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+
+
+Table: Characteristics of the 3 people in the group
+
+### Look at your partners' description of you.
+
+* If you are surprised by what they said, then this is a characteristic of your *blind self*.
+* If you are NOT surprised by what they said, then this is a characteristic of your *open self*.
+
+### Compare their descriptions of you with your own description of yourself?
+
+* If any of your descriptions were not also mentioned by your partners, then these are characteristic of your *hidden self*. 
+
+### Drawing your Johari window
+In your unknow
