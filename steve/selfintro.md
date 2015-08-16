@@ -214,6 +214,58 @@ In your *unknown self*, put characteristics you would like to have, but don't kn
 
 Are your partners good judges of character? Are you a good judge of your own character? What they said about you and what you said about yourself may not be true. It may just be wishful thinking or you may be too critical of yourself.
 
-## Questions from the audience
+## Activity: Questions from the audience
+
+For the reasons given on \pref{writing-as-conversation} in \titleref{a-writers-toolbox}, writers need to have an understanding of what question readers want them to answer next. We are going to practice answering question from a reader when writing about ourselves.
+
+### Arrangement of writers and readers
+
+Everyone is in a circle and is consecutively a writer and a reader. Each person is writing for the person on their left. Each person is reading for the writer on their right. Readers will ask (actually, write) 20(!) questions about what the writer has written that they want the writer to answer. So, actually this is practice in thinking of questions about what someone else has written. However, it is what YOU would be doing if you were the person on your right.
 
 
+### Writers write first 1-2 sentences using Johari window and/or other source
+
+
+\begin{DoubleSpace}
+My self-introduction: \hrulefill \
+\rule{\textwidth}{0.00001cm}
+\rule{\textwidth}{0.01cm}
+\end{DoubleSpace}
+
+\begin{DoubleSpace}
+Questions for you: \\
+1. \rule{\textwidth}{0.00001cm}
+2. \rule{\textwidth}{0.00001cm}
+3. \rule{\textwidth}{0.00001cm}
+4. \rule{\textwidth}{0.00001cm}
+5. \rule{\textwidth}{0.00001cm}
+6. \rule{\textwidth}{0.00001cm}
+7. \rule{\textwidth}{0.00001cm}
+8. \rule{\textwidth}{0.00001cm}
+9. \rule{\textwidth}{0.00001cm}
+10. \rule{\textwidth}{0.00001cm}
+11. \rule{\textwidth}{0.00001cm}
+12. \rule{\textwidth}{0.00001cm}
+13. \rule{\textwidth}{0.00001cm}
+14. \rule{\textwidth}{0.00001cm}
+15. \rule{\textwidth}{0.00001cm}
+16. \rule{\textwidth}{0.00001cm}
+17. \rule{\textwidth}{0.00001cm}
+18. \rule{\textwidth}{0.00001cm}
+19. \rule{\textwidth}{0.00001cm}
+20. \rule{\textwidth}{0.00001cm}
+\end{DoubleSpace}
+
+### Writers continue self-introduction, thinking about the questions their reader asked
+
+\begin{DoubleSpace}
+My self-introduction: \hrulefill \
+\rule{\textwidth}{0.00001cm}
+\rule{\textwidth}{0.01cm}
+\rule{\textwidth}{0.00001cm}
+\rule{\textwidth}{0.01cm}
+\rule{\textwidth}{0.00001cm}
+\rule{\textwidth}{0.01cm}
+\rule{\textwidth}{0.00001cm}
+\rule{\textwidth}{0.01cm}
+\end{DoubleSpace}
