@@ -6,4 +6,6 @@ In a conversation the participants cooperate to make communication successful. T
 
 The writer has to imagine what the reader is thinking. The writer has to have a feeling for who the audience is and what they want to hear from the writer. The writer must always ask, What question might the reader ask about what I said last? This should determine what the writer writes next. The writer should try to answer that imagined question.
 
+This means being self-conscious about what you are saying. It's good to wonder if you are saying the right thing, or saying it right.
+
 As the title, '\currenttitle' says, think of writing as a conversation.
