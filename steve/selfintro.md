@@ -105,7 +105,7 @@ The *unknown self* is things about the self that the self doesn't know and other
 
 \end{multicols}
 
-## Activity: Drawing your and your partners' Johari Windows
+## Activity 1: Drawing your and your partners' Johari Windows
 
 ### What are you and your partners' characteristic?
 
@@ -214,7 +214,7 @@ In your *unknown self*, put characteristics you would like to have, but don't kn
 
 Are your partners good judges of character? Are you a good judge of your own character? What they said about you and what you said about yourself may not be true. It may just be wishful thinking or you may be too critical of yourself.
 
-## Activity: Questions from the audience
+## Activity 2: Questions from the audience
 
 For the reasons given on \pref{writing-as-conversation} in \titleref{a-writers-toolbox}, writers need to have an understanding of what question readers want them to answer next. We are going to practice answering question from a reader when writing about ourselves.
 
@@ -269,3 +269,61 @@ My self-introduction: \hrulefill \
 \rule{\textwidth}{0.00001cm}
 \rule{\textwidth}{0.01cm}
 \end{DoubleSpace}
+
+## Activity 3: My mindmap of myself
+
+\vfill*
+\vfill*
+
+## Homework: 70 words about yourself
+
+### Advice
+
+#### Don't say, I have a mother and a father, X brothers and X sisters.
+
+Everyone has a family. It's not interesting. Do you think the readers want to find out about your brothers and sisters? If you're not ready to answer questions about your brothers and sisters, (or if you're not ready to say more about your relationship with them), don't mention them.
+
+At this moment, your brothers and sisters are probably writing the same words, ``I have X brothers and X sisters.'' What do they want to say about you? Probably nothing. Don't write about them.
+
+#### Say how you are different
+
+It's interesting to read how people are different than others. It's not interesting reading all the self-introductions when every person says the same thing. Try to be interesting.
+
+#### Use your Johari window and mindmap
+
+These are things you and other people have said. They can help you. You don't have to use all the information. Add ideas that you think are better than the ones in the Johari window and mindmap.
+
+#### an author's mindmap
+
+### Example self-introduction
+
+Here is the self-introduction one of the authors wrote using his mindmap.
+
+    I came to 
+#### an author's mindmap
+
+### Example self-introduction
+
+Here is the self-introduction one of the authors wrote using his mindmap.
+
+    I came to Taiwan to learn Chinese and teach English, but I fell out 
+    of love with natural language and fell in love with computer 
+    languages. Well, I didn't really fall out of love with Chinese. I am 
+    still grateful when people give me a chance to talk to them in 
+    Chinese. But I devote very little time to learning it. I spend all 
+    my time on the computer when I am not teaching developing computer 
+    apps. Writing computer programs is easier than teaching English. The 
+    students don't do what I want, but I can get the computer to do what 
+    I want. It is fun to meet a problem when writing code, and be able 
+    to find a solution. The students, on the other hand, challenge the 
+    image I have of myself of being a person who is effective. The 
+    students make feel ineffective. The cognitive conflict drives me 
+    harder.
+
+    Still, I love Taiwan, and intend to stay here for the immediate 
+    future, even though my wife went back to Japan. The Japanese are 
+    over-regimented and she didn't like the "loose" attitude to rules in 
+    Taiwan. I like that actually. Although, I wish Taiwanese drivers 
+    would follow the rules of the road more carefully. I ride a bicycle 
+    and I fear being killed by a young motorcycle rider running a red 
+    light. I love bicycles. I don't like motorcycles.
