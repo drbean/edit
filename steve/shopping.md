@@ -22,6 +22,10 @@ Market researchers study the reasons for (and consequences of) consumer confusio
 
 ## Format of essay
 
+We are going to use the ``scientific'' IMRD format to write our report, even though the experiment/experience we are writing about is personal.
+
+Suppose you are going to write about buying small gas cylinders for a portable gas stove which you cook rice on at QuanLian.
+
 1. Introduction: Why? What have I and other people done and said? Subjective
 
    Using a small portable gas stove to cook rice.
