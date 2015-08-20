@@ -19,6 +19,8 @@
 
 # Rationale for an unusual kind of essay
 
+\epigraphhead{\epigraph{Do. Think. Write.}{\textit{http://dothinkwrite.blogger.com}}}
+
 A.  Some things we do, it is difficult to see the effect of. For example, brushing your teeth.
 
     What is the effect of your brushing your teeth this morning? Was it good or not good? You can't see your teeth without a mirror. Even then, it is difficult to see your teeth, because they are hidden inside your mouth.
