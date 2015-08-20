@@ -293,18 +293,14 @@ It's interesting to read how people are different than others. It's not interest
 
 These are things you and other people have said. They can help you. You don't have to use all the information. Add ideas that you think are better than the ones in the Johari window and mindmap.
 
-#### an author's mindmap
+#### An author's mindmap
+
+This ![mindmap](mindmap.pdf "Self-introduction: teaching and programming, Taiwan and Japan, bicycles and motorcycles")
 
 ### Example self-introduction
 
 Here is the self-introduction one of the authors wrote using his mindmap.
 
-    I came to 
-#### an author's mindmap
-
-### Example self-introduction
-
-Here is the self-introduction one of the authors wrote using his mindmap.
 
     I came to Taiwan to learn Chinese and teach English, but I fell out 
     of love with natural language and fell in love with computer 
