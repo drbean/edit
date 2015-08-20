@@ -19,7 +19,7 @@
 
 # Rationale for an unusual kind of essay
 
-\epigraphhead{\epigraph{Do. Think. Write.}{\textit{http://dothinkwrite.blogger.com}}}
+\epigraphhead{\epigraph{Do. Think. Write.}{\textit{http://dothinkwrite.blogspot.com}}}
 
 A.  Some things we do, it is difficult to see the effect of. For example, brushing your teeth.
 
