@@ -15,6 +15,61 @@
 1. 3-4 paragraphs, 100 words about an attempt to buy something
 2. Essay on Internet, due Friday night, at the end of Week 4
 
+## Shopping questionnaire
+
+You approach a shopper in the street outside the store. You ask/him her questions about shopping. What questions do you ask?
+Make them interesting questions, not like, ``When do you go shopping?'', but, ``Do you like to shop in the early, early morning?''
+
+1. When questions.
+
+a. \hrulefill \
+\hrulefill \
+b. \hrulefill \
+\hrulefill
+c. \hrulefill \
+\hrulefill
+
+
+1. Where questions.
+
+a. \hrulefill \
+\hrulefill \
+b. \hrulefill \
+\hrulefill
+c. \hrulefill \
+\hrulefill
+
+
+1. Who questions.
+
+a. \hrulefill \
+\hrulefill \
+b. \hrulefill \
+\hrulefill
+c. \hrulefill \
+\hrulefill
+
+1. How questions.
+
+a. \hrulefill \
+\hrulefill \
+b. \hrulefill \
+\hrulefill
+c. \hrulefill \
+\hrulefill
+
+1. Other questions.
+
+a. \hrulefill \
+\hrulefill \
+b. \hrulefill \
+\hrulefill
+c. \hrulefill \
+\hrulefill
+
+
+
+
 ## The problem of shopping
 
 Shopping can be fun but it also can be stressful, especially when you are going to spend a lot of money and have never bought a particular product before.
