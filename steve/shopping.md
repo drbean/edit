@@ -108,23 +108,28 @@ The ojective statements are commonly about actions, things that the person did, 
 
 ## Essay outline
 
-1.  Introduction: Why? What have I and other people done and said? Subjective
+1.  Introduction: Why this topic? What have I and other people done and said? Mostly SUBJECTIVE
 
-    Using a small portable gas stove to cook rice.
+    Using a small portable gas stove to cook rice. Needing to buy gas cans from time to time.
 
-2.  Method: The interaction with the store clerks. Objective
+2.  Method: The interaction with the store clerks. OBJECTIVE
 
-    I couldn't find any gas cans. One clerk showed me, but I couldn't find
-    Clerk: They're over there.
-    I looked and asked a second clerk.
-    Me: Can you tell me where the gas cans are?
-    She showed me. There were only 2 left.
-    Me: Oh.
+		I couldn't find any gas cans. One clerk showed me, but I
+		couldn't find them
 
-3.  Results: What I did with the gas. Objective
+		Clerk: They're over there.
+
+		I looked and asked a second clerk.
+
+		Me: Can you tell me where the gas cans are?
+
+		She showed me. There were only 2 left.
+
+		Me: Oh.
+
+3.  Results: My feelings while buying the gas cans. What I did with the gas. OBJECTIVE and SUBJECTIVE
 
     Water. Rice.
 
-4.  Discussion: What I think about cooking rice with gas and thinking about QuanRien.
-    Subjective
+4.  Discussion: What I think about cooking rice with gas, about shopping and about 全聯. SUBJECTIVE
 
