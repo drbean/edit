@@ -43,7 +43,9 @@ C.  Okay. A lot of our actions are like that. We do things:
 
 All these 3 ways of doing things are good ways to do things, but A. and B. are difficult to talk about. Let's talk and write about C.
 
-This last way of doing things, with an idea about what we want to do, and where we expect an effect, can be called Action Research. In this part, we will be writing essays about what we have done, or what we intend to do, to have an effect. To do that,
+This last way of doing things, with an idea about what we want to do, and where we expect an effect, can be called Action Research. In this part, we will be writing essays about what we have done, or what we intend to do, to have an effect.
+
+To do that,
 
 3. think of something risky, where we are not too sure if there is going to be an effect or not, or if the effect is going to be good or not, 
 4. do it
