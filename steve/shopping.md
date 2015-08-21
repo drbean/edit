@@ -24,7 +24,29 @@ Market researchers study the reasons for (and consequences of) consumer confusio
 
 We are going to use the ``scientific'' IMRD format to write our report, even though the experiment/experience we are writing about is personal.
 
+Some things that we say will be statements of facts, ie, are true or not. These are *objective*. Other things that we say will be opinions, or feelings, or judgements. These may be good or bad, but they can't be said to be true or false. They are *subjective*.
+
 Suppose you are going to write about buying small gas cylinders for a portable gas stove which you cook rice on at QuanLian.
+
+A.  Objective
+
+Example: ``I went to 全聯 to buy some gas cylinders for my portable gas stove.''
+
+Your examples: 1. \hrulefill \
+\hrulefill \
+2. \hrulefill \
+\hrulefill
+
+B.  Subjective
+
+Example: ``I like 全聯.''
+
+Your examples: 1. \hrulefill \
+\hrulefill \
+2. \hrulefill \
+\hrulefill
+
+The ojective statements are commonly about actions, things that you did, that can be confirmed by witnesses, people who saw you at 全聯 that day. The subjective statements are not that kind of statement. They could be generalizations that other people will disagree with, or personal feelings that are difficult for other people to confirm.
 
 1. Introduction: Why? What have I and other people done and said? Subjective
 
