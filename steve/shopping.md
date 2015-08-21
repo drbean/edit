@@ -106,11 +106,13 @@ Your examples: 1. \hrulefill \
 
 The ojective statements are commonly about actions, things that the person did, that can be confirmed by witnesses, people who saw him/her at 全聯 that day. The subjective statements are not that kind of statement. They could be ideas or generalizations that other people will disagree with, or personal feelings that are difficult for other people to confirm.
 
+## Essay outline
+
 1.  Introduction: Why? What have I and other people done and said? Subjective
 
     Using a small portable gas stove to cook rice.
 
-2. Method: The interaction with the store clerks. Objective
+2.  Method: The interaction with the store clerks. Objective
 
     I couldn't find any gas cans. One clerk showed me, but I couldn't find
     Clerk: They're over there.
@@ -119,10 +121,10 @@ The ojective statements are commonly about actions, things that the person did, 
     She showed me. There were only 2 left.
     Me: Oh.
 
-3. Results: What I did with the gas. Objective
+3.  Results: What I did with the gas. Objective
 
-   Water. Rice.
+    Water. Rice.
 
-4. Discussion: What I think about cooking rice with gas and thinking about QuanRien.
-   Subjective
+4.  Discussion: What I think about cooking rice with gas and thinking about QuanRien.
+    Subjective
 
