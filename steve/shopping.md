@@ -22,50 +22,50 @@ Make them interesting questions, not like, ``When do you go shopping?'', but, ``
 
 1. When questions.
 
-a. \hrulefill \
-\hrulefill \
-b. \hrulefill \
-\hrulefill
-c. \hrulefill \
-\hrulefill
+    a. \hrulefill \
+    \hrulefill \
+    b. \hrulefill \
+    \hrulefill
+    c. \hrulefill \
+    \hrulefill
 
 
 1. Where questions.
 
-a. \hrulefill \
-\hrulefill \
-b. \hrulefill \
-\hrulefill
-c. \hrulefill \
-\hrulefill
+    a. \hrulefill \
+    \hrulefill \
+    b. \hrulefill \
+    \hrulefill
+    c. \hrulefill \
+    \hrulefill
 
 
 1. Who questions.
 
-a. \hrulefill \
-\hrulefill \
-b. \hrulefill \
-\hrulefill
-c. \hrulefill \
-\hrulefill
+    a. \hrulefill \
+    \hrulefill \
+    b. \hrulefill \
+    \hrulefill
+    c. \hrulefill \
+    \hrulefill
 
 1. How questions.
 
-a. \hrulefill \
-\hrulefill \
-b. \hrulefill \
-\hrulefill
-c. \hrulefill \
-\hrulefill
+    a. \hrulefill \
+    \hrulefill \
+    b. \hrulefill \
+    \hrulefill
+    c. \hrulefill \
+    \hrulefill
 
 1. Other questions.
 
-a. \hrulefill \
-\hrulefill \
-b. \hrulefill \
-\hrulefill
-c. \hrulefill \
-\hrulefill
+    a. \hrulefill \
+    \hrulefill \
+    b. \hrulefill \
+    \hrulefill
+    c. \hrulefill \
+    \hrulefill
 
 
 
