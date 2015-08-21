@@ -1,5 +1,7 @@
 # Shopping as an experiment
 
+\epigraphhead{\epigraph{Let the buyer beware}{English common law principle}}
+
 ## Plan of work
 	
 * In class
