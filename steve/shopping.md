@@ -58,7 +58,7 @@ Make them interesting questions, not like, ``When do you go shopping?'', but, ``
     c. \hrulefill \
     \hrulefill
 
-1. Other questions.
+1. Other questions (about opinions, etc).
 
     a. \hrulefill \
     \hrulefill \
