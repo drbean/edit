@@ -6,6 +6,7 @@
 	
 * In class
 
+0. Sharing of good/bad shopping experiences for cheap/expensive items online/in stores.
 1. A shopping plan: what happened when you shopped, what you think about the experience
 3. Mind Maps
 
