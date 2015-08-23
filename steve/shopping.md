@@ -136,3 +136,5 @@ The ojective statements are commonly about actions, things that the person did, 
 This is not a very interesting report. What was the effect that the 
 shopper was expecting? Did the shopper get the effect that was expected? 
 Is the shopper happy with the result of the shopping experience?
+
+These questions are not answered.
