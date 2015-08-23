@@ -133,8 +133,11 @@ The ojective statements are commonly about actions, things that the person did, 
 
 4.  Discussion: What I think about cooking rice with gas, about shopping and about 全聯. SUBJECTIVE
 
+## Evaluation of the experience
+
 This is not a very interesting report. What was the effect that the 
 shopper was expecting? Did the shopper get the effect that was expected? 
 Is the shopper happy with the result of the shopping experience?
 
-These questions are not answered.
+These questions are not asked and answered in the essay, but they should 
+be.
