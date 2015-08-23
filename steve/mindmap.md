@@ -18,3 +18,11 @@ A: Any form is OK. It's just a way of helping you prepare for writing. The aim i
 Q: What are the arrows connecting words for?
 
 A: Ideas are similar to each other or very different, or not connected. When you are writing, you will organize what you want to say. Ideas which are similar or very different will go together in what you write. The arrows can help you organize what you want to say.
+
+Q: So, why should I do a mindmap?
+
+A: You have to think before you start writing. A mindmap is thinking before you start writing.
+
+Q: Any last word?
+
+A: Remember this: The better the mindmap, the better the essay.
