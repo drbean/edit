@@ -311,11 +311,11 @@ Here is the self-introduction one of the authors wrote using his mindmap.
     still grateful when people give me a chance to talk to them in 
     Chinese. But I devote very little time to learning it. I spend all 
     my time on the computer when I am not teaching developing computer 
-    apps. Writing computer programs is easier than teaching English. The 
-    students don't do what I want, but I can get the computer to do what 
-    I want. It is fun to meet a problem when writing code, and be able 
-    to find a solution. The students, on the other hand, challenge the 
-    image I have of myself of being a person who is effective. The 
+    apps. Writing computer programs is easier than teaching English.
+    The students don't do what I want, but I can get the computer to do 
+    what I want. It is fun to meet a problem when writing code, and be 
+    able to find a solution. The students, on the other hand, challenge 
+    the image I have of myself of being a person who is effective. The 
     students make feel ineffective.
 
     Still, I love Taiwan, and intend to stay here for the immediate 
