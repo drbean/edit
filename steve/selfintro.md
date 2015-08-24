@@ -2,6 +2,9 @@
 
 # Self-introductions
 
+\epigraphhead{\epigraph{I Yam What I Yam}{Popeye}}
+
+
 ## Plan of work
 	
 * In class
