@@ -19,6 +19,12 @@ Q: What are the arrows connecting words for?
 
 A: Ideas are similar to each other or very different, or not connected. When you are writing, you will organize what you want to say. Ideas which are similar or very different will go together in what you write. The arrows can help you organize what you want to say.
 
+Q: I don't like mindmaps. What is an alternative to mindmaps?
+
+A: You can try *brainstorming*. Write down all the ideas that come into your head, even if they appear silly. The aim is to write down as many ideas as you can think of, quickly. Because you should do it quickly, it may be best to write down your ideas in Chinese. After, circle the ideas that you like, and join the ideas that go together with arrows.
+
+Actually brainstorming and mindmaps are probably the same thing.
+
 Q: So, why should I do a mindmap?
 
 A: You have to think before you start writing. A mindmap is thinking before you start writing.
