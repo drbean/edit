@@ -316,7 +316,7 @@ Here is the self-introduction one of the authors wrote using his mindmap.
     what I want. It is fun to meet a problem when writing code, and be 
     able to find a solution. The students, on the other hand, challenge 
     the image I have of myself of being a person who is effective. The 
-    students make feel ineffective.
+    students make me feel ineffective.
 
     Still, I love Taiwan, and intend to stay here for the immediate 
     future, even though my wife went back to Japan. The Japanese are 
