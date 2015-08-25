@@ -296,6 +296,8 @@ It's interesting to read how people are different than others. It's not interest
 
 These are things you and other people have said. They can help you. You don't have to use all the information. Add ideas that you think are better than the ones in the Johari window and mindmap.
 
+\vfill*
+
 #### An author's mindmap
 
 This ![mindmap](mindmap.pdf "Self-introduction: teaching and programming, Taiwan and Japan, bicycles and motorcycles")
