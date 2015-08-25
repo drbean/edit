@@ -4,7 +4,7 @@
 % \setcitestyle{numbers}
 
 \renewcommand{\prebibhook}{%
-These are works used in the
+The following works were used in the
 writing of this textbook.}
 
 \bibname
