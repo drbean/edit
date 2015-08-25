@@ -9,3 +9,5 @@ The writer has to imagine what the reader is thinking. The writer has to have a 
 This means being self-conscious about what you are saying. It's good to wonder if you are saying the right thing, or saying it right.
 
 As the title, '\currenttitle' says, think of writing as a conversation.
+
+This kind of conversation is different than the conversation that writing allows you to have with yourself. For that kind of conversation, see [Writing as a way of thinking].
