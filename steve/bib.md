@@ -1,18 +1,19 @@
 \cleardoublepage
 
-\bibliographystyle{plainnat}
+% \bibliographystyle{plainnat}
+% \setcitestyle{numbers}
 
 \renewcommand{\prebibhook}{%
 These are works used in the
 writing of this textbook.}
 
 \bibname
-\begin{thebibliography}{ hexlabeli }
+\begin{thebibliography}{99}
 
-\bibitem[The Act of Writing(1995)]{chandler}
-  author = {Daniel Chandler},
-  title = {The Act of Writing},
-  publisher = {Prifysgol Cymru},
-  date = {1995}
+\bibitem[Chandler(1990)]{chandler}
+  Daniel Chandler,
+  The Act of Writing,
+  Prifysgol Cymru,
+  1995.
 
 \end{thebibliography}
