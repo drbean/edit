@@ -219,7 +219,7 @@ Are your partners good judges of character? Are you a good judge of your own cha
 
 ## Activity 2: Questions from the audience
 
-For the reasons given on \pref{writing-as-conversation} in \titleref{a-writers-toolbox}, writers need to have an understanding of what question readers want them to answer next. We are going to practice answering question from a reader when writing about ourselves.
+For the reasons given in [Writing as conversation] on \pref{writing-as-conversation} in \titleref{a-writers-toolbox}, writers need to have an understanding of what question readers want them to answer next. We are going to practice answering question from a reader when writing about ourselves.
 
 ### Arrangement of writers and readers
 
