@@ -300,7 +300,7 @@ These are things you and other people have said. They can help you. You don't ha
 
 #### An author's mindmap
 
-This ![mindmap](mindmap.pdf "Self-introduction: teaching and programming, Taiwan and Japan, bicycles and motorcycles")
+This ![mindmap](small_mind.pdf "Self-introduction: teaching and programming, Taiwan and Japan, bicycles and motorcycles")
 
 ### Example self-introduction
 
