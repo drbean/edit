@@ -6,13 +6,18 @@ Ask yourself, Am I enjoying myself?
 
 It's creative. You're building something. Have fun.
 
-Here is a list of things you should think about (in order of importance):
+Here is a list of things to keep in your mind (in order of importance):
 
-* Content
-* Organization
-* Vocabulary
-* Grammar
-* Spelling and mechanics (ie, spacing, punctuation, etc)
+1. _Content_ (ie, your ideas)
+1. _Organization_ (ie, ordering your ideas so that the reader can understand them, and see the connections between them, easily)
+1. _Vocabulary_ (ie, the words you use)
+1. _Grammar_ (ie, putting the words together following the rules of English)
+1. _Spelling and mechanics_ (ie, spacing, punctuation, etc)
+
+Can you think about 2. Organization, without forgetting about 4. Grammar?
+Can you think about 3. Vocabulary without forgetting about 1. Content?
+
+It's difficult! You have to keep the five things in mind continually while you write the essay.
 
 Here, from an unidentified textbook, is a list of questions about organization you should be asking yourself as you write:
 
