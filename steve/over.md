@@ -19,7 +19,7 @@ Or,
 
 Or,
 
-	Some female students get better English grades than most male students.
+	More female students get good English grades than male students.
 
 Generalizing is talking about *all* cases of something, when you only know about *some* cases. A generalization is a statement based on particular examples, but which talks about all possible examples.
 
