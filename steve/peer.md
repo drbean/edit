@@ -1,6 +1,6 @@
 ## Peer evaluation
 
-What do you do after finishing your writing assignment and submitting it? It shouldn't be something you never think about again. You should continue to think about what you were happy about in the essay and what you felt wasn't successful. Perhaps you can find something about your writing that you think you could improve. Perhaps you can study something to make this improvement, so your next essay is more successful.
+What do you do after finishing your writing assignment and submitting it? It shouldn't be something you never think about again. You should continue to think about what you were happy about in the essay and what you felt wasn't successful. You can find enjoyment from having written a good essay. And, perhaps you can find something about your writing that you think you could improve. Perhaps you can study something to make this improvement, so your next essay is more successful.
 
 One way to remember what you did in your essay is to read your peers' essays and evaluate them. When you are evaluating them, you are comparing them with your own essay. You judge the successes and failures of their essays by comparing them with your own successes and failures. When you are evaluating their essays, you are evaluating your own essay again. Peer evaluation can help the *evaluator* be a better writer!
 
