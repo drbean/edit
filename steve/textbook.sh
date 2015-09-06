@@ -26,6 +26,7 @@ pandoc                                                   \
 	selfintro.md                                     \
 	actionresearch.md                                \
 	imrd.md                                          \
+	survey.md                                        \
 	over.md                                          \
 	shopping.md                                      \
 	adventure.md                                     \
