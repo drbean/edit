@@ -8,15 +8,15 @@ The teacher may require your class to do peer evaluation.
 
 One way the teacher may do this is:
 
-1. Individually or in groups, require scores to be given for each essay,
-2. Calculate a peer grade, given by all the students for each essay,
-3. Factor this peer grade into the course grade for this assignment,
-4. Deduct points from students who don't grade their peers' essays.
-
-Another way the teacher may do this is:
-
 1. Get students to think about appropriate feedback they can give to peers,
 2. Provide forms for students to write comments,
 3. Get students to think of questions to ask writers,
 4. Model the peer review process,
 5. Have groups follow these principles doing peer review in class.
+
+Another way the teacher may do this is:
+
+1. Individually or in groups, require scores to be given for each essay,
+2. Calculate a peer grade, given by all the students for each essay,
+3. Factor this peer grade into the course grade for this assignment,
+4. Deduct points from students who don't grade their peers' essays.
