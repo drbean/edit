@@ -1,5 +1,5 @@
 
-## The Discussion: Drawing conclusions but avoiding overgeneralizations
+## The Discussion: Avoiding overgeneralizations
 
 	Female students get better English grades than male students.
 
