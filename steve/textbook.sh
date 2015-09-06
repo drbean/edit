@@ -32,6 +32,7 @@ pandoc                                                   \
 	adventure.md                                     \
 	backmatter.md                                    \
 	peer.md                                          \
+	inclass.md                                       \
 	adjectives.md                                    \
 	awl.md                                           \
 	bib.md                                           \
