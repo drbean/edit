@@ -29,6 +29,7 @@ pandoc                                                   \
 	shopping.md                                      \
 	adventure.md                                     \
 	backmatter.md                                    \
+	peer.md                                          \
 	adjectives.md                                    \
 	awl.md                                           \
 	bib.md                                           \
