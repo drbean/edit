@@ -37,3 +37,9 @@ Background/scene, What happened, Climax (un/happy end), Moral,
 =, =, =, =,
 Introduction, Method, Results, Conclusion/discussion  }
 
+## Difficulties with the IMRD format
+
+### Confusing *Method* and *Results*
+
+When we are writing an account of something we have already done living our lives: It is difficult to keep *Method* (what we did) and *Results* (what happened when we did it) separate in our minds. It is easier if we think of *Method* and *Results* as the telling of a story. *Method* is what happened first and not so exciting. *Results* is what happened at the end and the most exciting part.
+
