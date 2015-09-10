@@ -18,3 +18,15 @@ After one hour and again half an hour before the end, we will *stand up*, *leave
 
 Take note of the teacher's grading system. The exams may be worth a smaller percentage of the grade than the essays written for homework.
 
+If there are two essays, better than writing a great first essay and not writing a second essay at all is writing a so-so first one and a so-so second one.
+
+If there is no second essay, the maximum points for it can only be zero, for an
+
+	average grade of 100 percent + 0 percent = 50 percent,
+
+put probably less than 50 percent. If there are two so-so essays, the grade would be something like
+
+	the average of 60 percent + 60 percent = 60 percent,
+
+which is better than 50 percent.
+
