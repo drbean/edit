@@ -30,6 +30,7 @@ pandoc                                                   \
 	over.md                                          \
 	shopping.md                                      \
 	adventure.md                                     \
+	design.md                                        \
 	backmatter.md                                    \
 	peer.md                                          \
 	inclass.md                                       \
