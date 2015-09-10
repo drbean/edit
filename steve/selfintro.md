@@ -288,9 +288,9 @@ Everyone has a family. It's not interesting. Do you think the readers want to fi
 
 At this moment, your brothers and sisters are probably writing the same words, ``I have X brothers and X sisters.'' What do they want to say about you? Probably nothing. Don't write about them.
 
-#### Say how you are different
+#### Say how you are different. Describe contrasts
 
-It's interesting to read how people are different than others. It's not interesting reading all the self-introductions when every person says the same thing. Try to be interesting.
+It's interesting to read how people are different than others. It's not interesting reading all the self-introductions when every person says the same thing. Try to be interesting. Contradictions are interesting. For example, not being afraid of heights, but being afraid of speaking in front of people is a contradiction, or contrast. Liking one thing, but not liking a similar other thing is also a contrast.
 
 #### Use your Johari window and mindmap
 
