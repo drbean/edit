@@ -327,3 +327,27 @@ Here is the self-introduction one of the authors wrote using his mindmap.
     would follow the rules of the road more carefully. I ride a bicycle 
     and I fear being killed by a young motorcycle rider running a red 
     light. I love bicycles. I don't like motorcycles.
+
+## Additional essays
+
+### An essay introducing your partner
+
+A introduces B, B introduces C, C introduces A.
+
+Talk to them, find out what kind of person they are.
+
+### Plans, goals and dreams
+
+The immediate, the short-term, and the long-term
+
+In what situation do you want to be:
+
+- tomorrow, 
+- next year,
+- 20 years in the future
+
+Write equal amounts about each period.
+
+Don't talk about family.
+
+Not them, you.
