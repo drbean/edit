@@ -47,12 +47,18 @@ This last way of doing things, with an idea about what we want to do, and where 
 
 To do that,
 
-3. think of something risky, where we are not too sure if there is going to be an effect or not, or if the effect is going to be good or not, 
-4. do it
-5. think about the effect
-6. write it up:
+1. think of something risky, where we are not too sure if there is going to be an effect or not, or if the effect is going to be good or not, 
+2. do it
+3. think about the effect
+4. write it up:
 	
 	i. the idea
 	ii. what we did
 	iii. what was the effect
 	iv. what did we learn
+
+Remember: Everyone likes to be successful, to achieve what they set out to achieve, but ..
+
+1. Your essay may be more interesting if you are unsuccessful.
+2. The teacher won't give you a higher grade if your idea worked. Your grade will be higher if you analyze the results of what you did more.
+3. You have more to analyze if the results were not what you expected.
