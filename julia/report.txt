@@ -30,10 +30,15 @@ Following the analysis of the situation and a review of the relevant literature,
 （二）建立出院藥物衛教流程：籌畫出院領藥流程公告製作， 並宣導出院藥物衛教重要性及執行出院藥物衛教。
  3. Planning an in-hospital medication education group: Following discussion with the unit pharmacist, and confirming the medication education group topic, arranging a routine of regular monthly medication education group.
 （三）規劃住院藥物衛教團體，與單位藥師討論後，確認藥物衛教團體主題，安排每月定期常規性藥物衛教團體。
+
+IV. Results
 肆、成果表現：
  
+ 1. Readmission rates: On the basis of July discharges of 45 and September discharges of 49, the 60-day readmission rates were 6.67% and 18.37% respectively, for an average of 12.52%, reaching 13.95% of the project goal.
 （一）再入院率：七、八月出院人數分別為45人次及49人次，60日再住院率分別為6.67％及18.37％平均再入院率為12.52％，專案目標達成率為13.95％。
+ 2. Patient education completion rates went from 44% to 96%, or 122.72% of the project goal. 【（98.0-44.0）/（44.0）*100%=122.72％】。
 （二）衛教完整率：由44％上升至96％（圖三），目標達成率為122.72％【（98.0-44.0）/（44.0）*100%=122.72％】。
+ 3. Medication group education satisfaction rates: The unit medication education groups met regularly twice a month from April, 2014. For the 59 people participating in 10 meetings, there was an average satisfaction rating of 87.56%.
 （三）藥物團體衛教滿意度：單位藥物定期衛教團體自103年4月起開始舉行，每月舉辦二次，共舉辦10次，參與人數：59人次，平均滿意度為87.56％。
 
 本專案藉由制定精神專科性出院準備服務紀錄單，改變出院藥物衛教流程並增加住院期間藥物衛教團體，降低了病人60日內再入院率至12.52％，護理人員衛教執行率可上升至98％，雖無法完全避免病人再入院，但是藉由此專案，護理人員再病人一入院時可依病人個別需求進行評估，於住院期間即可進行相關衛教指導，住院期間跨團隊藥師合作進行藥物衛教團體，出院時護理人員再針對病人出院帶藥進行再次提醒執行相關衛教，同仁反應專案進行後，辦理病人出院時感覺完整照護。
