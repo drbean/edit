@@ -4,6 +4,17 @@ A proposal to improve psychiatric ward readmission rates
 I. Rationale and background
 In 2013, the number of patients readmitted to the hospital's psychiatric ward within 60 days totaled 80, for a readmission rate of 14.55%, 1.86 times the 2012 readmission rate of 7.81%. These readmissions not only created a burden for the patients and their families, and a waste of medical treatment resources for the hospital, they also increased clinical nursing staff's feelings of ineffictiveness. Accordingly, the unit was motivated to develop a series of improvements.
 
+2012-2013 Psychiatric ward readmission rates
+The rate was calculated as a percentage of the number of 60-day readmissions during each period to the number of discharges within the same period.
+The rate was calculated as a percentage of the number of 60-day readmissions to the number of discharges.
+2012, Jan-Mar
+Apr-Jun
+Jul-Sep
+Oct-Dec
+
+Total discharges (2013): 550
+Average monthly discharges: 46
+
 II. Problem structure and countermeasure investigation
 貳、問題結構與對策措施探討：
 An analysis of returns from a survey conducted from February 15 to February 28, 2014 showed 
