@@ -7,8 +7,8 @@ In 2013, the number of patients readmitted to the hospital's psychiatric ward wi
 First figure
 
 2012-2013 Psychiatric ward readmission rates
-The rate was calculated as a percentage of the number of 60-day readmissions during each period to the number of discharges within the same period.
-The rate was calculated as a percentage of the number of 60-day readmissions to the number of discharges.
+The rate is the number of 60-day readmissions during each period, calculated as a percentage of the number of discharges within the same period.
+The rate is the number of 60-day readmissions, calculated as a percentage of the number of discharges.
 2012, Jan-Mar
 Apr-Jun
 Jul-Sep
