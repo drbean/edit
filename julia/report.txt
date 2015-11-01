@@ -6,6 +6,7 @@ In 2013, the number of patients readmitted to the hospital's psychiatric ward wi
 
 II. Problem structure and countermeasure investigation
 貳、問題結構與對策措施探討：
+An analysis of returns from a survey conducted from February 15 to February 28, 2014 showed 
 2014年02月15日至02月28日進行回收問卷相關分析發現：病人再入院與病人因素佔49.78％為最主要原因，其次是病情因素佔33.48％，而醫療處置相關因素則佔16.74％（表一）。而主要因素的病人因素中發現病人病識感不佳佔18.94％、未遵從醫囑及未定時返診服藥佔13.22％、家庭因素（無法照顧、喘息服務）佔10.57％、前次要求自動出院佔7.05％。經現況調查資料及特性要因分析後，確認問題為精神病人再住院率高14.55％，其主要原因有：病人病識感不佳，出院衛教未落實。
 參、對策行動過程：
 經現況分析及參考相關文獻查證後專案小組提出六項解決方案，並依決策矩陣圖分析決定採行方案為：
