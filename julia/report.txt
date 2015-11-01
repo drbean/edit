@@ -4,6 +4,8 @@ A proposal to improve psychiatric ward readmission rates
 I. Rationale and background
 In 2013, the number of patients readmitted to the hospital's psychiatric ward within 60 days totaled 80, for a readmission rate of 14.55%, 1.86 times the 2012 readmission rate of 7.81%. These readmissions not only created a burden for the patients and their families, and a waste of medical treatment resources for the hospital, they also increased clinical nursing staff's feelings of ineffectiveness. Accordingly, the unit was motivated to develop a series of improvements.
 
+First figure
+
 2012-2013 Psychiatric ward readmission rates
 The rate was calculated as a percentage of the number of 60-day readmissions during each period to the number of discharges within the same period.
 The rate was calculated as a percentage of the number of 60-day readmissions to the number of discharges.
@@ -33,6 +35,7 @@ Following the analysis of the situation and a review of the relevant literature,
 
 IV. Results
 肆、成果表現：
+
  
  1. Readmission rates: On the basis of July discharges of 45 and September discharges of 49, the 60-day readmission rates were 6.67% and 18.37% respectively, for an average of 12.52%, reaching 13.95% of the project goal.
 （一）再入院率：七、八月出院人數分別為45人次及49人次，60日再住院率分別為6.67％及18.37％平均再入院率為12.52％，專案目標達成率為13.95％。
@@ -41,6 +44,21 @@ IV. Results
  3. Medication group education satisfaction rates: The unit medication education groups met regularly twice a month from April, 2014. For the 59 people participating in 10 meetings, there was an average satisfaction rating of 87.56%.
 （三）藥物團體衛教滿意度：單位藥物定期衛教團體自103年4月起開始舉行，每月舉辦二次，共舉辦10次，參與人數：59人次，平均滿意度為87.56％。
 
+Second figure
+
+Evaluation of results
+
+Patient education completion rate
+Nursing staff post-discharge education evaluation table
+
+(I can't read the rest of the captions on the graph)
+
+
+
 本專案藉由制定精神專科性出院準備服務紀錄單，改變出院藥物衛教流程並增加住院期間藥物衛教團體，降低了病人60日內再入院率至12.52％，護理人員衛教執行率可上升至98％，雖無法完全避免病人再入院，但是藉由此專案，護理人員再病人一入院時可依病人個別需求進行評估，於住院期間即可進行相關衛教指導，住院期間跨團隊藥師合作進行藥物衛教團體，出院時護理人員再針對病人出院帶藥進行再次提醒執行相關衛教，同仁反應專案進行後，辦理病人出院時感覺完整照護。
 
+Fourth figure
+
+2013 average: 14.55%
+2014 average: 11.26%
 
