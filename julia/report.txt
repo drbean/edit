@@ -23,15 +23,10 @@ An analysis of returns from a survey conducted from February 15 to February 28, 
 2014年02月15日至02月28日進行回收問卷相關分析發現：病人再入院與病人因素佔49.78％為最主要原因，其次是病情因素佔33.48％，而醫療處置相關因素則佔16.74％（表一）。而主要因素的病人因素中發現病人病識感不佳佔18.94％、未遵從醫囑及未定時返診服藥佔13.22％、家庭因素（無法照顧、喘息服務）佔10.57％、前次要求自動出院佔7.05％。經現況調查資料及特性要因分析後，確認問題為精神病人再住院率高14.55％，其主要原因有：病人病識感不佳，出院衛教未落實。
 
 III. Development of countermeasures
-參、對策行動過程：
 On the basis of the analysis of the situation and a review of the relevant literature, a project team put forward a proposal for a six-point program to resolve the situation, developed using a decision-making matrix diagram. It was decided to accept and implement:
-經現況分析及參考相關文獻查證後專案小組提出六項解決方案，並依決策矩陣圖分析決定採行方案為：
  1. Ward discharge preparation service records. Consulting the literature, a Ward Discharge Preparation Service Record form was drawn up for the unit. Its content included needs evaluation, in-hospital patient education, on-discharge instruction, date of discharge, and condition on discharge and prognosis items, among others. This allowed clinical nursing staff's patient assessments at the time of admission to form a basis for patient discharge preparation services.
-（一）建立專科性出院準備服務紀錄單：經收集文獻擬定單位『專科性出院準備服務紀錄單』內容包含需求評估項目、住院期間衛教項目、出院衛教、出院日、出院狀況及動向等，以便提供臨床護理人員針對病人入院時評估做為病人出院準備服務之依據。
  2. An on-discharge medication education process. The writing up of what the patient should be told when he/she took medication home at the time of discharge, and promotion of the implementation of on-discharge medication education and its importance were planned and prepared.
-（二）建立出院藥物衛教流程：籌畫出院領藥流程公告製作， 並宣導出院藥物衛教重要性及執行出院藥物衛教。
  3. In-hospital medication education groups. Following discussion with the unit pharmacist, and having confirmed the group's topic, regular routine monthly medication education groups were arranged.
-（三）規劃住院藥物衛教團體，與單位藥師討論後，確認藥物衛教團體主題，安排每月定期常規性藥物衛教團體。
 
 IV. Results
 肆、成果表現：
