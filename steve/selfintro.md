@@ -351,3 +351,16 @@ Write equal amounts about each period.
 Don't talk about family.
 
 Not them, you.
+
+### A self-introduction
+
+You wrote about yourself before. Can you remember what you wrote?
+
+Do not write the same thing you wrote before.
+
+Use what you wrote before, but think again about who you are and what you value in yourself.
+
+What do people who know you not know about you? What do you not know about yourself.
+
+Do a mind map first with "the unknown me" in the middle.
+

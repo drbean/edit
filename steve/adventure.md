@@ -149,3 +149,31 @@ Here is the IMRD report of the "adventure"  one of the authors wrote up using hi
 	Japan at the Lunar New Year. Don't join me. I liked the empty 
 	cabin. But probably the plane will be full again, seeing it's the 
 	holiday season.
+
+## Additional essays
+
+### An essay about something risky (with an uncertain outcome) that you did
+
+For homework, you wrote about something you did:
+
+1. A plan: what you hoped/feared would happen,
+2. What did happen,
+3. What you thought about the experience
+
+Rewrite this essay in IMRD format.
+
+1. Introduction: Why did you choose this activity? What did you expect to happen?
+2. Method: What actions did you take in real life?
+3. Results: What was the response of the situation to your actions? What was the result of what you did? The results determine if the outcome was as you expected/hoped.
+4. Discussion: How do you feel about what happened. What did you learn? And what will you do next time?
+
+Do a mind map first with IMRD in the middle.
+
+Write section titles,
+
+- Introduction,
+- Method,
+- Results,
+- Discussion,
+
+each on a new line. Write approximately equal amounts in each section.
