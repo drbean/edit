@@ -141,3 +141,8 @@ Is the shopper happy with the result of the shopping experience?
 
 These questions are not asked and answered in the essay, but they should 
 be.
+
+## Objective/Subjective examples
+
+- Taiwanese tourists pay too much attention to shopping. For example, people go to DaHu just to buy things.
+- I went to QuanLian because I wanted to buy some gas cans.
