@@ -354,13 +354,21 @@ Not them, you.
 
 ### A self-introduction
 
-You wrote about yourself before. Can you remember what you wrote?
+* You wrote about yourself before. Can you remember what you wrote?
 
-Do not write the same thing you wrote before.
+    Do not write the same thing you wrote before.
 
-Use what you wrote before, but think again about who you are and what you value in yourself.
+    Use what you wrote before, but think again about who you are and what you value in yourself.
 
-What do people who know you not know about you? What do you not know about yourself.
+    What do people who know you not know about you? What do you not know about yourself.
 
-Do a mind map first with "the unknown me" in the middle.
+    Do a mind map first with "the unknown me" in the middle.
+
+* Your earlier self-introduction was disappointing.
+
+    Why is your life important? What is the meaning of your life?
+
+    Write another self-introduction. Include only information which shows your life has meaning. Make up a meaning for your life now, if you don't know what that meaning is.
+
+    Do a mind map first with "the meaning of my life" in the middle.
 
