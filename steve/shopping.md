@@ -146,3 +146,21 @@ be.
 
 - Taiwanese tourists pay too much attention to shopping. For example, people go to DaHu just to buy things.
 - I went to QuanLian because I wanted to buy some gas cans.
+
+## A shopping experiment/experience
+
+Write again about a shopping experience you had, _not_ the same one as you wrote about before. Write about buying a different thing.
+
+Include the 4 sub-headings in your report:
+
+* Introduction
+* Method
+* Results
+* Discussion
+
+Do a mind map first with "IMRD" in the middle.
+
+* What did you think about before you set out?
+* What did you do in the store?
+* What happened in the store and when you went home?
+* What do you think about the experience? What did you learn from the experience?
