@@ -21,7 +21,9 @@ A: Ideas are similar to each other or very different, or not connected. When you
 
 Q: I don't like mindmaps. What is an alternative to mindmaps?
 
-A: You can try *brainstorming*. Write down all the ideas that come into your head, even if they appear silly. The aim is to write down as many ideas as you can think of, quickly. Because you should do it quickly, it may be best to write down your ideas in Chinese. After, circle the ideas that you like, and join the ideas that go together with arrows.
+Answer 1: Some *notes* before you start to write. What you are doing is not for show. The teacher won't judge your writing on the basis of anything but the essay itself. Think of it as a work area as you prepare to write.
+
+Answer 2: You can try *brainstorming*. Write down all the ideas that come into your head, even if they appear silly. The aim is to write down as many ideas as you can think of, quickly. Because you should do it quickly, it may be best to write down your ideas in Chinese. After, circle the ideas that you like, and join the ideas that go together with arrows.
 
 Actually brainstorming and mindmaps are probably the same thing.
 
@@ -32,3 +34,7 @@ A: You have to think before you start writing. A mindmap is thinking before you 
 Q: Any last word?
 
 A: Remember this: The better the mindmap, the better the essay.
+
+## Examples of mindmaps
+
+Which is the better mindmap (=work area, in preparation for writing)?
