@@ -24,4 +24,10 @@ writing of this textbook.}
   Cengage Learning,
   2014.
 
+\bibitem[Langan.(2014)]{langan}
+  John Langan,
+  College Writing Skills,
+  Mc-Graw Hill,
+  2014.
+
 \end{thebibliography}
