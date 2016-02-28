@@ -40,7 +40,32 @@ Reporting the method and results:
 ## Class survey
 
 * Everyone responds to everyone else's survey
+
+	* Don't give the same answer as everyone else. Be different.
+
+	* Don't take a lot of care, as there is no time. We should not take more than 15 minutes to answer the 40 questions.
+
+		* Guess the meaning if you don't understand the question.
+
 * Everyone writes up the class's responses using the IMRAD format.
+
+	* How are the results from your classmates the same/different than the results you wrote up for homework?
+
+* Include the four titles:
+
+	* Introduction
+	* Method
+	* Results
+	* Discussion
+
+* If you were not here from Week 14 and did not do the survey, write about where you were those weeks on Saturday
+
+* Saturday, December 12,
+* Saturday, December 19,
+* Saturday, December 26,
+* Saturday, January 2,
+
+	What were you doing, and why was it more important than being in class?
 
 ### Example questions
 
