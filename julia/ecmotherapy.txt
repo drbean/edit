@@ -2,7 +2,7 @@
 Abstract
 
 隨著醫療技術的發展與臨床經驗的累積，讓體外維生系統（又稱為體外膜氧合，以下簡稱ECMO）廣泛地應用於心、肺衰竭以及臨床急救患者，提供受損器官較充裕的恢復時間與治療空間，進而提高存活率。
-With the development of medical technology and the accumulation of clinical experience, extracorporeal life support systems, also called extracorporeal membrane oxygenation (hereafter, ECMO), are becoming widely used with patients suffering heart/lung failure or in intensive care, providing greater freedom in the affected organ's treatment and more time for its recovery, thereby increasing survival rates.
+With the development of medical technology and the accumulation of clinical experience, extracorporeal life support systems, also called extracorporeal membrane oxygenation (hereafter, ECMO), are becoming widely used with patients suffering heart/lung failure or in intensive care, because the procedure creates more opportunities for the affected organ's treatment and provides more time for its recovery, thereby increasing survival rates.
 
 但ECMO導致的合併症，可能影響患者日常生活功能、延長身體康復，更可能衝擊心理安適，降低生活品質。國外研究指出，重症患者心理健康狀態恐影響疾病預後，接受ECMO輔助治療患者出院後的焦慮、憂鬱、心理創傷與生活品質的關係是值得關注的議題，但目前國內有關ECMO患者的研究多著重於存活出院的預測因素分析，尚未探討接受ECMO輔助治療患者焦慮憂鬱、心理創傷與生活品質相關性的研究。因此，本研究目的為了解接受ECMO輔助治療患者焦慮憂鬱、心理創傷與生活品質的情形，以及探討影響生活品質
 的因素。
