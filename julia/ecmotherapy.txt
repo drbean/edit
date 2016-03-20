@@ -8,6 +8,8 @@ With the development of medical technology and the accumulation of clinical expe
 的因素。
 
 However the complications that ECMO leads to can affect the patient's daily life functioning, lengthen the period taken to recuperate and create psychological distress, lowering the quality of life.
+
+Research overseas has indicated that the psychological well-being of critically ill patients, the possibility of this affecting their prognosis, the anxiety, depression, and psychological trauma they experience on discharge from hospital after ECMO-assisted treatment and the effect of this anxiety, depression and anxiety on their quality of life are subjects that deserve attention.
 台灣自1994年施行首例ECMO至今已20多年，收案場所自2006年4月19日進行第一例ECMO輔助治療至2015年12月31日止，共737位患者接受ECMO此一醫療處置，有255位患者存活出院（其中成年患者237位）。本研究採描述性、相關性、橫斷性研究設計，研究場所為北部某醫學中心，採方便取樣，以結構式問卷進行資料收集，問卷包括「醫院焦慮與憂鬱量表」、「事件影響測量表-修訂版」、「健康相關生活品質量表MOS-SF36」、「EQ-5D-3L」等。將收集的資料以SPSS 22.0 for Windows 套裝軟體進行資料建檔及分析，包括：描述性統計及推論性統計(獨立t檢定、皮爾森積差相關分析、線性複迴歸分析)。
 本研究希望藉由豐富的資料庫和足夠的樣本數，可以提供面臨複雜生理問題的此類患者，身、心、社會多面向之醫療與護理照顧，儘早規劃臨床照護方案，亦能與國外研究結果相比較，評價我國醫療照護品質。
 關鍵字：體外維生系統、體外膜氧合、焦慮、憂鬱、心理創傷、生活品質
