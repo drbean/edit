@@ -83,3 +83,15 @@ In addition to personal gifts you can have in mind, but also to receive a gift o
 		- Run-on sentence (RO)
 		- Comma splice (CS)
 
+## Additional essays
+
+### A story that reveals something about your personality
+
+Tell about an event where something happened to you, or you did something that would be interesting to a reader. What does it tell about you?
+
+* Background--Information about what had happened before the event took place.
+* The scene--Like in a movie, things take place in scenes. Answer Who, What, When, Where questions about the scene.
+* What happened--Like in a movie, there is a happy/sad climax and ending.
+* Moral--What is the meaning of the event? What does it show about you? What did you learn? What happened at other times afterward?
+
+Include the 4 titles: Background, The scene, What happened/climax, Moral
