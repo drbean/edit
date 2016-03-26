@@ -29,6 +29,7 @@ We're writing about the trip, not the place we're going to.
 
 * Method
 
+	* What did you do to get here?
 	* What did you today that was different from every time you have taken the trip before?
 
 * Results
