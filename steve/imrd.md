@@ -1,8 +1,8 @@
-# IMRD: a ``scientific'' format
+# IMRAD: a ``scientific'' format
 
-The format for much scientific writing nowadays is IMRD.
+The format for much scientific writing nowadays is IMRAD.
 
-IMRD is 
+IMRAD is 
 
 1. *I*ntroduction--Why you did it or will do it.
 2. *M*ethod--What you did/will do.
@@ -37,7 +37,7 @@ Background, Scene, What happened \& Climax (un/happy end), Moral,
 =, =, =, =,
 Introduction, Method, Results, Conclusion/discussion  }
 
-## Difficulties with the IMRD format
+## Difficulties with the IMRAD format
 
 ### Confusing *Method* and *Results*
 
