@@ -74,6 +74,6 @@ Tell the Taiwan Tourism Bureau what they can expect to/might see as the result o
 Imagine the TTB gave you the money and you did the research. Now stand back and think about your research.
 
 	* Was what you did successful or not?
-	* What is the meaning of what you did?
+	* What is the significance of what you did (Why is it important)?
 	* What advice do you have for the TTB?
 	* What can you (or other people) do if the TTB gives you/them MORE money?
