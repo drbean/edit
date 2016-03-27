@@ -17,7 +17,7 @@ Therefore, the aim of this study is to investigate to what extent patients recei
 
 台灣自1994年施行首例ECMO至今已20多年，收案場所自2006年4月19日進行第一例ECMO輔助治療至2015年12月31日止，共737位患者接受ECMO此一醫療處置，有255位患者存活出院（其中成年患者237位）。本研究採描述性、相關性、橫斷性研究設計，研究場所為北部某醫學中心，採方便取樣，以結構式問卷進行資料收集，問卷包括「醫院焦慮與憂鬱量表」、「事件影響測量表-修訂版」、「健康相關生活品質量表MOS-SF36」、「EQ-5D-3L」等。將收集的資料以SPSS 22.0 for Windows 套裝軟體進行資料建檔及分析，包括：描述性統計及推論性統計(獨立t檢定、皮爾森積差相關分析、線性複迴歸分析)。
 
-It is 20 years since the first ECMO procedure was performed in Taiwan in 1994. Of the 737 cases recorded at a medical center in northern Taiwan, from the center's first in April 19, 2006 through December 31, 2014, 255 patients (237 of whom were adults) survived and were discharged.
+It is 20 years since the first ECMO procedure was performed in Taiwan in 1994. Of the 737 cases recorded at a medical center in northern Taiwan, from the center's first in April 19, 2006 through December 31, 2015, 255 patients (237 of whom were adults) survived and were discharged.
 
 This study employed a descriptive, correlational and cross-sectional research design, with convenience sampling and structured questionnaires to collect dimensional data. The questionnaires included the Hospital Anxiety and Depression Scale, the Impact of Event Scale - Revised (IES-R), the Medical Outcomes Study Short Form 36-Item Health Survey, and the EQ-5D-3L. 
 
