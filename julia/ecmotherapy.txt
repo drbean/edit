@@ -2,14 +2,14 @@
 Abstract
 
 隨著醫療技術的發展與臨床經驗的累積，讓體外維生系統（又稱為體外膜氧合，以下簡稱ECMO）廣泛地應用於心、肺衰竭以及臨床急救患者，提供受損器官較充裕的恢復時間與治療空間，進而提高存活率。
-With the development of medical technology and the accumulation of clinical experience, extracorporeal life support systems, also called extracorporeal membrane oxygenation (hereafter, ECMO), are becoming widely used with patients suffering heart/lung failure or in intensive care, because the procedure creates more opportunities for the affected organ's treatment and provides more time for its recovery, thereby increasing survival rates.
+With the continuing development of medical technology and accumulation of clinical experience, extracorporeal life support systems, also called extracorporeal membrane oxygenation (hereafter, ECMO), have become widely used with patients suffering heart/lung failure or in intensive care, because the procedure creates more opportunities for the affected organ's treatment and provides more time for its recovery, thereby increasing survival rates.
 
 但ECMO導致的合併症，可能影響患者日常生活功能、延長身體康復，更可能衝擊心理安適，降低生活品質。國外研究指出，重症患者心理健康狀態恐影響疾病預後，接受ECMO輔助治療患者出院後的焦慮、憂鬱、心理創傷與生活品質的關係是值得關注的議題，但目前國內有關ECMO患者的研究多著重於存活出院的預測因素分析，尚未探討接受ECMO輔助治療患者焦慮憂鬱、心理創傷與生活品質相關性的研究。因此，本研究目的為了解接受ECMO輔助治療患者焦慮憂鬱、心理創傷與生活品質的情形，以及探討影響生活品質
 的因素。
 
 However the complications that ECMO leads to can affect the patient's daily life functioning, lengthen the period taken to recuperate and create psychological distress, lowering the quality of life.
 
-Research overseas has indicated that the psychological well-being of critically ill patients undergoing ECMO-assisted treatment, the possibility of this affecting their prognosis, the anxiety, depression, and psychological trauma they experience on discharge from hospital and the effect of this anxiety, depression and anxiety on their quality of life are subjects that deserve attention.
+Research overseas has indicated that the psychological well-being of critically ill patients undergoing ECMO-assisted treatment, the possibility of this affecting their prognosis, the anxiety, depression, and psychological trauma they experience on discharge from hospital and the effect of this anxiety, depression and anxiety on their quality of life are all subjects that deserve attention.
 
 However, until now research studies in Taiwan have mostly focused on the analysis of factors predicting survival and discharge from hospital of patients who have received ECMO-assisted treatment and have not yet investigated the effect of anxiety, depression, and psychological trauma on their quality of life.
 
@@ -19,14 +19,14 @@ Therefore, the aim of this study is to investigate to what extent patients recei
 
 It is 20 years since the first ECMO procedure was performed in Taiwan in 1994. Of the 737 cases recorded at a medical center in northern Taiwan, from the center's first in April 19, 2006 through December 31, 2015, 255 patients (237 of whom were adults) survived and were discharged.
 
-This study employed a descriptive, correlational and cross-sectional research design, with convenience sampling and structured questionnaires to collect dimensional data. The questionnaires included the Hospital Anxiety and Depression Scale, the Impact of Event Scale - Revised (IES-R), the Medical Outcomes Study Short Form 36-Item Health Survey, and the EQ-5D-3L. 
+This study employed a descriptive, correlational and cross-sectional research design, and used convenience sampling and structured questionnaires to collect dimensional data. The questionnaires included the Hospital Anxiety and Depression Scale, the Impact of Event Scale - Revised (IES-R), the Medical Outcomes Study Short Form 36-Item Health Survey, and the EQ-5D-3L. 
 
-The collected data was converted into dimensional data and analyzed with the SPSS 22.0 for Windows package. Descriptive and inferential statistics, including independent t-tests, Pearson product-moment correlation coefficients and linear regression relationships, were calculated. 
+The collected data was converted into dimensional data and analyzed with the SPSS 22.0 for Windows package. Descriptive and inferential statistics, including independent t-tests, Pearson product-moment correlation coefficients and linear regression coefficients, were calculated. 
 
 本研究希望藉由豐富的資料庫和足夠的樣本數，可以提供面臨複雜生理問題的此類患者，身、心、社會多面向之醫療與護理照顧，儘早規劃臨床照護方案，亦能與國外研究結果相比較，評價我國醫療照護品質。
 關鍵字：體外維生系統、體外膜氧合、焦慮、憂鬱、心理創傷、生活品質
 
-This study hopes, by means of its large database and adequate number of cases, to provide for multi-faceted medical treatment and nursing care for ECMO patients that takes physical, psychological, and social dimensions into account, helping them with the complex physiological issues that they face.
+This study hopes, by means of its large database and adequate number of cases, to provide for multi-faceted medical treatment and nursing care for ECMO patients that takes into account the physical, psychological, and social ramifications of the complex physiological issues that they face.
 
 It also hopes to expedite the planning of action programs for clinical treatment of ECMO patients, and to allow, by comparison with research results overseas, evaluation of the quality of Taiwanese treatment and care.
 
