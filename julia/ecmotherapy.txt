@@ -25,3 +25,8 @@ The collected data was converted into dimensional data and analyzed with the SPS
 
 本研究希望藉由豐富的資料庫和足夠的樣本數，可以提供面臨複雜生理問題的此類患者，身、心、社會多面向之醫療與護理照顧，儘早規劃臨床照護方案，亦能與國外研究結果相比較，評價我國醫療照護品質。
 關鍵字：體外維生系統、體外膜氧合、焦慮、憂鬱、心理創傷、生活品質
+
+This study hopes, by means of its large database and adequate number of cases, to provide for multi-faceted medical treatment and nursing care for ECMO patients that takes physical, psychological, and social dimensions into account, helping them with the complex physiological issues that they face.
+
+It also hopes to expedite the planning of action programs for clinical treatment of ECMO patients, and to allow, by comparison with research results overseas, evaluation of the quality of Taiwanese treatment and care.
+
