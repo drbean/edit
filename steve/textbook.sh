@@ -25,11 +25,12 @@ pandoc                                                   \
 	mainmatter.md                                    \
 	selfintro.md                                     \
 	actionresearch.md                                \
-	imrd.md                                          \
+	imrad.md                                         \
 	survey.md                                        \
 	over.md                                          \
 	shopping.md                                      \
 	adventure.md                                     \
+	trip.md                                          \
 	examples.md                                      \
 	design.md                                        \
 	backmatter.md                                    \
