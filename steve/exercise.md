@@ -6,9 +6,17 @@ Like karate kata, short formalized activities which will make you a better write
 
 A definition tries to conceptualize, or put into words, something which is real and in the world, something which exists independent of the words. As a result definitions are often not right. They fail to express the nature of the thing defined.
 
-Be critical of the following definitions. Remember, you're not arguing about the *thing being defined*. You're arguing about the *definition*. It may be important to do some description of the thing. But you should only do this to make clear why the definition is not good.
+Be critical of the following definitions. Remember, you're not arguing about the *thing being defined*. You're arguing about the *definition*.
 
-You may also want to provide a better definition, but this is not necessary.
+1. It is important to understand the point of view of the definition.
+
+2. It may be important to do some description of the thing. But you should only do this to make clear why the definition is not good.
+
+3. It is important to say what's wrong with the definition.
+
+3. You may also want to provide a better definition, but this is not necessary.
+
+## Definitions to criticize
 
 1. Marriage at one point was regarded as "the union of a man and his wife." But nowadays, ...
 
