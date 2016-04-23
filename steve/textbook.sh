@@ -33,6 +33,7 @@ pandoc                                                   \
 	trip.md                                          \
 	examples.md                                      \
 	design.md                                        \
+	exercise.md                                      \
 	backmatter.md                                    \
 	peer.md                                          \
 	inclass.md                                       \
