@@ -27,6 +27,12 @@ change. ^[https://en.wikipedia.org/wiki/Design]
 3. no fixed sequence of stages (like, IMRAD) exists – analysis, design and
 	implementation happen at the same time and cannot be separated. ^[https://en.wikipedia.org/wiki/Design]
 
+## What is design
+
+Design is making a plan for the construction of an object. The plan may be a blueprint in architecture, a drawing in engineering drawings, a document in business, a circuit diagram in electronics or a sewing pattern in the fashion industry.^[https://en.wikipedia.org/wiki/Design]
+
+But sometimes, eg in pottery, hairdressing, and graphic design, the actual making of the object is also considered design.^[https://en.wikipedia.org/wiki/Design]
+
 ## So, Taking Action, Suggesting Action
 
 Let's rewrite the self-chosen Action Research project that we wrote up as an IMRAD article, as a design document, for others to follow.
@@ -53,11 +59,11 @@ What it is in games:
 
 	'Developing techniques to manage classrooms where everyone is learning and students are on-task.'
 
-2. 8-10 features of the design. eg for Dr Bean:
+2. 8-10 features of the design. These are things that need to be thought about in making the design, eg for Dr Bean:
 
 	Classroom, textbook, students, learning, task, punishment, reward, involvement, communication, language.
 
-3. A table of contents with 5-6 items. eg for Dr Bean
+3. A table of contents with 5-6 items. These are processes/actions that combine features and happen in designing a solution to the problem, eg for Dr Bean
 
 	a. The circumstances of teacher and students as individuals, and the group as whole
 	b. Motivating individuals to study
@@ -65,6 +71,28 @@ What it is in games:
 	d. Rewarding and punishing students
 	e. Dealing with my personal stress and discomfort
 	f. Radical (or traditional) activities that involve students
+
+## What's wrong with this design document
+
+1. core statement:
+
+  A camp for people to know it that we need to thank for our everything.
+
+2. Feature:
+
+  - We can teach people how to survival in the wild.
+  - How to save water, hunting, fishing, building their shelter,
+  - Cry for help
+  - People can konw herbs, edible food, dangerous animals.
+
+3. Table of contests:
+
+  a. Some survial experts
+  b. Environment introduce(background)
+  c. Tools
+  d. Knowledge of plant and animals
+  e. Life skill
+  a. Teamwork
 
 ## Game Design Document links
 
