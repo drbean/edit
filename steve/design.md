@@ -94,6 +94,22 @@ What it is in games:
   e. Life skill
   a. Teamwork
 
+## Fleshing out" one item in the Table of Contents
+
+Take one item from the Table of Contents, which is a list of the important actions in designing a solution .
+
+Expand this one action into a list of 5-6 items. These 5-6 items are sub-actions, or parts of your original item.
+
+In the title to your message, write the original item as it appeared in your Table of Contents.
+
+So Dr Bean's original item, b. Motivating individuals to study would become:
+
+i. Thinking of interesting activities
+ii. Explaining why learning is exciting
+iii. Making sure students are successful
+iv. Getting good feedback on un/successful activities
+v. Personalizing teaching to student differences.
+
 ## Game Design Document links
 
 http://www.gamasutra.com/view/feature/131791/the_anatomy_of_a_design_document_.php
