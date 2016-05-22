@@ -118,3 +118,21 @@ Alternatives to a Game Design Document http://gamasutra.com/blogs/ErinRobinson/2
 http://www.altdevblogaday.com/2011/08/05/how-i-document-a-game/ dead_link?
 http://www.gdcvault.com/play/580/Writing-Great-Design ppt slides
 http://www.gamasutra.com/view/feature/131632/creating_a_great_design_document.php
+
+## Designing a house
+
+You live somewhere. Think about what is good about it and what is not.
+
+You are your own architect. Design changes to the house. Money is no object.
+
+## Project plans
+
+A plan you are preparing for followers to implement.
+
+Write:
+
+- A core statement
+- A feature set
+- A table of contents
+
+Turn the table of contents into a document. One paragraph for each item in the table of documents.
