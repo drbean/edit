@@ -27,13 +27,13 @@ change. ^[https://en.wikipedia.org/wiki/Design]
 3. no fixed sequence of stages (like, IMRAD) exists – analysis, design and
 	implementation happen at the same time and cannot be separated. ^[https://en.wikipedia.org/wiki/Design]
 
-## What is design
+# What is design
 
 Design is making a plan for the construction of an object. The plan may be a blueprint in architecture, a drawing in engineering drawings, a document in business, a circuit diagram in electronics or a sewing pattern in the fashion industry.^[https://en.wikipedia.org/wiki/Design]
 
 But sometimes, eg in pottery, hairdressing, and graphic design, the actual making of the object is also considered design.^[https://en.wikipedia.org/wiki/Design]
 
-## So, Taking Action, Suggesting Action
+# So, Taking Action, Suggesting Action--Writing it up
 
 Let's rewrite the self-chosen Action Research project that we wrote up as an IMRAD article, as a design document, for others to follow.
 
@@ -118,6 +118,8 @@ Alternatives to a Game Design Document http://gamasutra.com/blogs/ErinRobinson/2
 http://www.altdevblogaday.com/2011/08/05/how-i-document-a-game/ dead_link?
 http://www.gdcvault.com/play/580/Writing-Great-Design ppt slides
 http://www.gamasutra.com/view/feature/131632/creating_a_great_design_document.php
+
+# Design exercises
 
 ## Designing a house
 
