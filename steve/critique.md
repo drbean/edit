@@ -17,3 +17,15 @@ It could be an:
 What is good/not good about the design? Try to understand WHY the designers made the decisions they made.
 
 How would you have done it? What decisions would you have made?
+
+## An exercise critiquing your own design decisions
+
+5 things to think about when looking back at your design
+
+* the reasons behind a design decision,
+* the justification for it,
+* the other alternatives considered,
+* the trade offs evaluated, and
+* the argumentation that led to the decision.
+^[https://en.wikipedia.org/wiki/Design_rationale]
+
