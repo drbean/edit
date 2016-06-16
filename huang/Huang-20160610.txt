@@ -1,0 +1,235 @@
+﻿
+
+Abstract
+In this study, we use factors extracted by factor analysis and adopted in regression analysis to investigate public perceptions and acceptance of hydrogen energy in Taiwan. There are six reliable factors extracted from exploratory factor analysis on 29 five-point Likert-type items. As shown in our regression analysis, the public perception of hydrogen energy as green energy, the public belief in domestic hydrogen industries able to conform to international safety standards, and the public perception of cost advantage of hydrogen gas over petroleum have significantly positive effects on the support for the development of hydrogen energy in Taiwan. While people have high level of concern about the safety of hydrogen and its associated technologies, the unsafe perceptions of hydrogen nature and associated technologies have no significant effects on their support. In contrast, the public belief in domestic hydrogen industries able to conform to international safety standards is a powerful factor to enhance the support for hydrogen energy development.
+
+INTRODUCTION
+Hydrogen energy has been regarded as a hopeful solution to the problem of global warming and climate change resulting from carbon emissions (Hultman and Nordlund 2013). As noted by Elnashaie et al. (2007), a hydrogen economy would bring a bright future to people by using hydrogen as a clean fuel. While the use of hydrogen energy is environmentally friendly, its production and storage are likely unsafe or dangerous for some people. An important developing direction of hydrogen energy in recent decades is to apply it to transportation sectors. For instance, the fuel cell scooter using low-pressure hydrogen storage canisters has been well developed by Asia Pacific Fuel Cell Technologies, Ltd (APFCT) in Taiwan (Chang et al. 2015). However, to successfully compete with traditional fossil fuels used in internal combustion engines, the industrial development of hydrogen vehicle must make more efforts on enhancing its refueling convenience with safe storage. To facilitate the development of hydrogen energy industry, this study will investigate the public perception and support of hydrogen energy in Taiwan. 
+The acceptance of a technology could reflect how personal behavior enables, promotes or supports the use of the technology (Huijts et al. 2012). The reason for studying public perceptions and acceptance of hydrogen will be easily understood, if the development of hydrogen energy industry is our concern. The acceptance of hydrogen has to be high enough in order that hydrogen suppliers can be assured of enough clients (Schulte et al. 2004). The determinants of public perceptions and acceptance of hydrogen technologies were discussed in many previous studies. For example, Zimmer et al. (2009) argued that the public acceptance of a new technology was mainly determined by the extent of personal concernment, emotions in technology assessment, and intuitive risk-benefit assessments. They also indicated that both trust and familiarity would influence risk perception and public acceptance of hydrogen technology. According to the study of van Bree et al. (2010), the market acceptance of hydrogen vehicle for private consumers was conditional on its price, fuel availability, and model availability. In a technology acceptance framework based on psychological theories, Huijts et al. (2012) argued that acceptance of new sustainable energy technologies could be determined by attitude and attitude itself would be further influenced by trust, procedural fairness and distributive fairness. In addition to the above-mentioned studies, Huang and Liu (2008) argued that “learning for supplying” a new technology was a crucial motive to be an early adopter of the technology. In their study of a fuel cell technology, they identified that firms were still willing to adopt a new technology due to sufficient profitability from “learning for supplying” the technology, even though their gains from “learning for using” the technology were not sufficient.
+As shown in the literature, there are mixed results on the research of willingness to pay for hydrogen technologies (Ricci et al. 2008). O’Garra et al. (2007) showed that the residents in four cities (Berlin, London, Luxembourg and Perth) were similarly willing to pay extra bus fare and extra taxes to support the large-scale introduction of hydrogen buses. Zimmer and Welke (2012) also found that people’s willingness to purchase a hydrogen-powered car is obviously higher than their willingness to buy a conventional car with the same price, features, design, and brand, etc. However, according to the study of Haraldsson et al. (2004), most respondents are not willing to pay more for the introduction of fuel cell buses. However, as mentioned in Ricci et al. (2008), the different results shown in previous studies should be cautiously interpreted due to the difficulty in ascertaining respondents’ benefit awareness and their payment commitments.
+Although people seem to have a positive attitude towards hydrogen technologies, they do not really know much about the technologies (Achterberg et al. 2010; Zimmer and Welke 2012). People’s approval of hydrogen technologies is pretty good, while many people need more information about the technologies (Bouallou et al. 2010). Since most consumers are unfamiliar with hydrogen technologies, there is a need to enhance people’s familiarity prior to studying their attitudes and preferences (Roche et al. 2010). Achterberg et al. (2010) argued that people’s cultural predispositions such as trust in technology and environmental concern would enhance their support for hydrogen technology, once they had high knowledge of hydrogen technology. They demonstrated that the level of knowledge about hydrogen technology had a positive effect on the support for the technology. Moreover, Hobman and Frederiks (2014) argued the barriers to purchase green electricity at a premium price might include financial cost, limited knowledge, and limited availability. They found that the subscription rate of green electricity could be increased by improving public awareness and understanding of green electricity, increasing the perceived personal value of subscription, and reducing negative perceptions among customers. Zimmer et al. (2009) indicated that transparent communication, public participation, and demonstration projects could be helpful to improve the acceptance of hydrogen technology. It is important for policymakers to let the information about hydrogen be unrestricted to the end uses of fuel cell vehicles and further extend the information to past and present uses of hydrogen and other aspects of green energy (Bouallou et al. 2010). 
+While the word “hydrogen” is negatively associated with danger or explosion by some people, its associations are mostly neutral for respondents in the literature (Ricci et al. 2008; Zimmer and Welke 2012). Except a small proportion of respondents giving negative associations, the largest share of them had neutral associations (O’Garra et al. 2005; Schmoyer et al. 2006; Zimmer and Welke 2012).  Hickson et al. (2007) found that public perceptions of hydrogen as a fuel were mostly positive with little concerns about safety and the attitudes towards hydrogen hybrid internal combustion engine bus were more positive than those towards conventional bus. Similarly, public perceptions about the safety of various hydrogen applications were mostly positive (Schmoyer et al. 2006). Zimmer and Welke (2012) also found that associations with “hydrogen vehicles” were mostly positive among respondents. 
+Hydrogen energy is an emerging and developing industry in Taiwan. More and more universities, research institutes, and firms in Taiwan have been undertaking the development of hydrogen energy and fuel cell technologies in recent years. Do the people in Taiwan support the development of hydrogen energy? How are Taiwanese perceptions and attitudes towards hydrogen energy?  Do they concern the safety of hydrogen and associated technologies? The purpose of this study is to empirically investigate the effects of green-energy perception, risk perception, and cost perception of hydrogen technology on the support for hydrogen energy in Taiwan. 
+
+RESEARCH METHODS AND FACTOR IDENTIFICATION
+In this study, we used a closed-ended questionnaire to gather information from Taiwan’s individuals via handouts and online access in 2014. The main purpose of this questionnaire is to gather data of public perceptions, acceptance, and support about hydrogen energy. All respondents were asked to indicate their level of agreement on each five-point Likert item. Their responses to each statement were coded by a five-point Likert-type scale ranging from 1(strongly disagree) to 5(strongly agree). The selected questions into our analysis are listed in Table 1. Moreover, some demographic questions such as sex, age, education, and location for the respondents are also included in this questionnaire. The original sample size is up to 858. Respondents are from various areas in Taiwan. In this study, 61% of respondents are male and 71% of respondents are youth under 30 years old. Based on their location in Taiwan, respondents can be roughly categorized into three groups: northern, central-southern, and eastern. Our research methods include item analysis, factor analysis and linear regression. They will be discussed as follows.
+
+1. Item Analysis: 
+In addition to the mean of each item, we show two kinds of share percentage for each item in Table 1. One is share of “neutral” response (with a numeric value 3). The other is share of “agreement” response (with a numeric value 4 or 5). “Agreement” represents the case that a respondent agrees or strongly agrees with the statement of item. Main findings in Table 1 are indicated as follows. 
+(1). Most of item means are greater than three except the item No. 17. 
+(2). The shares of “agreement” response are mostly greater than 40%, and they are mostly higher than those of “neutral” response. 
+(3). The total shares of “neutral” and “agreement” response are mostly larger than 80%. Those findings show that only a minor share of respondents disagrees or strongly disagrees with the statements in our questionnaire. 
+(4). The responses of five items (No. 21-25) associated with the support of hydrogen energy demonstrate that most respondents agree or strongly agree to support the development of hydrogen energy. The share of respondents disagreeing or strongly disagreeing to support hydrogen energy is lower than 10%.
+(5). The responses of most items (No. 6-10, 16, 18-19) related to the unsafe perceptions of hydrogen demonstrate that only minor share of respondents  (less than 23%) disagree or strongly disagree on the statements of “unsafe” hydrogen. The share of agreeing on the statements of unsafe hydrogen (No. 6-10, 16, 18-19) is obviously larger than that of viewing them as neutral statements and disagreeing on the statements. Hydrogen is not regarded as something safe for most respondents.
+We use Cronbach’s Alpha to measure the internal consistency (reliability) of all items. The 29 items with high “corrected item - total correlation”, “squared multiple correlation”, and “Cronbach’s Alpha if item deleted” are finally selected in our analysis. The values of Cronbach’s Alpha can be found in Table 2. 
+
+2. Factor Analysis: 
+Then, we perform an exploratory factor analysis (EFA) to identify underlying factors for explaining the pattern of correlations within a set of observed variables. Factor analysis is a technique of dimension reduction to identify a small number of factors, which can explain most of the variance observed in a large number of variables. Our analytical procedures are briefly listed as follows.
+(1). We obtain a value 0.909 of Kaiser-Meyer-Olkin (KMO) statistic. The KMO measure of sampling adequacy can show the proportion of variance in our variables that may be caused by underlying factors. Our high KMO value (close to 1) indicates that the factor analysis can extract distinct and reliable factors from our data. 
+(2). We use Bartlett’s test of sphericity to test the hypothesis that our correlation matrix is an identity matrix. A very small value (less than 1%) of significance level found in our test result shows that factor analysis may be useful with our data.  It indicates that there exists some relationships between the variables and reliable factors that we want to include in the analysis. Accordingly, our factor analysis is appropriate. 
+(3). We use the extraction method of “Principal Components Analysis” to form uncorrelated linear combinations of the observed variables.  The first extracted component can explain the largest portion of variance and the successive components can explain gradually smaller portions of variance. We obtain high “extraction communalities” for the 29 variables. Extraction communalities are estimates of variance in each variable accounted for by the factors. The communalities of 29 variables in our analysis are all high (0.524 at least) which indicates that the extracted factors represent the variables well.
+(4). Our rotation method is “Varimax with Kaiser Normalization” that can minimize the number of variables having high loadings on each factor. The “rotated factor loadings” can be obtained in a rotated factor matrix. For each rotated factor in a rotated factor matrix, those variables with high rotated factor loading are highly correlated with that factor. 
+(5). We find six factors with eigenvalues of “greater than one” in factor analysis. The total variance of the original 29 variables explained by the six extracted factors and measured by the cumulative percentage of “rotation sums of squared loadings” amounts to 72.825%. It indicates the variability in the data can be well modeled by the six factors. All the results of reliability and factor analysis are shown in Table 2.
+
+After running an exploratory factor analysis, six factors are identified as follows. “GREEN” denotes the positive perception of hydrogen energy as green energy. “UNSAFE_NATURE” denotes the unsafe perception of hydrogen nature. “STANDARD” denotes the public belief in domestic hydrogen industries able to conform to international safety standards. “UNSAFE_TECH” denotes the unsafe perception of associated technologies in the hydrogen industry. “SUPPORT” denotes the level of support for the development of hydrogen energy. “COST” denotes the perception of cost advantage of hydrogen gas over petroleum. 
+
+REGRESSION RESULTS
+Finally, we employ linear regression method to analyze how people’s perception of hydrogen energy and their demographic characteristics, such as sex, age, and education will influence their willingness to support the development of hydrogen energy. The factor SUPPORT is the dependent variable in our regression analysis. The other factors including GREEN, UNSAFE_NATURE, STANDARD, UNSAFE_TECH, and COST are our independent variables. Besides, some demographical variables like sex, age, education, and location of respondents are included in the set of independent variables. We perform two regression models. Model 1 is a complete model including two dummy variables of location (NORTH and SOUTH). Model 2 excludes the two variables due to their insignificant coefficients in the Model 1. Table 3 is a nomenclature to illustrate the definition of all variables in our models. All of regression results are presented in Table 4. Before we discuss the implication of regression results, we perform several regression diagnoses as follows. 
+1. The significant F-value can indicate nice goodness of fit for our models.
+2. None of our regression models have serious problem of multicollinearity due to their small values of variance inflation factors (VIF). The maximum value of VIF is merely 2.006 for all variables in Model 1 and 1.923 for all variables in Model 2, respectively.
+3. The Durbin-Watson statistic is 1.941 for Model 1 and 1.935 for Model 2, respectively. They are so close to 2 as to indicate that there is no significant autocorrelation for error terms in our models.
+4. We perform Breusch-Pagan test for heteroskedasticity. The Chi-square value of the test is 25.8 for Model 1 and 23.81 for Model 2, respectively. The significance of Chi-square value indicates that the variance of error term may be not constant. That is, the error term is heteroskedastic. While the ordinary least-squares parameter estimators are still unbiased and consistent, they are not efficient (i.e. their variances are inflated). In order to correct for heteroskedasticity in our two models, we use White’s heteroskedasticity-consistent estimator to obtain consistent estimates of variances & covariances of ordinary least-squares estimators (Pindyck and Rubinfeld 1998). Their estimation results are shown by the White-HCE-1 for Model 1 and White-HCE-2 for Model 2 in Table 4. We find that the estimation results in White-HCE-1 and White-HCE-2 are similar to those results in Model 1 and Model 2, respectively.
+Based on the estimation in Model 1 (with location variables) and its heteroskedasticity-correction model White-HCE-1, as well as the estimation in Model 2 (without location variables) and its heteroskedasticity-correction model White-HCE-2, we indicate main results as follows. 
+1. Age, sex, and education of respondents have significant effects on their support of hydrogen energy. The significantly positive coefficient of AGE51 in our model indicates that the elder respondents (over 51 years old) have higher level of support than younger respondents. The significantly positive coefficient of EDUCATION shows that the level of support is positively related to respondent’s years of education. Moreover, the significantly positive coefficient of SEX indicates that male’s level of support is significantly higher than that of female. However, the location of respondents has no significant influence on their support of hydrogen energy. 
+2. The green-energy perceptions of hydrogen (GREEN), the public belief in domestic hydrogen industries able to conform to international safety standards (STANDARD), and the cost advantage perceptions of hydrogen energy over petroleum (COST) have significantly positive effects on the support for the development of hydrogen energy (SUPPORT). The significantly positive coefficient of variable GREEN shows that the environmental concern can increase the public support for hydrogen energy as mentioned in the literature. The significantly positive coefficient of variable COST demonstrates that the support for hydrogen energy will increase due to the motive of self-interest once the cost of hydrogen energy can be reduced to be lower than that of petroleum. While most respondents show high concern about the “unsafe” issues of hydrogen as demonstrated in Table 1, the unsafe perceptions of hydrogen nature (UNSAFE_NATURE) and that of associated technologies in the hydrogen industry (UNSAFE_TECH) have no significant effect on the support for the development of hydrogen energy (SUPPORT). In contrast, the significantly positive coefficient of variable STANDARD indicates that the trust in technology due to the certification of international safety standard from reliable sources will enhance the support for hydrogen energy.
+
+CONCLUSION 
+We developed a questionnaire to investigate public perceptions and acceptance of hydrogen energy in Taiwan. Six distinct and reliable factors are finally extracted from exploratory factor analysis on 29 five-point Likert-type items. The findings from descriptive statistics of questionnaire items indicate a high level of support for the development of hydrogen energy in Taiwan. Our regression results show that public perceptions of hydrogen technology do affect their support for the development of hydrogen energy. The perception of hydrogen energy as green energy, the public belief in domestic hydrogen industries able to conform to international safety standards, and the perception of cost advantage of hydrogen gas over gasoline have significantly positive effects on the support for the hydrogen energy development. While people have high level of concern about the safety of hydrogen and its associated technologies, the unsafe perceptions of hydrogen nature and associated technologies have no significant effects on the support for the hydrogen energy development. In contrast, the public belief in domestic hydrogen industries able to conform to international safety standards is a more powerful factor to significantly enhance the support for hydrogen energy development. This finding can positively respond to the argument on the importance of trust mentioned in previous studies on the acceptance of hydrogen energy. Our research results also indicate that most people support the development of hydrogen energy owing to the belief that hydrogen is clean energy. People’s willingness to support hydrogen energy is significantly related to the perception of hydrogen as green energy. Hence, how to make hydrogen technologies more conformable to international safety standards, relevant information more available to the public, and cost advantage of hydrogen energy more attractive to potential customers should be seriously considered by the developer of innovative hydrogen energy technologies and the decision-maker of public policies in the future.
+While public perceptions and acceptance of hydrogen energy in Taiwan are investigated in this study, our research results should be cautiously explained due to some limitations as follows. First, our research results could merely reflect the opinion of questionnaire respondents in this study, which does not necessarily represent consensus of people in Taiwan. Second, Taiwan’s people, especially for the elder, often express their opinions on public issues in a relatively conservative manner due to the influence of traditional culture. Therefore, the high support of hydrogen energy among elder respondents (over 51 years old) in our study should be conservatively explained. However, over 70% of our questionnaire respondents are young people under 30 years old. The potential effect of Taiwanese conservative manner on our study would be moderately mitigated. 
+Table 1  Five-point Likert-type Items and their Descriptive Statistics in the Questionnaire
+
+No.
+
+Items
+
+Mean
+(%) Neutral 
+(%) Agree & Strongly agree
+1
+Hydrogen energy is green energy.
+
+
+
+2
+Hydrogen power generation is pollution-free.
+
+
+
+3
+Hydrogen energy won’t generate nuclear wastes. 
+
+
+
+4
+Hydrogen energy won’t speed the global warming.
+
+
+
+5
+The use of Hydrogen energy won’t cause air pollution.
+
+
+
+6
+Hydrogen is unsafe.
+
+
+
+7
+Hydrogen pervasive in the air is dangerous.
+
+
+
+8
+Hydrogen will easily bring explosion.
+
+
+
+9
+Hydrogen is inflammable. 
+
+
+
+10
+Hydrogen is dangerous gas regulated by government.
+
+
+
+11
+The domestic equipments of hydrogen compression can conform to international safety standards.
+
+
+
+12
+The domestic equipments for hydrogen storage can conform to international safety standards.
+
+
+
+13
+The domestic materials for hydrogen storage can conform to international safety standards.
+
+
+
+14
+The domestic fuel cells of hydrogen energy can conform to international safety standards.
+
+
+
+15
+The domestic products of hydrogen energy can conform to international safety standards.
+
+
+
+16
+The discharge of hydrogen from factories will easily lead to accidents.
+
+
+
+17
+Producing hydrogen by electrolyzing saline water is worrying.
+
+
+
+18
+Hydrogen emission is terrible.
+
+
+
+19
+Hydrogen compression is dangerous.
+
+
+
+20
+Storing hydrogen in steel bottles is not proper.
+
+
+
+21
+I support the active development of technology in hydrogen application. 
+
+
+
+22
+I support the hydrogen power generation for household use.
+
+
+
+23
+I support the active promotion of the hydrogen vehicles in widespread use. 
+
+
+
+24
+I support the widespread establishment of hydrogen filling station and place for exchanging hydrogen storage canister.
+
+
+
+25
+I am willing to choose hydrogen as the fuel of vehicles when hydrogen energy is in widespread use.
+
+
+
+26
+The unit cost of hydrogen gas is lower than that of petroleum.
+
+
+
+27
+The production cost of hydrogen gas is lower than that of petroleum.
+
+
+
+28
+The transportation cost of hydrogen gas is lower than that of petroleum.
+
+
+
+29
+The replacement cost of hydrogen filling equipments is lower than that of gasoline filling equipments.
+
+
+
+
+Table 3 Nomenclature for variables in Regression
+Variable Name
+Description
+GREEN
+the positive perception of hydrogen energy as green energy
+UNSAFE_NATURE
+the unsafe perception of the nature of hydrogen
+STANDARD
+the public belief in domestic hydrogen industries able to conform to international safety standards
+UNSAFE_TECH
+the unsafe perception of associated technologies in the hydrogen industry
+SUPPORT
+the level of support for the development of hydrogen energy
+COST
+the positive perception of cost advantage of hydrogen gas over petroleum
+SEX
+the sex of questionnaire respondent
+AGE21
+the respondents with an age between 21 and 30
+AGE31
+the respondents with an age between 31 and 40
+AGE41
+the respondents with an age between 41 and 50
+AGE51
+the respondents with an age 51 or over
+EDUCATION
+the respondent’s years of education
+NORTH
+the respondents located in Northern Taiwan
+SOUTH
+the respondents located in Central and Southern Taiwan
+
