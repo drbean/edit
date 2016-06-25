@@ -94,7 +94,7 @@ What it is in games:
   e. Life skill
   a. Teamwork
 
-## Fleshing out" one item in the Table of Contents
+## ``Fleshing out'' one item in the Table of Contents
 
 Take one item from the Table of Contents, which is a list of the important actions in designing a solution .
 
