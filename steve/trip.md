@@ -17,7 +17,7 @@ We're writing about the trip, not the place we're going to.
 - What happened: Results
 - What you think about the experience: Discussion
 
-## Additional essays
+## Additional essays {#trip_essays}
 
 ### An IMRAD essay about your trip to school today
 
