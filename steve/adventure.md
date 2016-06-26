@@ -81,7 +81,7 @@ Questions for you: \\
 
 ### Format of essay
 
-We already wrote a similar essay about shopping using the IMRAD format explained in the chapter on [IMRAD: a ``scientific'' format](imrad-a-scientific-format), starting on \pref{imrad-a-scientific-format} . This time the choice of topic is yours.
+We already wrote a similar essay about shopping using the IMRAD format explained in the chapter on [IMRAD: a ``scientific'' format][], starting on \pref{imrad-a-scientific-format} . This time the choice of topic is yours.
 
 1.  Introduction: Why this topic? What have I and other people done and said? Mostly SUBJECTIVE
 
