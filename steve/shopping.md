@@ -80,7 +80,7 @@ Market researchers study the reasons for (and consequences of) consumer confusio
 
 ## Format of essay
 
-We are going to use the ``scientific'' IMRD format to write our report, even though the experiment/experience we are writing about is personal.
+We are going to use the ``scientific'' IMRAD format to write our report, even though the experiment/experience we are writing about is personal.
 
 Some things that we say will be statements of facts, ie, are true or not. These are *objective*. Other things that we say will be opinions, or feelings, or judgements. These may be good or bad, but they can't be said to be true or false. They are *subjective*.
 
@@ -158,7 +158,7 @@ Include the 4 sub-headings in your report:
 * Results
 * Discussion
 
-Do a mind map first with "IMRD" in the middle.
+Do a mind map first with "IMRAD" in the middle.
 
 * What did you think about before you set out?
 * What did you do in the store?
