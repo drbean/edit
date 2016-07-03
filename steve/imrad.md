@@ -89,9 +89,20 @@ In addition to personal gifts you can have in mind, but also to receive a gift o
 
 Tell about an event where something happened to you, or you did something that would be interesting to a reader. What does it tell about you?
 
+The defining characteristic of a story is that it takes place over time, 0ne or more years, one or more days, or one or more seconds. This characteristic requires the story teller to accurately recall the different parts of the story and to understand how they are related.
+
 * Background--Information about what had happened before the event took place.
 * The scene--Like in a movie, things take place in scenes. Answer Who, What, When, Where questions about the scene.
 * What happened--Like in a movie, there is a happy/sad climax and ending.
 * Moral--What is the meaning of the event? What does it show about you? What did you learn? What happened at other times afterward?
 
 Include the 4 titles: Background, The scene, What happened/climax, Moral
+
+An alternative structure is that of \citet{folse}.
+
+* The background: What the story is about
+* The beginning: the action starts, or the problem or conflict is explained
+* The middle: the main action occurs
+* The end: the final action occurs with a happy or sad ending, or the solution to the problem/conflict appears.
+
+The two structures are very similar, differing only in details.
