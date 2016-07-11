@@ -24,6 +24,7 @@ pandoc                                                   \
 	thinking.md                                      \
 	mainmatter.md                                    \
 	selfintro.md                                     \
+	story.md                                         \
 	actionresearch.md                                \
 	imrad.md                                         \
 	survey.md                                        \
