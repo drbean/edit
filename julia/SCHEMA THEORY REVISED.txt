@@ -1,0 +1,528 @@
+﻿1. Introduction
+In the field of nursing, teaching English reading as a part of programs is regarded as important because nursing students will have many opportunities to read texts written in English, for example, progress notes, journal articles, medical charts, etc., in their future workplace. Therefore, nurses and nursing students’ English reading ability is particularly emphasized in nursing colleges/universities. Given this, many nursing colleges/universities in Taiwan have established nursing English courses to improve nurses’ and nursing students’ reading ability, with the ultimate goal of improving their English ability to ensure up-to-date clinical practice and enhance the reputation of English medium medical services. According to the official websites of the nursing colleges/universities in the Taiwanese Technical and Vocational Education system, most of the nursing junior colleges (21 out of 23) and Universities of Science and Technology (11 out of 11) have developed nursing English courses for their students to cope with the demanding linguistic realities awaiting them. Grammar Translation Method (GTM), according to Yang and Su (2003), has been dominant in nursing colleges/universities in Taiwan. The reason for this might be due the belief that English is treated as a subject at school rather than as a communication tool used to exchange messages (Wang et al., 2008) and that “the more words the readers know, the easier they will understand what they read” (p. 109). This deepens a belief in the mind of students, that is, the purpose of reading is to learn new vocabulary and grammar so that better grades for exams can be obtained. 
+
+Employing background knowledge to teach reading in EFL has been reported in many studies. In fact, a large number of studies exploring the relationship between cultural background knowledge and L2 reading comprehension showed positive results, proving that background knowledge is beneficial to reading comprehension (see Alptekin, 2006; Chen & Grave, 1995; Erten & Razi, 2009; Gürkan, 2012; Shen, 2004). In the case of Taiwan’s nursing colleges/universities where the instruction of the knowledge of vocabulary and grammatical structure has been emphasized for a long time, attention should be devoted to the activation of background knowledge, seeing how it helps reading comprehension. Studies in this filed are lacking because, Chou (2011) has indicated, this is usually not the focus in language class in Taiwan. Therefore, the current study is going to use an interactive model of reading instruction to teach a nursing English reading course, exploring the relationship between background knowledge in nursing and English reading comprehension.
+ 
+2. Literature review
+2.1. English needs for nursing professionals in Taiwan
+English for nursing purposes (ENP) is a sub-branch of ESP. It focuses on the use of English in the hospital context and in the nursing education (Bosher, 2013). In Taiwan, ENP studies, compared to other fields in ESP (e.g. English for business purposes, English for technology purposes, etc.), received relatively little attention. However, in recent years, the internationalization of Taiwan has resulted in the increasing use of English in nursing practice. For instance, according to SCImago Research Group (2014), nursing research articles published in international journals increases from the amount of 12 to 2, 544, with nearly an 85% growth from 1996 to 2012. This indicates that nurses need to be equipped with English reading ability to keep up-to-date clinical practice. Lee (1998) conducted a survey in order to investigate the language needs of full-time nursing students and of in-service nursing professionals. There were 181 students and 198 nurses participating in this study. Both the students and nurses ranked understanding (1) doctors’ orders; (2) patients’ chief complaints and symptoms; and (3) medical and nursing terminologies as the top three tasks requiring English reading competence. In Bosher and Stocker’s (2015, p. 114) study in which 19 Taiwanese nurses were studied in order to understand the use of English in the workplace, “keep abreast of medical/nursing research and new treatments” is identified to be the main reason why nurses need to have English reading ability. Chiang-Hanisko et al. (2008) have indicated that in Taiwan all doctors, although their native language is Mandarin Chinese or Taiwanese, use English as a main tool to achieve communicative purposes, for instance, writing notes and charts in English and using medical terminologies to communicate. Therefore, nurses must possess English ability to understand medical records, progress notes, and laboratory reports, and to communicate with doctors.
+
+For nurses (or nursing students), what they need to study is domain-specific content. Many conceptions, for instance, the mechanism of disease, treatment regime, and nursing process are embodied in it, and the interrelationship of these makes the reading text even more complex. Background knowledge, in this case, is important because it is able to facilitate the process of digesting specialised content information (Lin & Chern, 2014). Clapham (2001) has observed that when reading a domain-specific text, it is important to have content knowledge, which exerts an influential impact on reading comprehension. To rely on word-by-word decoding, in this case, might not be able to fully grasp the conceptual understanding embodied in the reading text.
+
+2.2. The reading process 
+Basically, there are three different perspectives on how L2 reading comprehension occurs. The first focuses on the language to be comprehended. Comprehension occurs through decoding every single word in the text and then successfully reconstructing the author’s intended meanings (Zhang, 2008). In other words, reading is a bottom-up or data-driven process, which sees understanding and comprehension being built up upon the smallest textual units (i.e. words) at the bottom level and then move to larger units (i.e. sentences and paragraphs) at the top. Therefore, if a student has difficulties understanding a reading text, one of the major reasons for this is attributed to his or her linguistic deficiencies. The second perspective holds an opposite belief as to how knowledge is assimilated and how texts are understood. While engaging in the process of reading, readers are unavoidably active since they are involved in the work of meaning-making with texts by applying their background knowledge (Erten & Razi, 2009; Grabe & Stoller, 2002). In other words, meaning is not simply on the printed reading materials. Rather, it is interactively built in the interaction between the readers and the reading materials in the reading encounter. This process is called a top-down or concept-driven process. The third perspective is to see reading comprehension as an interactive process involving both readers and texts, referring to knowledge about the topic and language competence. In other words, reading process is not simply a bottom-up or a top-down process; it combines both two. For some researchers (see Alptekin, 2006; Lin, 2015; Nassaji, 2002), this interactive process is more powerful in explaining the complicated nature of reading comprehension because “comprehension involves understanding the vocabulary, seeing relationships among words and concepts, organizing ideas, recognizing the author’s purpose, evaluating the context, and making judgments” (Hancock, 1998, p. 69). While reading a text, learners use both literal and inferential comprehension. The former ensures that learners are sensitive to coming information while the latter links such the information to learners’ existing knowledge structure upon which new information obtained is able to be organized (i.e. schema). These two operate simultaneously because “knowledge at one level can be applied to compensate for the lack of knowledge at another level” (Lin & Chern, 2014, p. 153), none of which can be replaced. If learners encounter difficulties in the reading process, they can utilize available sources of knowledge to compensate for deficiencies (Lee & Spratley, 2010). Knowledge in vocabulary, grammar, or rhetorical structures facilitates decoding linguistic units of the text; on the other hand, knowledge related to the learning topics helps construct the meaning in the text. 
+
+2.3. Previewing in reading comprehension
+Previewing refers to the activity in which oral or written learning materials are presented to students in order to facilitate understanding of subsequent reading passages (Huang, 2009). The theoretical grounds of employing previewing in facilitating reading comprehension are indicated by some researchers. For example, Ausubel’s (1963) meaningful verbal learning is one of the earliest applicable theories. The subsumption process, which refers to the process of organizing new knowledge obtained in accordance with relevant existing knowledge stored in the cognitive structure, is the key to set meaningful verbal learning in motion. Advance organizers, “the introductory materials at a higher level of abstraction, generality, and inclusiveness than the learning passage itself”, shall be employed as they play an important role in leading to the subsumption process by providing learners with a clear framework for what they will read later (p. 252). Later, Stanovich’s (1980) proposed an interactive-compensatory model of text processing. It incorporates both bottom-up and top-down reading processes, assuming that knowledge from different sources (e.g. lexical knowledge, syntactic knowledge, topic knowledge, etc.) can operate simultaneously, and compensate for deficiencies from another. This is to say, previewing provides the leaner with background knowledge related to the learning topic; therefore, his or her attention can be devoted to tackling unfamiliar vocabulary, sentence structures, and the like. In the opposite direction, previewing is also able to equip the learner with the necessary linguistic knowledge required to understand the reading text, freeing his or her attention to the access of background knowledge required to develop understanding of the reading text. In addition, Graves et al. (1983) indicate that previewing can increase students’ knowledge about the coming reading text, which eases the burden of tackling massive information when the reader actually confronts the text. If a reading text is beyond the reader’s current ability, it is likely that he or she only pays attention to the small units in the text rather than develop overall understanding (Graves & Cooke, 1980). In this case, if previewing can be provided, the reader can concentrate on digesting new or unfamiliar information beforehand. As a result, a better reading performance can be expected. 
+
+2.4. Study aims
+Studies exploring the relationship between background knowledge and reading comprehension in the nursing field in Taiwan are lacking. Therefore, in order to explore the effect of background knowledge on reading comprehension, the present study designed an interactive model of reading instruction emphasizing both bottom-up and top-down reading processes to teach a compulsory reading course, Professional Medical & Nursing English, compared to textbook procedure-oriented instruction focusing on bottom-up reading process. Three research questions resulted from the aim are: 
+
+(1) Do students receiving the interactive model of reading instruction perform better in reading comprehension than those having textbook procedure-oriented reading instruction? 
+(2) Would students’ reading ability be maintained in the absence of the interactive model of reading instruction?
+(3) What are students’ attitudes and responses towards the interactive model of reading instruction?
+
+3. Methodology
+This study was a pretest-intervention-posttest design, and a quasi-experiment was utilized to answer the research questions. 
+
+3.1. Research participants
+Research participants were 4th graders of the five-year programme EFL Taiwanese learners who were taking Professional Medical & Nursing English Course taught by the researcher. Before taking this course, they had learned general English for more than 10 years. Participants’ reading proficiency in English was measured by the National Entrance Examination in 2010, which encompassed two major sections, grammar and reading comprehension. The examination aimed to determine students’ L2 reading levels in general reading topics rather than professional English knowledge related to nursing. Students’ proficiency was intermediate based on their academic performance on the examination. All participants were female in their early twenties, born and brought up in Taiwan. Their first language was Mandarin Chinese, and they shared a similar educational background—they were all studying in nursing in one nursing college. The reasons for choosing the students were: (1) realistically, they had to take the course for one semester (a 4-month-period) as one of their compulsory subjects under the same curriculum; (2) they had finished all their nursing subjects (e.g. Basic Nursing, Medical & Surgical Nursing, etc.); therefore, they could be considered to be ones having nursing background knowledge; and (3) they had some experience of clinical nursing practice. Such experience is important since it can play an important role in facilitating the process of activating background knowledge and in connecting students’ expectation with learning materials. 
+
+3.2. Research design
+The aim of the course, as regulated by the college, is to develop students’ reading and writing ability. The course was piloted by the researcher in one nursing college in Taiwan from September 2015 to January 2016 as a two-credit course. The duration of the course lasted four months. The class met once a week for one and half hours for 18 weeks, for a total of 36 hours. This course was divided into two main sessions, the sessions of reading (the first nine weeks) and writing (the latter nine weeks). The treatment sessions were centred on the first nine weeks. Among these nine weeks, four weeks (week 1, 2, 5, and 9) were deducted due to school opens, induction day, national holidays, and examinations. Therefore, the actual length of treatment sessions was five weeks. Each session lasted for consecutive one and half hours in one week, for a total of seven and half hours in five weeks. Two intact classes of students (samples of convenience) were randomly assigned to one of two conditions: the experimental group (n=57) and the control group (n=56). Students in the experimental group received the interactive model of reading instruction treatment, while students in the control group had the textbook procedure-oriented instruction treatment. Both groups had the same length of treatment sessions (i.e. 7.5 hours in 5 weeks). 
+
+3.3. Experimental materials
+Experimental materials in this study included (1) informed consent form, (2) personal information form, (3) open-ended questionnaire, and (4) coursebook mandated by the college-Terms and Strategies for Medical Records Reading and Writing by Live ABC Group in 2011. The informed consent form explaining the purpose and manner of data collection was given to all participants beforehand to ensure their participation. Each participant was orally informed again in accessible language and assured that their participation was voluntary. The confidentiality and anonymity of the participants were protected. The personal information form which gathered students’ personal information, including their gender, age, mother tongue and majors was also distributed to the participants before the experiment. The open-ended questionnaire was designed for the students in the experimental group to write down their perspectives on the interactive model of reading instruction, including perceived advantages and disadvantages, feelings and suggestions. There are 12 learning units in the coursebook. In each unit, there is one reading text about 200-300 words in length introducing cases with different diseases (e.g. cardiovascular disease, neurologic disease, etc.). According to the informal discussion the researcher performed with the course convener at the beginning of the semester, the book appeared challenging for the majority of students. However, the reading texts in the book are written by nurses and doctors currently involved in clinical practice in Taiwan, and many authentic materials appearing in the hospital context are presented in the book. Therefore, the authenticity is guaranteed.   
+
+3.4. Instruments
+(1)  The background knowledge test
+The background knowledge test was arranged to understand the participants’ background knowledge about four reading texts in the reading comprehension test. The participants can be considered as having professional nursing knowledge because they had already finished their nursing subjects in their third grade. Therefore, the content of the test was not about general health-related knowledge. Rather, a professional nursing literacy test was designed to measure the participants’ nursing knowledge in relation to the reading texts in the reading comprehension test. The test consisted of 10 short answer questions which were developed by the author and which were written in Chinese in order to avoid English language obstacles exerting influences on the students’ comprehension. The 10 question items assessed the participants’ knowledge about the mechanism, symptoms, nursing interventions and laboratory examinations of disease. Each question was important in helping the readers to use such the knowledge to comprehend the reading and take related cues to make inferences and predictions in the coming reading comprehension test. The test was a simplified version of the Nurse License of National examination in Taiwan. Concerning its content-specific nature, although the researcher herself is a professional nurse involving in clinical nursing practice for more than eight years and has sufficient knowledge to design the background knowledge test, assistance from clinical nurse practitioners (NP) to examine all the test items and to ensure the validity of the test was gained.
+ 
+(2)  The reading comprehension test (pretest, posttest, and delayed posttest)
+To assess the treatment effect, a researcher-made reading comprehension test was administered prior to (pretest), right after (posttest) and two months after (delayed posttest) the treatment in both groups. The test consisted of four reading texts about clinical cases diagnosed with endocrine, cardiovascular, gastrointestinal and neurologic diseases, excerpted from two nursing English learning materials: Comprehending Medical Records (Wang et al., 2015) and Understanding Medical Records (Liu et al., 2015). The authenticity and the difficulty of the reading texts were examined by two NP working in a large-scale medical centre in Taiwan. Based on their suggestions, some modifications related the content and the structure were carried out in order to make the reading texts reflect the nature of real-world reading texts in the workplace. The level of difficulty of the reading texts was also measured by the Dale-Chall readability formula (Dale & Chall, 1948), which contains 3,000 familiar general English words known by 80% of children in Grade IV in the USA. Among the four texts, three of them (endocrine, gastrointestinal and neurologic disease) appear relatively easy for students, with the readability scores of 8.0-8.9 (approximately the grade level 11-12 in the USA). The other one (cardiovascular disease) remains relatively challenging with the readability scores of 9.7 (approximately the grade level 13-14). Table 1 shows the detailed information of the four texts. 
+
+Table 1. Readability and grade level of the four texts.
+Reading text
+I
+II
+III
+IV
+No. of words
+206
+173
+211
+420
+No. of sentences
+17
+11
+17
+34
+Readability
+8.8
+9.7
+8.7
+8.8
+Grade level
+11-12
+13-15
+11-12
+11-12
+
+Each reading text was followed by five tick-all-that-apply comprehension questions which are least subject to guessing. The question items are divided into four types: questions of literal comprehension, questions of reorganisation, questions of inference, and questions of prediction (see Day & Park, 2005; Nuttall, 2005). The first two are categorised as lower-order questions while the other two are higher-order questions. They are ranked as lower-order because they assess students’ abilities of word recognition and the recall of detailed information which is explicitly stated in the text. Higher-order questions, on the other hand, required students to integrate pieces of information by employing their background knowledge and relating pieces of information which is not presented in the text. The design of the varying demands of question types is able to test different types of knowledge in the comprehension assessment. 
+ 
+(3)  The unit tests
+To examine the extent to which students in both groups comprehended the reading text whenever a learning unit was completed, researcher-designed unit tests were created. In both experimental and control groups, five learning units: (I) cardiovascular; (II) gastrointestinal; (III) endocrine; (IV) respiratory and (V) neurologic systems were taught during the treatment sessions in nine weeks; therefore, five unit tests were arranged. The test items, similar to those in the comprehension test, can be divided into lower-order questions and higher-order questions. The former was to test students’ local comprehension (e.g. words, sentences, etc.) in the text while the latter was to test students’ global comprehension (e.g. topics, inferences, synthesizing information, etc.). Each test consisted of five to seven tick-all-that-apply questions. 
+
+3.5. Scoring
+In the background knowledge, reading comprehension and unit tests, it is only that students have all correct answers provided for each question could they obtain points.  
+
+3.6. Data collection procedures
+All testing procedures were conducted by the researcher in order to ensure uniformity in the study. The data were collected in the period of two months during the normal class hours. The background knowledge test was conducted before the comprehension test because the reading texts in the comprehension test have clues to some of the questions in the background knowledge test, which might affect the results of the reading comprehension test. The knowledge test was administered in the 3rd week of the course (the beginning of the course) of the first semester of 2015 academic year, and took 15 minutes. The comprehension test (pretest) was administered right after the knowledge test was completed. The same assessment was also used as posttest (week 9), and delayed posttest (week 18). The participants had 40 minutes to take the test. The unit tests were administered right after one learning unit was completed in the weeks of 3rd, 4th, 6th, 7th, and 8th. The time allocated for each unit test was 20 minutes. All the tests were collected and graded by the researcher. Once the grading was completed, the results were transferred to databases in SPSS for further analysis. 
+
+3.7. Treatments
+The teaching approach adopted in the experimental group was the interactive model of reading instruction, which emphasised the dynamic process between data-driven bottom-up and concept-driven top-down reading. Linguistic knowledge facilitates students to decode linguistic units of the text; topical knowledge helps students construct the meaning in the text. Across the five learning units taught, the teaching steps and time allocated were shown as the following (see Fig. 1). 
+
+[Fig. 1. near here]
+
+The first step begins with using a picture or a concept to provide a short description of the day’s topic. The second step concerning previewing, which is considered as a crucial step for activating readers’ relevant knowledge stored in the cognitive structure. By having students say anything coming to their mind and presenting that information in the group, students were able to develop associations related to the day’s topic. With the teacher’s assistance and through the interaction with other students in the same group, they could share, revise, and modify their original associations and develop a more accurate picture of the topic. This is important because knowledge reformulation, which refers to reorganize the initial associations, making them a more comprehensive and completed picture of the fundamental concepts in relation to the day’s topic, occurs during such the process (Ajideh, 2003). A conceptual map (see Fig. 2), a learning material which is at a higher level of abstraction, acting the role of framework for preparing students for the coming confrontation with the reading text, is introduced. Compared to the reading text, the map is less detailed because the main purpose of introducing it is to set subsumption process in motion in which the mechanism of relating new knowledge to relevant old one can be triggered. The main circle in the centre in Fig. 2 was the case with disease in the learning units, and the five surrounding circles (i.e. symptoms, risk factors, mechanisms, treatments, and nursing care) were the conceptual blocks of disease. The construction of the map was based on the nursing textbooks students studied in their 3rd grade. In the textbooks, each disease is mainly divided into these five dimensions in order for students to systematically understand it. The underlying philosophy of similar design of the map is to facilitate students to effectively think back over their learning, systematically activating their background knowledge.  
+
+[Fig. 2. near here]
+
+The third step concerns the enhancement of background knowledge and vocabulary learning. For the former, each group of students were required to present their maps on the white board, the accuracy of the maps was achieved by clarifying key concepts of disease with students. In addition, students were encouraged to share their clinical experiences of caring for patients with similar conditions related to the day’s topic. This was to enhance students’ background knowledge. As to the latter, because the teaching approach focuses on the dynamic process between bottom-up and top-down reading, vocabulary learning remains an important issue to be born in mind. According to Chou (2011, p. 114), “background knowledge must include knowledge such as terminologies and information that would actually help the participants make inferences”. Rather than employing a direct vocabulary instruction as did in the control group, the students were allowed considerable freedom to think about words semantically and topically and then express their opinions. Subsequently, the researcher (or capable peers) provided answers and explanations to students’ questions. This manner of teaching vocabulary, according to Williams (1987), has the potential to enhance students’ vocabulary and background knowledge because when it is learners themselves who take part in deciding what words they need to learn, rather than the teacher who pre-teaches vocabulary without respect to learner needs, a greater degree of engagement with the reading text and a deeper understanding of the text can be expected. The fourth and fifth steps focused on timed individual reading and testing. 
+
+In the control group, the teaching procedure was based on a bottom-up teaching approach (see Fig. 3). Small textual units (i.e. words) at the bottom level were emphasized and then move to larger units (i.e. grammar, phrases, etc). The first step began with a short description of the day’s topic as in the experimental group. Subsequently, detailed explanations of medical terminologies and grammatical rules applied in the coming reading text were provided. This included prefixes, roots, and affixes of medical terminologies, and the use of English grammar in the clinical practice. The third step concerns the practice of terminologies and grammar. The fourth and fifth steps focused on individual reading and testing.  
+
+[Fig. 3. near here]
+
+For a proper comparison, the time allocated for the treatments in both groups was the same, and the time for the participants to work on the text and the reading comprehension test was the same, too. The differences between the two groups were what they had received for the treatments in step 2 and 3.  
+
+3.8. Data analysis
+For the 1st and 2nd research questions, the scores obtained were submitted to independent t-tests to compare the effectiveness of the interactive model of reading instruction and textbook procedure-oriented instruction. With respect to the 3rd research question, the process of data analysis followed Chang’s (2010) five steps of analyzing qualitative data, which include the steps of (1) transcribing, (2) conceptualising, (3) propositionalising, (4) graphing, and (5) theorising. The process begins with the first step, transcribing the data collected in the questionnaire into English. The second step is to code the data. An English professor who was not involved in this study was invited to examine the adequacy of the transcriptions and codes in order to ensure credibility. The third step is to develop themes, the purpose of which is to “formalise and systematise the researcher’s thinking into a coherent set of explanations” (Miles and Huberman, 1994, p. 75). A comprehensible diagram was plotted to encompass themes developed. The last step is to support existing theories, based on what is found from the data.
+
+4. Results
+The background knowledge test and the comprehension test (pretest) were administered prior to the treatments in order to identify any difference in the students’ background knowledge, and vocabulary and reading ability. The scores of the two tests investigated are shown in Table 2. No significant difference of mean scores of background knowledge (t=-.356, p>0.05) and reading and vocabulary ability (t=1.55, p>0.05) between the two groups is identified. 
+
+Table 2. Mean differences of two test scores prior to the treatments.  
+Test
+Group
+N
+M**
+SD
+T
+p
+The background knowledge test
+Experimental
+Control
+57
+56
+60.17
+61.07
+14.07
+12.60
+-.356
+0.722
+The comprehension test (pretest)
+Experimental
+Control
+57
+56
+27.81
+24.66
+12.71
+8.45
+1.55
+0.124
+** The maximum score for each test is 100.
+
+The 1st research question compared the effectiveness of the interactive model of reading instruction and the textbook procedure-oriented reading instruction. Table 3 outlined the results of the seven independent t-tests which compared the mean differences of experimental group and control group in the five unit tests, the posttest, and the delayed posttest. Fig. 4 demonstrated the graph of the comparison of reading performances between the experimental and control groups. There was no apparent difference in the 1st unit test (t=1.049, p>0.05) the 2nd unit test (t=0.432, p>0.05) between the two groups. The mean difference achieved the .05 level of statistical significance for the 3rd unit test (t=2.250, p<0.05), 4th unit test (t=2.24, p<0.05), 5th unit test (t=2.14, p<0.05), and the posttest (t=3.828, p<0.05). The 2nd research question tested whether students’ reading competence would be maintained in the absence of the interactive model of reading instruction. The findings (see Table 3) showed that the model virtually exerts no effect on the delayed test (t=0.862, p>0.05). 
+
+Table 3. Mean differences of the seven test scores by treatments.
+Test
+Group
+N
+M**
+SD
+T
+P
+Unit test 1
+Experimental
+Control
+57
+56
+60.45
+56.68
+19.48
+18.68
+1.049
+0.296
+Unit test 2
+Experimental
+Control
+57
+56
+69.12
+67.14
+24.22 
+24.54
+0.432
+0.667
+Unit test 3
+Experimental
+Control
+57
+56
+73.00
+63.83
+20.51
+22.79
+2.250
+0.026*
+Unit test 4
+Experimental
+Control
+57
+56
+72.48
+63.80
+21.05
+20.01
+2.24
+0.027*
+Unit test 5
+Experimental
+Control
+57
+56
+74.34
+65.84
+19.96
+22.20
+2.14
+0.035*
+Posttest
+Experimental
+Control
+57
+56
+74.91
+65.80
+13.70
+17.41
+3.828
+0.003*
+Delayed Posttest
+Experimental
+Control
+57
+56
+69.04
+67.23
+11.31
+10.91
+0.862
+0.391
+*  p < .05
+** The maximum score for each test is 100.
+
+[Fig. 4. near here]
+
+The 3rd research question explored the students’ attitudes towards the interactive model of reading instruction. The results demonstrated that students had a positive attitude towards the teaching approach. Three main categories were identified: (1) facilitating learning new vocabulary items, (2) being an effective approach to review nursing knowledge learned, and (3) inspiring a positive learning atmosphere. 
+ 
+For the 1st category－facilitating learning new vocabulary items, the following data demonstrated participants’ positive evaluations. As some of the participants indicated,    
+
+I always do the word-by-word translation first and then read, which is a boring process. I like this teaching approach because I don’t need to rely on decoding every single word in the text. I can roughly predict what I am going to read. I now understand that there is a new way of learning (student A). 
+
+I think the biggest advantage of taking this course is that it combines both nursing knowledge and medical terminologies knowledge. Both of them are important for our coming nursing license examination and for our clinical placement. I can use my nursing knowledge to learn how to read (student B).  
+
+Regarding the 2nd category－being an effective approach to review nursing knowledge learned, the following data indicated that the conceptual map taught in class could help the participants systematically review important concepts about disease learned in their 2nd and 3rd grades. As they said,
+
+The conceptual map taught in class is like a map. The words in the reading text are not simply the words anymore. The can be put in the map. For example, these pieces of information belong to symptoms, and those belong to nursing interventions. This really helps me review nursing knowledge learned before. During the whole process of reading, I have a feeling that I am playing a mapping activity, which is interesting (student C). 
+
+This teaching approach can help me review nursing knowledge learned before and develop a clear understanding of how to apply such knowledge while reading the medical text. So, basically, I can understand most of the text and have more time to focus on more difficult sentences (student D).
+
+As to the 3rd category－inspiring a positive learning atmosphere, the following data showed that students in the experimental group believed that this approach encouraged thinking and created a learning atmosphere which was interesting and challenging. 
+
+The discussion part is interesting. Our group tried to rack our brains, thinking over what had learned before in relation to the day’s topic. Some students are very good, remembering a lot of details, which inspires me to study harder (student E). 
+
+The course is completely different from other English courses requiring rote memorisation. I liked the learning atmosphere, which is much more active. We have discussions, group competitions, and questioning. All of these make the course interesting and challenging (student F).    
+
+This is a new learning experience. No teacher has ever taught us like this. Compared to my other English courses which required us to memorise grammatical rules and do translations, this course is not boring (student G).
+
+5. Discussions
+The 1st research question explored the effectiveness between the interactive model of reading instruction (i.e. the experimental group) and textbook procedure-oriented reading instruction (i.e. the control group), and assumed that there would be a difference in the reading comprehension scores when the participants were placed in one of the two conditions. From the independent t-tests, some interesting findings were revealed. The results showed that for the first two unit tests, the reading performance of the participants in the two groups did not differ significantly. In the 3rd, 4th, 5th unit tests and the post-test, the data showed that the experimental group outperformed their peers in the control group. There are two explanations which might provide answers to why the difference of effect in two groups was below a significant level in the first two unit tests. First, Taiwanese students are more familiar with the instructional practice in which word-by-word decoding or sentence level translation is emphasized. Qian’s (2002, p. 518) words, “having a larger vocabulary gives the learner a larger database from which to guess the meaning of the unknown words or behaviour of newly learned words…” might be able to explain why for Taiwanese language teachers the instruction of vocabulary and grammar remains the priority. Therefore, in the first two unit tests, it is possible that the participants in the experimental group have not gotten used to this new teaching approach yet; therefore, they might still rely on their vocabulary knowledge and sentence-level translation, rather than paragraph level understanding, to process reading. Second, perhaps not sufficient information was provided to activate students’ background knowledge. It is possible that the group discussion and the conceptual map used to activate background knowledge were not sufficient. The map only shows the abstract framework, helping the participants to systematically recall disease they have learned. It does not contain detailed information in relation to the coming reading text. In the 3rd, 4th, 5th unit tests and the post-test, the experimental group performed significantly better than the control group. The students’ feedback in the open-ended questionnaire find evidence to support the three theoretical grounds mentioned above for the employment of the previewing part in the interactive model of reading instruction. Previewing allows readers to process the reading text with the assistance of relevant background knowledge. The reading texts in the five unit tests and the posttest belong to domain-specific reading so that the participants’ antecedent knowledge is critical as “the information can have meaning only when the idea can be related to something the reader already knows” (Lin & Chern, 2014, p. 172-173). The participants indicated that the activation of relevant old knowledge related to the day’s topic was helpful to their understanding of the reading text. Armed with their beliefs was the conviction that the conceptual map employed has the function of being a map, guiding them how to read and what to read during the reading process. It acts as a guideline, facilitating them to construct and review nursing concepts and knowledge by which the new information presented in the reading text can be subsumed. Therefore, the reading text was no longer merely the descriptive one. Rather, it was the layout of disease which could be connected to the conceptual map and background knowledge. This is similar to the notion of “psycholinguistic guessing game” (Goodman, 1967), in which reading is believed to be an “interaction between thought and language” (p. 127). The participants selected cues in the reading text to produce right guess and put the pieces of information into the right category in the map, developing a deep understanding of the text. In addition, learners build up the linguistic knowledge necessary for the understanding of the coming reading. For example, originally, the words ‘substernal area’ and ‘strenuous’ were unfamiliar to students. Through group discussion and brain storming, they grasped the equal meanings in Chinese. With the background knowledge that chest tightness, one of the obvious symptoms in acute coronary syndrome, radiates over the substernal area and worsens when patients engage in strenuous activities, when confronting the reading text, students are able to combine the two sources of knowledge, developing a good understanding of the text. This finding indicates that readers process the reading text in the manner of interactive compensation (Stanovich, 1980). The interactive-compensatory model of text processing in which vocabulary introduced in previewing contributes to reading comprehension by helping students understand the meaning of the words and then integrating the pieces of information into the comprehensive picture of the reading text. The background knowledge rendered by previewing provides a clear structure for learners to develop an idea of how thing is going to happen. Because of the two mechanisms operating simultaneously, the participants are able to apply different sources of knowledge available to compensate for deficiencies. In other words, both the background knowledge of the reading text and the key vocabulary items related to the text are enhanced, allowing the students to engage in a bi-directional processing of the reading text. The accounts in the questionnaire also mentioned that the previewing part is able to lighten of cognitive demands while students are involved in the reading encounter. This is due to the reason that previewing increase students’ knowledge about the coming reading text, no matter what type, whether it is a kind of linguistic knowledge or a kind of background knowledge so that students’ reading burden can be reduced and their attention can be focused on the processing of the unfamiliar information.   
+
+As to the 2nd research question, the research findings showed that there is no significant difference in the reading performance in the delayed posttest between the experimental group and the control group. It is predicted that because the interactive model of reading instruction emphasizes both the bottom-up and top-down reading processes, students can utilize both linguistic knowledge to construct linguistic representation and background knowledge to predict and develop the main idea of the reading text. Therefore, a deep understanding of the text can be expected. However, the findings demonstrated that in the absence of the model, the reading performance of students in the experimental group was no more effective than that of the control group. The reason for this might be due to the sequence arrangement of curriculum content. The course was divided into two main sessions, reading and writing. The treatment sessions are in the reading sessions. The teaching focus in the writing sessions are placed on the detailed instruction of medical terms, grammar, and sentence structures appearing in medical documents. Such the approach, to a significant degree, resembles that in the control group, which favours the continuity in the control group, and might exert an impact on reading comprehension of students. 
+ 
+Regarding the 3rd question, most participants in the experimental group had a positive attitude towards the interactive model. Apart from the positive effects on both the top-down and bottom-up processes mentioned above, it is able to create an interesting and challenging learning atmosphere. Studying nursing English in such a learning atmosphere full of discussions, group competitions, and questioning brought a feeling of desire to learn.
+
+6. Limitations
+Generalizations of the findings from this study must be made with caution because several limitations are identified. First, the research participants are limited to a small number of students in one nursing college in Taiwan; therefore, the findings cannot be generalized. Second, both experimental and control groups were taught by the researcher. It might be possible that they felt compelled to take part in this study. Such the teacher-student relationship may have prevented them from reporting what they really think in their minds. Third, students’ achievement level was determined by the researcher-designed unit tests the posttest rather than by standard achievement tests. 
+
+7. Conclusions 
+The current study explored the relationship between domain knowledge and reading comprehension in a nursing English course. The research results are encouraging. This could be illustrated by positive feedback of the students in the experimental group and by the significant difference in reading comprehension between the experimental and control groups. Students majoring in nursing need to study specialised content information written in English. It is likely that not every student is able to process the reading text and thus obtain valuable information from reading. In the research, students acquired background knowledge in nursing. However, due to the language barriers, they were not able to connect their background knowledge in nursing with the reading text. A dislocation seemed to exist, preventing them from doing so. The main goal of teaching nursing English, after all, is to improve and enhance students’ domain knowledge for both academic and professional development purposes, not simply to develop students’ linguistic proficiency so that students could have opportunities to broaden their expert knowledge through reading, and at the same time, in the opposite direction, to develop their reading skills through learning. In light of the findings in this study, to apply a teaching approach which employs learning activities of activating background knowledge and connecting such the knowledge with the learning content might be a legitimate force prompting the change of shape of ENP course in nursing colleges/universities in Taiwan.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+References
+Ajideh, P. (2003). Schema theory-based pre-reading tasks: A neglected essential in the ESL reading class. The Reading Matrix, 3(1), Retrieved June 26, 2016, from http://www.readingmatrix.com/articles/ajideh/article.pdf
+Alptekin, C. (2006). Cultural familiarity in inferential and literal comprehension in L2 reading. System, 34, 494–508.  
+Ausubel, D. P. (1963). The psychology of meaningful verbal learning. New York, NY: Grune & Stratton.  
+Bosher, S. (2013). English for nursing. In B. Paltridge, & S. Starfield (Eds.), The handbook of English for specific purposes (pp. 263-281). West Sussex, UK: Wiley Blackwell. 
+Bosher, S., & Stocker, J. (2015). Nurses’ narratives on workplace English in Taiwan: Improving patient care and enhancing professionalism. English for Specific Purposes, 38, 109–120.  
+Chang, F.-F. (2010). The five steps of qualitative data analysis: Climbing up a ladder of abstraction. Journal of Elementary Education, 35, 87–120.
+Chen, H.-C., & Graves, M. F. (1995). Effects of previewing and providing background knowledge on Taiwanese college students’ comprehension of American short stories. TESOL Quarterly, 29(4), 663–686.
+Chiang-Hanisko, L., Ross, R., Boonyanurak, P., Ozawa, M., & Chiang, L. C. (2008). Pathways to progress in nursing: Understanding career patterns in Japan, Taiwan and Thailand. Online Journal of Issues in Nursing, 13(3). Retrieved June 8, 2012, from 10.3912/OJIN.Vol13No03Man04
+Chou, T.-M. (2011). The effects of vocabulary knowledge and background knowledge on reading comprehension of Taiwanese EFL students. Electronic Journal of Foreign Language Teaching, 8(1), 108–115.  
+Clapham, C. (2001). Discipline specificity and EAP. In J. Flowerdew & M. Peacock (Eds.), Research perspectives on English for academic purposes (pp. 84-100). Cambridge, UK: Cambridge University Press.
+Dale, E., & Chall, J. (1948). A formula for predicting readability: Instructions. Educational Research Bulletin, 18, 37–54. 
+Day, R. R., & Park, J. S. (2005). Developing reading comprehension questions. Reading in a Foreign Language, 17(1), 60–73. 
+Erten, I. H., & Razi, S. (2009). The effects of cultural familiarity on reading comprehension. Reading in a Foreign Language, 21(1), 60–77. 
+Goodman, K. (1967). Reading: A psycholinguistic guessing game. Journal of the Reading Specialist, 6(4), 126–135. 
+Grabe, W., & Stoller, L. F. (2002). Teaching and researching reading. Harlow, UK: Pearson Education. 
+Graves, M. F., & Cooke, C. L. (1980). Effects of previewing difficult short stories for high school students. Research on Reading in Secondary Schools, 6, 38–54. 
+Graves, M. F., Cooke, C. L., & Laberge, M. J. (1983). Effects of previewing difficult short stories on low ability junior high school students’ comprehension, recall, and attitudes. Reading Research Quarterly, 18, 262–276. 
+Gürkan, S. (2012). The effects of cultural familiarity and reading activities on L2 reading comprehension. Procedia- Social and Behavioral Sciences, 55, 1196–1206.  
+Hancock, O. H. (1998). Reading skills for college students. Upper Saddle Rover, NJ: Prentice Hall. 
+Huang, H.-T. (2009). Previewing and EFL reading comprehension. The Journal of Asia TEFL, 6(1), 57–84. 
+Lee, C.-D., & Spratley, A. (2010). Reading in the disciplines: The challenges of adolescent literacy. New York, NY: Carnegie Corporation of New York. 
+Lee, C.-Y. (1998). English for nursing purposes: A needs assessment for professional- oriented curriculum design. Academic Journal of Kang-Ning, 1(1), 55–71.
+Lin, Y.-C. (2015). The perception of cultural familiarity and background knowledge on reading comprehension for intermediate EFL students. International Journal of Language and Literature, 3(1), 71–75. 
+Lin, Y.-H., & Chern, C.-L. (2014). The effects of background knowledge and L2reading proficiency on Taiwanese university students’ summarization performance. Contemporary Educational Research Quarterly, 22(4), 149–186.
+Liu, M.-D., Tsai, W.-H., Guo, Y.-J., Huang, Y.-J., Lin, W.-C., Jeng, Y.-M., …Lee, H.-P. (2015). Understanding medical records. Taipei, ROC: New WCDP. 
+Live ABC Group. (2011). Terms and strategies for medical records reading and writing. Taipei, ROC: Live ABC.
+Miles, M. B., & Huberman, A. M. (1994). Qualitative data analysis: An expanded sourcebook. London: Sage Publications. 
+Nassaji, H. (2002). Schema theory and knowledge-based processes in second language reading comprehension: A need for alternative perspectives. Language Learning, 52 (2), 439–481. 
+Nuttall, C. (2005). Teaching reading skills in a foreign language. Oxford, UK: Macmillan Education. 
+Qian, D. D. (2002). Investigating the relationship between vocabulary knowledge and academic reading performance: An assessment perspective. Language Learning, 52, 513–536. 
+SCImago. (2014). SJR-SCImago journal & country rank. Retrieved March 1, 2016, from http://www.scimagojr.com
+Shen, Z. (2004). Effects of previewing and providing background knowledge on EFL reading comprehension of American documentary narratives. TESL Reporter, 37(2), 50–63. 
+Stanovich, K. E. (1980). Toward an interactive compensatory model of individual differences in the development of reading fluency. Reading Research Quarterly, 16, 32–71. 
+Wang, C.-W., Singh, C., Bird, B., & Ives, G. (2008). The learning experiences of Taiwanese nursing students studying in Australia. Journal of Transcultural Nursing, 19(2), 140–150. 
+Wang, J.-S., Chen, H.-M., Jian, Z.-Y., Ho, Y.-J., & Yang, J.-L. (2015). Comprehending medical records. Taipei, ROC: Farseeing Publishing. 
+Williams, E. (1987). Classroom reading through activation of content-based schemata. Reading in a Foreign Language, 4, 1–7. 
+Yang, M.-N., & Su, S.-M. (2003). A study of Taiwanese nursing students’ and in-service nurses’ English needs. Journal of Chang Gung Institute of Technology, 2, 269–284.  
+Zhang, X. (2008). The effects of formal schema on reading comprehension－An experiment with Chinese EFL readers. Computational Linguistics and Chinese Language Processing, 13(2), 197–214. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appendix I
+Reading comprehension test
+Reading comprehension I
+The 69-year-old female patient has a past history of hypertension, myocardial infarction, and diabetes mellitus (DM) without regular control. She came to our ER with chief complaint of poor oral intake with polyuria for one week. She was recently diagnosed with hypertriglyceridemia. She suffered from increased thirst sensation with weakness and malaise. And the symptoms were getting worse and worse. According to her family, conscious drowsiness was noted occasionally. She denied fever, shortness of breath or blurred vision. Her bowel habit, according to the patient, was normal. At ER, her blood sugar was above 600mg/dl and high osmolarity was noted. So hyperosmolar hyperglycemic state (HHS) was diagnosed and intravenous (IV) fluid was given. This morning she suddenly suffered from upper abdominal pain. It was a dull and persistent pain which radiated to the back and relieved a little when the patient bended forward. There was no precipitating factor for her pain, nor was the pain associated with abdominal distension. She denied chest pain, cold sweating, nausea or vomiting. There was no passing of tarry stool, either. The result of lipase level check-up was 1916. Under the impression of acute pancreatitis with HHS, she was admitted to our ward for further evaluation and management.  
+ 
+1. ( ) The patient has a past history of __________. 
+A. hypotension                 			
+B. right paraventricular infarct
+C. DM with regular control        			
+D. hypertriglyceridemia
+2. ( ) What signs and symptoms does the patient have? 
+A. high body temperature         			
+B. abdominal pain
+C. abnormal laboratory findings      			
+D. gasterointestinal bleeding  
+3. ( ) Which of the following is not correct about the pain? 
+A. It’s dull and persistent.           				
+B. It is limited in one area.   
+C. The change of body position can relieve the pain.   
+D. It might be associated with acute pancreatitis.
+4. ( ) What can be inferred from the reading text? 
+A. The patient’s consciousness is not clear.           
+B. Increased thirst sensation might be due to DM.
+C. The change of position could slightly relieve the pain. 
+D. HHS and acute pancreatitis might occur at different times.  
+5. ( ) Which of the following is likely to be included as part of the doctor’s plan? 
+   A. give insulin 								
+B. give KCL
+   C. IV fluid supply							
+D. bed rest 
+
+Reading comprehension II
+This 62-year-old male patient has a history of congestive heart failure (CHF), functional classification (Fc) IV→II, dilated cardiomyopathy, and hypertensive cardiovascular disease. 3 days before admission, progressive whole lower legs edema and scrotum swelling were noted. He had dyspnea on exertion intermittent claudication in the following days. Shortness of breath while resting, orthopnea, cough without sputum, and chest tightness sensation was complained by the patient. No obvious paroxysmal nocturnal dyspnea was noticed. Oral Lasix 1# three times a day (TID) was used on him, but there is still not much improvement. Therefore, he was brought to ER for evaluation, At ER, chest X-ray showed cardiomegaly with severe pulmonary edema and brain natriuretic peptide (BNP) was 3420. Heart echo revealed global hypokinesia with ejection fraction: 44.6 % and severe tricuspid regurgitation and moderate mitral regurgitation and pulmonic regurgitation and moderated pericardial effusion with massive pleural effusion. There was no distant heart sound, jugular vein engorgement or hypotension. Under the tentative diagnosis of congestive heart failure with pericardial effusion without cardiac tamponade signs, he was admitted for further management. 
+
+6. ( ) What made the patient come to the ER? 
+A. hypertension                 			
+B. bilateral leg edema 
+C. chest tightness        					
+D. difficulty in breathing 
+7. ( ) Why might be the possible reason that patients took Lasix 1# TID?
+A. to relieve edema          				
+B. to relieve chest pain
+C. to cure mitral regurgitation      			
+D. to improve hypertension   
+8. ( ) What can be inferred from the reading text? 
+A. The patient’s consciousness is not clear.           
+B. The patient might be the case of irregular medicine control of his diseases.  
+C. Only when he exercises, his symptoms worsen.     
+D. His symptoms are getting worse in these days.
+9. ( ) Which of the following is related to the causes of CHF? 
+   A. cardiomegaly 							
+B. tricuspid regurgitation
+   C. hypertension								
+D. shortness of breath  
+10. ( ) Which of the following is likely to be included as part of the doctor’s plan? 
+A. intake control     		         	    
+B. medicine treatments 
+C. O2 use                     				
+D. operation therapy 
+
+Reading comprehension III
+This 54-year-old female patient has a history of chronic hepatitis with regular control. She suffered from a sudden-onset abdominal pain at her right upper quadrant (RUQ) for ten hours. The continuing colicky pain made her unable to walk. It also radiated to her right shoulder. It could be relieved by compression on her abdomen. She also felt nauseous, but there was no diarrhea, constipation, hematochezia, or jaundice. She then took some Acetaminophen and the pain only relieved for a moment. Four hours later, the pain intensified. She went to the health center in the next day and the doctor found gallstones by ultrasound. The doctor transferred her to our ER. At ER, her vital sights were stable. Physical examination showed remarkable Murphy’s sign. Blood examination showed leukocytosis. Abdominal ultrasound revealed dilated common bile duct and thickening of the gallbladder wall. Acute cholecystitis was the diagnosis. She denied the habit of smoking or allergic history. The medical plans include (1) antibiotic treatment, closely monitor the white blood cell (WBC) count and the symptoms of abdominal pain to correlate with the response; (2) give adequate hydration, intravenous (IV) fluid 1,500 mL/day and run on a rate of 92 mL/hr; and (3) consult general surgeon and discuss the timing of receiving an operation.  
+
+11. ( ) What made the patient come to the ER? 
+A. acute abdominal pain  					
+B. routine check up  
+C. follow-up exam   						
+D. poor appetite
+12. ( ) Which of the following is not correct about the patient? 
+A. The pain can be relieved by taking medicine.       
+B. The patients will be hospitalized for further treatments.  
+C. She lost her appetite due to the symptoms.	
+D. The symptoms are probably related to the patient’s habit of smoking.
+13. ( ) According to the doctor’s plan, which of the following should be included in nursing interventions? 
+A. set up an IV line                         
+B. monitor the symptoms of inflammation     
+C. provide pre-/post-operation instructions       
+D. provide necessary medicine treatments
+14. ( ) Which of the following signs might be helpful in facilitating the doctors’ diagnosis? 
+   A. leukocytosis								
+B. Murphy’s sign
+   C. nauseous								
+D. radiated pain   
+15. ( ) What might be arranged to the patient for the next step? 
+A. hospitalization                          
+B. outpatient department follow up   
+C. transferring to a medical centre      		
+D. arranging home nursing care
+
+Reading comprehension IV
+
+Date of admission: xxxxx
+Date of discharge: xxxxx
+Admission Diagnosis:
+Suspected meningitis and central nervous system (CNS) infection
+Discharge Diagnosis:
+CNS infection with cerebrospinal fluid (CSF): Staphylococcus
+Past History
+Hydrocephalus status post (s/p) ventriculoperitoneal shunt (V-P shunt) on 103/06/14
+Skull defect , left F-T-P s/p cranioplasty on 103/6/14
+Hypertension
+
+Chief Complaint: 
+Fever on and off after discharge from our hospital and sudden onset of seizure attack on 9/17.
+Brief History
+According to his family’s statement and tracing his transfer noted, this 41 years old man suffered from fever on and off after discharge from our hospital and sudden onset of seizure attack on 9/17. The brain computed tomography (CT) was done and showed suspected meningitis by local medical department (LMD). At ER, the Glasgow Coma Scale (GCS) E4V5M6, pupil size 3.0+/3.0 and vital sign BT 36.2 degree, HR 57 bpm, RR 18 bpm, BP 95/62 mmHg were checked. The CSF aspiration from V-P shunt was done and showed glucose: 44 and white blood cell (WBC): 32. The impression of suspected meningitis and CNS infection was made. Therefore, he was admitted to our ward for further management. 
+
+Prior to admission, he had past history of hypertension with medicine control. He had operation history of skull defect and hydrocephalus s/p cranioplasty and V-P shunt on 103/08/14. He denied allergic experience. 
+
+Course and Treatment
+After admission, the patient had received operation of external ventricular drainage (EVD) inserted, craniectomy, and removal of ventricular shunt on 9/21. Then, the patient received change dressing (CD) and medicine treatment at our wards. Post operation, the fever subsided. The CSF culture shows Staphylococcus on 9/23. We keep antibiotic with Vancomycin 1g q8h for infection control. The fever attack since 10/1, regular follow erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP) show 23/3.59 on 10/2. The patient has easy choking when intake. We follow chest X-ray show left lower lung pneumonia on 10/3. Advance chest care and consult chest man for lung condition. The nasogastric (NG) tube inserted was performed for poor intake and easy choke. The chest men suggest continue present therapy and may add Ciproxin for Gram-negative pathogen. Then, the fever subsided. The skin rash over four limbs and trunk noted on 10/8, suspected drug allergic. We consulted infection doctor and suggest stop all antibiotic. The Vancomycin for infection control total use 3 weeks. We shift antibiotic to Augmentin for prophylactic antibiotics due to EVD tube inserted. The operation (OP) wound well healed and complete. The EVD was removed on 10/12. Now, the patient’s conscious clear and vital sign stable. He was hospitalized at our ward for rehabilitation treatment.  
+
+16. ( ) Which of following is not mentioned in the patient’s past history? 
+A. hypertension								
+B. skull defect  
+C. hydrocephalus 							
+D. seizure attack  
+17. ( ) What exam was done for the patient at the ward? 
+A. X-ray  								
+B. CT
+C. EKG									
+D. all of the above
+18. ( ) Which of the following is correct about the patient? 
+A. The patient was sent to the hospital at once after he suffered from fever and seizure attack.
+B. Operations were performed during the time staying in the hospital.
+C. At least two kinds of antibiotics were used.
+D. The patient was a case of high risk of infection. 
+19. ( ) Which of the following refers to a lab test?
+A. Staphylococcus							
+B. Vancomycin 
+C. EVD									
+D. E4V5M6
+20. ( ) According to the description of the patient’s treatment process, which of the following might have been included in nursing interventions?   
+A. change dressing according to the doctor’s order	
+B. regularly check the patient’ vital signs 
+C. monitor the patient’s allergy reactions        
+D. monitor the symptoms of inflammation
+
+ 
+
+
+
+
+
+Appendix II
+Unit test
+This 82-year-old woman has medical history of old cerebrovascular accident (CVA) with left hemiplega, diabetes mellitus (DM), and chronic obstructive pulmonary diseases (COPD). She has been under medical control for years. Due to dyspnea, she was brought to our ER for help. This time, she has had shortness of breath for about two days. She also complained of increased sputum amount. She was in bedridden status with Foley catheter and nasogastric (NG) tube. According to record, she has recurrent admission due to pneumonia. Family said the patient did not have a fever at home. However, at ER, her vital sign showed body temperature (BT) 39.5 degree, heart rate (HR) 98 bpm, respiratory rate (RR) 22 bpm, blood pressure (BP)140/96 mmHG. Complete blood count/different count (CBC/DC) showed neutropenia with immature cell. Sputum smear revealed Gram-negative coccobacillus 3+ and neutrophil 3+. Shock status was then noted, and dopamine intravenous (IV) line was used. Arterial blood gas (ABG) showed hypoxic respiratory failure, so intubation was done. Now, her consciousness is now unclear and she is admitted to medical intensive care unit (MICU) for further treatment. 
+ 
+1. ( ) Which of the following in not true about the patient? 
+A. She has old CVA with left hemiplegia.		 
+B. She has DM.
+C. She has an infection. 
+D. She has had alcohol dependence for years. 
+2. ( ) Which of the following is true?
+A. The patient’s consciousness is not clear.		 
+B. She is intubated.
+C. Her left side is weaker than her right.           
+D. She has difficulty in breathing. 
+3. ( ) Which is a likely clinical impression for the above case? 
+A. hypoxic respiratory failure
+B. new CVA
+C. pneumonia
+D. DM
+4. ( ) What could be included in the doctor’s plan of treatment? 
+A. empiric antibiotics						
+B. trace sputum and blood culture
+C. keep ventilator and inotropic agent support      
+D. all of the above
+5. ( ) Which of the following refers to a lab test? 
+A. CBC/DC    
+B. sputum smear         
+C. ABG                 
+D. shock status 
+6. ( ) Which of following might be included in nurses’ health instructions? 
+A. how to monitor the signs of infection      
+B. the importance of blood sugar control       
+C. take medicine regularly
+D. the importance of maintaining regular exercise  
+7. ( ) In this patient’s case, which of the following might be a risk of pneumonia?  
+A. old age    
+B. in bedridden status   
+C. lung disease   
+D. Gram-negative coccobacillus 
+
+ 
