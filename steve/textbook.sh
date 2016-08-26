@@ -23,8 +23,8 @@ pandoc                                                   \
 	metaphor.md                                      \
 	thinking.md                                      \
 	mainmatter.md                                    \
-	selfintro.md                                     \
 	story.md                                         \
+	selfintro.md                                     \
 	actionresearch.md                                \
 	imrad.md                                         \
 	survey.md                                        \
