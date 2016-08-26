@@ -18,6 +18,44 @@
 1. 1-2 paragraphs, 70 words about self
 2. Essay on Internet, due Friday night, at the end of Week 2
 
+## Activity 0: Talking to another person about self
+
+An exercise for personal description and for examples of describing other types of people: a family member, coworker, classmate. The key is that we want the student to give one - three different examples to show instances when they demonstrate the character trait.
+
+\clearpage
+
+### Conversations about ourselves
+
+Name: \rule{4cm}{0.00001cm} ID: \rule{7cm}{0.00001cm} \
+\vfill
+Today I spoke to: \
+Name: \rule{4cm}{0.00001cm} ID: \rule{7cm}{0.00001cm} \
+
+\begin{DoubleSpace}
+I would describe myself as: \
+\begin{enumerate}
+\item \rule{\textwidth}{0.01cm}
+\item \rule{\textwidth}{0.01cm}
+\item \rule{\textwidth}{0.01cm}
+\item \rule{\textwidth}{0.01cm}
+\end{enumerate}
+
+While \rule{5cm}{0.00001cm} would describe him/herself as: \
+\begin{enumerate}
+\item \rule{\textwidth}{0.00001cm}
+\item \rule{\textwidth}{0.00001cm}
+\item \rule{\textwidth}{0.00001cm}
+\item \rule{\textwidth}{0.00001cm}
+\end{enumerate}
+
+\begin{itemize}
+\item A.The easiest going person in the class is \hrulefill
+\item B.The most optimistic person in the class is \hrulefill
+\item C.The most decisive person in the class is \hrulefill
+\item D. The most tolerant person in the class is \hrulefill
+\end{itemize}
+\end{DoubleSpace}
+
 ## Johari Window on self
 
 The Johari Window compares and contrasts what you know/DON'T know (or think) about yourself with what others know/DON'T know (or think) about you.
