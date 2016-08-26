@@ -24,6 +24,12 @@ writing of this textbook.}
   Cengage Learning,
   2014.
 
+\bibitem[Kelly and Gargagliano(2011)]{kelly}
+  Curtis Kelly and Arlen Gargagliano,
+  Writing from Within Level 2,
+  Cambridge
+  2011.
+
 \bibitem[Langan.(2014)]{langan}
   John Langan,
   College Writing Skills,
