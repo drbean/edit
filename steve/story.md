@@ -88,7 +88,20 @@ Here is a report one of the authors wrote about visiting the US with his son:
 	Daniel’s uncle had given him as a graduation present.
 	Daniel was thrilled.  
 
+## Vacation report activity
 
+1. Think (& write a note)
+	1. What you planned to do
+	2. What you did
+	3. What you look back at with satisfaction
+	4. What you regret
+	5. What you learned
+
+1. Share those 5 points with a partner
+1. Share what you spoke about with the class
+	1. Take notes about people's vacations
+1. Write a question about what you said to the class
+1. Answer questions of other groups
 
 # My diary
 
