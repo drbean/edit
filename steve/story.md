@@ -108,7 +108,7 @@ Here is a report one of the authors wrote about visiting the US with his son:
 1. Two students who saw each other during the vacation and are friends come to the front and discuss what they did during the vacation.
 2. Two students who don't know each other so well and didn't see each other during the vacation also come to the front and talk about what they did.
 3. Class members discuss how the conversations are different.
-4. Class members discuss how they can write an essay report that is like one or other of the conversations.
+4. Class members discuss how they can write an essay reporting their _own_ vacation that is like one or other of the conversations.
 
 From Duck and McMahan (2011).
 
