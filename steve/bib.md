@@ -16,6 +16,12 @@ writing of this textbook.}
   Prifysgol Cymru,
   1995.
 
+\bibitem[Duck and McMahan(2010)]{duck}
+  Steve Duck and David McMahan,
+  Communication in Everyday Life,
+  SAGE,
+  2010.
+
 \bibitem[Folse et al.(2014)]{folse}
   Keith S. Folse,
   April Muchmore-Vokoun,
