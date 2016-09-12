@@ -2,6 +2,7 @@ pandoc                                                   \
 	-s -f markdown -t latex                          \
 	--template=textbook                              \
 	--variable=documentclass:memoir                  \
+	--variable=papersize:b5paper                     \
 	--variable=mainfont:"Linux Libertine O"          \
 	--variable=CJKmainfont:"WenQuanYi Zen Hei"       \
 	--variable=CJKmonofont='WenQuanYi Zen Hei Mono'  \
