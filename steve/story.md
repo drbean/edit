@@ -128,35 +128,36 @@ From Duck and McMahan (2011).
 
 Here is a diary item one of the authors wrote about a busy weekend at church, and end-of-semester course grading:
 
-\begin{verbatim}
-
-                                                .... I just got over a big
-hump with new high-intensity classes this past week.  Sunday I spoke on
-honoring one's parents - 5th commandment (I believe it went ok in the large
-congregation, though in the smaller 1:30 setting, some could have been
-pared) I wrote most of it Saturday late afternoon and arose Sun morning ~
-4:30 to complete. Ezra was my PPT guy, but there was some misunderstanding
-Saturday night, so when he got up ~6:15 everything wasn't put together
-right. Didn't get the review I wanted to do before leaving to print things
-out ! 7:30. Anyway, Ezra helped as my PPT guy in the morning so it went
-fairly smoothly - I'll see if it was recorded. In the afternoon he went
-home to study for next semester. Serena was with her family moving the
-family altar to the eldest brother's home.  Sunday afternoon I decompressed
-and got up Mon @ 3:30 to put the grades together, as I was in pretty good
-shape already about the aspects for the grades. Day grades were done by
-8:17am, I and Ezra took the trash and recyclable to the morning drop off
-site and I breathed easily. By 9:15 I went back to complete Night grades as
-Ezra had spoken about the family going to see a movie around lunch time.
-My grades were in by 11am.  Ezra changed the plan to evening as it might
-press up against our getting to the buxiban early to prepare to teach.  In
-the evening I saw reviews on his chosen movie, which had gotten low rotten
-tomatoes and metacritics reviews. Seemed he was going to a movie just to go
-out to a movie- we discussed that.  I suggested the animation The Secret
-life of Pets that went from 9:05 (9:20) to ~ 11pm. We all liked it.  Got up
-7:30, began my email and online news and website readings, and since began
-prepping for classes.
-
-\end{verbatim}
+	.... I just got over a big hump with new high-intensity
+	classes this past week.  Sunday I spoke on honoring one's
+	parents - 5th commandment (I believe it went ok in the large
+	congregation, though in the smaller 1:30 setting, some could
+	have been pared) I wrote most of it Saturday late afternoon
+	and arose Sun morning ~ 4:30 to complete. Ezra was my PPT
+	guy, but there was some misunderstanding Saturday night, so
+	when he got up ~6:15 everything wasn't put together right.
+	Didn't get the review I wanted to do before leaving to print
+	things out ! 7:30. Anyway, Ezra helped as my PPT guy in the
+	morning so it went fairly smoothly - I'll see if it was
+	recorded. In the afternoon he went home to study for next
+	semester.  Serena was with her family moving the family
+	altar to the eldest brother's home.  Sunday afternoon I
+	decompressed and got up Mon @ 3:30 to put the grades
+	together, as I was in pretty good shape already about the
+	aspects for the grades.  Day grades were done by 8:17am, I
+	and Ezra took the trash and recyclable to the morning drop
+	off site and I breathed easily. By 9:15 I went back to
+	complete Night grades as Ezra had spoken about the family
+	going to see a movie around lunch time.  My grades were in
+	by 11am.  Ezra changed the plan to evening as it might press
+	up against our getting to the buxiban early to prepare to
+	teach.  In the evening I saw reviews on his chosen movie,
+	which had gotten low rotten tomatoes and metacritics
+	reviews. Seemed he was going to a movie just to go out to a
+	movie- we discussed that.  I suggested the animation The
+	Secret life of Pets that went from 9:05 (9:20) to ~ 11pm. We
+	all liked it.  Got up 7:30, began my email and online news
+	and website readings, and since began prepping for classes.
 
 # Your story
 
