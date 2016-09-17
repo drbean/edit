@@ -14,6 +14,7 @@ pandoc                                                   \
 	--include-before-body=frontmatter.md             \
 	preface.md                                       \
 	toolbox.md                                       \
+	career.md                                        \
 	whiteout.md                                      \
 	plagiarism.md                                    \
 	conversation.md                                  \
