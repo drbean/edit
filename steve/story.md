@@ -21,6 +21,14 @@
 
 # What I did over the vacation
 
+## Questionnaire
+
+Ask your partner the following questions. Be prepared to tell the class you and your partner's answers.
+
+1. What kind of work did you do this summer?
+1. Where, how long, and with whom did you travel this summer?
+1. Your question
+
 ## Procedure
 
 Writing about what you did, remember:
