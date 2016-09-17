@@ -20,3 +20,14 @@ Dear reader,
 1. What is your prior writing education?
 1. What are your current work writing needs?
 1. What do you expect to learn in your third year?
+
+## Creating a writer's profile
+
+1) When you were in high school, during your senior year, how much time did you spend writing English in class?
+2) What kind of English writing? Short answer? Fill in blank? Short essay?
+3) When you did write an essay, about how many words was it?
+
+1) Who was your writing teacher last year?
+2) How many writing assignments did you have last semester?
+3) How many words were you to write in the last 2 writing assignments?
+
