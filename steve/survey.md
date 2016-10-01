@@ -162,3 +162,49 @@ artist.
 What do you think about music? What music will you play for people next time?
 What questions will you ask?
 
+### Questions to ask about English and future careers
+
+1. What did you study in High School?
+1. What kind of jobs do you hope to have during your 2nd & 3rd years? 2-3年級時希望有的工作
+1. Do you think your English listening skills聽力能力 will be important for any of those jobs?
+1. Do you think your English speaking skills口說能力 will be important for any of those jobs?
+1. Do you think your English writing skills寫作能力 will be important for any of those jobs?
+1. What kind of jobs do you hope to have during your 4th year? 4年級時希望有的工作
+1. Do you think your English listening skills will be important for any of those jobs?
+1. Do you think your English speaking skills will be important for any of those jobs?
+1. Do you think your English writing skills will be important for any of those jobs?
+1. Within how many months after you graduate, do you << hope to >> begin work ? 畢業後幾個月內"希望" 開始工作
+1. Within how many months after you graduate, do you << expect to >> begin work ? 畢業後幾個月內 "預期" 可以開始工作
+1. What kind of jobs do you <<hope to >>during your 1st year after you graduate?
+1. What kind of jobs do you expect to have during your 1st year after you graduate?
+1. Do you think your English speaking skills will be important for any of those jobs?
+1. Do you think your English listening skills will be important for any of those jobs?
+1. Do you think your English writing skills will be important for any of those jobs?
+1. What kind of jobs do you expect to have 2 - 4 years after you graduate?
+1. In the jobs you << expect to have >> during this time how important will these English skills be *
+
+	1. Reading
+	1. Listening
+	1. Speaking
+	1. Writing
+
+		1. Very Important for you, usually
+		1. Very Important for you, on occasion
+		1. Very Important for you, but rarely
+		1. Moderately Important for you, usually
+		1. Moderately Important for you, on occasion
+		1. Moderately Important for you, but rarely
+		1. Of little Importance for you, usually
+		1. Unimportant
+
+1. In the jobs you << want to have >> during this time how important will these English skills be *
+1. What kind of jobs do you expect to have 5 - 7 years after you graduate?
+1. In the jobs you << expect to have >> during this time how important will these English skills be *
+1. In the jobs you << want to have >> during this time how important will these English skills be *
+1. What AFLD track主修 are you on?
+
+	1. Language Teaching Track
+	1. Business Track
+	1. Other Department
+
+1. Anything else you'd like to write??
