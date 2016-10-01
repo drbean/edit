@@ -164,6 +164,8 @@ What questions will you ask?
 
 ### Questions to ask about English and future careers
 
+The secret of achievement is to hold a picture of a successful outcome in mind. - Henry David Thoreau.
+
 1. What did you study in High School?
 1. What kind of jobs do you hope to have during your 2nd & 3rd years? 2-3年級時希望有的工作
 1. Do you think your English listening skills聽力能力 will be important for any of those jobs?
