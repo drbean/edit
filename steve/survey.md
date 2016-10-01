@@ -4,6 +4,12 @@
 
 Talking to people, asking them questions and writing up their answers in an *Opinion Survey report* is a common activity in business and government. It is also easy to do in the IMRAD format, although it is not Action Research.
 
+## Survey topics
+
+* Names
+* Music
+* Shopping
+
 ## Plan of work
 	
 * At home
@@ -115,4 +121,44 @@ classsurvey:
         - b. Comforting
         - c. Happy
 
+### A survey, where you find out the opinions that people have to some music that you are interested in.
+
+Write it as an IMRAD report.
+
+1) Introduction: Why did you choose this music? What do you want to find out
+from these other people about their opinions of this music? What do you EXPECT
+them to say to you? Will they agree with your opinions about the music? What
+will you feel if they agree OR disagree? Why is this an interesting survey to
+carry out?
+
+Why did you choose the 3 questions you chose? What are your possible answers to
+your 3 questions?
+
+I asked you to choose people whose ideas about the music might be different to
+yours. How did you choose the people to ask? Why are their opinions important?
+What will 3 people's opinions tell you about everyone's opinions?
+
+2) Method
+
+i. 3 questions and 3 answers
+ii. Tell me something about those people.
+iii. When and where did you talk to them? What was the atmosphere?
+
+3) Results
+
+A table of the answers to the short questions. And (if possible) get them to
+talk freely about the tracks you played. The longer the results section, the
+better. Try to copy down what they said. If you can't remember, paraphrase what
+they said.
+
+4) Discussion
+
+How were their ideas different than you expected and different than your ideas?
+What do the results of the survey mean for you? Can you generalize from the
+specific results you got to a general statement about all people and/or about
+all the music by this artist, and/or about all music of the genre played by the
+artist.
+
+What do you think about music? What music will you play for people next time?
+What questions will you ask?
 
