@@ -316,6 +316,26 @@ My self-introduction: \hrulefill \
 \vfill*
 \vfill*
 
+## Activity 4: Am I a good judge of character?
+
+	Do you have EQ?
+	Do you understand why your friends do what they do?
+	Are you not often surprised by what people say or do?
+
+	Do you understand what YOU do?
+	Are you not often surprised by what YOU say or do?
+
+	Do your friends ask you for explanations of people's behavior?
+	Do your friends/family think you are good at interacting with other people?
+
+	Do you understand that people may not understand/know everything about you? Do you understand things about people that they don't know themselves? Are you aware that there are  things about yourself that you don't know?
+
+Perhaps you are a good judge of character.
+
+## Activity 5: Asking a counselor to tell you what are your good points and what are your bad points
+
+Find someone you knows you and who you can trust to speak honestly and tell you what is good about you and what is bad about you. Write down what they say.  Perhaps you want to ask a friend, but are they a good judge of character? Find a good counselor.
+
 ## Homework: 70 words about yourself
 
 ### Advice
