@@ -50,7 +50,7 @@ Necessary
 9. Signature
 > Stamped responsible person’s name and position
 
-  The stamp of the issuer's signature and his/her position
+  The issuer's stamp (of his/her signature) and his/her position
 
 > The responsible person should sign here
 
@@ -67,16 +67,46 @@ v
 Optional, but listed at the bottom
 
 More detailed information concerning each part is explained as follows.
-1. File number and length of keeping the file on the top left in Chinese “Han” is not stated in English letters.
-2. Return address includes the contact information, such as company name, address, telephone number, fax number, email address, website, etc. However, the contact person will not appear here, but can be mentioned in the last paragraph of the main body. 
-3. In an English letter, date comes before the inside address, right after the return address. However, in Chinese it appears after the recipient.
-4. Complete inside address includes the responsible person, his/ her position, company/ organization, and address. However, in Chinese only the company/ organization name is mentioned. That is, the responsible person’s name, position and address are missing. It is also better to designate the person in charge of this issue instead of the company.
-5. “Reference no.”, “Urgency”, “Confidentiality” and “Enclosure” appears at the top of “Han” following the date, but in an English letter, they should be listed at the bottom below the signature.
-6. The salutation “Dear President xxx” is missing in “Han”.
-7. The subject line is greatly different. In Chinese it says the purpose of this letter and tends to be a short paragraph, but in English it is usually presented as a noun phrase or verb phrase instead of a full sentence or a short paragraph. In English, reference number or order number can be used as the subject line. The subject line of Chinese “Han” can be stated in the first paragraph of the main body. 
-8. “Explanations” will not be indicated as an individual part. They will be stated in the second or third paragraph of the main body. In other words, the “Subject” and “Explanations” will be reorganized as paragraphs, consisting of the main body of the letter. The contact person and related contact information can be mentioned in the last closing paragraph. 
-9. “Complimentary closing” is missing because there is no salutation at the beginning of the “Han”. In Chinese “Signature and position” is stamped instead of signing. It is suggested that the signature be the person responsible for the issue, not the contact person. In this case, the minister of education should sign. The typed name, position and company/ organization is needed, too.
-10. In English it is polite to send the letter to a designated person in the company/ organization separately, but in Chinese all the companies/ organizations receiving this letter will be listed at the bottom of the letter under the “other recipients” category. If necessary, all the recipients should be listed under CCs at the bottom.
+> 1. File number and length of keeping the file on the top left in Chinese “Han” is not stated in English letters.
+
+  1. The file number and archival expiry date   at the top left in Chinese “Han” do not appear in an English business letter.
+
+> 2. Return address includes the contact information, such as company name, address, telephone number, fax number, email address, website, etc. However, the contact person will not appear here, but can be mentioned in the last paragraph of the main body. 
+
+  2. The return address includes contact information, including company name, address, telephone number, fax number, email address, website, etc. However, information about the contact person will not appear here, but may be mentioned in the last paragraph of the body of the letter. 
+
+> 3. In an English letter, date comes before the inside address, right after the return address. However, in Chinese it appears after the recipient.
+
+  3. In an English letter, the date comes before the inside address, right after the return address. However, in its Chinese equivalent it appears after the recipient.
+
+> 4. Complete inside address includes the responsible person, his/ her position, company/ organization, and address. However, in Chinese only the company/ organization name is mentioned. That is, the responsible person’s name, position and address are missing. It is also better to designate the person in charge of this issue instead of the company.
+
+  4. The complete inside address includes the name of the person addressed, his/her position, company/organization, and the company/organization's street address. However, in Chinese only the company/organization name is mentioned. That is, an individual person’s name and position and street address are missing. It is also better to designate the person expected to have the authority to respond to the issue of the letter, rather than just include the company name.
+
+> 5. “Reference no.”, “Urgency”, “Confidentiality” and “Enclosure” appears at the top of “Han” following the date, but in an English letter, they should be listed at the bottom below the signature.
+
+  5. A “Reference no.”, “Urgency”, “Confidentiality” and “Enclosure” appear at the top of a “Han” following the date, but in an English business letter, they should be listed at the bottom below the signature.
+
+> 6. The salutation “Dear President xxx” is missing in “Han”.
+
+  6. The salutation “Dear President xxx,” in this case, is missing in the “Han”.
+
+> 7. The subject line is greatly different. In Chinese it says the purpose of this letter and tends to be a short paragraph, but in English it is usually presented as a noun phrase or verb phrase instead of a full sentence or a short paragraph. In English, reference number or order number can be used as the subject line. The subject line of Chinese “Han” can be stated in the first paragraph of the main body. 
+
+  7. The subject line is very different. In Chinese it states the purpose of the letter and tends to be a short paragraph, but in English it is usually presented as a noun phrase or verb phrase instead of a full sentence or a short paragraph. In English, a reference number or order number can be used as the subject line. The subject line of a Chinese “Han” might become the first paragraph, in outline, of the body of its English equivalent. 
+
+> 8. “Explanations” will not be indicated as an individual part. They will be stated in the second or third paragraph of the main body. In other words, the “Subject” and “Explanations” will be reorganized as paragraphs, consisting of the main body of the letter. The contact person and related contact information can be mentioned in the last closing paragraph. 
+
+  8. “Explanations” do not constitute a separate  element of the English business letter. Explanatory material will be provided in the second or third paragraph of the body. In other words, “Subject” and “Explanations” will be reorganized as paragraphs, making up a large part of the body of the letter. The contact person and related contact information can be mentioned in the last closing paragraph. 
+
+> 9. “Complimentary closing” is missing because there is no salutation at the beginning of the “Han”. In Chinese “Signature and position” is stamped instead of signing. It is suggested that the signature be the person responsible for the issue, not the contact person. In this case, the minister of education should sign. The typed name, position and company/ organization is needed, too.
+
+  9. The “Complimentary closing” is missing because there is no salutation at the beginning of the “Han”. In Chinese, the “Signature and position” is stamped on the letter instead of written by hand by the issuer. It is suggested that the signature be that of the person with the authority to make decisions about the issue, not the contact person. In this case, the minister of education should sign. The typed name, position and company/organization is needed, too.
+
+> 10. In English it is polite to send the letter to a designated person in the company/ organization separately, but in Chinese all the companies/ organizations receiving this letter will be listed at the bottom of the letter under the “other recipients” category. If necessary, all the recipients should be listed under CCs at the bottom.
+
+  10. In English it is polite to send separate letters to a designated person in each company/organization, even if the content of the letters is the same. But in Chinese all the companies/ organizations receiving this same letter will be listed at the bottom of the letter in the “other recipients” category. If necessary in English, all the recipients should be listed under the CC heading at the bottom.
+
 
 
 
@@ -96,11 +126,20 @@ Subject: Higher Education #0990098134
 
 Dear President xxx
 
-To understand the status quo of internationalization and globalization in Taiwan’s universities and colleges, please fill out the enclosed survey. Complete all the required information, indicating “None” in the part without related information instead of leaving it blank.
+> To understand the status quo of internationalization and globalization in Taiwan’s universities and colleges, please fill out the enclosed survey. Complete all the required information, indicating “None” in the part without related information instead of leaving it blank.
 
-The electronic file of the survey can be downloaded from the Webpage of Ministry of Education→ Divisions → Higher Education Bureau → Important Policy → University Globalization . If you have any further questions concerning how to fill out the survey, you can refer to the enclosed example or contact Ms. Hus-tz Jhaung at 02-7736xxx or htj@xxxxxx.
+  To help the ministry understand the state of internationalization and globalization in Taiwan’s universities and colleges, please fill out the enclosed survey. Provide all the required information, entering “None” in those parts for which there is no related information, rather than  leaving them blank.
 
-I would appreciate it if you could send the completed survey by July 30, 2017. Thank you very much for your cooperation in advance.
+
+> The electronic file of the survey can be downloaded from the Webpage of Ministry of Education→ Divisions → Higher Education Bureau → Important Policy → University Globalization . If you have any further questions concerning how to fill out the survey, you can refer to the enclosed example or contact Ms. Hus-tz Jhaung at 02-7736xxx or htj@xxxxxx.
+
+  An electronic file containing the survey can be downloaded from the the webpage of the Ministry of Education→ Divisions → Higher Education Bureau → Important Policy → University Globalization . If you have any further questions about how to fill out the survey, you can refer to the enclosed example or contact Ms. Hus-tz Jhaung at 02-7736xxx or htj@xxxxxx.
+
+
+> I would appreciate it if you could send the completed survey by July 30, 2017. Thank you very much for your cooperation in advance.
+
+  I would appreciate it if you could send back the completed survey by July 30, 2017. Thank you very much for your cooperation in advance.
+
 
 Sincerely
 
