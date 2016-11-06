@@ -1,12 +1,23 @@
 Writing for Business Practices
-The structural difference between Chinese “Han” and English business letter     p. 15
+> The structural difference between Chinese “Han” and English business letter     p. 15
 
-Suggested Answer (It is suggested that you translate the information first, then rearrange it into an English letter based on the eight parts of a business letter.)
-An English letter consists of eight parts, each of whom has its correspondent in Chinese “Han”, though it appears in different order. The correspondent between a Chinese “Han”(函) and an English business letter is summarized in the following table.
+  The structural differences between the Chinese “Han” and English business letter     p. 15
+
+> Suggested Answer (It is suggested that you translate the information first, then rearrange it into an English letter based on the eight parts of a business letter.)
+
+  Suggested Answer (It is suggested that you translate the information first, then try to fit that information into the format followed by English business letters with eight separate parts.)
+
+> An English letter consists of eight parts, each of whom has its correspondent in Chinese “Han”, though it appears in different order. The correspondent between a Chinese “Han”(函) and an English business letter is summarized in the following table.
+
+  An English letter consists of eight parts, each of which has its correspondent in the Chinese “Han”, though they appear in a different order. The corresponding parts of the Chinese “Han”(函) and English business letter are summarized in the following table.
+
 Parts 
 Chinese “Han”
 English business letter
-1. File number & length of  file keeping
+> 1. File number & length of  file keeping
+
+  1. File number & archival expiry date
+
 v
 None
 2. Return address
@@ -37,8 +48,14 @@ Organized into paragraphs in the main body
 None
 Necessary
 9. Signature
-Stamped responsible person’s name and position
-The responsible person should sign here
+> Stamped responsible person’s name and position
+
+  The stamped signature of the issuer and his/her position
+
+> The responsible person should sign here
+
+  The issuer will sign here
+
 9. Typed name, position, company
 None
 Necessary
