@@ -59,14 +59,13 @@ To do that,
 
 Remember: Everyone likes to be successful, to achieve what they set out to achieve, but ..
 
+Being successful is important, but ..
+
 1. Your essay may be more interesting if you are unsuccessful.
 2. The teacher won't give you a higher grade if your idea worked. Your grade will be higher if you analyze the results of what you did more.
 3. You have more to analyze if the results were not what you expected.
 
 # Writing up a self-chosen goal activity
-
-(主題數: 2 / 回應數: 12) 	    
-討論主題開放/張貼分組回應數人氣最新發表功能
 
 An introduction to an attempt to do something simple
 
@@ -76,16 +75,9 @@ An introduction to an attempt to do something simple
 2. What is your experience with doing this in the past?
 3. What do you hope is the outcome when you do this thing? 
 
-2016/04/12~2016/04/16
-高來圭 	不分組 	12452016/4/16 下午 05:51:40
-范植雄 	
-
 20 keywords when you did something simple:
 
 Divide the keywords into 3 sections: Method, Results, Discussion 
-
-2016/04/20~2016/04/22
-高來圭 	不分組 	00
 
 ## Oh, no! We didn't achieve what we wanted to achieve!
 
