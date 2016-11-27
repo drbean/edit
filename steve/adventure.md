@@ -177,3 +177,13 @@ Write section titles,
 - Discussion,
 
 each on a new line. Write approximately equal amounts in each section.
+
+### A food essay
+
+Homework: 50 words for the Introduction and Method of a food IMRAD essay
+
+Write down the titles: Introduction, Method to introduce the sections of the essay.
+
+Remember, you are writing about something whose outcome you don't know. Don't just write down a recipe for a meal that you have made many different times. It MUST be a recipe you haven't had success with in the past, or that you haven't served to your family or friends before, and you want to know what they think of your cooking.
+
+IF you are writing about buying food, write about some experience that you haven't had before. eg a new eating place, or new product, or eating with friends, if it is a new experience.
