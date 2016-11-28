@@ -384,9 +384,42 @@ instruction.
 
 Scoring
 
-All the participants received a pre-test on what was going to be taught in class before the instruction. After the instruction, they received a post-test on what they had learned. Both pre- and post- tests contained questions of the same content but wording was revised. A t-test was also conducted to see if there was any significant difference in gaining scores of content knowledge among the control and experimental groups. Students’ narratives were used to examine whether they progressed in language expressiveness in terms of content, coherence and the amount of language production.
+All the participants received a pre-test on what was going to be taught in 
+class before the instruction. After the instruction, they received a post-test 
+> on what they had learned. Both pre- and post- tests contained questions of the 
 
-At the end of the experiment, all the participants completed a survey on their attitudes and perceptions toward the beyond narratives activity. Students’ answers were categorized and analyzed with qualitative analysis procedures. 
+  on what they had learned. Both pre- and post- tests contained questions with the 
+
+> same content but wording was revised. A t-test was also conducted to see if 
+
+  same content but the wording was different. A t-test was also conducted to see if 
+
+> there was any significant difference in gaining scores of content knowledge 
+
+  there was any significant difference in the content knowledge gain scores
+
+> among the control and experimental groups. Students’ narratives were used to 
+
+  between the control and experimental groups. Students’ narratives were examined to 
+
+> examine whether they progressed in language expressiveness in terms of content, 
+
+  determine whether there was progress in their language skills in terms of content, 
+
+> coherence and the amount of language production.
+
+  coherence and the amount of language produced.
+
+
+At the end of the experiment, all the participants completed a survey on their 
+> attitudes and perceptions toward the beyond narratives activity. Students’ 
+
+  attitudes and perceptions of the beyond narratives activity. Students’ 
+
+> answers were categorized and analyzed with qualitative analysis procedures. 
+
+  answers were categorized and analyzed with qualitative analysis methods. 
+
 
 RESULTS AND DISCUSSIONS
 
