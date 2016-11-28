@@ -505,7 +505,50 @@ higher than that of the control group (27.12). Students in the experimental
 
 enhancing or reinforcing what students had learned. 
 
-Why did students in the experimental group progress significantly better than those in the control group in the light of content knowledge? One possibility is that re-production facilitates the schematization and retention of new knowledge. According to Gass (1988), comprehension is different from intake. Learners perceive the ambient input in light of their past experiences and currently held knowledge. All input is not automatically used for comprehension. Learners selectively choose chunks of information in order to comprehend the perceived input. Comprehension can be achieved by merely analyzing the semantic components while intake requires the analysis of syntactical structures. The conversion of input into intake depends on the amount of comprehended input at the linguistic level. That is, syntactical analysis contributes more to converting input to intake than the analysis of semantic components does. If input becomes intake, the intake data may be used to form a new inter-language hypothesis which is subject to testing upon further exposure to input. If the input data confirms an existing hypothesis, it will facilitate the integration of the new knowledge into the new learning system that the learners are progressively developing. If not, learners will reject or modify the hypothesis they have earlier formulated. This creates a feedback loop from the learner’s output to the intake component, where Gass considers that hypothesis formation and testing take place. The output component is also related to the levels of analysis made at the stage of comprehended input. This language production is seen as an important practice to move the learners from the comprehended input stage to the intake stage. Intake is often used for further processing in learning. Through the process of hypothesis formation, testing, modification, confirmation and rejection, the intake may subsequently be integrated into the learner’s developing learning system and eventually become their internal learning mechanism. Once the information become learner’s internal learning mechanism, it will be stored in the long-term memory and become part of learner’s internalized knowledge.
+> Why did students in the experimental group progress significantly better than 
+
+  Why did students in the experimental group do significantly better than 
+
+> those in the control group in the light of content knowledge? One possibility 
+
+  those in the control group in the area of content knowledge? One possibility 
+
+is that re-production facilitates the schematization and retention of new 
+knowledge. According to Gass (1988), comprehension is different from intake. 
+Learners perceive the ambient input in light of their past experiences and 
+currently held knowledge. All input is not automatically used for 
+comprehension. Learners selectively choose chunks of information in order to 
+comprehend the perceived input. Comprehension can be achieved by merely 
+analyzing the semantic components while intake requires the analysis of 
+syntactical structures. The conversion of input into intake depends on the 
+amount of comprehended input at the linguistic level. That is, syntactical 
+analysis contributes more to converting input to intake than the analysis of 
+semantic components does. If input becomes intake, the intake data may be used 
+to form a new inter-language hypothesis which is subject to testing upon 
+further exposure to input. If the input data confirms an existing hypothesis, 
+it will facilitate the integration of the new knowledge into the new learning 
+system that the learners are progressively developing. If not, learners will 
+reject or modify the hypothesis they have earlier formulated. This creates a 
+feedback loop from the learner’s output to the intake component, where Gass 
+considers that hypothesis formation and testing take place. The output 
+component is also related to the levels of analysis made at the stage of 
+comprehended input. This language production is seen as an important practice 
+to move the learners from the comprehended input stage to the intake stage. 
+Intake is often used for further processing in learning. Through the process of 
+hypothesis formation, testing, modification, confirmation and rejection, the 
+intake may subsequently be integrated into the learner’s developing learning 
+> system and eventually become their internal learning mechanism. Once the 
+
+  system and eventually become part of their internal learning mechanism. Once the 
+
+> information become learner’s internal learning mechanism, it will be stored in 
+
+  information enters the learner’s internal learning mechanism, it will be stored in 
+
+> the long-term memory and become part of learner’s internalized knowledge.
+
+      long-term memory and become part of the learner’s internalized knowledge.
+
 
 Another possibility is that writing narratives demands learners to synthesize information from the various readings, lectures, previous experience and knowledge, and then simultaneously reconstruct all the ideas (Brinton and Jensen, 1997). Conway et al. (1997) suggest that in the early stages of learning, knowledge is more likely to be retained in episodic form which students are able to “remember” specifically. As learning progresses, these memories shift from being episodic to being more conceptual, highly familiar and generalized knowledge which students tend to simply “know”. This shift is called “schematization”, which is not a sudden or one-time phenomenon. Schematization, in fact, requires a lot of mental processing activity on the part of the learners. It is likely that writing down the newly reconstructed knowledge contributes to the schematization of new knowledge (Lin, 2009). 
 
