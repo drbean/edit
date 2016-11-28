@@ -43,10 +43,7 @@ same time, relate the newly-learned knowledge to their previous knowledge or
 
   doubts,      and misconceptions. The results of this study demonstrated that 
 
-> using narratives as a beyond task had positive effects on the acquisition of 
-
-  using narratives as an after-activity task had positive effects on the acquisition of 
-
+using narratives as a beyond task had positive effects on the acquisition of 
 > content knowledge and language expressiveness.
 
   content knowledge and language expression.
@@ -115,7 +112,28 @@ cross-referencing of new and old ideas. It is hoped that the new ideas can be
 
 Eisterhold, 2000). 
 
-A nature science class in the primary school is mostly focused on providing meaningful contexts in a theme or topic for acquiring content knowledge, i.e., content-based instruction (CBI). The term “content-based instruction” refers to an approach that integrates language with content instruction, but which allows the content to determine the nature and order of the linguistic syllabus. CBI not only builds on students' previous learning experiences and current needs and interests, but also takes account of the eventual purpose for which students need the language (Brinton et al., 1989). According to Jensen and Llosa (2004), content-based instruction involves a three-stage process designed to maximize students’ comprehension and mastery of content. The three-stage process involves into, through, and beyond activities. The academic content provides the core, but into, through, and beyond (Brinton & Holtsen, 1997) activities are employed to exploit students’ background knowledge and personal experience, supplement the content, increase student access to and comprehension of the core materials, and simultaneously foster students’ linguistic skills. 
+> A nature science class in the primary school is mostly focused on providing 
+
+  Teaching in nature science classes in the primary school is mostly focused on providing
+
+> meaningful contexts in a theme or topic for acquiring content knowledge, i.e., 
+
+  meaningful contexts based on themes or topics that lend themselves to acquiring content knowledge, i.e.,
+
+content-based instruction (CBI). The term “content-based instruction” refers to 
+an approach that integrates language with content instruction, but which allows 
+the content to determine the nature and order of the linguistic syllabus. CBI 
+not only builds on students' previous learning experiences and current needs 
+and interests, but also takes account of the eventual purpose for which 
+students need the language (Brinton et al., 1989). According to Jensen and 
+Llosa (2004), content-based instruction involves a three-stage process designed 
+to maximize students’ comprehension and mastery of content. The three-stage 
+process involves into, through, and beyond activities. The academic content 
+provides the core, but into, through, and beyond (Brinton & Holtsen, 1997) 
+activities are employed to exploit students’ background knowledge and personal 
+experience, supplement the content, increase student access to and 
+comprehension of the core materials, and simultaneously foster students’ 
+linguistic skills. 
 
 We human beings make sense of random experience by the imposition of stories and narratives. We give our lives meaning across time by the means of narrative. Recently, language learner narratives have received increased attention in the fields of TESOL and second language acquisition. Researchers acknowledge that narratives elicited from the learners are a legitimate source of data in the hermeneutic tradition, complementary to more traditional empirical approaches (Kanno, 2000; Norton, 2000; Pavlenko, 2001, 2002). The telling of life experiences and newly acquired knowledge may be a means of empowerment that makes students possible to express new selves and desires previously considered untellable. Furthermore, narratives are not purely individual productions—they are powerfully shaped by social, cultural, and historical conventions (Berman & Slobin, 1994; Johnstone, 1996). They have become a focus of research and a rich source of data in several areas of linguistics, in particular L1 acquisition, socio-linguistics and language education. 
 
@@ -212,7 +230,7 @@ The result of this study demonstrated that students completing three-stage proce
 
 In this study, students were required to narrate what they thought in their mother tongue. The result showed that their language expressiveness increased a lot. Is it possible that the result be the same if narratives are used in a class focusing on reading English for academic purposes? Future research can concentrate on investigating the effect of narratives on improving foreign language ability and certain academic knowledge.
  
-No reference for Jackson, 1990 and typo in Park, Abrahams, & Song reference.
+Tracy, No reference for Jackson, 1990 and typo in Park, Abrahams, & Song reference.
 
 REFERENCES
 
