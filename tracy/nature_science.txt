@@ -298,7 +298,34 @@ instruction make substantially better progress than those who did not do the
 METHOD
 Participants
 
-Sixty-eight fourth graders from a primary school in Hsinchu, Taiwan, participated in this study. They had received formal instruction on nature science for one year before they participated in this study. All the participants were divided into two groups, one as control group and the other as experimental group. Each group had 34 participants, all of whom received a pretest, a posttest and a post-experimental survey. The results of the t-test showed no significant difference was found in the pretest, indicating that all the subjects had similar amount of prior knowledge before receiving the instruction. The experimental and control groups are homogeneous in terms of the expected content knowledge.  
+Sixty-eight fourth graders from a primary school in Hsinchu, Taiwan, 
+participated in this study. They had received formal instruction on nature 
+> science for one year before they participated in this study. All the 
+
+  science for one year before they participated in this study.     The 
+
+participants were divided into two groups, one as control group and the other 
+as experimental group. Each group had 34 participants, all of whom received a 
+> pretest, a posttest and a post-experimental survey. The results of the t-test 
+
+  pretest, a posttest and a post-experimental survey. The results of a   t-test 
+
+> showed no significant difference was found in the pretest, indicating that all 
+
+  showed no significant difference           in the pretest, indicating that all 
+
+> the subjects had similar amount of prior knowledge before receiving the 
+
+  the subjects had a similar amount of prior knowledge before receiving the 
+
+> instruction. The experimental and control groups are homogeneous in terms of 
+
+  instruction. The experimental and control groups were homogeneous in terms of 
+
+> the expected content knowledge.  
+
+  the content knowledge of the course.  
+
 
 Procedures
 
