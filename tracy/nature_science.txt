@@ -550,7 +550,33 @@ intake may subsequently be integrated into the learner’s developing learning
       long-term memory and become part of the learner’s internalized knowledge.
 
 
-Another possibility is that writing narratives demands learners to synthesize information from the various readings, lectures, previous experience and knowledge, and then simultaneously reconstruct all the ideas (Brinton and Jensen, 1997). Conway et al. (1997) suggest that in the early stages of learning, knowledge is more likely to be retained in episodic form which students are able to “remember” specifically. As learning progresses, these memories shift from being episodic to being more conceptual, highly familiar and generalized knowledge which students tend to simply “know”. This shift is called “schematization”, which is not a sudden or one-time phenomenon. Schematization, in fact, requires a lot of mental processing activity on the part of the learners. It is likely that writing down the newly reconstructed knowledge contributes to the schematization of new knowledge (Lin, 2009). 
+> Another possibility is that writing narratives demands learners to synthesize 
+
+  Another possibility is that writing narratives requires learners to synthesize 
+
+> information from the various readings, lectures, previous experience and 
+
+  information from             readings, lectures, previous experience and 
+
+> knowledge, and then simultaneously reconstruct all the ideas (Brinton and 
+
+  knowledge, and then simultaneously reconstruct all the ideas that come to them (Brinton and 
+
+Jensen, 1997). Conway et al. (1997) suggest that in the early stages of 
+> learning, knowledge is more likely to be retained in episodic form which 
+
+  learning, knowledge is more likely to be retained in an episodic form which 
+
+students are able to “remember” specifically. As learning progresses, these 
+memories shift from being episodic to being more conceptual, highly familiar 
+and generalized knowledge which students tend to simply “know”. This shift is 
+> called “schematization”, which is not a sudden or one-time phenomenon. 
+
+  called “schematization”, but it is not a sudden or one-time phenomenon. 
+
+Schematization, in fact, requires a lot of mental processing activity on the 
+part of the learners. It is likely that writing down the newly reconstructed 
+knowledge contributes to the schematization of new knowledge (Lin, 2009). 
 
 (2) Survey Results
 
@@ -578,7 +604,7 @@ In this study, students were required to narrate what they thought in their moth
  
 Tracy, No reference for Jackson, 1990 and typo in Park, Abrahams, & Song reference.
 
-Typo in Gass and Selinker.
+Typos in Gass and Selinker, Conway et al.
 
 REFERENCES
 
