@@ -54,7 +54,66 @@ same time, relate the newly-learned knowledge to their previous knowledge or
 
 INTRODUCTION
 
-School, the most common type of formal education, is part of students’ everyday life space and typically perceived as a place where the teacher teaches and the students learn. It can be a place where formal learning occurs as well as a place where students learn informally from everyday life. In other words, the informal learning might have taken place in a particular lesson where intended formal learning was also occurring (Park, Abrahams, & Song, 2016). However, most classes offered in schools place a greater emphasis on formal instruction, especially the transfer of factual knowledge and messages. Therefore, one of the teacher’s responsibilities is to structure learning in a well-organized fashion, try to elicit students’ learning motivation, and promote their learning outcome. The utmost goal of teaching is to help students broaden their horizons as well as use their abilities, knowledge, and interest maximally in order to raise the effects and reduce the energy spent in the educational process (Guin, 2004). As we know, central to learning is the process in which new information is related to relevant ideas in the existing cognitive structures (Wolf, 1993). It is possible that students learn various things – values, perceptions, beliefs and behaviors that are not included in the official curriculum that the teacher teaches in the classroom (Jackson, 1990). Therefore, instructional materials and approaches should attempt to integrate new material with previously presented information through comparisons and cross-referencing of new and old ideas. It is hoped that the new ideas can be integrated with the learner’s prior knowledge and gradually become his intake and store as a newly developed schema in his/her learning mechanism (Carrell & Eisterhold, 2000). 
+> School, the most common type of formal education, is part of students’ everyday 
+
+  School, the prime example    of formal education, is part of the       everyday 
+
+> life space and typically perceived as a place where the teacher teaches and the 
+
+  life space of students and is typically perceived as a place where the teacher teaches and the 
+
+> students learn. It can be a place where formal learning occurs as well as a 
+
+  students learn. While it is a place where formal learning occurs, it can as well be a 
+
+> place where students learn informally from everyday life. In other words, the 
+
+  place where students learn informally as in everyday life. In other words,
+
+> informal learning might have taken place in a particular lesson where intended 
+
+  informal learning might      take  place in a particular lesson where intended 
+
+formal learning was also occurring (Park, Abrahams, & Song, 2016). However, 
+most classes offered in schools place a greater emphasis on formal instruction, 
+> especially the transfer of factual knowledge and messages. Therefore, one of 
+
+  especially the transfer of factual knowledge and messages. As part of this process, one of 
+
+the teacher’s responsibilities is to structure learning in a well-organized 
+> fashion, try to elicit students’ learning motivation, and promote their 
+
+  fashion, try to increase students’ learning motivation, and work to promote their 
+
+> learning outcome. The utmost goal of teaching is to help students broaden their 
+
+  learning outcomes. The ultimate goal of teaching is to help students broaden their 
+
+> horizons as well as use their abilities, knowledge, and interest maximally in 
+
+  horizons as well as use their abilities, knowledge, and interests maximally, while
+
+> order to raise the effects and reduce the energy spent in the educational 
+
+         raising the effects of and reducing the energy spent in the educational 
+
+process (Guin, 2004). As we know, central to learning is the process in which 
+new information is related to relevant ideas in the existing cognitive 
+structures (Wolf, 1993). It is possible that students learn various things – 
+values, perceptions, beliefs and behaviors that are not included in the 
+official curriculum that the teacher teaches in the classroom (Jackson, 1990). 
+Therefore, instructional materials and approaches should attempt to integrate 
+new material with previously presented information through comparisons and 
+cross-referencing of new and old ideas. It is hoped that the new ideas can be 
+> integrated with the learner’s prior knowledge and gradually become his intake 
+
+  integrated with the learner’s prior knowledge and gradually become intake 
+
+> and store as a newly developed schema in his/her learning mechanism (Carrell & 
+
+  and store as newly developing  schema in the     learning process   (Carrell & 
+
+Eisterhold, 2000). 
 
 A nature science class in the primary school is mostly focused on providing meaningful contexts in a theme or topic for acquiring content knowledge, i.e., content-based instruction (CBI). The term “content-based instruction” refers to an approach that integrates language with content instruction, but which allows the content to determine the nature and order of the linguistic syllabus. CBI not only builds on students' previous learning experiences and current needs and interests, but also takes account of the eventual purpose for which students need the language (Brinton et al., 1989). According to Jensen and Llosa (2004), content-based instruction involves a three-stage process designed to maximize students’ comprehension and mastery of content. The three-stage process involves into, through, and beyond activities. The academic content provides the core, but into, through, and beyond (Brinton & Holtsen, 1997) activities are employed to exploit students’ background knowledge and personal experience, supplement the content, increase student access to and comprehension of the core materials, and simultaneously foster students’ linguistic skills. 
 
@@ -153,6 +212,8 @@ The result of this study demonstrated that students completing three-stage proce
 
 In this study, students were required to narrate what they thought in their mother tongue. The result showed that their language expressiveness increased a lot. Is it possible that the result be the same if narratives are used in a class focusing on reading English for academic purposes? Future research can concentrate on investigating the effect of narratives on improving foreign language ability and certain academic knowledge.
  
+No reference for Jackson, 1990 and typo in Park, Abrahams, & Song reference.
+
 REFERENCES
 
 Ausubel, D. P. (2000). The acquisition and retention of knowledge: A cognitive view. Boston: Kluwer Academic Publishers.
