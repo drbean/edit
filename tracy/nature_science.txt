@@ -231,7 +231,37 @@ students opportunities to choose their own topic and decide themselves what
   students have is a good way to encourage students’ inquisitiveness. 
 
 
-If students want their knowledge to be a tool and not a heap of old staff at the backyards of their brains, they need to master the knowledge, skills and habits mainly in the form of activity. They attempt to construct stories that support their interpretation of themselves, including experiences and events that undermine the identities. Post-instructional narratives, claimed as valuable teaching tools by Egan (1988), are activities that can accord with the rate, rhythm and complexity of teaching with the students’ capabilities; therefore, students will feel their success and want to support it THEMSELVES. Such kind of task provides a window into students’ beliefs and experiences as well as highlights the unexpected physical impact of their learning struggle. 
+> If students want their knowledge to be a tool and not a heap of old staff at 
+
+  If students want their knowledge to be a tool and not a heap of old stuff at 
+
+> the backyards of their brains, they need to master the knowledge, skills and 
+
+  the backyards of their brains, they need to manipulate, or operationalize, their knowledge, skills and 
+
+> habits mainly in the form of activity. They attempt to construct stories that 
+
+  habits mainly in the form of activity. They need to attempt to construct stories that 
+
+support their interpretation of themselves, including experiences and events 
+> that undermine the identities. Post-instructional narratives, claimed as 
+
+  that underline their identities. Post-instructional narratives, claimed as 
+
+valuable teaching tools by Egan (1988), are activities that can accord with the 
+> rate, rhythm and complexity of teaching with the students’ capabilities; 
+
+  rate, rhythm and complexity of teaching and with the students’ capabilities; 
+
+> therefore, students will feel their success and want to support it THEMSELVES. 
+
+  therefore, students will feel    successful and want to engage in it THEMSELVES. 
+
+Such kind of task provides a window into students’ beliefs and experiences as 
+> well as highlights the unexpected physical impact of their learning struggle. 
+
+  well as highlights the unexpected physical impact of their struggle to learn. 
+
 
 The output hypothesis (Gass, 1988) suggests that students can rely on external cues and their general knowledge for comprehension but they need greater syntactic processing in language production. They need to reconstruct their ideas and express in their own words. Narratives, the results of reconstruction and production, contribute to the conversion of input into intake, which facilitates the retention and schematization of new knowledge (Gass, 1988). 
 
@@ -321,6 +351,8 @@ The result of this study demonstrated that students completing three-stage proce
 In this study, students were required to narrate what they thought in their mother tongue. The result showed that their language expressiveness increased a lot. Is it possible that the result be the same if narratives are used in a class focusing on reading English for academic purposes? Future research can concentrate on investigating the effect of narratives on improving foreign language ability and certain academic knowledge.
  
 Tracy, No reference for Jackson, 1990 and typo in Park, Abrahams, & Song reference.
+
+Typo in Gass and Selinker.
 
 REFERENCES
 
