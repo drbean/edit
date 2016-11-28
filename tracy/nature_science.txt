@@ -329,13 +329,58 @@ as experimental group. Each group had 34 participants, all of whom received a
 
 Procedures
 
-In class, all the participants divided into groups of four received formal content-based instruction on nature science. The content teacher followed the three-stage process of content-based instruction: into, through, and beyond stage. At first, certain into activities, such as providing prompts, brainstorming, or asking questions, were used to activate or elicit the students’ prior knowledge. In the through stage, the teacher asked students to read certain articles related to the topic, do the experiment, and discuss certain key issues with the students. Both groups were taught by the same teacher and did the same into and through activities. 
+In class, all the participants divided into groups of four received formal 
+content-based instruction on nature science. The content teacher followed the 
+three-stage process of content-based instruction: into, through, and beyond 
+> stage. At first, certain into activities, such as providing prompts, 
 
-However, only the experimental group did the beyond activity in class whereas the control group skipped the beyond stage. In the beyond stage, students in the experimental group did retrospective discussion, which required students to demonstrate their comprehension by creatively applying their new knowledge or relate their background knowledge from into phase to the newly acquired knowledge. Members of each group took turns as a leader to direct the discussion. One of the group members took turns reporting the results of the group discussion to the class orally. 
+  stages. First, certain into activities, such as providing prompts, 
+
+brainstorming, or asking questions, were used to activate or elicit the 
+students’ prior knowledge. In the through stage, the teacher asked students to 
+> read certain articles related to the topic, do the experiment, and discuss 
+
+  read certain articles related to the topic, do an experiment, and participate in discussions of
+
+> certain key issues with the students. Both groups were taught by the same 
+
+  certain key issues                  . Both groups were taught by the same 
+
+teacher and did the same into and through activities. 
+
+> However, only the experimental group did the beyond activity in class whereas 
+
+  However, only the experimental group did the beyond activity in class.
+
+> the control group skipped the beyond stage. In the beyond stage, students in 
+
+  The control group skipped the beyond stage. In the beyond stage, students in 
+
+> the experimental group did retrospective discussion, which required students to 
+
+  the experimental group did retrospective discussions which required them to 
+
+demonstrate their comprehension by creatively applying their new knowledge or 
+> relate their background knowledge from into phase to the newly acquired 
+
+  to relate their background knowledge exhibited in the into phase to the newly acquired 
+
+knowledge. Members of each group took turns as a leader to direct the 
+discussion. One of the group members took turns reporting the results of the 
+group discussion to the class orally. 
 
 In addition, every student was required to write down the content they had discussed and their personal responses in their mother tongue right after classroom instruction and discussion. All the reflections and journals were collected for further analyses.
 
-A t-test was used to investigate if there is a significant difference between the experimental group and the control group. A paired t-test was done to examine whether or not students made significant progress after the instruction.
+> A t-test was used to investigate if there is a significant difference between 
+
+  A t-test was used to investigate if there was a significant difference between 
+
+the experimental group and the control group. A paired t-test was done to 
+> examine whether or not students made significant progress after the 
+
+  examine whether or not students made significant progress over the course of the 
+
+instruction.
 
 Scoring
 
