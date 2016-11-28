@@ -263,7 +263,18 @@ Such kind of task provides a window into students’ beliefs and experiences as
   well as highlights the unexpected physical impact of their struggle to learn. 
 
 
-The output hypothesis (Gass, 1988) suggests that students can rely on external cues and their general knowledge for comprehension but they need greater syntactic processing in language production. They need to reconstruct their ideas and express in their own words. Narratives, the results of reconstruction and production, contribute to the conversion of input into intake, which facilitates the retention and schematization of new knowledge (Gass, 1988). 
+> The output hypothesis (Gass, 1988) suggests that students can rely on external 
+
+  Meanwhile, the output hypothesis (Gass, 1988) suggests that students can rely on external 
+
+cues and their general knowledge for comprehension but they need greater 
+syntactic processing in language production. They need to reconstruct their 
+> ideas and express in their own words. Narratives, the results of reconstruction 
+
+  ideas and express them in their own words. Narratives, the results of reconstruction 
+
+and production, contribute to the conversion of input into intake, which 
+facilitates the retention and schematization of new knowledge (Gass, 1988). 
 
 As discussed above, narratives have gained increasing stature in several areas of studies. This study was done to investigate whether or not narratives, one of the beyond activities, have a significant effect on student’s knowledge gains and language expressiveness. The following research questions will be addressed:
 (1) Do students who did narratives as a beyond activity right after the instruction make substantially better progress than those who did not do the narratives in terms of content knowledge and language ability? 
