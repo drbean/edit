@@ -1,0 +1,147 @@
+﻿Effects of Narrative Approach to Nature Science
+
+ Hsiao-fang Cheng,
+Language Center, National United University
+
+
+ABSTRACT
+This study was undertaken to investigate whether narratives can be used as an effective approach to improving students’ knowledge gains and learning attitudes. Sixty-eight fourth graders from Taiwan, divided into a control and an experimental group, participated in this study. The results showed that students in both groups made good progress after the instruction; however, students in the experimental group made significantly better advancement than those of the control group. The post-experiment survey revealed that students preferred using the narrative approach to nature science to traditional lecture method. They stated that in the course of writing narratives about what they felt they had learned, they tried to recall the gained knowledge, and at the same time, relate the newly-learned knowledge to their previous knowledge or life experience, and finally express in their own words. After composing narratives, they could recall more correctly what they had been taught, retain the new knowledge for a longer period of time, and clarify their comprehension, doubtfulness, or misconceptions. The result of this study demonstrated that using narratives as a beyond task had positive effects on the acquisition of content knowledge and language expressiveness.
+
+INTRODUCTION
+
+School, the most common type of formal education, is part of students’ everyday life space and typically perceived as a place where the teacher teaches and the students learn. It can be a place where formal learning occurs as well as a place where students learn informally from everyday life. In other words, the informal learning might have taken place in a particular lesson where intended formal learning was also occurring (Park, Abrahams, & Song, 2016). However, most classes offered in schools place a greater emphasis on formal instruction, especially the transfer of factual knowledge and messages. Therefore, one of the teacher’s responsibilities is to structure learning in a well-organized fashion, try to elicit students’ learning motivation, and promote their learning outcome. The utmost goal of teaching is to help students broaden their horizons as well as use their abilities, knowledge, and interest maximally in order to raise the effects and reduce the energy spent in the educational process (Guin, 2004). As we know, central to learning is the process in which new information is related to relevant ideas in the existing cognitive structures (Wolf, 1993). It is possible that students learn various things – values, perceptions, beliefs and behaviors that are not included in the official curriculum that the teacher teaches in the classroom (Jackson, 1990). Therefore, instructional materials and approaches should attempt to integrate new material with previously presented information through comparisons and cross-referencing of new and old ideas. It is hoped that the new ideas can be integrated with the learner’s prior knowledge and gradually become his intake and store as a newly developed schema in his/her learning mechanism (Carrell & Eisterhold, 2000). 
+
+A nature science class in the primary school is mostly focused on providing meaningful contexts in a theme or topic for acquiring content knowledge, i.e., content-based instruction (CBI). The term “content-based instruction” refers to an approach that integrates language with content instruction, but which allows the content to determine the nature and order of the linguistic syllabus. CBI not only builds on students' previous learning experiences and current needs and interests, but also takes account of the eventual purpose for which students need the language (Brinton et al., 1989). According to Jensen and Llosa (2004), content-based instruction involves a three-stage process designed to maximize students’ comprehension and mastery of content. The three-stage process involves into, through, and beyond activities. The academic content provides the core, but into, through, and beyond (Brinton & Holtsen, 1997) activities are employed to exploit students’ background knowledge and personal experience, supplement the content, increase student access to and comprehension of the core materials, and simultaneously foster students’ linguistic skills. 
+
+We human beings make sense of random experience by the imposition of stories and narratives. We give our lives meaning across time by the means of narrative. Recently, language learner narratives have received increased attention in the fields of TESOL and second language acquisition. Researchers acknowledge that narratives elicited from the learners are a legitimate source of data in the hermeneutic tradition, complementary to more traditional empirical approaches (Kanno, 2000; Norton, 2000; Pavlenko, 2001, 2002). The telling of life experiences and newly acquired knowledge may be a means of empowerment that makes students possible to express new selves and desires previously considered untellable. Furthermore, narratives are not purely individual productions—they are powerfully shaped by social, cultural, and historical conventions (Berman & Slobin, 1994; Johnstone, 1996). They have become a focus of research and a rich source of data in several areas of linguistics, in particular L1 acquisition, socio-linguistics and language education. 
+
+Narratives, one of the first-acquired communicative strategies, are a representation or interpretation of one’s previous experiences in a meaningful and logical sequence. We anticipate, gossip, learn, dream, criticize, or plan by narratives. A key way of understanding the assumptions held by learners is to examine their narratives or stories and become aware of the underlying assumptions that they embody. Ausubel (2000) also posits that learning to attend to the input and relating new concepts to the learner’s already existing cognitive structure will make the new concepts recallable and individuals learn large amounts of "meaningful" material from verbal/textual lessons in school. Therefore, it is assumed that narratives are one of the beyond activities that can effectively make students integrate new knowledge with their background knowledge. 
+
+The main objective of teaching is to teach students to “work with the knowledge”, to take inquisitiveness, and as a result, to be autonomous learners. To integrate the newly-acquired knowledge, students must use, transform, expand and amplify the newly-acquired knowledge, find new connections and correlations, as well as consider in different models and contexts. To successfully elicit student’s inquisitiveness, we must let students meet opened problems and solutions of which are lying beyond the bounds of the course being studied. Without developing students’ inquisitiveness, teaching is just the training of executors. In addition, if we accord the substance and forms of education with the students’ interests competently, they will try to learn “what’s on?” themselves. Narratives provide students opportunities to choose their own topic and decide themselves what thing they will narrate, and find out problems and solutions of which are lying beyond the bounds of the course being studied. In other words, narrating what students thought is a good way to elicit students’ inquisitiveness. 
+
+If students want their knowledge to be a tool and not a heap of old staff at the backyards of their brains, they need to master the knowledge, skills and habits mainly in the form of activity. They attempt to construct stories that support their interpretation of themselves, including experiences and events that undermine the identities. Post-instructional narratives, claimed as valuable teaching tools by Egan (1988), are activities that can accord with the rate, rhythm and complexity of teaching with the students’ capabilities; therefore, students will feel their success and want to support it THEMSELVES. Such kind of task provides a window into students’ beliefs and experiences as well as highlights the unexpected physical impact of their learning struggle. 
+
+The output hypothesis (Gass, 1988) suggests that students can rely on external cues and their general knowledge for comprehension but they need greater syntactic processing in language production. They need to reconstruct their ideas and express in their own words. Narratives, the results of reconstruction and production, contribute to the conversion of input into intake, which facilitates the retention and schematization of new knowledge (Gass, 1988). 
+
+As discussed above, narratives have gained increasing stature in several areas of studies. This study was done to investigate whether or not narratives, one of the beyond activities, have a significant effect on student’s knowledge gains and language expressiveness. The following research questions will be addressed:
+(1) Do students who did narratives as a beyond activity right after the instruction make substantially better progress than those who did not do the narratives in terms of content knowledge and language ability? 
+(2) What are the students’ perceptions and attitudes toward the narratives task?
+
+METHOD
+Participants
+
+Sixty-eight fourth graders from a primary school in Hsinchu, Taiwan, participated in this study. They had received formal instruction on nature science for one year before they participated in this study. All the participants were divided into two groups, one as control group and the other as experimental group. Each group had 34 participants, all of whom received a pretest, a posttest and a post-experimental survey. The results of the t-test showed no significant difference was found in the pretest, indicating that all the subjects had similar amount of prior knowledge before receiving the instruction. The experimental and control groups are homogeneous in terms of the expected content knowledge.  
+
+Procedures
+
+In class, all the participants divided into groups of four received formal content-based instruction on nature science. The content teacher followed the three-stage process of content-based instruction: into, through, and beyond stage. At first, certain into activities, such as providing prompts, brainstorming, or asking questions, were used to activate or elicit the students’ prior knowledge. In the through stage, the teacher asked students to read certain articles related to the topic, do the experiment, and discuss certain key issues with the students. Both groups were taught by the same teacher and did the same into and through activities. 
+
+However, only the experimental group did the beyond activity in class whereas the control group skipped the beyond stage. In the beyond stage, students in the experimental group did retrospective discussion, which required students to demonstrate their comprehension by creatively applying their new knowledge or relate their background knowledge from into phase to the newly acquired knowledge. Members of each group took turns as a leader to direct the discussion. One of the group members took turns reporting the results of the group discussion to the class orally. 
+
+In addition, every student was required to write down the content they had discussed and their personal responses in their mother tongue right after classroom instruction and discussion. All the reflections and journals were collected for further analyses.
+
+A t-test was used to investigate if there is a significant difference between the experimental group and the control group. A paired t-test was done to examine whether or not students made significant progress after the instruction.
+
+Scoring
+
+All the participants received a pre-test on what was going to be taught in class before the instruction. After the instruction, they received a post-test on what they had learned. Both pre- and post- tests contained questions of the same content but wording was revised. A t-test was also conducted to see if there was any significant difference in gaining scores of content knowledge among the control and experimental groups. Students’ narratives were used to examine whether they progressed in language expressiveness in terms of content, coherence and the amount of language production.
+
+At the end of the experiment, all the participants completed a survey on their attitudes and perceptions toward the beyond narratives activity. Students’ answers were categorized and analyzed with qualitative analysis procedures. 
+
+RESULTS AND DISCUSSIONS
+
+The results of this study could be detailed in two separate categories: statistical results and survey results. 
+(1) Statistical Results
+
+
+Table 1 Statistical Results
+
+Pretest
+Posttest
+Gaining Score
+Paired-t Test
+Experimental Group
+37.65
+80.07
+42.42
+P<0.05
+Control Group
+42.58
+69.70
+27.12
+P<0.05
+t-test
+1=2
+1>2
+1>2
+
+
+Table l illustrated that no significant difference was found in the pretest, indicating that all the subjects had similar amount of prior knowledge before receiving the instruction. Significant difference was found in the posttest between control and experimental groups, indicating that the treatment had a significant effect on learning. This result showed that using narratives as a beyond activity in a nature science class substantially promoted the learning outcomes.  
+
+The paired-t test for both control and experimental groups showed that students in both groups made good progress after the instruction, showing that the content-based instructional method worked very well on all the participants. However, the gaining score of the experimental group (42.42) was significantly higher than that of the control group (27.12). Students in the experimental group made significantly better advancement than those of the control group, denoting that the beyond activity, narratives, contributed substantially to enhancing or reinforcing what students had learned. 
+
+Why did students in the experimental group progress significantly better than those in the control group in the light of content knowledge? One possibility is that re-production facilitates the schematization and retention of new knowledge. According to Gass (1988), comprehension is different from intake. Learners perceive the ambient input in light of their past experiences and currently held knowledge. All input is not automatically used for comprehension. Learners selectively choose chunks of information in order to comprehend the perceived input. Comprehension can be achieved by merely analyzing the semantic components while intake requires the analysis of syntactical structures. The conversion of input into intake depends on the amount of comprehended input at the linguistic level. That is, syntactical analysis contributes more to converting input to intake than the analysis of semantic components does. If input becomes intake, the intake data may be used to form a new inter-language hypothesis which is subject to testing upon further exposure to input. If the input data confirms an existing hypothesis, it will facilitate the integration of the new knowledge into the new learning system that the learners are progressively developing. If not, learners will reject or modify the hypothesis they have earlier formulated. This creates a feedback loop from the learner’s output to the intake component, where Gass considers that hypothesis formation and testing take place. The output component is also related to the levels of analysis made at the stage of comprehended input. This language production is seen as an important practice to move the learners from the comprehended input stage to the intake stage. Intake is often used for further processing in learning. Through the process of hypothesis formation, testing, modification, confirmation and rejection, the intake may subsequently be integrated into the learner’s developing learning system and eventually become their internal learning mechanism. Once the information become learner’s internal learning mechanism, it will be stored in the long-term memory and become part of learner’s internalized knowledge.
+
+Another possibility is that writing narratives demands learners to synthesize information from the various readings, lectures, previous experience and knowledge, and then simultaneously reconstruct all the ideas (Brinton and Jensen, 1997). Conway et al. (1997) suggest that in the early stages of learning, knowledge is more likely to be retained in episodic form which students are able to “remember” specifically. As learning progresses, these memories shift from being episodic to being more conceptual, highly familiar and generalized knowledge which students tend to simply “know”. This shift is called “schematization”, which is not a sudden or one-time phenomenon. Schematization, in fact, requires a lot of mental processing activity on the part of the learners. It is likely that writing down the newly reconstructed knowledge contributes to the schematization of new knowledge (Lin, 2009). 
+
+(2) Survey Results
+
+The post-experiment survey revealed that students preferred using narratives as a beyond task to reinforce their knowledge on nature science and their ability to narrate what they thought. Some students stated that at the beginning of the experiment they had great difficulty in writing down what they thought. They could write only a few sentences. A few weeks later, they found that writing down their own feelings or ideas was not as difficult as they thought before. Most students confessed that while reconstructing what they had comprehended, they could recall what they had learned from their experience and life simultaneously. Especially the one who used to perform the worst in class said that they gradually enjoyed lecture and this activity--think and write. When asked to do narratives, he wrote nothing in week 1. In week 2 he wrote: 
+
+I don’t like study, especially writing. What I like to do is running in the mountains, playing with animals and picking up edible plants. I do not know what to write and how to do it.
+
+However, in week 5, he wrote:
+
+I think I like writing more and more even though I do not write well. However, what I enjoy the most at school is tell my classmates what I had learned when I lived with my grandparents in the mountains. The teacher did not mention where we could find wild animals, what they ate and how to catch and play with them, etc. I felt respected by my classmates when I told them what I had learned during my childhood. Because of sharing, I felt a great sense of success that I had never had before. So I feel I like reading and writing more and more. 
+
+It was obvious that the content, the number of words he wrote, and his confidence in learning improved tremendously.
+
+His homeroom teacher said that before the treatment, most of the time he was lying on his desk without paying attention to what was going on in class. It seemed that he was not interested in learning at all. He ran out of class immediately when the bell rang for a break. However, when they were asked to discuss and narrate what they had learned, he dominated the whole discussion session. He became more and more active and anxious of learning and sharing ideas with others. During the break, he was often surrounded by some of his classmates, talking about his life experiences. Because of the narrative work, all the students preferred staying in the room and wrote what they came up with during the break. 
+
+When asked what they thought of their writing ability, most of them said that they rated their language skills as having increased, particularly writing skills. Five students said that they could expand their nature knowledge by asking the teacher or their classmates questions about things that were not included in the planned lesson. Four of them stated that they also tried to identify and elaborate on what they had learned in relation to other aspects of the course. Another important finding was the students' rating of their increased confidence in expressing what they felt they had learned and thought. Three students also identified that they could analyze and classify the reading content in a more organized method and think about it more critically, instead of receiving all the messages passively. 
+
+After carefully reading the students’ written narratives, the researcher found that the majority of students could gradually write longer paragraphs, their prose were smoother, and their narratives had richer and more relevant contents than before. Most of their short memos were about what had been planned by the teacher for that specific lesson, but there were a few instances of learning that the teacher did not intend within that lesson. Some misconceptions were also found from their narratives. For example, most students thought trees do not blossom. As a matter of fact, all the trees do blossom just because some of the blossoms are invisible. The result of this empirical study demonstrated that using narratives as a beyond task had positive effects on knowledge gains, language expressiveness, and learning attitudes.
+
+CONCLUSION AND SUGGESTION
+
+The result of this study demonstrated that students completing three-stage process in a content-based instruction outperformed those who only completed two-stage process. Though many activities can be employed in the beyond process, narratives is likely a good alternative to increase learner’s content knowledge and language ability. The more activities learners are required to fulfill or to do by themselves, the better performance they obtain. In other words, student-centered instruction is much better than teacher-centered instruction. It is suggested that narratives be widely used in a content-based instruction to enhance learners’ content knowledge and language expressiveness.
+
+In this study, students were required to narrate what they thought in their mother tongue. The result showed that their language expressiveness increased a lot. Is it possible that the result be the same if narratives are used in a class focusing on reading English for academic purposes? Future research can concentrate on investigating the effect of narratives on improving foreign language ability and certain academic knowledge.
+ 
+REFERENCES
+
+Ausubel, D. P. (2000). The acquisition and retention of knowledge: A cognitive view. Boston: Kluwer Academic Publishers.
+
+Brinton, & Jensen, L. (1997). Content-based instruction. In J. Crandall & D. Kaufman (Eds), Content-based Instruction in Higher Education. Virginia: Teachers of English to Speakers of Other Languages, Inc. (TESOL).  
+
+BunchG C, AbramP L, LotanR A, & ValdésG 2001. Beyond sheltered instruction: Rethinking conditions for academic language development. TESOL Journal, 10 (2/3), 28- 33.
+
+Carrell, P. L. & Eisterhold, J.C. (2000). Schema theory and ESL reading pedagogy. In P. L. Carrell, J. Devine, & D. E. Eskey (Eds.). Interactive Approaches to Second Language Reading. (pp. 73-92). Cambridge: Cambridge University Press.
+
+Coway, M. A., Cohen, G.. M., & Stanhope, N. (1991). On the very long-term retention of knowledge acquired through formal education: Twelve years of cognitive psychology. Journal of Experimental Psychology: General. 120, 1-22.
+
+Egan, K. (1988). Teaching as story telling: An alternative approach to teaching and the curriculum. London: Routledge.
+
+Gass, S. M., & Selinder, L. (2001). Second language acquisition: An introductory course. New Jersey: L. Erlbaum Associates.
+
+Guin, Anatoly. (2004). School-factory will die. What’s on? TRIZ Journal, www.triz-journal.com, May, 2004. 
+
+Jensen, L. & Llosa, L. (2004). Workshop: Materials development. Paper presented at CBI Workshop, National United University, Taiwan. Sep. 2004.
+
+Kanno, Y. (2000). Bilingualism and identity: The stories of Japanese returnees. International Journal of Bilingual Education and Bilingualism, 3, 1-18. 
+
+Lin, C. L. (2009) Effect of review activities on EFL learning. Journal of Pan-Pacific Association of Applied Linguistics, 13 (2), 43-57.
+
+Norton, B. (2000). Identity and language learning: Gender, ethnicity, and educational change. London: Longman/ Pearson Education.
+
+Park, J., Abrahams, I., & Song, J. (2016). Unintended knowledge learnt in primary science practical lessons. International of Science Education. http://dx.doi.org/10.1080/09500693.2016.1250968
+
+Pavlenko, A. (2001). “In the world of tradition, I was unimagined”: Negotiation of identities in cross-cultural autobiographies. The International Journal of Bilingualism, 5, 317-344.
+
+Pavlenko, A. (2002). Narrative study: Whose story is it, anyway? TESOL Quarterly, 36(2), 213-218.
+
+Wolf, D. F. (1993). A comparison of assessment tasks used to measure FL reading comprehension. The Modern Language Journal, 77(4), 473-488.
+
+Stoller, F. L. (2008). Content‐Based Instruction. In Encyclopedia of language and education (pp. 1163-1174). Springer US.
+
+
