@@ -378,7 +378,7 @@ In addition, every student was required to write down the content they had discu
 the experimental group and the control group. A paired t-test was done to 
 > examine whether or not students made significant progress after the 
 
-  examine whether or not students made significant progress over the course of the 
+  examine whether or not students made significant progress over the period of 
 
 instruction.
 
@@ -423,7 +423,10 @@ At the end of the experiment, all the participants completed a survey on their
 
 RESULTS AND DISCUSSIONS
 
-The results of this study could be detailed in two separate categories: statistical results and survey results. 
+> The results of this study could be detailed in two separate categories: statistical results and survey results. 
+
+  The results of this study are detailed in two separate categories: statistical results and survey results. 
+
 (1) Statistical Results
 
 
@@ -431,7 +434,10 @@ Table 1 Statistical Results
 
 Pretest
 Posttest
-Gaining Score
+> Gaining Score
+
+  Gain Score
+
 Paired-t Test
 Experimental Group
 37.65
@@ -449,9 +455,55 @@ t-test
 1>2
 
 
-Table l illustrated that no significant difference was found in the pretest, indicating that all the subjects had similar amount of prior knowledge before receiving the instruction. Significant difference was found in the posttest between control and experimental groups, indicating that the treatment had a significant effect on learning. This result showed that using narratives as a beyond activity in a nature science class substantially promoted the learning outcomes.  
+> Table l illustrated that no significant difference was found in the pretest, 
 
-The paired-t test for both control and experimental groups showed that students in both groups made good progress after the instruction, showing that the content-based instructional method worked very well on all the participants. However, the gaining score of the experimental group (42.42) was significantly higher than that of the control group (27.12). Students in the experimental group made significantly better advancement than those of the control group, denoting that the beyond activity, narratives, contributed substantially to enhancing or reinforcing what students had learned. 
+  Table 1 shows that no significant difference was found in the pretest, 
+
+> indicating that all the subjects had similar amount of prior knowledge before 
+
+  indicating that all the subjects had a similar amount of prior knowledge before 
+
+> receiving the instruction. Significant difference was found in the posttest 
+
+  receiving the instruction. A significant difference between control and experimental groups was found in the posttest,
+
+> between control and experimental groups, indicating that the treatment had a 
+
+                                           indicating that the treatment had a 
+
+> significant effect on learning. This result showed that using narratives as a 
+
+  significant effect on learning. This result supports the claim that using narratives as a 
+
+> beyond activity in a nature science class substantially promoted the learning 
+
+  beyond activity in a nature science class will substantially promote learning 
+
+outcomes.  
+
+The paired-t test for both control and experimental groups showed that students 
+> in both groups made good progress after the instruction, showing that the 
+
+  in both groups made good progress in the course of instruction, indicating that the 
+
+> content-based instructional method worked very well on all the participants. 
+
+  content-based instructional method worked very well for all the participants. 
+
+> However, the gaining score of the experimental group (42.42) was significantly 
+
+  However, the gain score average of the experimental group (42.42) was significantly 
+
+higher than that of the control group (27.12). Students in the experimental 
+> group made significantly better advancement than those of the control group, 
+
+  group made significantly better progress than those of the control group, 
+
+> denoting that the beyond activity, narratives, contributed substantially to 
+
+  indicating that the beyond activity, narratives, contributed substantially to 
+
+enhancing or reinforcing what students had learned. 
 
 Why did students in the experimental group progress significantly better than those in the control group in the light of content knowledge? One possibility is that re-production facilitates the schematization and retention of new knowledge. According to Gass (1988), comprehension is different from intake. Learners perceive the ambient input in light of their past experiences and currently held knowledge. All input is not automatically used for comprehension. Learners selectively choose chunks of information in order to comprehend the perceived input. Comprehension can be achieved by merely analyzing the semantic components while intake requires the analysis of syntactical structures. The conversion of input into intake depends on the amount of comprehended input at the linguistic level. That is, syntactical analysis contributes more to converting input to intake than the analysis of semantic components does. If input becomes intake, the intake data may be used to form a new inter-language hypothesis which is subject to testing upon further exposure to input. If the input data confirms an existing hypothesis, it will facilitate the integration of the new knowledge into the new learning system that the learners are progressively developing. If not, learners will reject or modify the hypothesis they have earlier formulated. This creates a feedback loop from the learner’s output to the intake component, where Gass considers that hypothesis formation and testing take place. The output component is also related to the levels of analysis made at the stage of comprehended input. This language production is seen as an important practice to move the learners from the comprehended input stage to the intake stage. Intake is often used for further processing in learning. Through the process of hypothesis formation, testing, modification, confirmation and rejection, the intake may subsequently be integrated into the learner’s developing learning system and eventually become their internal learning mechanism. Once the information become learner’s internal learning mechanism, it will be stored in the long-term memory and become part of learner’s internalized knowledge.
 
