@@ -209,4 +209,4 @@ What are they trying to do?
 
 How will they decide if they are successful or not?
 
-It doesn't matter if you didn't understand what your first partner said. In fact, it is better if you use your imagination. GIVE the first partner some       +ideas, GOALS, measures of SUCCESS.
+It doesn't matter if you didn't understand what your second partner said about her/his first partner. In fact, it is better if you use your imagination. GIVE the first partner some ideas, GOALS, measures of SUCCESS.
