@@ -17,6 +17,12 @@
 
 1. We do it all again, writing about the same thing, but using a "scientific" format, or writing about a different thing we did.
 
+	But still:
+
+	- Trying to do something,
+	- seeing how it goes,
+	- writing about it
+
 # Rationale for an unusual kind of essay
 
 \epigraphhead{\epigraph{Do.\\ Think.\\ Write.}{\textit{http://dothinkwrite.blogspot.com}}}
