@@ -210,3 +210,82 @@ The secret of achievement is to hold a picture of a successful outcome in mind. 
 	1. Other Department
 
 1. Anything else you'd like to write??
+
+## Opinions about project to teach yourself some language ahead of the exam
+
+### How are languages learned and how can you teach yourself?
+
+It is not clear.
+
+There is no right answer.
+
+Feeling successful and doing something you feel happy doing is important.
+
+### How are languages learned and how can you teach yourself?
+
+It is not clear.
+
+There is no right answer.
+
+Feeling successful and doing something you feel happy doing is important.
+
+### Approaches to teaching yourself
+
+1. Cognitive: Learning _words and expressions_ (reviewing the textbook and
+	course materials)
+2. Metcognitive: Understanding _ideas_ about language (which the course that
+	you are studying has tried to introduce)
+3. Affective: _Feeling_ good about yourself, enjoying yourself, and having a
+	good attitude to what you have to do
+4. Social: Relying on _other people_ to help you improve
+
+### 3 goals for the language self-teaching project
+
+A. Make them simple goals, because you have no time.
+
+- Don't say, Review all the material in the textbook. Say,
+
+        - Review the definition of IMRAD, or
+        - Understand the structure of an opinion survey
+
+B. Make them clear goals. Otherwise, they will be difficult to carry out.
+
+- Don't say, Review the definition of IMRAD. Say
+
+        - Review what to say in each of the Introduction, Method, Results and
+          Discussion.
+
+- Don't say, Understand the structure of an opinion survey. Say,
+
+        - Remember whether to ask a WH-question or YN-question, how may
+          questions to ask, and how many people to ask.
+
+
+### Rewrite your goals as questions for an opinion survey.
+
+You have your ideas about your goals. But what do other people think of them?
+Do they have advice for you? Ask them.
+
+For example, 
+
+- Reviewing what to say in each of the Introduction, Method, Results and Discussion.
+
+Ask 3 questions:
+
+1. Which is most difficult to write of Introduction, Method, Results and Discussion?
+
+a. Introduction,
+b. Method,
+c. Results and
+d. Discussion.
+
+2. Do you need to review IMRAD? Why?
+
+a. Yes
+b. No
+
+3. What do you generally say at the end in Discussion?
+
+a. Rewrite the results in different words.
+b. Say how you felt about what happened.
+c. Say what you will do next time.
