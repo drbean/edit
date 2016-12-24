@@ -238,8 +238,14 @@ Feeling successful and doing something you feel happy doing is important.
 
 ### Goals for self-teaching project
 
-1. Words and expressions
-2. Study plans
+1. What: Words and expressions
+
+	eg Talking about Anthon Berg's marketing stragtegy
+
+2. How: Study plans
+
+	eg Review Weeks 13-15 in the textbook
+
 3. Motivation, good attitudes, stress
 4. Other people
 
