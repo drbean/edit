@@ -231,13 +231,17 @@ Feeling successful and doing something you feel happy doing is important.
 
 ### Approaches to teaching yourself
 
-1. Cognitive: Learning _words and expressions_ (reviewing the textbook and
-	course materials)
-2. Metcognitive: Understanding _ideas_ about language (which the course that
-	you are studying has tried to introduce)
-3. Affective: _Feeling_ good about yourself, enjoying yourself, and having a
-	good attitude to what you have to do
+1. Cognitive: Learning _words and expressions_ (from the textbook)
+2. Metacognitive: Developing _study plans_ (that will be effective)
+3. Affective: having _motivation_, _good attitudes_, coping with _stress_
 4. Social: Relying on _other people_ to help you improve
+
+### Goals for self-teaching project
+
+1. Words and expressions
+2. Study plans
+3. Motivation, good attitudes, stress
+4. Other people
 
 ### 3 goals for the language self-teaching project
 
