@@ -61,7 +61,7 @@ What's wrong with:
 
 ??
 
-## Example essay
+## Example essay--summer vacation
 
 Here is a report one of the authors wrote about visiting the US with his son:
 
@@ -95,6 +95,40 @@ Here is a report one of the authors wrote about visiting the US with his son:
 	Next, we got a iPhone 6 for Daniel, to go with the iPad that
 	Daniel’s uncle had given him as a graduation present.
 	Daniel was thrilled.  
+
+## Example essay--Chinese New Year
+
+Here is a report one of the authors wrote about visiting family at the Chinese New Year:
+
+	Throughout Taiwan, China and far-flung parts of the world,
+	people look forward to the coming of the Lunar New Year. I’m
+	no different.  Many people may be surprised to learn that,
+	but for over twenty years, many of my plans revolve around
+	the lunar calendar because I live in Taiwan. Consequently,
+	holidays such as Tomb Sweeping Festival, Dragon Boat
+	Festival and Mid-Autumn Festival are all meaningful times to
+	me.
+
+	While these are all special festivals, none matches the
+	Lunar New Year Festival because that is a time where distant
+	family members return home to where elderly family members
+	reside. The same follows for me.  On January 23, my student
+	grades having already been submitted two days prior and I
+	having busily helped to clean the house, I arose by 5am to
+	double-check that I had packed gifts for my mom and those
+	who help her throughout the year. We left home by 5:45 to
+	beat any early morning traffic that might be encountered as
+	many others were flying off to vacations sites such as
+	Tokyo, Singapore, Fujian and Kota Kinabalu.
+
+	Having arrived and my wife getting us to the correct
+	counter, after other airport representatives directing us to
+	the wrong check-in island, we were met by a smart and
+	helpful All Nippon Airlines representative.
+
+	[ To be continued ]
+
+	Words:214
 
 ## Vacation report activity
 
