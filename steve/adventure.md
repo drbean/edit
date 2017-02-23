@@ -95,7 +95,7 @@ We already wrote a similar essay about shopping using the IMRAD format explained
 
 ### An author's mindmap
 
-This ![復興空航](small_fushing.pdf "Flying 復興")
+<!-- This ![復興空航](small_fushing.pdf "Flying 復興") -->
 
 ### Example self-introduction
 
