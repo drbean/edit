@@ -299,3 +299,26 @@ b. No
 a. Rewrite the results in different words.
 b. Say how you felt about what happened.
 c. Say what you will do next time.
+
+## Who has the clearest, simplest, most concrete goal
+
+Sally
+
+I want to improve my English, because I am major in English. And I hope I will be better in my future. Although everyone can speak, but...
+
+Katie
+
+I very like Korea culture ,music ,idol and video.
+
+For the sake of learning Korean,sometimes I watiching video like to listen Original ...
+
+Angela
+
+I want to learn Japanese.
+
+I think Japanese is important language in the world.I want to  watch japanese cartoon or drama to learn it and I...
+
+Sally
+
+I learn English by myself on the internet,spend about two hours a day to learn English,you can ask yourself to memories about twenty ...
+ 
