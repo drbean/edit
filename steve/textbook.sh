@@ -34,6 +34,7 @@ pandoc                                                   \
 	shopping.md                                      \
 	adventure.md                                     \
 	trip.md                                          \
+	life.md                                          \
 	examples.md                                      \
 	design.md                                        \
 	critique.md                                      \
