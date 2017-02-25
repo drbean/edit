@@ -43,7 +43,10 @@ B.  Other things we do, we do by chance and we see a good result. For example, p
 
 C.  Okay. A lot of our actions are like that. We do things:
 
-    A.  because we are supposed to, or everyone does it, or it is a rule, and we don't real know what the result is. Studying at school is like that. Or,
+    A.  because we are supposed to, or everyone does it, or it is a rule, and we don't real know what the result is.
+
+	    Studying at school is like that. *Life* is like that. Or,
+
     B.  for no reason at all, by chance, unthinkingly. Or,
     C.  we do things because we want to see what the effect is.
 
