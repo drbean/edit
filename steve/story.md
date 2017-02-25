@@ -145,6 +145,18 @@ Here is a report one of the authors wrote about visiting family at the Chinese N
 1. Write a question about what you said to the class
 1. Answer questions of other groups
 
+### Additional vacation report exercise
+
+#### Vacation report opinion survey
+
+After reading [Opinion surveys]
+
+1. 3 questions about the just-finished vacation, with 3 answers each.
+2. interviews with 3 people with the 3 questions and 3 answers
+3. a write-up of the questions, the people interviewed, and what the people said.
+4. with a section on what the questions mean to the writer, and what the writer thinks of the interviewees' answers.
+
+
 ## Duck's vacation conversation comparison
 
 1. Two students who saw each other during the vacation and are friends come to the front and discuss what they did during the vacation.
