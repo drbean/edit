@@ -77,3 +77,24 @@ Imagine the TTB gave you the money and you did the research. Now stand back and 
 	* What is the significance of what you did (Why is it important)?
 	* What advice do you have for the TTB?
 	* What can you (or other people) do if the TTB gives you/them MORE money?
+
+## An overseas trip--the idea and the reality
+
+1. You plan an overseas trip.
+
+	1. How did you come to this plan? What were the reasons for it? Were they good? Who did you talk to about it?
+
+		* the *reasons* behind a design decision. Ask, Why did I have to make this decision?
+		* the *evaluation* for it. Ask, Why was it a good decision?
+		* the *other alternatives* considered. Ask, What choices did I have at that time?
+		* the *trade offs*. Ask, What were the advantages and disadvantages of all my options?
+		* the *talk* that led to the decision. Ask, What did I say and who did I talk to as I tried to decide what to do?
+
+	2. What do you expect to happen? The people, the things, the food, the places to stay, the events.
+
+2. Now imagine you have returned from the trip. It wasn't as you expected. Say how it was different than you expected.
+
+	1. Re-evaluate your plan, the *reasons*, the *evaluation*, the *other alternatives*, the *trade offs*, the *talk*.
+
+	2. What actually happened? The people, the things, the food, the places to stay, the events. Use your imagination.
+
