@@ -56,6 +56,21 @@ While \rule{5cm}{0.00001cm} would describe him/herself as: \
 \end{itemize}
 \end{DoubleSpace}
 
+### Writing about self
+
+Now, using the conversations above:
+
+Write 50 words on what kind of person you are.
+
+Look at [Conversations about ourselves] above on p 15 of the book, 5.2 Activity 0: Talking to another person about self
+
+Compare yourself with another person, eg family member, friend.
+
+How are you similar? How are you different to that person.
+
+Look at the adjectives to describe personality on \pref{adjectives-describing-personality}.
+
+
 ## Johari Window on self
 
 The Johari Window compares and contrasts what you know/DON'T know (or think) about yourself with what others know/DON'T know (or think) about you.
