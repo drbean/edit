@@ -1,0 +1,25 @@
+I applied for the Freelance Academic Editor position advertised on https://www.learn4good.com/jobs/taiwan/freelance/548415/e/ yesterday.
+
+Applying for the job inspired me to put down some thoughts I have had for a long time about the work of the editor at the two different levels of sentence and text.
+
+## Sentence level
+
+At the sentence level, fixing non-native speaker writing is similar to doing a cloze exercise where for every word there is a blank and where for every blank there is a hint, but for which each of the hints we possibly have the wrong answer. The job of the editor then becomes to determine what the writer wanted to say and whether what the writer wanted to say was the right thing to say.
+
+Having decided how the sentence should read, the editor then needs to replace the wrong words with the right words, or possibly make more radical changes to the sentence, at the same time making sure the sentence is easy to read, is grammatical and does as little damage as possible to the original sentence, 
+
+For some clients, this may be all they expect from the editor, focused as they are on their recognized inadequacies expressing themselves in grammatical English, and confident in their understanding of the subject of their work and their argument--or if not confident, then at least oblivious to unrecognized inadequacies handling the rhetorical structures of the academic article.
+
+## Text level,  
+
+But in fact, text-level correction may be more important than sentence-level correction. I believe journal editors are less tolerant of text-level rhetorical inadequacies than sentence-level grammatical inadequacies. At least, I think I saw something about this somewhere.
+
+At the text level then, the editor also needs to tackle rhetorical problems like foregrounded material which should be backgrounded, and the framing of findings in the Results section pf an IMRAD essay as claims instead of as facts (Claims would usually be in the Discussion section. Or the editor might be able to re-frame the claims as facts, depending on suppositions that what the writer has written support).
+
+These problems are harder for the editor to fix because to handle them the whole article, from the Introduction section to the Discussion section, or at least large parts of it, needs to be kept in mind, in distinction to sentence-level editing, where the mind is focused on one idea in one sentence. (That this is so is suggested by the fact that While all native-speakers have a command of the grammar, not all are good writers.)
+
+Thus, text-level editing requires a oood understanding of the writer's argument, similar to the understanding a journal editor needs to evaluate the paper. And it may require greater facility with a preferred editing app, moving parts of the essay around. (I am a Linux and vim guy, but can work on Windows with cygwin)
+
+Speaking more generally, I believe there are only a limited number of paths through the material a writer presents with the aim of establishing the truth of his/her claims. Starting at the top with the IMRAD structure in the IMRAD essay, the choices the writer needs to negotiate while working their way through their material go all the way down to distinguishing between "a" and "the", which makes it very difficult for the writer to end up where they wanted to go. 
+
+It is the job of the editor, when the writer is getting off the track provided by one of these paths to put them back on. These paths are both common to many disciplines and also discipline-specific, making the work of the editor worthy of an all-round Renaissance man/woman.
