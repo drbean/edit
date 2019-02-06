@@ -16,7 +16,7 @@ But in fact, text-level correction may be more important than sentence-level cor
 
 At the text level then, the editor also needs to tackle rhetorical problems like foregrounded material which should be backgrounded, and the framing of findings in the Results section pf an IMRAD essay as claims instead of as facts (Claims would usually be in the Discussion section. Or the editor might be able to re-frame the claims as facts, depending on suppositions that what the writer has written support).
 
-These problems are harder for the editor to fix because to handle them the whole article, from the Introduction section to the Discussion section, or at least large parts of it, needs to be kept in mind, in distinction to sentence-level editing, where the mind is focused on one idea in one sentence. (That this is so is suggested by the fact that While all native-speakers have a command of the grammar, not all are good writers.)
+These problems are harder for the editor to fix because to handle them the whole article (or at least a large part of it) needs to be kept in mind, in distinction to sentence-level editing, where the mind is focused on one idea in one sentence. (That this is so is suggested by the fact that while all native-speakers have a command of the grammar, not all are good writers.)
 
 Thus, text-level editing requires a oood understanding of the writer's argument, similar to the understanding a journal editor needs to evaluate the paper. And it may require greater facility with a preferred editing app, moving parts of the essay around. (I am a Linux and vim guy, but can work on Windows with cygwin)
 
