@@ -8,7 +8,7 @@ For some clients, this may be all they expect from the editor, focused as they a
 
 ## Text level,  
 
-But in fact, text-level correction may be more important than sentence-level correction. I believe journal editors are less tolerant of text-level rhetorical inadequacies than sentence-level grammatical inadequacies. At least, I think I saw something about this somewhere.
+But in fact, text-level correction may be more important than sentence-level correction. journal editors are less tolerant of text-level rhetorical inadequacies than sentence-level grammatical inadequacies (Mauranen, 2017).
 
 At the text level then, the editor also needs to tackle rhetorical problems like foregrounded material which should be backgrounded, and the framing of findings in the Results section pf an IMRAD essay as claims instead of as facts (Claims would usually be in the Discussion section. Or the editor might be able to re-frame the claims as facts, depending on suppositions that what the writer has written support).
 
@@ -19,3 +19,6 @@ Thus, text-level editing requires a oood understanding of the writer's argument,
 Speaking more generally, I believe there are only a limited number of paths through the material a writer presents with the aim of establishing the truth of his/her claims. Starting at the top with the IMRAD structure in the IMRAD essay, the choices the writer needs to negotiate while working their way through their material go all the way down to distinguishing between "a" and "the", which makes it very difficult for the writer to end up where they wanted to go. 
 
 It is the job of the editor, when the writer is getting off the track provided by one of these paths to put them back on. These paths are both common to many disciplines and also discipline-specific, making the work of the editor worthy of an all-round Renaissance man/woman, not something that can be said about a lot of work nowadays, where people are learning more and more about less and less.
+
+Anna Mauranen Good Texts in Bad English? Academic Writing in ELF Waseda Working Papers in ELF, 2017, 6, p 15-39
+
