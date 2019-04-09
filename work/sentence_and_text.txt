@@ -4,9 +4,7 @@ Applying for the job inspired me to put down some thoughts I have had for a long
 
 ## Sentence level
 
-At the sentence level, fixing non-native speaker writing is similar to doing a cloze exercise where for every word there is a blank and where for every blank there is a hint, but for which each of the hints we possibly have the wrong answer. The job of the editor then becomes to determine what the writer wanted to say and whether what the writer wanted to say was the right thing to say.
-
-Having decided how the sentence should read, the editor then needs to replace the wrong words with the right words, or possibly make more radical changes to the sentence, at the same time making sure the sentence is easy to read, is grammatical and does as little damage as possible to the original sentence, 
+At the sentence level, fixing non-native speaker writing is similar to doing a cloze exercise where for every word there is a blank and where for every blank there is a hint, but for which each of the hints we possibly have the wrong answer. After determining what the writer wanted to say and whether what the writer wanted to say was the right thing to say, the editor then needs to find the right answers, replacing the wrong words with the right words, or possibly making more radical changes to the sentence, at the same time making sure the sentence is easy to read, is grammatical and does as little damage as possible to the original sentence.
 
 For some clients, this may be all they expect from the editor, focused as they are on their recognized inadequacies expressing themselves in grammatical English, and confident in their understanding of the subject of their work and their argument--or if not confident, then at least oblivious to unrecognized inadequacies handling the rhetorical structures of the academic article.
 
