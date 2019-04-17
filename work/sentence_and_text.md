@@ -20,7 +20,7 @@ references:
 - id: wiki:imrad
   type: no-type
   author:
-  - literal: Wikipedia contributors
+  - literal: Wikipedia
   issued:
   - year: 2019
   title: IMRAD — Wikipedia, the free encyclopedia
