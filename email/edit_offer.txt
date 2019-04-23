@@ -10,7 +10,7 @@ Please feel free to contact me, just to say, "Hello", even if you don't want me 
 See my resume at http://drbean.sdf.org/ResumE.html
 See my thoughts on the work of the editor at http://drbean.sdf.org/sentence_and_text.pdf
 See my work on a paper about an experimental intervention in education, http://drbean.sdf.org/q-technique.html
-See a cover letter I sent to Wallace Editing Services <a href="http://www.editing.tw">http://www.editing.tw</a> in application for a freelance editing position at http://drbean.sdf.org/wallace_cover_letter.txt
+See a cover letter I sent to Wallace Editing Services, http://www.editing.tw, in application for a freelance editing position at http://drbean.sdf.org/wallace_cover_letter.txt
 
 Let me share two excellent writing sites:
 
@@ -24,7 +24,7 @@ https://writingcenter.gmu.edu/guides/imrad-reports-conclusions
 
 2. Academic Phrasebank gives you the words to say what you are trying to do at certain points in your paper.
 
-For example, hedges, as explained by ttps://writingcenter.gmu.edu/guides/hedges-softening-claims-in-academic-writing
+For example, hedges, as explained by https://writingcenter.gmu.edu/guides/hedges-softening-claims-in-academic-writing
 
 The Academic Phrasebank suggests when you want to be cautious about interpreting results, http://www.phrasebank.manchester.ac.uk/using-cautious-language/, you can say:
 
