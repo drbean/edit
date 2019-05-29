@@ -765,3 +765,13 @@ wlliang@nctu.edu.tw
 yinhua.yeh@gmail.com
 yjjou.dif@gmail.com
 ymli@iim.nctu.edu.tw.
+
+# Recipient addresses must not end with a '.' character.
+
+alexhuang@nctu.edu.tw
+cameldai@mail.nctu.edu.tw
+jameslin@nctu.edu.tw
+szuhaohuang@nctu.edu.tw
+venteng@gmail.com
+wlh@faculty.nctu.edu.tw
+ymli@iim.nctu.edu.tw
