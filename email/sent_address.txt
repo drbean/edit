@@ -963,3 +963,27 @@ taiyuhui@nctu.edu.tw
 taoc@mail.nctu.edu.tw
 tiwei@mail.nctu.edu.tw
 yupei@mail.nctu.edu.tw
+
+# cge_0
+charlotte.pollet7@gmail.com
+chiouyihung@gmail.com
+cwc1969@gmail.com
+erasmaus@yahoo.com.tw
+hardy.linn@gmail.com
+ibrachao@gmail.com
+jyfd0916@gmail.com
+kswang001@gmail.com
+lhp@mail.nctu.edu.tw
+lientehung@kimo.com
+mhwang@mail.nctu.edu.tw
+mjchen@mail.nctu.edu.tw
+mling8815@gmail.com
+pshyh@seed.net.tw
+pwang104@gmail.com
+stille.gedanken@gmail.com
+ylyang@mail.nctu.edu.tw
+yuehhsiu711@gmail.com
+yuting_hwang@10.alumni.u-tokyo.ac.jp
+
+# malformed address
+rpyu@nctu.edu.tw
