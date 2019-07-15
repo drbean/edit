@@ -987,3 +987,9 @@ yuting_hwang@10.alumni.u-tokyo.ac.jp
 
 # malformed address
 rpyu@nctu.edu.tw
+
+# individ address
+sukuanwei@mail.nctu.edu.tw
+chiayun10@nctu.edu.tw
+
+# must
