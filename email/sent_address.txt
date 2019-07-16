@@ -1147,3 +1147,19 @@ soso@must.edu.tw
 wchsieh@must.edu.tw
 yslee@must.edu.tw
 yungyuan.kao@gmail.com
+
+# info_0
+ccliu@must.edu.tw
+flysun@must.edu.tw
+hsin@must.edu.tw
+htseng@must.edu.tw
+jessedai@must.edu.tw
+mindychen@must.edu.tw
+mlee@must.edu.tw
+pauray@must.edu.tw
+sweetcar@must.edu.tw
+thsu@must.edu.tw
+wtlin@must.edu.tw
+yc@must.edu.tw
+
+# ind_0
