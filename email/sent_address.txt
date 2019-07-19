@@ -1138,7 +1138,7 @@ djs@must.edu.tw
 dpc@must.edu.tw
 enter42@ntut.edu.tw
 jungsheng7538@gmail.com
-ken52.hsieh@gmail
+ken52.hsieh@gmail.com
 mrwu@must.edu.tw
 pkyang@must.edu.tw
 sbying@must.edu.tw
@@ -1241,25 +1241,23 @@ bettyshkuo@gmail.com
 chi@must.edu.tw
 chungjung566@gmail.com
 chyang@must.edu.tw
-cmhsu@must.edu.tw.
+cmhsu@must.edu.tw
 debby600717@gmail.com
-ester@must.edu.tw.
+ester@must.edu.tw
 faylin@must.edu.tw
 gpp@must.edu.tw
 hlt@must.edu.tw
 hmlin@must.edu.tw
 hpingpeng@gmail.com
 hwjan@must.edu.tw
-hwjan@must.edu.tw.
 j0711a@ms48.hinet.net
 kccheng0804@gmail.com
 KCTing82@gmail.com
 lhlin@must.edu.tw
-lhlin@must.edu.tw.
 loveminnachm@gmail.com
 mariah@must.edu.tw
 pansunny2002@yahoo.com.tw
-pchou@must.edu.tw.
+pchou@must.edu.tw
 reagon@gmail.com
 shuyeu@must.edu.tw
 tlchiang@must.edu.tw
@@ -1267,3 +1265,12 @@ tyh@must.edu.tw
 wang199kimo@gmail.com
 yjhuang@must.edu.tw
 yuchmei@must.edu.tw
+
+# individ address
+# ken52.hsieh@gmail.com
+# mindychen@must.edu.tw
+# cmhsu@must.edu.tw
+# ester@must.edu.tw
+# hwjan@must.edu.tw
+# lhlin@must.edu.tw
+# pchou@must.edu.tw
