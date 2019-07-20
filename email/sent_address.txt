@@ -1441,3 +1441,9 @@ aries3418@hotmail.com
 
 # art_0
 luckylu@must.edu.tw
+
+# human_0
+free@must.edu.tw
+shin@must.edu.tw
+tungwen@must.edu.tw
+Diego@must.edu.tw
