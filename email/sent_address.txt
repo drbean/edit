@@ -1274,3 +1274,30 @@ yuchmei@must.edu.tw
 # hwjan@must.edu.tw
 # lhlin@must.edu.tw
 # pchou@must.edu.tw
+
+# finance_0
+
+# finance_1
+cakuo@must.edu.tw
+cfc@must.edu.tw
+chchen@must.edu.tw
+cpfan@must.edu.tw
+fongyehfong@gmail.com
+hungchun@must.edu.tw
+ktc1009@must.edu.tw
+lkc@must.edu.tw
+lsf@must.edu.tw
+ltchen@must.edu.tw
+minglee@must.edu.tw
+mmt@must.edu.tw
+sylin@must.edu.tw
+ya100@must.edu.tw
+yunlee@must.edu.tw
+dejerome@ms53.hinet.net
+ethanhsiao1984@gmail.com
+fangjhy@gmail.com
+ftsailulutw@yahoo.com.tw
+yating_vicki@yahoo.com
+yungcheng2007@yahoo.com.tw
+
+# admin_0
