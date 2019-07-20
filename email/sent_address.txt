@@ -1453,6 +1453,6 @@ jwhsu@must.edu.tw
 csy@must.edu.tw
 
 # science_0
-svi@must.edu.tw
+syj@must.edu.tw
 
 # lang_0
