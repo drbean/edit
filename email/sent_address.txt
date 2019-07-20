@@ -1447,3 +1447,7 @@ free@must.edu.tw
 shin@must.edu.tw
 tungwen@must.edu.tw
 Diego@must.edu.tw
+
+# social_0
+jwhsu@must.edu.tw
+csy@must.edu.tw
