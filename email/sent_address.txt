@@ -1341,3 +1341,15 @@ cmeiliao@must.edu.tw
 pyc@must.edu.tw
 maccheese@must.edu.tw
 yjshu@must.edu.tw
+
+# senior_0
+kms@must.edu.tw
+eureka@must.edu.tw
+shyang@must.edu.tw
+cchuang@must.edu.tw
+lukechien@must.edu.tw
+cwei@must.edu.tw
+chingyi@must.edu.tw
+hywang@must.edu.tw
+
+# leisure_0
