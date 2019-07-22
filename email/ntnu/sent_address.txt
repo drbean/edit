@@ -275,3 +275,7 @@ mpchen
 @ntnu.edu.tw
 
 # ice_0
+mpchen@ice.ntnu.edu.tw
+gueyfa@ntnu.edu.tw
+mjlin@ntnu.edu.tw
+gueyfa@ntnu.edu.tw
