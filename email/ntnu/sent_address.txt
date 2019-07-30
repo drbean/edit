@@ -519,3 +519,11 @@ t73004@ntnu.edu.tw
 hmtsai@ntnu.edu.tw
 wtfang@ntnu.edu.tw
 g904806@ntnu.edu.tw
+
+# nutrition_0
+t10005@ntnu.edu.tw
+scs@ntnu.edu.tw
+t10010@ntnu.edu.tw
+chunlisu@ntnu.edu.tw
+chwu@ntnu.edu.tw
+hsieh@ntnu.edu.tw
