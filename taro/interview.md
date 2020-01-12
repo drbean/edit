@@ -5,4 +5,6 @@ Matsumoto: With the band, Shanion, we had before, we used to give a dedicatory p
 
 Playing before people, you naturally tend to think of technique and how you can give a better performance. But the more I study the classics, the more I felt music has a dedicatory or devotional side to it. I think music is a communication tool connecting this world with the other world. This means a musical offering should not be ensnared in the temptation of technique. A quiet mind, susceptible to divine influences, is necessary, don't you think?
 
-A balance between the ancestors and the other world and this world is what I am trying to achieve in my music. If this feeling is something I think I realized, it is because of the opportunity I have been given to pursue ..
+A balance between the ancestors and the other world and this world is what I am trying to achieve in my music. This feeling is something I think I realized because of the opportunity I have been given to pursue my career in Nara.
+
+Ogaki: It is through Hirai Kei, active nationZZ
