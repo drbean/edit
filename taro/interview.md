@@ -8,8 +8,10 @@ Playing before people, you naturally tend to think of technique and how you can 
 
 A balance between the ancestors and the other world and this world is what I am trying to achieve in my music. This feeling is something I think I realized because of the opportunity I have been given to pursue my career in Nara.
 
-Ogaki: This time, it is through Hirai Kei, active nationally in drama that this dedicatory live event at Tenkawa Dai-Benzai Taisha is being realized. Because it is a special unit put together by Hirai and it will be produced by him, it is being eagerly anticipated.
+Ogaki: This time, it is through Hirai Kay, active nationally in drama that this dedicatory live event at Tenkawa Dai-Benzai Taisha is being realized. Because it is a special unit put together by Hirai just for this event and it will be produced by him, it is being eagerly anticipated.
 
 Wouldn't it be great if I sang my original song, "Hana to Nare." What about you?
 
-Matsumoto: I really like Yoshino. And the idea of being able to play at Tenkawa Shrine really makes me happy. I wonder what kind of production Hirai will put together. Slow tempo 
+Matsumoto: I really like Yoshino. And the idea of being able to play at Tenkawa Shrine really makes me happy. I wonder what kind of production Hirai will put together. Slow tempo pieces where all the sound qualities of the shakuhachi can be featured and vigorous pieces, both are fun. Thinking about comping well for a group, I believe I want to contribute a workman-like performance, here 1 millimeter before, there 2 millimeter after. Studying shakuhachi honkyoku, you completely understand making sounds fit in. Finding the right place to do that is important.
+
+
