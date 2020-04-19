@@ -1,0 +1,1452 @@
+Business Model and Innovation Mix in transition: Evidence from Taiwanese
+Contract Manufacturers
+
+The successful transition of Taiwanese contract manufacturers is a
+critical case of business model innovation for the latecomers in
+emerging Asia. From original equipment manufacturers (OEM) to original
+brand manufacturers (OBM), the latecomers engage in different innovation
+practices to coordinate with the transition of value proposition on
+specific manufacturing business models. According to the second and
+third Taiwanese industrial innovation surveys, we attempt to depict the
+innovation practices under different business models as well as the
+changes in the transition. The results indicate that OEM latecomers have
+lower engagement in all kinds of innovation practices. Still, original
+design manufacturers (ODM) and OBM ones actively engage in
+technological, marketing, and organizational innovation, which follows
+the value proposition in the market. In the transition of the business
+model, OEM latecomers have more organizational changes as the
+preparatory for radical changes on all kinds of innovation practices.
+Moreover, new ODM entrants would have a stiff challenge in enhancing
+product innovation and market promotion. Furthermore, new OBM entrants
+would pay more effort to organizational adjustment and the expansion of
+marketing practices. The paper concludes that a business model
+innovation comprises the mix of innovation in production and
+organizational works to follow the value proposition, and the business
+model transition is that the firms would pay the efforts to adjust the
+innovation mix into the new value proposition. Some managerial
+implications are suggested.
+
+Keywords: Business model transition; Innovation practices; Manufacturing
+firms; OBM; ODM; OEM
+
+Introduction
+============
+
+In recent, the transformation of contract manufacturers has become a
+prevalent issue in emerging countries. By the increase of experience in
+contracted manufacturing, these manufacturers had accumulated sufficient
+technological capabilities for in-house R&D to catch up with their
+customers in the market. It also stimulates the firms to move up to both
+upstream and downstream of the value chains for pursuing firm growth.
+The pathway of OEM-ODM-OBM has become a role model for the contract
+manufacturers to transit their business models, which had many success
+stories from Taiwan (Chu 2009; Kuo and Minshall 2010; Hobday 1998),
+Korea (Lee, Song, and Kwak 2015; Hobday 1998), and China (Wan 2015; Zhu,
+Zhang, and Lin 2017). However, contract manufacturers face substantial
+challenges not only in the competence building and leveraging but also
+value proposition reinventing in the existing market when they transited
+the business model (Johnson, Christensen, and Kagermann 2008; Teece
+2010; Amit and Zott 2012).
+
+In the manufacturing sectors, vertical specialization increasingly
+dominated world trade to encourage the firms to take a specific role in
+the value chains of the global production network (Hummels, Ishii, and
+Yi 2001; Hummels, Rapoport, and Yi 1998). Therefore, vertical
+specialization gives them opportunities that contract manufacturers in
+late-coming countries develop a specific business model to participate
+in the competition on the existing market (Jacobides, MacDuffie, and Tae
+2016). By the value proposition of the business model, contract
+manufacturers develop their business activities to create added values
+on the production network from R&D, manufacturing, and marketing works
+(Feng-Hsu, Heng-Yih, and Ting-Ling 2008; Jacobides, MacDuffie, and Tae
+2016). For sustaining the advantage in the production network, contract
+manufacturers rely upon keeping create sufficient added values in the
+existing market through the engagement of different innovation practices
+under their business model, such as product innovation, process
+innovation, and marketing innovation (Kuo and Minshall 2010; Chu 2009;
+Hobday 1998; Matthyssens, Vandenbempt, and Weyns 2009). Furthermore,
+contract manufacturers also need to engage in active organizational
+management to run the business model for coordinating internal business
+activities as well as external relationships with the customers,
+vendors, and suppliers (Carayannis, Sindakis, and Walter 2015; Wang and
+Chen 2020; Zott and Amit 2010).
+
+By the growth of contract manufacturing, contract manufacturers have a
+strong desire to upgrade their business for catching more market value
+from the existing market (Hobday 1998). With the reposition of value
+proposition in the production network, contract manufacturers have to
+reconfigure their innovation practices when they are transiting the
+business model (Matthyssens, Vandenbempt, and Weyns 2009; Kuo and
+Minshall 2010; Wang and Wu 2012). Therefore, to understand the
+configuration of innovation practices in the business models of OEM,
+ODM, OBM could provide practical instructions to guide the reinventing
+of the business model of contract manufacturers. Furthermore, examining
+the reconfiguration of innovation practices in the transition also could
+give suggestions to new entrants for catching up on the new business
+model.
+
+This study focuses on Taiwanese manufacturing sectors as the subject
+since Taiwan is a typical latecomer to develop the business of
+contracted manufacturing and lots of Taiwanese manufacturers have
+developed the well-run business model in OEM, ODM, and OBM through the
+transition of business models (Chu 2009; Kuo and Minshall 2010; Hobday
+1998). Through a large scale of the survey in Taiwan manufacturing
+sectors, we provide detailed observation on the innovation practices
+under the models of OEM, ODM, OBM. Furthermore, we also examine the
+reconfiguration of innovation practices in the transition. In the next
+section, this paper would like to discuss the business model innovation
+in the manufacturing sectors and the mix of innovation practices on the
+models in OEM, ODM, and OBM. In the methodology, it would provide more
+information on data collection, variables compilation, and analytical
+method. In the results, the paper would show a comprehensive Taiwanese
+case in the business model transition for contract manufacturers. In the
+final, we would discuss the findings with the prior studies and provide
+an insightful conclusion and the implications for research and the
+practices.
+
+Business model innovation in manufacturing sectors: Contract Manufacturing in OEM, ODM, OBM
+===========================================================================================
+
+By the vertical specialization of the global production network, the
+business of contract manufacturing has become a new opportunity for
+latecomers in the existing market (Hummels, Ishii, and Yi 2001; Hummels,
+Rapoport, and Yi 1998). The new business opportunity triggers business
+model innovation in manufacturing sectors, in which the works of the
+value chains cut into specific but interconnected business models to the
+firms (Matthyssens, Vandenbempt, and Weyns 2009; Hobday 1998). The
+business model describes the way of firms to do the business, which is
+consist of value proposition, business activities, and organizational
+management (Amit and Zott 2012; Zott and Amit 2010). Contract
+manufacturing encourages and re-assigns the new business models in
+manufacturing production works into the original equipment manufacturing
+(OEM), the original design manufacturing (ODM), and the own-brand
+manufacturing (OBM). OEM firms refer that the latecomers produce
+finished goods on precise specifications which subcontracted by the
+designers or brand companies (Chin, Liu, and Yang 2016; Hobday 1998).
+ODM firms apply that latecomers develop or co-develop for the
+outsourcers and provide the finished goods which the brand outsourcers
+sold (Hobday 1998; Bijarboneh 2015). OBM firms refer that the latecomers
+design, produce, and sell the finished goods in their own-rand name as
+new entrants in the existing market (Luo 2011; Kuo and Minshall 2010).
+These business models have defined the general operation of latecomers
+as a specialized manufacturer in the production network of the value
+chains.
+
+On the value proposition for the customers, OEM latecomers posit their
+value on providing the contracted manufacturing with the advantage of
+cost, speed, and reliability (Chin, Liu, and Yang 2016; Jacobides,
+MacDuffie, and Tae 2016). ODM latecomers provide customized product
+development and contract manufacturing with the coordination of the
+marketing strategy to brand subcontractors (Bijarboneh 2015; Lee, Song,
+and Kwak 2015). OBM latecomers sell innovative products to promote the
+utilization of customers (Chu 2009; Feng-Hsu, Heng-Yih, and Ting-Ling
+2008). On the business activities, the latecomers configure their works
+through the position of production works on the value chains, including
+R&D, manufacturing, marketing works (Chu 2009; Manzakoğlu and Er 2018).
+Besides, for sustaining the competitive advantage in their business, the
+latecomers would engage different activities of value creation in
+production works. In R&D works, the engagement of product innovation
+enhances that the latecomers introduce a new product into the market
+(Huang, Chung, and Lin 2009; Wang and Wu 2012). In manufacturing works,
+the latecomers invest in process innovation to support the production of
+new products (Snihur and Wiklund 2019). In marketing works, latecomers
+promote sales in the market through innovative marketing strategies (Eng
+and Spickett-Jones 2009; Matthyssens, Vandenbempt, and Weyns 2009). For
+OEM latecomers, they focus on the manufacturing works to meet the
+request of outsourcers on cost, speed, and reliability, which they need
+a stable and incremental improvement (Chin, Liu, and Yang 2016;
+Bijarboneh 2015). In other words, the innovation in the process of
+manufacturing would be the core in the business activities of OEM firms
+(Forbes and Wield 2008; Hobday, Rush, and Bessant 2004). For ODM
+latecomers, they mainly engage in R&D and manufacturing works to provide
+contract designing and manufacturing for brand outsourcers. The
+interconnection of product innovation and process innovation promotes
+the technological capabilities of ODM firms to help their customers
+provide innovative products in the market (Tiong et al. 2010; Wang and
+Wu 2012; Hobday, Rush, and Bessant 2004). For OBM latecomers, the new
+entrant of the existing market, they do not want only to expand their
+marketing innovation to compete with the incumbent firms but also to
+strengthen product innovation and process innovation to gain the
+advantage of products in technological development and manufacturing
+(Eng 2009; Chu 2009).
+
+In the business model of a firm, organizational management plays a
+coordination role to moderate the business activities and the firm's
+performance (Wang and Chen 2020; Carayannis, Sindakis, and Walter 2015;
+Teece 2010). In the internal, the lines of managerial authority and
+organizational structures determine the organizational efficiency and
+the reaction to the changes in business activities (Taran, Boer, and
+Lindgren 2015; Teece 2010). In the external, partnership in contract
+manufacturing has dominated the interconnection with specific suppliers
+in the value chain to aggregate the value creation to promote the
+customer's value in the market (Eng and Spickett-Jones 2009; Sánchez and
+Ricart 2010). In the internal of organizational management, latecomers
+would follow their core business as the rules of organizational
+management. OEM latecomers would adapt the structures to follow
+manufacturing processes, and it would promote the efficiency of
+production (Chen 2016). ODM latecomers would combine product and
+manufacturing line in organizational management to enhance the contract
+product development (Ma 2005; Yung and Lai 2012). OBM latecomers would
+restructure to product-market organizational management, and it is
+beneficial to respond to the needs of the customers quickly (Eng and
+Spickett-Jones 2009; Eng 2009). In the external of organizational
+management, the partnership in outsourcing contracts is the core of
+external relationship management on contract manufacturing. OEM
+latecomers need a stable and long-term relationship with the suppliers
+of components to support manufacturing activities (Jacobides, MacDuffie,
+and Tae 2016; Szalkai and Magyar 2017). ODM latecomers may need to
+manage the relationships with module partners, OEM partners, and
+suppliers, and adjust the outsourcing by the request of contract product
+development (Yung and Lai 2012). OBM latecomers would transform the role
+from a subcontractor to an outsourcer, which strategically outsources
+the production works to external partners (Chin, Liu, and Yang 2016; Chu
+2009).
+
+Table. 1 Business models and innovation mix in contract manufacturers:
+OEM, ODM, and OBM
+
+                                           OEM                                                                         ODM                                                         OBM
+  ---------------------------------------- --------------------------------------------------------------------------- ----------------------------------------------------------- ---------------------------------------------------------------
+  1.Value proposition                      Contract manufacturing with the advantage of cost, speed, and reliability   Customized product development and contract manufacturing   Selling innovative products to promote the value of customers
+  2.Core business activities                                                                                                                                                       
+  R&D                                      Outsourcer                                                                  ODM                                                         Optional
+  Manufacturing                            OEM                                                                         ODM                                                         Optional
+  Marketing                                Outsourcer                                                                  ODM, Outsourcer                                             OBM
+  3\. Engagement of innovation practices                                                                                                                                           
+  Product innovation                       Low                                                                         High                                                        High
+  Process innovation                       High                                                                        High                                                        Depend on the needs for product innovation
+  Marketing innovation                     Low                                                                         Demand on outsourcing business                              High
+  4\. Organizational management                                                                                                                                                    
+  Internal structure                       Structuring follow the manufacturing processes                              Structuring follow the product development                  Structuring follow the product -market segments
+  External partnership                     Suppliers, Module partners                                                  Suppliers, OEM partners, and Module partners                Suppliers, OEM, ODM partners, and Module partners, vendors
+
+According to the summary of business models in contract manufacturing in
+Table 1, the three models of contract manufacturers demonstrate
+different configurations to do the business in the existing market. When
+latecomers want to upgrade their business model, they will face many
+challenges in the transition of the business model as same as most of
+the incumbent firms would encounter. Chesbrough (2010) considers that
+incumbent firms may encounter the tension between the configuration of
+the existing business model and the reconfiguration of the new business
+model. Teece (2010) argues that the incumbent firms have to recognize
+business activities in the value chains and implement the innovation
+practices in business activities to create new competitive advantage in
+the existing market when they re-design their business model. Koen,
+Bertels, and Elsum (2011) think that incumbent firms have to organize a
+new value network to interconnect between the value creation of internal
+business activities and the works of the upstream and downstream of
+partners when they seek a new business model in the existing market for
+growth. Euchner and Ganguly (2014) mention that incumbent firms should
+redefine the value proposition to leads them to shift business
+activities for new value creation. Carayannis, Sindakis, and Walter
+(2015) indicate that incumbent firms should have an active internal
+organizational management to incorporate with business activities for
+sustaining the innovation practices in the market. Furthermore, dynamic
+governance of external partnerships to enrich the firm\'s performance
+for implementing new business opportunities when they intend to transit
+their business model. Above all, if a contract manufacturer wants to
+upgrade its business model, it needs a clear pattern of the model to
+reconfigure their business activities followed the reposition of the
+value proposition. Also, competence building and leveraging through the
+reconfiguration of innovation practices would enhance the organizational
+sustainability in the market to catch up on the new business model and
+compete with other incumbent competitors.
+
+Empirical examination in Taiwanese Manufacturing Sectors
+========================================================
+
+Manufacturing sectors in Taiwan
+-------------------------------
+
+In the investigation of contract manufacturing in Taiwan, this paper
+summarizes the data about the manufacturing sectors in Table 2 from
+Industry and Service Census in Taiwan, which surveys every five years
+(DGBAS 2008, 2013, 2019). From 2006 to 2016, The size of Taiwanese
+manufacturing sectors increased from 147,908 to 161,334 firms. The OBM
+firms had substantial growth from 8,878 firms in 2006 to 13,797 firms in
+2011. It indicated it is a critical period in the five years which many
+firms transited their business model into OBM. On the production of
+manufacturing sectors, the total sales of goods also have a steady
+growth from 18,412 NT billion in 2006 to 25,175 NT billion in 2011. It
+has almost 24 % of total sales from new products. On the development of
+OBM business, the share of OBM sales in the overall sales is more than
+22%, and it indicated OBM firms have less 10% share of the total firms,
+but their revenue may be more than other non-OBM firms. Furthermore,
+offshore sales in OBM firms have been increasing from 2,076 NT billion
+in 2006 to 3,580 NT billion in 2011, and it indicated that OBM firms in
+Taiwan have a steady growth in the foreign market.
+
+Table. 2 The development of Taiwanese manufacturing sectors and OBM
+business.
+
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Year                                    Firms\    OBM firms\   Sale of Goods\   Sale of New Products\   Goods Sale of OBM\   Offshore Goods Sale of OBM\                           
+                                          (N)       (N)          (NT/Billions)    (NT/Billions)           (NT/Billions)        (NT/Billions)                                         
+  --------------------------------------- --------- ------------ ---------------- ----------------------- -------------------- ----------------------------- ------- ------- ------- -------
+  2016                                    161,334   14,999       9.3%             24,626                  5,807                23.6%                         5,992   24.3%   3,080   51.4%
+
+  2011                                    157,284   13,797       8.8%             25,175                  6,125                24.3%                         7,175   28.5%   3,580   49.9%
+
+  2006                                    147,908   8,878        6.0%             18,412                  \-                   \-                            4,366   23.7%   2,076   47.5%
+
+  Data Source: DGBAS (2008, 2013, 2019)                                                                                                                                              
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Data collection
+---------------
+
+This study would provide the investigation on the configuration of
+innovation practices in OEM, ODM, OBM models as well as the examination
+of the reconfiguration of contract manufacturers in business model
+transition. We employ a large-scale survey in the industries of Taiwan
+conducted by the Ministry of Science and Technology, Taiwanese
+Industrial Innovation Survey (TIS), as like the Community Innovation
+Survey (CIS) in Europe. On the data collection, we collected the data
+from the second survey in 2004-2006 (TIS2) and the third survey in
+2007-2010 (TIS3) (Wu 2009, 2013). After removing the respondents from
+non-manufacturing firms, there are 3,944 valid questionnaires in TIS2
+and 3,838 ones in TIS3. Moreover, 1,319 manufacturing firms have listed
+the surveys both in TIS2 and TIS3. Furthermore, we identified the
+business models of the firms, and there are 427 OEM firms, 543 ODM
+firms, 562 OBM firms in TIS2. There are 699 OEM firms, 816 ODM firms,
+1,223 OBM firms in TIS3.
+
+Variables compilation
+---------------------
+
+On the compilation of variables, it compilated separately from TIS2 and
+TIS3. All variables in the studies are nominal or dummy variables. For
+the engagement of innovation practices, we compile *Product Innovation*
+and *Process Innovation*, which concerns these firms have engaged in new
+product development and reinventing the manufacturing process. On the
+marketing innovation, we gather *Product Design*, *Channel
+Distribution*, and *Marketing Promotion* to the inquiry that the firms
+have engaged in the changes of marketing strategies on product design,
+marketing channels, and promotion in the market for selling the products
+to the customers. On the organizational innovation, we compile two
+variables for the internal changes of the firms, *Authority Realignment*
+and *Organization Restructuring*, which investigate the revisions on the
+managerial authority and organizational structure of the firms. Besides,
+we also compile a variable, *Outsourcing Re-assignment*, which examines
+the change of the firms on the external outsourcing relationship with
+the suppliers and the customers.
+
+For the business models of contract manufacturing, we compile a sole
+model to the firms by *OEM*, *ODM*, and *OBM*. On the transition of the
+business model, we only gather the variables from the 1,319 firms, which
+both listed in TIS2 and TIS3. On the upgrade of OEM firms, we compile
+*OEM transition* in TIS2, which 1 means that the business model of firms
+is OEM in TIS2, but non-OEM in TIS3 and 0 indicate that the other firms
+stay at OEM in TIS2, and we skip all non-OEM firms. Following the prior
+logic, we compile the *ODM transition* in TIS2 as the upgrade of ODM
+firms. After upgrading the business model, we organize *ODM Entrant* in
+TIS3, which 1 means that the business model of the firms is ODM in TIS3,
+but OEM in TIS2 and 0 represents other ODM firms in TIS3, and we skip
+all non-ODM firms. As before, we compile *OBM Entrant* in TIS3 for the
+upgraded OEM and ODM firms.
+
+On the control, we control the characteristics of the firms as the
+factors to the engagement of innovation practices. The industrial
+affiliation of *Hitech*, which compiled with the industrial code of the
+firms associated with the two-digital code of the Hi-tech industry in
+20, 26, and 27, and 1 means the firm is a Hi-tech firm. The size of
+firms is compiled by *SME*, which 1 means that the firms have more than
+200 people. The geography of the market of the firms is organized with
+the *Domestic*, which 1 means that the firms have no sale in other
+countries. The primary client of the firm is compiled with the *B2C*,
+which 1 means that the primary client of the firm is the end-user.
+
+Analytical model
+----------------
+
+There are two critical investigations in this paper. Firstly, we want to
+investigate the configuration of innovation practices under the OEM,
+ODM, and OBM models. We have two datasets, TIS2 and TIS3 could be
+employed to measure. We use the independent sample test to examine the
+differences in innovation practices in TIS2 and TIS3. The results
+indicated that TIS2 and TIS3 are the two independent sample in product
+innovation (t=4.381, p\<0.001), process innovation (t=-3.025, p\<0.01),
+product design (t=-.248), channel distribution (t=5.199, p\<0.001),
+marketing promotion (t=.415), authority realignment (t=-9.707,
+p\<0.001), organization restructuring (t=-7.825, p\<0.001), and
+outsourcing re-assignment (t=-6.113, p\<0.001). Therefore, we consider
+the business development of contract manufacturing in Taiwan, and we
+decide to employ the data of TIS3 as the observation. Then, we use
+logistic regression to investigate the configuration of innovation
+practices of the firms under the models of OEM, ODM, and OBM.
+
+Secondly, we want to examine the reconfiguration in the business model
+upgrading. To observe the changes in the transition, we concentrate on
+1,319 firms which both listed in TIS2 and TI3. For examining the changes
+before the transition, we cut the TIS2 data into the sub-datasets of OEM
+firms and ODM firms. We employ the models of logistic regression in
+which OEM transition and ODM transition are the independent variables
+that may influence the innovation practices of the firms. Following the
+same logic on the examination in the changes after the transition, we
+cut the TIS3 data into the sub-datasets of ODM firms and OBM firms and
+employ the logistic regression to analyze which ODM entrant and OBM
+entrant are the independent variables. For post hoc analysis, we employ
+ANOVA to validate the results.
+
+Results
+=======
+
+Descriptive statistics
+----------------------
+
+On the general structure of manufacturing sectors in Taiwan, Hi-tech
+firms share one-fifth to one-fourth of total firms during 2004-2011, and
+SME dominates the form of manufacturers by 89% in TIS2 and 74% in TIS3
+firms. The decrease in the percentage of the domestic market from 0.48
+in TIS2 to 0.31 in TIS3 indicates that the export of manufacturing goods
+has significant shares of the manufacturing business. Low rates on B2C
+(0.25 in TIS2 and 0.21 inTIS3) suggest that most of the manufacturers
+sell their products to other business customers. On the development of
+contract manufacturing, from the two surveys, the total shares of OEM
+and ODM firms, 25% in TIS2, and 42% in TIS3 indicate contract
+manufacturing is the general business model and is increasing in
+manufacturing sectors of Taiwan. The OBM firms are growing in 2006-2010
+from 14% in TIS2 to 34% in TIS3 as consistent as the statistics in the
+Industry and Service Census in Taiwan.
+
+Table. 3 Descriptive statistics.
+
+  Variables                      TIS2        TIS3               
+  ------------------------------ ----------- ------ ----------- ------
+                                 Frequency   Mean   Frequency   Mean
+  *Hitech*                       789         .20    1,082       .28
+  *SME*                          3,046       .89    2,829       .74
+  *Domestic*                     1,881       .48    1,177       .31
+  *B2C*                          993         .25    814         .21
+  *OEM*                          427         .11    753         .20
+  *ODM*                          543         .14    851         .22
+  *OBM*                          562         .14    1,313       .34
+  *Product Innovation*           977         .25    704         .21
+  *Process Innovation*           884         .22    870         .25
+  *Product Design*               629         .16    620         .16
+  *Channel Distribution*         600         .15    431         .11
+  *Marketing Promotion*          385         .10    364         .09
+  *Authority Realignment*        707         .18    1,039       .27
+  *Organization Restructuring*   715         .18    976         .25
+  *Outsourcing Re-assignment*    457         .12    629         .16
+  *OEM Transition*               73          .17                
+  *ODM Transition*               27          .05                
+  *ODM Entrant*                                     46          .05
+  *OBM Entrant*                                     54          .04
+
+The configuration of innovation practices in OEM, ODM, and OEM Models
+---------------------------------------------------------------------
+
+On the innovation practices in manufacturing sectors, product innovation
+(0.25 in TIS2 and 0.21 in TIS3) and process innovation (0.22 in TIS2 and
+0.25 in TIS3) have more manufacturers to engage. In the marketing
+innovation, product design (0.16 in TIS2 and TIS3) is a significant
+activity associated with the market for manufacturing firms. On the
+organizational innovation by business development, the frequency of
+internal changes is more than the adjustment of external partnership.
+The engagement in organizational changes has been increasing during
+2006-2010, such as the increase of Authority Realignment from 0.18 in
+TIS2 to 0.27 in TIS3, the rise of Organization Restructuring from 0.18
+in TIS2 to 0.25 in TIS3, and the increase of Outsourcing Re-assignment
+from 0.12 in TIS2 to 0.16 in TIS3. On the transition of a contract
+manufacturer, OEM firms (0.17 in OEM firms of TIS2) seem to have more
+motivation to upgrade their business model more than ODM firms (0.05 in
+ODM firms of TIS2). However, not all of OEM firms would upgrade their
+business to OBM (0.04 in OBM firms of TIS3), and ODM (0.05 in ODM firms
+of TIS3) is the first choice to the transition of OEM firms. It also
+proves that the OEM-ODM-OBM path may be an essential model for the
+upgrading of the business model for contracted manufacturers.
+
+For investigating the business configuration on the innovation practices
+in contract manufacturing, this study defines the three specific models
+by OEM, ODM, and OBM for contracted manufacturers, and employ the
+logistic regression to examine the influence of these business model on
+the innovation practices of the firms (Table 4). For OEM contracted
+manufacturers, it indicates no significant engagement in the product
+innovation (β=-.233), process innovation(β=-.049), and marketing
+innovation (*Product Design*, β=.322; *Channel Distribution*, β=.099;
+*Marketing Promotion*, β=-.128, p\<0.001). On the changes in
+organizational management, OEM firms may have a significant engagement
+in a corporate restructuring (β=.318, p\<0.05). According to post hoc
+analysis by ANOVA (Table 5), it also confirms that OEM firms have low
+engagement in all innovation practices in their business activities. For
+ODM contract manufacturers, they aggressively engage in product
+innovation (β=.351, p\<0.01) and process innovation (β=.553, p\<0.001)
+and also have significant engagement in marketing innovation (*Product
+Design*, β=1.030, p\<0.001; *Channel Distribution*, β=.693, p\<0.001;
+*Marketing Promotion*, β=.829, p\<0.001). Facing the high degree of
+engagement in the innovation practices on production works, ODM firms
+have significant changes in organizational management by managerial
+authority (β=.219, p\<0.10), organizational structure (β=.649,
+p\<0.001), and outsourcing partnership (β=.819, p\<0.001).
+
+Table. 4 Engagement of innovation practices by OEM, ODM, and OBM firms.
+
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+|       | Produ | Proce | Produ | Chann | Marke | Autho | Organ | Outso |
+|       | ct    | ss    | ct    | el    | ting  | rity  | izati | urcin |
+|       |       |       |       |       |       |       | on    | g     |
+|       | Innov | Innov | Desig | Distr | Promo | Reali |       |       |
+|       | ation | ation | n     | ibuti | tion  | gnmen | Restr | Re-as |
+|       |       |       |       | on    |       | t     | uctur | signm |
+|       |       |       |       |       |       |       | ing   | ent   |
++=======+=======+=======+=======+=======+=======+=======+=======+=======+
+| Hitec | .271\ | -.131 | -.151 | .029\ | -.273 | -.014 | .640\ | -.428 |
+| h     | *\*\* | \     | \     | (.116 | \*\   | \     | *\*\* | \*\*\ |
+|       | \     | (.091 | (.103 | )     | (.133 | (.084 | \     | *\    |
+|       | (.094 | )     | )     |       | )     | )     | (.083 | (.106 |
+|       | )     |       |       |       |       |       | )     | )     |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| SME   | -.598 | -.385 | .022\ | .164\ | -.621 | -.502 | -.603 | -.310 |
+|       | \*\*\ | \*\*\ | (.104 | (.120 | \*\*\ | \*\*\ | \*\*\ | \*\*\ |
+|       | *\    | *\    | )     | )     | *\    | *\    | *\    | (.099 |
+|       | (.094 | (.090 |       |       | (.121 | (.084 | (.085 | )     |
+|       | )     | )     |       |       | )     | )     | )     |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Domes | -1.16 | -1.23 | -.646 | -.804 | -.939 | -1.04 | -1.18 | -1.46 |
+| tic   | 8\*\* | 4\*\* | \*\*\ | \*\*\ | \*\*\ | 6\*\* | 4\*\* | 9\*\* |
+|       | \*\   | \*\   | *\    | *\    | *\    | \*\   | \*\   | \*\   |
+|       | (.135 | (.119 | (.115 | (.139 | (.138 | (.100 | (.107 | (.143 |
+|       | )     | )     | )     | )     | )     | )     | )     | )     |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| B2C   | .086\ | .134\ | .648\ | .017\ | .715\ | -.058 | .181+ | .252\ |
+|       | (.113 | (.104 | *\*\* | (.133 | *\*\* | \     | \     | *\    |
+|       | )     | )     | \     | )     | \     | (.097 | (.098 | (.113 |
+|       |       |       | (.106 |       | (.133 | )     | )     | )     |
+|       |       |       | )     |       | )     |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| OEM   | -.233 | -.049 | .322\ | .099\ | -.128 | -.077 | .318\ | -.020 |
+|       | \     | \     | (.179 | (.191 | \*\*\ | \     | *\    | \     |
+|       | (.155 | (.137 | )     | )     | *\    | (.128 | (.127 | (.169 |
+|       | )     | )     |       |       | (.372 | )     | )     | )     |
+|       |       |       |       |       | )     |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| ODM   | .351\ | .553\ | 1.030 | .693\ | .829\ | .219+ | .649\ | .819\ |
+|       | *\*\  | *\*\* | \*\*\ | *\*\* | *\*\* | \     | *\*\* | *\*\* |
+|       | (.135 | \     | *\    | \     | \     | (.117 | \     | \     |
+|       | )     | (.122 | (.158 | (.167 | (.199 | )     | (.118 | (.141 |
+|       |       | )     | )     | )     | )     |       | )     | )     |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| OBM   | .447\ | .249\ | 1.423 | .771\ | 1.430 | .699\ | .291\ | .708\ |
+|       | *\*\* | *\    | \*\*\ | *\*\* | \*\*\ | *\*\* | *\*\  | *\*\* |
+|       | \     | (.116 | *\    | \     | *\    | \     | (.110 | \     |
+|       | (.124 | )     | (.143 | (.154 | (.176 | (.103 | )     | (.132 |
+|       | )     |       | )     | )     | )     | )     |       | )     |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Pseud | .069  | .057  | .066  | .034  | .125  | .069  | .087  | .080  |
+| o     |       |       |       |       |       |       |       |       |
+| R^2^  |       |       |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| LR    | 238.5 | 221.6 | 224.4 | 90.53 | 300.6 | 309.6 | 376.4 | 275.1 |
+| chi^2 | 6\*\* | 5\*\* | 6\*\* | \*\*\ | 9     | 0\*\* | 1\*\* | 1\*\* |
+| ^     | \*    | \*    | \*    | *     |       | \*    | \*    | \*    |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Freed | 7     | 7     | 7     | 7     | 7     | 7     | 7     | 7     |
+| om    |       |       |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Log-  | -1,62 | -1,82 | -1,58 | -1,30 | -1,05 | -2,08 | -1,98 | -1,57 |
+|       | 2.221 | 8.664 | 3.005 | 2.760 | 3.042 | 5.836 | 7.391 | 2.439 |
+| likel |       |       |       |       |       |       |       |       |
+| ihood |       |       |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| N     | 3,432 | 3,420 | 3,836 | 3,836 | 3,836 | 3,836 | 3,836 | 3,836 |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Note: |       |       |       |       |       |       |       |       |
+| Compu |       |       |       |       |       |       |       |       |
+| ted   |       |       |       |       |       |       |       |       |
+| in    |       |       |       |       |       |       |       |       |
+| TIS3  |       |       |       |       |       |       |       |       |
+| by    |       |       |       |       |       |       |       |       |
+| logis |       |       |       |       |       |       |       |       |
+| tic   |       |       |       |       |       |       |       |       |
+| regre |       |       |       |       |       |       |       |       |
+| ssion |       |       |       |       |       |       |       |       |
+| ,     |       |       |       |       |       |       |       |       |
+| coeff |       |       |       |       |       |       |       |       |
+| icien |       |       |       |       |       |       |       |       |
+| t     |       |       |       |       |       |       |       |       |
+| and   |       |       |       |       |       |       |       |       |
+| S.E.  |       |       |       |       |       |       |       |       |
+| are   |       |       |       |       |       |       |       |       |
+| shown |       |       |       |       |       |       |       |       |
+| ,     |       |       |       |       |       |       |       |       |
+| and   |       |       |       |       |       |       |       |       |
+| signi |       |       |       |       |       |       |       |       |
+| fican |       |       |       |       |       |       |       |       |
+| t     |       |       |       |       |       |       |       |       |
+| level |       |       |       |       |       |       |       |       |
+| at    |       |       |       |       |       |       |       |       |
+| +p\<0 |       |       |       |       |       |       |       |       |
+| .10,  |       |       |       |       |       |       |       |       |
+| \*p\< |       |       |       |       |       |       |       |       |
+| 0.05, |       |       |       |       |       |       |       |       |
+| \*\*p |       |       |       |       |       |       |       |       |
+| ,0.01 |       |       |       |       |       |       |       |       |
+| ,     |       |       |       |       |       |       |       |       |
+| and   |       |       |       |       |       |       |       |       |
+| \*\*\ |       |       |       |       |       |       |       |       |
+| *,p\< |       |       |       |       |       |       |       |       |
+| 0.001 |       |       |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+
+OBM manufacturers also have significant positive engagement in the
+innovation practices of all production works, such as product innovation
+(β=.447, p\<0.001), process innovation (β=.249, p\<0.05), and marketing
+innovation (*Product Design*, β=1.423, p\<0.001; *Channel Distribution*,
+β=.771, p\<0.001; *Marketing Promotion*, β=1.430, p\<0.001). Moreover,
+they have high frequency to adjust their organizational management in
+managerial authority (β=.699, p\<0.001), organizational structure
+(β=.291, p\<0.01), and management of outsourcing partnership (β=.708,
+p\<0.001).
+
+In Table 5, the ANOVA test on innovation practices by business models
+also confirms that ODM and OBM firms have significant engagement in all
+innovation practices. However, it still has a difference in the
+configuration of innovation practices between ODM and OBM manufacturers.
+It indicates that ODM firms have more engagement in process innovation
+and organization restructuring, but they have equivalent involvement in
+product innovation, marketing channels, and outsourcing management.
+Moreover, OBM firms have more engagement in marketing strategies, and
+they have aggressive adjustments on managerial authority to support
+their business activities.
+
+Table. 5 ANOVA Table for variation in the engagement of innovation
+practices for OEM, ODM, and OBM firms.
+
+<table>
+<thead>
+<tr class="header">
+<th>BM</th>
+<th>N</th>
+<th><p>Product</p>
+<p>Innovation</p></th>
+<th><p>Process</p>
+<p>Innovation</p></th>
+<th><p>Product</p>
+<p>Design</p></th>
+<th><p>Channel</p>
+<p>Distribution</p></th>
+<th><p>Marketing</p>
+<p>Promotion</p></th>
+<th><p>Authority</p>
+<p>Realignment</p></th>
+<th><p>Organization</p>
+<p>Restructuring</p></th>
+<th><p>Outsourcing</p>
+<p>Re-assignment</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>OEM</td>
+<td>699</td>
+<td>0.130</td>
+<td>0.190</td>
+<td>0.094</td>
+<td>0.077</td>
+<td>0.012</td>
+<td>0.189</td>
+<td>0.234</td>
+<td>0.097</td>
+</tr>
+<tr class="even">
+<td>ODM</td>
+<td>816</td>
+<td>0.234</td>
+<td>0.328</td>
+<td>0.179</td>
+<td>0.139</td>
+<td>0.100</td>
+<td>0.269</td>
+<td>0.328</td>
+<td>0.223</td>
+</tr>
+<tr class="odd">
+<td>OBM</td>
+<td>1,223</td>
+<td>0.249</td>
+<td>0.265</td>
+<td>0.251</td>
+<td>0.147</td>
+<td>0.173</td>
+<td>0.367</td>
+<td>0.264</td>
+<td>0.208</td>
+</tr>
+<tr class="even">
+<td>F</td>
+<td>20.188***</td>
+<td>18.688***</td>
+<td>39.537***</td>
+<td>11.483***</td>
+<td>66.773***</td>
+<td>39.434***</td>
+<td>9.673***</td>
+<td>26.343***</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Note: Computed in TIS3, *p&lt;0.05, **p,0.01, and ***, p&lt;0.001</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+The reconfiguration of innovation practices before the upgrade of the business model in contract manufacturers
+--------------------------------------------------------------------------------------------------------------
+
+As we know, the upgrade of contract manufacturing would redefine their
+way of business, and it has many different organizational configurations
+on the business activities between old and new business models. When the
+firms have a plan to reinvent their business model, they need good
+preparatory to lead the transition of the business model. Therefore,
+this paper examines the reconfiguration of innovation practices before
+the upgrade of the business model in contract manufacturers. At first,
+we consider the changes in the configuration of OEM firms between
+prepare-to-upgrade and stay-quo ones. In Table 6, the results indicate
+that there are no significant changes of the innovation practices on
+production works before the upgrade of OEM firms in product innovation
+(β=-.120), process innovation(β=.445), and marketing innovation
+(*Product Design*, β=.020; *Channel Distribution*, β=.251; *Marketing
+Promotion*, β=-.272) as same as the results of ANOVA test in Table 7.
+Although it only indicates a significant engagement in the change of
+managerial authority (β=.893, p\<0.01) in Table 6, we find OEM firms
+have more possibilities to change their organizational management
+(*Authority Realignment*, F=10.208, p\<0.01; *Organization
+Restructuring*, F=0.524, p\<0.05; *Outsourcing Re-assignment*, F=5.581,
+p\<0.05) before they upgrade their business model which shown in Table
+6.
+
+Table. 6 Reconfiguration of innovation practices by OEM firms before the
+transition.
+
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+|       | Produ | Proce | Produ | Chann | Marke | Autho | Organ | Outso |
+|       | ct    | ss    | ct    | el    | ting  | rity  | izati | urcin |
+|       |       |       |       |       |       |       | on    | g     |
+|       | Innov | Innov | Desig | Distr | Promo | Reali |       |       |
+|       | ation | ation | n     | ibuti | tion  | gnmen | Restr | Re-as |
+|       |       |       |       | on    |       | t     | uctur | signm |
+|       |       |       |       |       |       |       | ing   | ent   |
++=======+=======+=======+=======+=======+=======+=======+=======+=======+
+| Hitec | -.041 | .284\ | .670\ | .349\ | .437\ | .534+ | .691\ | .254\ |
+| h     | \     | (.300 | *\    | (.326 | (.371 | \     | *\    | (.389 |
+|       | (.308 | )     | (.313 | )     | )     | (.309 | (.303 | )     |
+|       | )     |       | )     |       |       | )     | )     |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| SME   | -.077 | -.409 | -.445 | -.391 | -.299 | -.147 | -.529 | .059\ |
+|       | \     | \     | \     | \     | \     | \     | +\    | (.395 |
+|       | (.308 | (.297 | (.315 | (.326 | (.376 | (.310 | (.303 | )     |
+|       | )     | )     | )     | )     | )     | )     | )     |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Domes | -.139 | -.343 | -.183 | -.121 | -.178 | .347\ | -.613 | .138\ |
+| tic   | \     | \     | \     | \     | \     | (.335 | \     | (.428 |
+|       | (.323 | (.323 | (.348 | (.362 | (.416 | )     | (.344 | )     |
+|       | )     | )     | )     | )     | )     |       | )     |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| B2C   | -.370 | .830\ | .712\ | .392\ | .337\ | .042\ | .298\ | .064\ |
+|       | \     | (.352 | *\    | (.371 | (.422 | (.362 | (.352 | (.458 |
+|       | (.342 | )     | (.354 | )     | )     | )     | )     | )     |
+|       | )     |       | )     |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| OEM   | -.120 | .445\ | .020\ | .251\ | -.272 | .893\ | -.047 | .863\ |
+|       | \     | (.306 | (.328 | (.334 | \     | *\*\  | \     | (.390 |
+| Trans | (.315 | )     | )     | )     | (.400 | (.314 | (.314 | )     |
+| ition | )     |       |       |       | )     | )     | )     |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Pseud | .006  | .043  | .041  | .021  | .015  | .050  | .047  | .030  |
+| o     |       |       |       |       |       |       |       |       |
+| R^2^  |       |       |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| LR    | 1.70  | 12.99 | 11.28 | 5.4   | 3.00  | 14.10 | 13.7\ | 5.79  |
+| chi^2 |       | \*    |       |       |       | \*    | *     |       |
+| ^     |       |       |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Freed | 5     | 5     | 5     | 5     | 5     | 5     | 5     | 5     |
+| om    |       |       |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Log-  | -140. | -145. | -131. | -124. | -101. | -135. | -138. | -95.1 |
+|       | 961   | 990   | 195   | 203   | 294   | 386   | 947   | 51    |
+| likel |       |       |       |       |       |       |       |       |
+| ihood |       |       |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| N     | 220   | 220   | 220   | 220   | 220   | 220   | 220   | 220   |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Note: |       |       |       |       |       |       |       |       |
+| Compu |       |       |       |       |       |       |       |       |
+| ted   |       |       |       |       |       |       |       |       |
+| in    |       |       |       |       |       |       |       |       |
+| TIS2  |       |       |       |       |       |       |       |       |
+| by    |       |       |       |       |       |       |       |       |
+| logis |       |       |       |       |       |       |       |       |
+| tic   |       |       |       |       |       |       |       |       |
+| regre |       |       |       |       |       |       |       |       |
+| ssion |       |       |       |       |       |       |       |       |
+| ,     |       |       |       |       |       |       |       |       |
+| coeff |       |       |       |       |       |       |       |       |
+| icien |       |       |       |       |       |       |       |       |
+| t     |       |       |       |       |       |       |       |       |
+| and   |       |       |       |       |       |       |       |       |
+| S.E.  |       |       |       |       |       |       |       |       |
+| are   |       |       |       |       |       |       |       |       |
+| shown |       |       |       |       |       |       |       |       |
+| ,     |       |       |       |       |       |       |       |       |
+| and   |       |       |       |       |       |       |       |       |
+| signi |       |       |       |       |       |       |       |       |
+| fican |       |       |       |       |       |       |       |       |
+| t     |       |       |       |       |       |       |       |       |
+| level |       |       |       |       |       |       |       |       |
+| at    |       |       |       |       |       |       |       |       |
+| +p\<0 |       |       |       |       |       |       |       |       |
+| .10,  |       |       |       |       |       |       |       |       |
+| \*p\< |       |       |       |       |       |       |       |       |
+| 0.05, |       |       |       |       |       |       |       |       |
+| \*\*p |       |       |       |       |       |       |       |       |
+| ,0.01 |       |       |       |       |       |       |       |       |
+| ,     |       |       |       |       |       |       |       |       |
+| and   |       |       |       |       |       |       |       |       |
+| \*\*\ |       |       |       |       |       |       |       |       |
+| *,p\< |       |       |       |       |       |       |       |       |
+| 0.001 |       |       |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+
+Second, we observe the changes in the configuration of ODM firms before
+upgrading. In Table 8, it shows that the ODM firms have much
+insignificant difference on the reconfiguration of innovation before
+upgrading the business model, such as *Product Innovation* (β=.213),
+*Product Design* (β=-.157), *Marketing Promotion* (β=-.137), *Authority
+Realignment* (β=.583), *Organization Restructuring* (β=-.038), and
+*Outsourcing Re-assignment* (β=-.767). However, the results indicate
+that ODM firms would reduce to engage in process innovation (β=-.918,
+p\<0.05) and the exploration of the marketing channel (β=-1.070,
+p\<0.10). Furthermore, on the ANOVA in Table 7, the results also confirm
+the findings, but it finds a visible increase in *Authority Realignment*
+(μ=.556\>.388) and decreases in *Outsourcing Re-assignment*
+(μ=.185\<.290).
+
+Table. 7 ANOVA Table for variation in the engagement of innovation
+practices in the transition for OEM, ODM, OBM firms.
+
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+|       | Produ | Proce | Produ | Chann | Marke | Autho | Organ | Outso |
+|       | ct    | ss    | ct    | el    | ting  | rity  | izati | urcin |
+|       |       |       |       |       |       |       | on    | g     |
+|       | Innov | Innov | Desig | Distr | Promo | Reali |       |       |
+|       | ation | ation | n     | ibuti | tion  | gnmen | Restr | Re-as |
+|       |       |       |       | on    |       | t     | uctur | signm |
+|       |       |       |       |       |       |       | ing   | ent   |
++=======+=======+=======+=======+=======+=======+=======+=======+=======+
+| **Bef |       |       |       |       |       |       |       |       |
+| ore   |       |       |       |       |       |       |       |       |
+| the   |       |       |       |       |       |       |       |       |
+| trans |       |       |       |       |       |       |       |       |
+| ition |       |       |       |       |       |       |       |       |
+| (TIS2 |       |       |       |       |       |       |       |       |
+| )**   |       |       |       |       |       |       |       |       |
+|       |       |       |       |       |       |       |       |       |
+| *OEM* |       |       |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Non   | .660  | .449  | .299  | .238  | .184  | .279  | .361  | .122  |
+| (N=14 |       |       |       |       |       |       |       |       |
+| 7)    |       |       |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Trans | .644  | .589  | .342  | .315  | .164  | .493  | .411  | .247  |
+| ition |       |       |       |       |       |       |       |       |
+| (N=73 |       |       |       |       |       |       |       |       |
+| )     |       |       |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| F     | .055  | 3.86  | .419  | 1.485 | 0.123 | 10.20 | .524\ | 5.581 |
+|       |       |       |       |       |       | 8\*\* | *     | \*    |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| *ODM* |       |       |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Non   | .580  | .612  | .294  | .302  | .171  | .388  | .412  | .290  |
+| (N=24 |       |       |       |       |       |       |       |       |
+| 7)    |       |       |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Trans | .630  | .407  | .259  | .148  | .148  | .556  | .444  | .185  |
+| ition |       |       |       |       |       |       |       |       |
+| (N=27 |       |       |       |       |       |       |       |       |
+| )     |       |       |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| F     | .249  | 4.260 | .140  | 2.825 | .093  | 2.852 | .103  | 1.319 |
+|       |       | \*    |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| **Aft |       |       |       |       |       |       |       |       |
+| er    |       |       |       |       |       |       |       |       |
+| the   |       |       |       |       |       |       |       |       |
+| trans |       |       |       |       |       |       |       |       |
+| ition |       |       |       |       |       |       |       |       |
+| (TIS3 |       |       |       |       |       |       |       |       |
+| )**   |       |       |       |       |       |       |       |       |
+|       |       |       |       |       |       |       |       |       |
+| *ODM* |       |       |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Incum | .265  | .395  | .239  | .162  | .126  | .329  | .441  | .252  |
+| bent  |       |       |       |       |       |       |       |       |
+| (N=21 |       |       |       |       |       |       |       |       |
+| 5)    |       |       |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Entra | .163  | .372  | .130  | .109  | .022  | .326  | .413  | .326  |
+| nt    |       |       |       |       |       |       |       |       |
+| (N=43 |       |       |       |       |       |       |       |       |
+| )     |       |       |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| F     | 2.012 | .081  | 2.609 | .837  | 4.340 | .001  | .124  | 1.063 |
+|       |       |       |       |       | \*    |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| *OBM* |       |       |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Incum | .264  | .365  | .221  | .067  | .131  | .363  | .248  | .216  |
+| bent  |       |       |       |       |       |       |       |       |
+| (N=34 |       |       |       |       |       |       |       |       |
+| 5)    |       |       |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Entra | .440  | .449  | .370  | .111  | .296  | .537  | .389  | .370  |
+| nt    |       |       |       |       |       |       |       |       |
+| (N=50 |       |       |       |       |       |       |       |       |
+| )     |       |       |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| F     | 6.720 | 1.271 | 5.795 | 1.389 | 10.26 | 6.122 | 4.834 | 6.312 |
+|       | \*\*  |       | \*    |       | 7\*\* | \*    | \*\*  | \*    |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Note: |       |       |       |       |       |       |       |       |
+| \*p\< |       |       |       |       |       |       |       |       |
+| 0.05, |       |       |       |       |       |       |       |       |
+| \*\*p |       |       |       |       |       |       |       |       |
+| ,0.01 |       |       |       |       |       |       |       |       |
+| ,     |       |       |       |       |       |       |       |       |
+| and   |       |       |       |       |       |       |       |       |
+| \*\*\ |       |       |       |       |       |       |       |       |
+| *,    |       |       |       |       |       |       |       |       |
+| p\<0. |       |       |       |       |       |       |       |       |
+| 001   |       |       |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+
+Table. 8 Reconfiguration of innovation practices by ODM firms before the
+transition.
+
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+|       | Produ | Proce | Produ | Chann | Marke | Autho | Organ | Outso |
+|       | ct    | ss    | ct    | el    | ting  | rity  | izati | urcin |
+|       |       |       |       |       |       |       | on    | g     |
+|       | Innov | Innov | Desig | Distr | Promo | Reali |       |       |
+|       | ation | ation | n     | ibuti | tion  | gnmen | Restr | Re-as |
+|       |       |       |       | on    |       | t     | uctur | signm |
+|       |       |       |       |       |       |       | ing   | ent   |
++=======+=======+=======+=======+=======+=======+=======+=======+=======+
+| Hitec | .295\ | .048\ | .171\ | .220\ | .189\ | .071\ | .258\ | .355\ |
+| h     | (.277 | (.277 | (.292 | (.297 | (.349 | (.281 | (.277 | (.298 |
+|       | )     | )     | )     | )     | )     | )     | )     | )     |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| SME   | -.149 | -.314 | .054\ | -.026 | -.044 | -.606 | -.768 | -.514 |
+|       | \     | \     | (.289 | \     | \     | \*\   | \*\*\ | +\    |
+|       | (.270 | (.273 | )     | (.295 | (.347 | (.271 | (.268 | (.290 |
+|       | )     | )     |       | )     | )     | )     | )     | )     |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Domes | .-.70 | .568+ | -.654 | -.273 | .334\ | -1.11 | -.676 | -.949 |
+| tic   | 8\    | \     | +\    | \     | (.363 | 1\*\* | \*\   | \*\*\ |
+|       | (.287 | (.301 | (.338 | (.326 | )     | \     | (.308 | (.366 |
+|       | )     | )     | )     | )     |       | (.326 | )     | )     |
+|       |       |       |       |       |       | )     |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| B2C   | .119\ | .172\ | .104\ | 1.013 | -.037 | .195\ | .462\ | .737\ |
+|       | (.318 | (.325 | (.346 | \*\*\ | \     | (.332 | (.323 | *\    |
+|       | )     | )     | )     | (.332 | (.410 | )     | )     | (.348 |
+|       |       |       |       | )     | )     |       |       | )     |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| ODM   | .213\ | -.918 | -.157 | -1.07 | -.137 | .583\ | -.038 | -.767 |
+|       | (.433 | \*\   | \     | 0+\   | \     | (.433 | \     | \     |
+| Trans | )     | (.428 | (.474 | (.580 | (.579 | )     | (.430 | (.539 |
+| ition |       | )     | )     | )     | )     |       | )     | )     |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Pseud | .023  | .027  | .014  | .039  | .005  | .060  | .046  | .052  |
+| o     |       |       |       |       |       |       |       |       |
+| R^2^  |       |       |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| LR    | 8.47  | 9.94+ | 4.56  | 12.77 | 1.23  | 22.06 | 16.86 | 16.77 |
+| chi^2 |       |       |       | \*    |       | \*\*\ | \*\*  | \*\*  |
+| ^     |       |       |       |       |       | *     |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Freed | 5     | 5     | 5     | 5     | 5     | 5     | 5     | 5     |
+| om    |       |       |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Log-  | -180. | -178. | -161. | -156. | -123. | -172. | -176. | -152. |
+|       | 394   | 944   | 611   | 606   | 005   | 5048  | 199   | 745   |
+| likel |       |       |       |       |       |       |       |       |
+| ihood |       |       |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| N     | 272   | 272   | 272   | 272   | 272   | 272   | 272   | 272   |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Note: |       |       |       |       |       |       |       |       |
+| Compu |       |       |       |       |       |       |       |       |
+| ted   |       |       |       |       |       |       |       |       |
+| in    |       |       |       |       |       |       |       |       |
+| TIS2  |       |       |       |       |       |       |       |       |
+| by    |       |       |       |       |       |       |       |       |
+| logis |       |       |       |       |       |       |       |       |
+| tic   |       |       |       |       |       |       |       |       |
+| regre |       |       |       |       |       |       |       |       |
+| ssion |       |       |       |       |       |       |       |       |
+| ,     |       |       |       |       |       |       |       |       |
+| coeff |       |       |       |       |       |       |       |       |
+| icien |       |       |       |       |       |       |       |       |
+| t     |       |       |       |       |       |       |       |       |
+| and   |       |       |       |       |       |       |       |       |
+| S.E.  |       |       |       |       |       |       |       |       |
+| are   |       |       |       |       |       |       |       |       |
+| shown |       |       |       |       |       |       |       |       |
+| ,     |       |       |       |       |       |       |       |       |
+| and   |       |       |       |       |       |       |       |       |
+| signi |       |       |       |       |       |       |       |       |
+| fican |       |       |       |       |       |       |       |       |
+| t     |       |       |       |       |       |       |       |       |
+| level |       |       |       |       |       |       |       |       |
+| at    |       |       |       |       |       |       |       |       |
+| +p\<0 |       |       |       |       |       |       |       |       |
+| .10,  |       |       |       |       |       |       |       |       |
+| \*p\< |       |       |       |       |       |       |       |       |
+| 0.05, |       |       |       |       |       |       |       |       |
+| \*\*p |       |       |       |       |       |       |       |       |
+| ,0.01 |       |       |       |       |       |       |       |       |
+| ,     |       |       |       |       |       |       |       |       |
+| and   |       |       |       |       |       |       |       |       |
+| \*\*\ |       |       |       |       |       |       |       |       |
+| *,p\< |       |       |       |       |       |       |       |       |
+| 0.001 |       |       |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+
+The reconfiguration of innovation practices after the upgrade of the business model in contract manufacturers
+-------------------------------------------------------------------------------------------------------------
+
+In the transition of the business model, the new entrant would pay the
+efforts in building the new business activities and reconfigure their
+production works in the value chains to compete with the incumbent firms
+in the market. By examining the changes in innovation practices between
+new entrant and incumbent firms, it provides the understanding which new
+entrants pay apparent efforts to catch up on the new business as well as
+encounter the challenges in the new business. As a new entrant of ODM
+business, the firms may have significantly insufficient engagement in
+product innovation (β=-.856, p\<0.10) and marketing promotion (β=-1.890,
+p\<0.10) than incumbent firms (Table 9).
+
+Table. 9 Reconfiguration of innovation practices by ODM new entrants
+
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+|       | Produ | Proce | Produ | Chann | Marke | Autho | Organ | Outso |
+|       | ct    | ss    | ct    | el    | ting  | rity  | izati | urcin |
+|       |       |       |       |       |       |       | on    | g     |
+|       | Innov | Innov | Desig | Distr | Promo | Reali |       |       |
+|       | ation | ation | n     | ibuti | tion  | gnmen | Restr | Re-as |
+|       |       |       |       | on    |       | t     | uctur | signm |
+|       |       |       |       |       |       |       | ing   | ent   |
++=======+=======+=======+=======+=======+=======+=======+=======+=======+
+| Hitec | .109\ | .219\ | -.245 | -.750 | -.939 | -.134 | -.275 | -.623 |
+| h     | (.312 | (.277 | \     | +\    | +\    | \     | \     | +\    |
+|       | )     | )     | (.325 | (.408 | (.503 | (.289 | (.296 | (.321 |
+|       |       |       | )     | )     | )     | )     | )     | )     |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| SME   | -.584 | -.315 | -.291 | -.262 | -1.55 | -.903 | -1.41 | -.729 |
+|       | +\    | \     | \     | \     | 5\*\* | \*\*\ | 1\*\* | \*\   |
+|       | (.300 | (.269 | (.307 | (.355 | \*\   | *\    | \*\   | (.292 |
+|       | )     | )     | )     | )     | (.440 | (.274 | (.282 | )     |
+|       |       |       |       |       | )     | )     | )     |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Domes | -.577 | -.788 | .298\ | .160\ | .916+ | -.293 | -1.45 | -.591 |
+| tic   | \     | \*\   | (.359 | (.422 | \     | \     | 6\*\* | \     |
+|       | (.426 | (.370 | )     | )     | (.473 | (.352 | \*\   | (.404 |
+|       | )     | )     |       |       | )     | )     | (.394 | )     |
+|       |       |       |       |       |       |       | )     |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| B2C   | -.263 | -.541 | .100\ | .219\ | -.121 | .195\ | -.216 | -.256 |
+|       | \     | +\    | (.346 | (.395 | \     | (.314 | \     | \     |
+|       | (.361 | (.323 | )     | )     | (.491 | )     | (.324 | (.349 |
+|       | )     | )     |       |       | )     |       | )     | )     |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| ODM   | -.856 | -.241 | -.721 | -.282 | -1.89 | -.156 | -.328 | .357\ |
+|       | +\    | \     | \     | \     | 0+\   | \     | \     | (.365 |
+| Entra | (.482 | (.370 | (.475 | (.520 | (1.05 | (.367 | (.362 | )     |
+| nt    | )     | )     | )     | )     | 1)    | )     | )     |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| TIS2  | .195\ | -.086 | .128\ | -.630 | -.213 | .387\ | .284\ | .432\ |
+|       | (.352 | \     | (.356 | \     | \     | (.294 | (.317 | (.356 |
+|       | )     | (.308 | )     | (.511 | (.669 | )     | )     | )     |
+|       |       | )     |       | )     | )     |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Pseud | .033  | .029  | .018  | .030  | .132  | .045  | .129  | .048  |
+| o     |       |       |       |       |       |       |       |       |
+| R^2^  |       |       |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| LR    | 9.44  | 9.98  | 4.94  | 6.97  | 24.19 | 15.31 | 47.20 | 14.85 |
+| chi^2 |       |       |       |       |       | \*    | \*\*\ | \*    |
+| ^     |       |       |       |       |       |       | *     |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Freed | 6     | 6     | 6     | 6     | 6     | 6     | 6     | 6     |
+| om    |       |       |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Log-  | -139. | -167. | -138. | -111. | -79.7 | -161. | -160. | -147. |
+|       | 812   | 718   | 793   | 181   | 64    | 993   | 002   | 520   |
+| likel |       |       |       |       |       |       |       |       |
+| ihood |       |       |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| N     | 258   | 258   | 268   | 268   | 268   | 268   | 268   | 268   |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Note: |       |       |       |       |       |       |       |       |
+| Compu |       |       |       |       |       |       |       |       |
+| ted   |       |       |       |       |       |       |       |       |
+| in    |       |       |       |       |       |       |       |       |
+| TIS3  |       |       |       |       |       |       |       |       |
+| by    |       |       |       |       |       |       |       |       |
+| logis |       |       |       |       |       |       |       |       |
+| tic   |       |       |       |       |       |       |       |       |
+| regre |       |       |       |       |       |       |       |       |
+| ssion |       |       |       |       |       |       |       |       |
+| ,     |       |       |       |       |       |       |       |       |
+| coeff |       |       |       |       |       |       |       |       |
+| icien |       |       |       |       |       |       |       |       |
+| t     |       |       |       |       |       |       |       |       |
+| and   |       |       |       |       |       |       |       |       |
+| S.E.  |       |       |       |       |       |       |       |       |
+| are   |       |       |       |       |       |       |       |       |
+| shown |       |       |       |       |       |       |       |       |
+| ,     |       |       |       |       |       |       |       |       |
+| and   |       |       |       |       |       |       |       |       |
+| signi |       |       |       |       |       |       |       |       |
+| fican |       |       |       |       |       |       |       |       |
+| t     |       |       |       |       |       |       |       |       |
+| level |       |       |       |       |       |       |       |       |
+| at    |       |       |       |       |       |       |       |       |
+| +p\<0 |       |       |       |       |       |       |       |       |
+| .10,  |       |       |       |       |       |       |       |       |
+| \*p\< |       |       |       |       |       |       |       |       |
+| 0.05, |       |       |       |       |       |       |       |       |
+| \*\*p |       |       |       |       |       |       |       |       |
+| ,0.01 |       |       |       |       |       |       |       |       |
+| ,     |       |       |       |       |       |       |       |       |
+| and   |       |       |       |       |       |       |       |       |
+| \*\*\ |       |       |       |       |       |       |       |       |
+| *,p\< |       |       |       |       |       |       |       |       |
+| 0.001 |       |       |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+
+Also, we observe the average of engagement in innovation practices in
+Table 7, and we find new ODM entrants have distinctly low activities in
+average on *Product Innovation* (μ=.163\<.265), Product *Design*
+(μ=.130\<.239), *Channel Distribution* (μ=.109\<.162), and *Marketing
+Promotion* (μ=.022\<.126). Overall, the contract manufacturers would
+face the challenges of building the new competencies on R&D and
+marketing works when OEM firms transited their business model to the ODM
+model.
+
+For new entrants on OBM business, the firms have a comprehensive
+enhancement on production works in the market (Table 10), such as
+product innovation (β=.728, p\<0.05), process innovation (β=.277), and
+marketing innovation (*Product Design*, β=.631, p\<0.05; *Channel
+Distribution*, β=.504; *Marketing Promotion*, β=.893, p\<0.05).
+Moreover, they usually adjust organizational management in the external
+(*Authority Realignment*, β=.650, p\<0.05; Organization *Restructuring*,
+β=.647, p\<0.05) and the external (*Outsourcing Re-assignment*, β=.599,
+p\<0.10). In comparison to ANOVA in Table 7, it points out that the new
+OBM entrants would pay more effort to build the new practices of their
+new business for the competition in the market.
+
+Table. 10 Reconfiguration of innovation practices by OBM new entrants
+
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+|       | Produ | Proce | Produ | Chann | Marke | Autho | Organ | Outso |
+|       | ct    | ss    | ct    | el    | ting  | rity  | izati | urcin |
+|       |       |       |       |       |       |       | on    | g     |
+|       | Innov | Innov | Desig | Distr | Promo | Reali |       |       |
+|       | ation | ation | n     | ibuti | tion  | gnmen | Restr | Re-as |
+|       |       |       |       | on    |       | t     | uctur | signm |
+|       |       |       |       |       |       |       | ing   | ent   |
++=======+=======+=======+=======+=======+=======+=======+=======+=======+
+| Hitec | .234\ | -.145 | -.317 | .484\ | -.873 | -.555 | .380\ | -.724 |
+| h     | (.249 | \     | \     | (.394 | \*\   | \*\   | (.236 | \*\   |
+|       | )     | (.239 | (.264 | )     | (.376 | (.231 | )     | (.286 |
+|       |       | )     | )     |       | )     | )     |       | )     |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| SME   | -.327 | .323\ | -.066 | .261\ | -.930 | -.353 | .033\ | -.160 |
+|       | \     | (.226 | \     | (.389 | \*\*\ | +\    | (.233 | \     |
+|       | (.236 | )     | (.237 | )     | (.293 | (.214 | )     | (.240 |
+|       | )     |       | )     |       | )     | )     |       | )     |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Domes | -.946 | -1.15 | -.776 | -1.45 | -2.46 | -.723 | -.074 | -1.24 |
+| tic   | \*\   | 6\*\* | \*\   | 1+\   | 9\*\  | \*\   | \     | 0\*\* |
+|       | (.375 | \*\   | (.358 | (.757 | (1.02 | (.295 | (.292 | \     |
+|       | )     | (.330 | )     | )     | 7)    | )     | )     | (.425 |
+|       |       | )     |       |       |       |       |       | )     |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| B2C   | .018\ | -.252 | .229\ | .170\ | .430\ | .229\ | .068\ | .213\ |
+|       | (.272 | \     | (.266 | (.437 | (.321 | (.241 | (.260 | (.272 |
+|       | )     | (.259 | )     | )     | )     | )     | )     | )     |
+|       |       | )     |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| OBM   | .728\ | .277\ | .631\ | .504\ | .839\ | .650\ | .647\ | .599+ |
+|       | *\    | (.315 | *\    | (.488 | *\    | *\    | *\    | \     |
+| Entry | (.316 | )     | (.314 | )     | (.356 | (.304 | (.309 | (.318 |
+|       | )     |       | )     |       | )     | )     | )     | )     |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| TIS2  | -.040 | -.019 | .215\ | .056\ | .158\ | -.369 | .377+ | -.103 |
+|       | \     | \     | (.248 | (.403 | (.364 | \     | \     | \     |
+|       | (.230 | (.215 | )     | )     | )     | (.212 | (.225 | (.264 |
+|       | )     | )     |       |       |       | )     | )     | )     |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Pseud | .040  | .034  | .032  | .035  | .136  | .051  | .021  | .062  |
+| o     |       |       |       |       |       |       |       |       |
+| R^2^  |       |       |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| LR    | 18.71 | 17.34 | 15.15 | 7.71  | 49.50 | 29.17 | 10.59 | 29.15 |
+| chi^2 | \*\*  | \*\*  | \*    |       | \*\*\ | \*\*\ |       | \*\*\ |
+| ^     |       |       |       |       | *     | *     |       | *     |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Freed | 6     | 6     | 6     | 6     | 6     | 6     | 6     | 6     |
+| om    |       |       |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Log-  | -227. | -250. | -228. | -107. | -157. | -271. | -243. | -219. |
+| likel | 092   | 190   | 884   | 451   | 718   | 251   | 085   | 552   |
+| ihood |       |       |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| N     | 395   | 391   | 429   | 429   | 429   | 429   | 429   | 429   |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+| Note: |       |       |       |       |       |       |       |       |
+| Compu |       |       |       |       |       |       |       |       |
+| ted   |       |       |       |       |       |       |       |       |
+| in    |       |       |       |       |       |       |       |       |
+| TIS3  |       |       |       |       |       |       |       |       |
+| by    |       |       |       |       |       |       |       |       |
+| logis |       |       |       |       |       |       |       |       |
+| tic   |       |       |       |       |       |       |       |       |
+| regre |       |       |       |       |       |       |       |       |
+| ssion |       |       |       |       |       |       |       |       |
+| ,     |       |       |       |       |       |       |       |       |
+| coeff |       |       |       |       |       |       |       |       |
+| icien |       |       |       |       |       |       |       |       |
+| t     |       |       |       |       |       |       |       |       |
+| and   |       |       |       |       |       |       |       |       |
+| S.E.  |       |       |       |       |       |       |       |       |
+| are   |       |       |       |       |       |       |       |       |
+| shown |       |       |       |       |       |       |       |       |
+| ,     |       |       |       |       |       |       |       |       |
+| and   |       |       |       |       |       |       |       |       |
+| signi |       |       |       |       |       |       |       |       |
+| fican |       |       |       |       |       |       |       |       |
+| t     |       |       |       |       |       |       |       |       |
+| level |       |       |       |       |       |       |       |       |
+| at    |       |       |       |       |       |       |       |       |
+| +p\<0 |       |       |       |       |       |       |       |       |
+| .10,  |       |       |       |       |       |       |       |       |
+| \*p\< |       |       |       |       |       |       |       |       |
+| 0.05, |       |       |       |       |       |       |       |       |
+| \*\*p |       |       |       |       |       |       |       |       |
+| ,0.01 |       |       |       |       |       |       |       |       |
+| ,     |       |       |       |       |       |       |       |       |
+| and   |       |       |       |       |       |       |       |       |
+| \*\*\ |       |       |       |       |       |       |       |       |
+| *,p\< |       |       |       |       |       |       |       |       |
+| 0.001 |       |       |       |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+-------+-------+-------+
+
+Discussions
+===========
+
+In the empirical examination, this paper employs the investigation of
+Taiwanese contract manufacturers for reconfiguring their business
+activities in the transition of business models. Through reviewing the
+business model innovation in contract manufacturing, OEM, ODM, and OBM
+firms demonstrate differentiated business activities to implement a
+value proposition in the existing market by providing valued production
+works. For detail, the engagement of innovation practices behind the
+business models explains the value creation and organizational
+configuration in contract manufacturers to promote their competitive
+advantage in the market.
+
+As an entry mode of contract manufacturing, we find that OEM firms have
+lower engagement in the innovation of production works as well as fewer
+changes in organizational management. In the OEM model, to sustain
+excellent manufacturing efficiency is the core business of the firms,
+and to avoid the changes to keep cost advantage in the market becomes
+the critical factor to firm performance. Wang and Wu (2012) examined the
+moderation of the contract manufacturing model on the relationship
+between R&D investment and the operating performance, and it found a
+negative effect on the OEM model, in which R&D investment may reduce the
+performance of OEM firms. Feng-Hsu, Heng-Yih, and Ting-Ling (2008)
+considered that OEM contract manufacturers leverage existing
+manufacturing competence, which involves a low level of risk. Moreover,
+the success of the OEM model depends on the effectiveness of current
+organizational practices to offer incremental improvements on sustaining
+to fulfill customers' needs (Kittilaksanawong 2015).
+
+On the configuration of innovation practices to ODM firms, product
+innovation, process innovation, marketing product design, and
+organizational changes have significantly positive engagement in the run
+of business. For ODM model, contract manufacturers extend its value
+works to upstream outsourcing in new product development, product
+innovation, and process innovation synergize as technological
+capabilities of the ODM firms to demonstrate the primary product design
+process in the market (Lee, Song, and Kwak 2015; Wang and Wu 2012).
+Furthermore, the ODM model connects the value works to downstream
+marketing practices to demonstrate the abilities of latecomers to react
+to the changes in the needs of end-users as the selling of market
+flexibility to the customers (Chu 2009; Manzakoğlu and Er 2018). Also,
+organizational management in ODM firms needs to be adaptive in dynamic
+markets to renew the internal organizational practices for the changes
+quickly and to reassign the external partnership for fostering new
+product development and manufacturing (Yung and Lai 2012; Christensen,
+Bartman, and Van Bever 2016). In contrast to OEM firms, ODM contract
+manufacturers have to upgrade their business activities to catch more
+production works in the value chains, and engagement in the innovation
+practices to pursue the success of their business model and to build a
+competitive advantage in the market.
+
+In contract manufacturing, the OBM model represents a radical change of
+the role in the existing market from the suppliers to second movers (Chu
+2009). On the configuration of innovation practices, our results
+indicate that OBM firms have strong engagement in all production works
+as well as sustainable organizational management. As the latecomers in
+the existing market, OBM firms have to improve technological innovation
+capacity and change to high-value-added products, and they also need to
+strengthen the marketing capabilities to more skilled operation and
+value-added marketing activities in a competitive market (Eng and
+Spickett-Jones 2009; Feng-Hsu, Heng-Yih, and Ting-Ling 2008; Wan 2015).
+Moreover, the OBM firms also need sustainable organizational management
+to make sure the run of business activities and to align the dynamic
+changes in the market (Day 2006; Carayannis, Sindakis, and Walter 2015;
+Foss and Saebi 2016).
+
+After confirming the differentiated configuration of innovation
+practices under OEM, ODM, and OBM models, this study also finds the
+reconfiguration in the transition is the critical threshold to upgrade
+the business models. Before the upgrade of OEM firms, we find a positive
+change in organizational management but no significant changes in their
+business activities compared to other OEM firms who have no intention to
+change the business model. Many prior scholars indicate organizational
+changes would influence the development of new capabilities and
+partnership in business model innovation, and the upgrade of OEM firms
+face a radical change to promote innovation practices for catching more
+valued works in contract manufacturing. In other words, OEM firms need
+to overcome the barriers of organizational inertia associated with the
+old business model when they prepare to transit the upgraded business
+model (Carayannis, Sindakis, and Walter 2015; Jacobides, MacDuffie, and
+Tae 2016; Bijarboneh 2015). However, we do not find apparent changes
+when ODM firms prepare to upgrade to the OBM model, and it only
+indicates a significant reduction in process innovation for
+manufacturing. In other words, ODM firms may concentrate on the
+necessary process innovation to core products in branding development.
+
+Furthermore, this paper compares the configuration of innovation
+practices between new entrants and incumbent firms in the business model
+of ODM and OBM. At the early stage in the transition from OEM to ODM, we
+find that the new entrants of the ODM business have fewer new product
+development and weak marketing capabilities compared to existing ODM
+firms. For a new ODM firm, promoting the R&D and marketing works is the
+determinant on the success of business model transition to build the
+competence and business practices, but it needs a long-term path and
+investment to transform into a new competitive advantage in the market
+(Feng-Hsu, Heng-Yih, and Ting-Ling 2008; Eng and Spickett-Jones 2009;
+Matthyssens, Vandenbempt, and Weyns 2009). In the transition to OBM
+firms, the new entrants demonstrate strategic changes in a comprehensive
+enhancement of production works and organizational management. It
+indicates the new entrants of the OBM business need to pay more effort
+to overcome the challenges in the competitive market as a second-mover
+(Chu 2009; Lee, Song, and Kwak 2015; Yan 2012).
+
+From the observation in the business model transition of Taiwanese
+contract manufacturers, it indicates that the OEM-ODM-OBM path of
+reinventing the business models exhibits the reconfiguration of business
+activities by the value proposition in the market. The differentiated
+configuration of innovation practices under these models shows the
+composition of the firm's competence to fit the business activities of
+the firms in the value chains. In the transition of the business model
+of contract manufacturers, radical upgrading leads them a necessity to
+promote the engagement of innovation practices that could adapt to the
+new value proposition.
+
+Conclusion and managerial implication
+=====================================
+
+By the rise of globalization, vertical specialization encouraged the
+business model innovation in manufacturing sectors by contract
+manufacturing in the existing market, and it provides the new business
+opportunity to participate in the value chains for the latecomers in the
+emerging economies, such as South Korea, Taiwan, and China. Through the
+positioning of the business model, latecomers take parts of production
+works as core business activities to create the values by the engagement
+of innovation practices. In this study, it illustrates and demonstrates
+the new business model of OEM, ODM, and OBM in contract manufacturing
+for the latecomers.
+
+In Taiwanese manufacturing sectors, by the growth of contract
+manufacturing in emerging Asia, the regular competition leads to a
+business model transition in OEM, ODM, and OBM are emerging from the
+1990s (Hobday 1998). Many Taiwanese contract manufacturers pursue the
+upgrading of business models to provide more added values to the
+contractors by developing new business activities through the engagement
+of innovation practices in production works as well as ongoing
+organizational innovation to coordinate the run of new business. Many
+success stories in the last 30 years on Taiwanese contract
+manufacturers, such as Acer, Quanta Computer, Giant, Johnson, and HTC
+(Hobday 1998; Chu 2009; Yan 2012), prove Taiwanese case as the good
+referred model for the business model transition of contract
+manufacturers.
+
+Through the examination of the business model transition of Taiwanese
+contract manufacturers, it could find that business model innovation
+generates from the reposition of value proposition in the existing
+market, which still takes parts of works in value chains (Zott and Amit
+2010; Amit and Zott 2012; Johnson, Christensen, and Kagermann 2008). The
+firms would illustrate their business activities and engagement of
+innovation mix to provide the value to the customers in the existing
+market, which they repositioned (Bucherer, Eisert, and Gassmann 2012;
+Teece 2010). When the firm intends to reclaim their business models,
+they will purchase the transition of innovation mix in production and
+organizational works for reconfiguring their business activities to meet
+the new value proposition in the existing market (Sánchez and Ricart
+2010; Carayannis, Sindakis, and Walter 2015). In other words, it could
+conclude that business model innovation rooted in value repositioning,
+and the transition of the business model demonstrates in the
+reconfiguration of the innovation mix to describe new business
+activities. Therefore, the firms have to pay their effort to catch up on
+the innovation practices in the business model transition.
+
+In practical implication, this paper points out some challenges on the
+upgrading of the business model to the latecomers. At first, although
+the transition to ODM or OBM models aims to expand to R&D and marketing
+works, there is a gap of capabilities to encourage new entrants in
+building new configuration of innovation practices for reposition value
+proposition in the market (Teece 2010; Euchner and Ganguly 2014).
+Second, the tension of radical change from OEM to ODM exists in the
+transition, and the competence on new product development in R&D and
+marketing capabilities may need long term investment and accumulation
+(Chesbrough 2010; Yan, Chiang, and Chien 2014). Third, organizational
+management is the core mechanism to sustain the operation of business
+activities and to foster the transition of the business model. On the
+ODM and OBM models, adaptive organizational management could make the
+firms have high flexibility to react to the dynamic changes in the
+market by incorporating other business activities (Carayannis, Sindakis,
+and Walter 2015; Koen, Bertels, and Elsum 2011). In the final, the
+external network of partnership in contract manufacturing demonstrates
+the combination of valued works in the value chains, and the
+reassignment is the critical work in the operating business model to
+implement the specialization practices in terms of attaining the value
+proposition in the market (Sánchez and Ricart 2010; Hsu and Liu 2008).
+
+In the future research, although the study finds different business
+models in contract manufacturing that have focused on the various
+business activities, and plot the transition of the business model,
+there are two research limitations for further research. Although the
+data of TIS2 and TIS3 across two periods have the consideration on time
+horizontal, a time series analysis by consecutive years would provide
+more dynamic observation in the business model transition of contract
+manufacturers. Moreover, the Taiwanese case offers good evidence. Still,
+different industrial contexts for each economy may lead to the necessity
+of adjustment in the practices, and it would encourage the comparison
+across different economies.
