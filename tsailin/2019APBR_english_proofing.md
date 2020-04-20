@@ -32,20 +32,21 @@ firms; OBM; ODM; OEM
 Introduction
 ============
 
-In recent, the transformation of contract manufacturers has become a
-prevalent issue in emerging countries. By the increase of experience in
-contracted manufacturing, these manufacturers had accumulated sufficient
-technological capabilities for in-house R&D to catch up with their
-customers in the market. It also stimulates the firms to move up to both
-upstream and downstream of the value chains for pursuing firm growth.
-The pathway of OEM-ODM-OBM has become a role model for the contract
-manufacturers to transit their business models, which had many success
+In recent times, the transformation undergone by contract manufacturers has become a
+critical issue in emerging countries. With the increase of their experience in
+contracted manufacturing, these manufacturers accumulated sufficient
+technological capabilities to undertake in-house R&D and play catch-up with their
+customers in the market. This experience also has stimulated firms to advance both
+upstream and downstream in the value chain pursuing firm growth.
+The OEM-ODM-OBM transition has become a well-traveled pathway for contract
+manufacturers seeking to improve their business models, and the many success
 stories from Taiwan (Chu 2009; Kuo and Minshall 2010; Hobday 1998),
 Korea (Lee, Song, and Kwak 2015; Hobday 1998), and China (Wan 2015; Zhu,
-Zhang, and Lin 2017). However, contract manufacturers face substantial
-challenges not only in the competence building and leveraging but also
-value proposition reinventing in the existing market when they transited
-the business model (Johnson, Christensen, and Kagermann 2008; Teece
+Zhang, and Lin 2017) have established role models for companies seeking to copy their success.
+However, contract manufacturers face substantial
+challenges not only in competence building and leveraging but also
+value proposition reinventing in the existing market when they change
+their business models (Johnson, Christensen, and Kagermann 2008; Teece
 2010; Amit and Zott 2012).
 
 In the manufacturing sectors, vertical specialization increasingly
