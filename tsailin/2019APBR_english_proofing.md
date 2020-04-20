@@ -1,4 +1,4 @@
-Business Model and Innovation Mix in transition: Evidence from Taiwanese
+The Business Model and Innovation Mix in Transition: Evidence from Taiwanese
 Contract Manufacturers
 
 The successful transition of Taiwanese contract manufacturers is a
