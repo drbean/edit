@@ -62,7 +62,7 @@ on the production network by means of R&D, manufacturing, and marketing work
 (Feng-Hsu, Heng-Yih, and Ting-Ling 2008; Jacobides, MacDuffie, and Tae
 2016). To sustain an advantage in the production network, contract
 manufacturers rely upon continuing to create sufficient added value in the
-existing market through the engagement of different innovation practices
+existing market through the engagement of the different innovation practices
 of their business model, including product innovation, process
 innovation, and marketing innovation (Kuo and Minshall 2010; Chu 2009;
 Hobday 1998; Matthyssens, Vandenbempt, and Weyns 2009). Furthermore,
