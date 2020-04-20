@@ -72,18 +72,18 @@ activities as well as establish external relationships with their customers,
 vendors, and suppliers (Carayannis, Sindakis, and Walter 2015; Wang and
 Chen 2020; Zott and Amit 2010).
 
-By the growth of contract manufacturing, contract manufacturers have a
-strong desire to upgrade their business for catching more market value
-from the existing market (Hobday 1998). With the reposition of value
-proposition in the production network, contract manufacturers have to
-reconfigure their innovation practices when they are transiting the
-business model (Matthyssens, Vandenbempt, and Weyns 2009; Kuo and
-Minshall 2010; Wang and Wu 2012). Therefore, to understand the
-configuration of innovation practices in the business models of OEM,
-ODM, OBM could provide practical instructions to guide the reinventing
-of the business model of contract manufacturers. Furthermore, examining
-the reconfiguration of innovation practices in the transition also could
-give suggestions to new entrants for catching up on the new business
+In the course of growth in contract manufacturing, contract manufacturers develop a
+strong desire to upgrade their businesses and catch more market value
+from the existing market (Hobday 1998). With the repositioning of their value
+propositions in the production network, contract manufacturers have to
+reconfigure their innovation practices when they are making changes to their
+business models (Matthyssens, Vandenbempt, and Weyns 2009; Kuo and
+Minshall 2010; Wang and Wu 2012). Therefore, understanding the
+different configurations of innovation practices in the OEM,
+ODM, and OBM business models could provide practical guidance to contract manufacturers seeking reinvention
+of their models. Furthermore, examining
+the reconfiguration of innovation practices in the transitions between models also could
+constitute instructions to new entrants on catching up in the new business
 model.
 
 This study focuses on Taiwanese manufacturing sectors as the subject
