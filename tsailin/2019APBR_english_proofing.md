@@ -1,29 +1,29 @@
 The Business Model and Innovation Mix in Transition: Evidence from Taiwanese
 Contract Manufacturers
 
-The successful transition of Taiwanese contract manufacturers is a
-critical case of business model innovation for the latecomers in
-emerging Asia. From original equipment manufacturers (OEM) to original
-brand manufacturers (OBM), the latecomers engage in different innovation
-practices to coordinate with the transition of value proposition on
-specific manufacturing business models. According to the second and
+The successful transition of Taiwanese contract manufacturers from followers to leaders is a
+critical case for the study of business model innovation by latecomers in
+an emerging Asia. From original equipment manufacturers (OEM) to original
+brand manufacturers (OBM), latecomers engage in different innovation
+practices to coordinate with the transition of their value propositions in
+different manufacturing business models. Using data from the second and
 third Taiwanese industrial innovation surveys, we attempt to depict the
-innovation practices under different business models as well as the
-changes in the transition. The results indicate that OEM latecomers have
-lower engagement in all kinds of innovation practices. Still, original
+innovation practices followed in different business models as well as the
+changes in the transition from one model to another. The results indicate that OEM latecomers have
+lower engagement in all kinds of innovation practices, while original
 design manufacturers (ODM) and OBM ones actively engage in
-technological, marketing, and organizational innovation, which follows
-the value proposition in the market. In the transition of the business
-model, OEM latecomers have more organizational changes as the
-preparatory for radical changes on all kinds of innovation practices.
-Moreover, new ODM entrants would have a stiff challenge in enhancing
+technological, marketing, and organizational innovation, according to
+their value propositions in the market. In the retooling of their business
+model, OEM latecomers make more organizational changes as
+preparation for radical changes in all their innovation practices,
+as new ODM entrants face stiff challenges in enhancing
 product innovation and market promotion. Furthermore, new OBM entrants
-would pay more effort to organizational adjustment and the expansion of
-marketing practices. The paper concludes that a business model
-innovation comprises the mix of innovation in production and
-organizational works to follow the value proposition, and the business
-model transition is that the firms would pay the efforts to adjust the
-innovation mix into the new value proposition. Some managerial
+are forced to pay more attention to organizational adjustment and the expansion of
+marketing practices. The paper concludes that business model
+innovation comprises a mix of innovation in the production and
+organizational work required to express a value proposition, and business
+model transition is a consequence of firms making the effort to adjust the
+innovation mix to realize a new value proposition. Some managerial
 implications are suggested.
 
 Keywords: Business model transition; Innovation practices; Manufacturing
