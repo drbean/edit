@@ -74,7 +74,7 @@ Chen 2020; Zott and Amit 2010).
 
 In the course of growth in contract manufacturing, contract manufacturers develop a
 strong desire to upgrade their businesses and catch more market value
-from the existing market (Hobday 1998). With the repositioning of their value
+from the existing market (Hobday 1998). But with the repositioning of their value
 propositions in the production network, contract manufacturers have to
 reconfigure their innovation practices when they are making changes to their
 business models (Matthyssens, Vandenbempt, and Weyns 2009; Kuo and
