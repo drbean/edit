@@ -49,26 +49,26 @@ value proposition reinventing in the existing market when they change
 their business models (Johnson, Christensen, and Kagermann 2008; Teece
 2010; Amit and Zott 2012).
 
-In the manufacturing sectors, vertical specialization increasingly
-dominated world trade to encourage the firms to take a specific role in
+In the manufacturing sector, vertical specialization has increasingly
+dominated world trade, encouraging firms to take specific roles in
 the value chains of the global production network (Hummels, Ishii, and
-Yi 2001; Hummels, Rapoport, and Yi 1998). Therefore, vertical
-specialization gives them opportunities that contract manufacturers in
-late-coming countries develop a specific business model to participate
-in the competition on the existing market (Jacobides, MacDuffie, and Tae
-2016). By the value proposition of the business model, contract
-manufacturers develop their business activities to create added values
-on the production network from R&D, manufacturing, and marketing works
+Yi 2001; Hummels, Rapoport, and Yi 1998). Vertical
+specialization gives contract manufacturers in
+late-coming countries the opportunity to develop a specific business model and participate
+in competition in the existing market (Jacobides, MacDuffie, and Tae
+2016). Through the value propositions of their business models, contract
+manufacturers develop their business activities and create added value
+on the production network by means of R&D, manufacturing, and marketing work
 (Feng-Hsu, Heng-Yih, and Ting-Ling 2008; Jacobides, MacDuffie, and Tae
-2016). For sustaining the advantage in the production network, contract
-manufacturers rely upon keeping create sufficient added values in the
+2016). To sustain an advantage in the production network, contract
+manufacturers rely upon continuing to create sufficient added value in the
 existing market through the engagement of different innovation practices
-under their business model, such as product innovation, process
+of their business model, including product innovation, process
 innovation, and marketing innovation (Kuo and Minshall 2010; Chu 2009;
 Hobday 1998; Matthyssens, Vandenbempt, and Weyns 2009). Furthermore,
 contract manufacturers also need to engage in active organizational
-management to run the business model for coordinating internal business
-activities as well as external relationships with the customers,
+management as part of their business model in order to coordinate internal business
+activities as well as establish external relationships with their customers,
 vendors, and suppliers (Carayannis, Sindakis, and Walter 2015; Wang and
 Chen 2020; Zott and Amit 2010).
 
