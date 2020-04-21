@@ -86,23 +86,23 @@ the reconfiguration of innovation practices in the transitions between models al
 constitute instructions to new entrants on catching up in the new business
 model.
 
-This study focuses on Taiwanese manufacturing sectors as the subject
-since Taiwan is a typical latecomer to develop the business of
-contracted manufacturing and lots of Taiwanese manufacturers have
-developed the well-run business model in OEM, ODM, and OBM through the
-transition of business models (Chu 2009; Kuo and Minshall 2010; Hobday
-1998). Through a large scale of the survey in Taiwan manufacturing
-sectors, we provide detailed observation on the innovation practices
-under the models of OEM, ODM, OBM. Furthermore, we also examine the
-reconfiguration of innovation practices in the transition. In the next
-section, this paper would like to discuss the business model innovation
-in the manufacturing sectors and the mix of innovation practices on the
-models in OEM, ODM, and OBM. In the methodology, it would provide more
-information on data collection, variables compilation, and analytical
-method. In the results, the paper would show a comprehensive Taiwanese
-case in the business model transition for contract manufacturers. In the
-final, we would discuss the findings with the prior studies and provide
-an insightful conclusion and the implications for research and the
+This study focuses on the Taiwanese manufacturing sector as its subject
+since Taiwan, as a latecomer, is typical in the way the business of
+contracted manufacturing has changed there. Many Taiwanese manufacturers have
+developed well-run OEM, ODM, and OBM business models and many have
+transitioned through one or more of these business models (Chu 2009; Kuo and Minshall 2010; Hobday
+1998). Using a large-scale survey of the Taiwan manufacturing
+sector, we provide detailed observations of the innovation practices
+followed under the OEM, ODM, OBM models there. Furthermore, we also examine the
+reconfiguration of innovation practices in the transition from one model to another. In the next
+section, this paper will discuss business model innovation
+in the manufacturing sector and the mix of innovation practices in
+ OEM, ODM, and OBM models. In the methodology section, we will provide more
+information on data collection, variable compilation, and analytical
+method. In the results section, the paper will show a comprehensive Taiwanese
+case in business model transition for contract manufacturers. In the
+final section, we will discuss the findings in light of the results of prior studies, seek to provide
+an insightful conclusion and develop the implications for research and business
 practices.
 
 Business model innovation in manufacturing sectors: Contract Manufacturing in OEM, ODM, OBM
