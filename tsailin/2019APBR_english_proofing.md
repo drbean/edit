@@ -166,8 +166,8 @@ the technological capabilities of ODM firms to help their customers
 provide innovative products in the market (Tiong et al. 2010; Wang and
 Wu 2012; Hobday, Rush, and Bessant 2004). For OBM latecomers, new
 entrants in an existing market, they do not want only to expand their
-marketing innovation efforts to compete with incumbent firms but also to
-strengthen product innovation and process innovation to gain an
+marketing innovation efforts to compete with incumbent firms. They also seek to
+strengthen product innovation and process innovation and thus gain an
 advantage for their products in technological development and manufacturing
 (Eng 2009; Chu 2009).
 
