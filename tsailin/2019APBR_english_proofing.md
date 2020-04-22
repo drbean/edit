@@ -108,29 +108,29 @@ practices.
 Business model innovation in manufacturing sectors: Contract Manufacturing in OEM, ODM, OBM
 ===========================================================================================
 
-By the vertical specialization of the global production network, the
+With the vertical specialization of global production networks, the
 business of contract manufacturing has become a new opportunity for
 latecomers in the existing market (Hummels, Ishii, and Yi 2001; Hummels,
-Rapoport, and Yi 1998). The new business opportunity triggers business
-model innovation in manufacturing sectors, in which the works of the
-value chains cut into specific but interconnected business models to the
-firms (Matthyssens, Vandenbempt, and Weyns 2009; Hobday 1998). The
-business model describes the way of firms to do the business, which is
-consist of value proposition, business activities, and organizational
+Rapoport, and Yi 1998). This new business opportunity triggers business
+model innovation in the manufacturing sector, in which the work of the
+value chains cuts into the specific but interconnected business models of the
+firms involved (Matthyssens, Vandenbempt, and Weyns 2009; Hobday 1998). A
+business model describes the way firms do business, and
+consists of value propositions, business activities, and organizational
 management (Amit and Zott 2012; Zott and Amit 2010). Contract
-manufacturing encourages and re-assigns the new business models in
-manufacturing production works into the original equipment manufacturing
+manufacturing encourages and re-assigns the new business models followed in
+manufacturing production work into the original equipment manufacturing
 (OEM), the original design manufacturing (ODM), and the own-brand
-manufacturing (OBM). OEM firms refer that the latecomers produce
-finished goods on precise specifications which subcontracted by the
+manufacturing (OBM) types. OEM firms are those where latecomers produce
+finished goods to precise specifications under subcontract with
 designers or brand companies (Chin, Liu, and Yang 2016; Hobday 1998).
-ODM firms apply that latecomers develop or co-develop for the
-outsourcers and provide the finished goods which the brand outsourcers
-sold (Hobday 1998; Bijarboneh 2015). OBM firms refer that the latecomers
-design, produce, and sell the finished goods in their own-rand name as
-new entrants in the existing market (Luo 2011; Kuo and Minshall 2010).
+ODM firms are ones where latecomers develop or co-develop for
+outsourcers and provide finished goods which the brand outsourcers
+sell (Hobday 1998; Bijarboneh 2015). An OBM firm is a latecomer that
+designs, produces, and sell its finished goods under its own-brand name as
+a new entrant in the existing market (Luo 2011; Kuo and Minshall 2010).
 These business models have defined the general operation of latecomers
-as a specialized manufacturer in the production network of the value
+as specialized manufacturers in the production networks of value
 chains.
 
 On the value proposition for the customers, OEM latecomers posit their
