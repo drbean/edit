@@ -241,17 +241,17 @@ growth. Euchner and Ganguly (2014) mention that incumbent firms should
 redefine their value proposition to guide them in the shift of business
 activities for the purpose of new value creation. Carayannis, Sindakis, and Walter
 (2015) indicate that incumbent firms should cultivate an active internal
-organizational management to incorporate in business activities in order to
-sustain innovation practices in their market. Furthermore, dynamic
-governance of external partnerships to enrich the firm\'s performance
-for implementing new business opportunities when they intend to transit
-their business model. Above all, if a contract manufacturer wants to
-upgrade its business model, it needs a clear pattern of the model to
-reconfigure their business activities followed the reposition of the
+organizational management that they incorporate in business activities in order to
+sustain innovation practices in the market. Furthermore, dynamic
+governance of external partnerships will enrich the firm\'s ability
+to make the most of new business opportunities during transitions to a
+different business model. Above all, if a contract manufacturer wants to
+upgrade its business model, it needs a clear understanding of the patterns of the model as
+it reconfigures its business activities following the repositioning of its
 value proposition. Also, competence building and leveraging through the
-reconfiguration of innovation practices would enhance the organizational
-sustainability in the market to catch up on the new business model and
-compete with other incumbent competitors.
+reconfiguration of innovation practices will enhance its organizational
+sustainability in the market as it comes up to speed in the new business model and
+competes with other incumbent competitors.
 
 Empirical examination in Taiwanese Manufacturing Sectors
 ========================================================
