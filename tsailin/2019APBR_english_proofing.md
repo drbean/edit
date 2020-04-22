@@ -133,42 +133,42 @@ These business models have defined the general operation of latecomers
 as specialized manufacturers in the production networks of value
 chains.
 
-On the value proposition for the customers, OEM latecomers posit their
-value on providing the contracted manufacturing with the advantage of
+As for value proposition for their customers, OEM latecomers posit their
+value on providing the contracted manufacturing with advantages in
 cost, speed, and reliability (Chin, Liu, and Yang 2016; Jacobides,
 MacDuffie, and Tae 2016). ODM latecomers provide customized product
-development and contract manufacturing with the coordination of the
+development and contract manufacturing, along with the coordination of
 marketing strategy to brand subcontractors (Bijarboneh 2015; Lee, Song,
 and Kwak 2015). OBM latecomers sell innovative products to promote the
-utilization of customers (Chu 2009; Feng-Hsu, Heng-Yih, and Ting-Ling
-2008). On the business activities, the latecomers configure their works
-through the position of production works on the value chains, including
-R&D, manufacturing, marketing works (Chu 2009; Manzakoğlu and Er 2018).
-Besides, for sustaining the competitive advantage in their business, the
-latecomers would engage different activities of value creation in
-production works. In R&D works, the engagement of product innovation
-enhances that the latecomers introduce a new product into the market
-(Huang, Chung, and Lin 2009; Wang and Wu 2012). In manufacturing works,
-the latecomers invest in process innovation to support the production of
-new products (Snihur and Wiklund 2019). In marketing works, latecomers
+utilization scenarios of customers (Chu 2009; Feng-Hsu, Heng-Yih, and Ting-Ling
+2008). As for business activities, latecomers configure their work
+through the position of their production work on their value chains, including
+by means of R&D, manufacturing and marketing (Chu 2009; Manzakoğlu and Er 2018).
+In addition, to sustain a competitive advantage in their business,
+latecomers will engage in different forms of value creation in their
+production work. In R&D work, the engagement of product innovation
+enhances the ability of latecomers to introduce a new product into the market
+(Huang, Chung, and Lin 2009; Wang and Wu 2012). In manufacturing work,
+latecomers invest in process innovation to support the production of
+new products (Snihur and Wiklund 2019). In marketing work, latecomers
 promote sales in the market through innovative marketing strategies (Eng
 and Spickett-Jones 2009; Matthyssens, Vandenbempt, and Weyns 2009). For
-OEM latecomers, they focus on the manufacturing works to meet the
-request of outsourcers on cost, speed, and reliability, which they need
-a stable and incremental improvement (Chin, Liu, and Yang 2016;
-Bijarboneh 2015). In other words, the innovation in the process of
-manufacturing would be the core in the business activities of OEM firms
+OEM latecomers, the focus is on manufacturing work to meet the
+cost, speed, and reliability requests of outsourcers, which they can expect to become greater in
+a stable and incremental manner (Chin, Liu, and Yang 2016;
+Bijarboneh 2015). In other words, innovation in the process of
+manufacturing will be at the core of the business activities of OEM firms
 (Forbes and Wield 2008; Hobday, Rush, and Bessant 2004). For ODM
-latecomers, they mainly engage in R&D and manufacturing works to provide
-contract designing and manufacturing for brand outsourcers. The
+latecomers, their main focus is on R&D and manufacturing to provide
+contract designing and manufacturing work for brand outsourcers. The
 interconnection of product innovation and process innovation promotes
 the technological capabilities of ODM firms to help their customers
 provide innovative products in the market (Tiong et al. 2010; Wang and
-Wu 2012; Hobday, Rush, and Bessant 2004). For OBM latecomers, the new
-entrant of the existing market, they do not want only to expand their
-marketing innovation to compete with the incumbent firms but also to
-strengthen product innovation and process innovation to gain the
-advantage of products in technological development and manufacturing
+Wu 2012; Hobday, Rush, and Bessant 2004). For OBM latecomers, new
+entrants in an existing market, they do not want only to expand their
+marketing innovation efforts to compete with incumbent firms but also to
+strengthen product innovation and process innovation to gain an
+advantage for their products in technological development and manufacturing
 (Eng 2009; Chu 2009).
 
 In the business model of a firm, organizational management plays a
