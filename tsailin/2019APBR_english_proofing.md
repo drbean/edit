@@ -223,9 +223,9 @@ OEM, ODM, and OBM
 
 As can be seen from the summary of business models in contract manufacturing in
 Table 1, the three models of contract manufacturers demonstrate
-different configurations for doing business in existing markets. When
+differences in the configuration required to do business in existing markets. At the same time, when
 latecomers want to upgrade their business models, they face many
-challenges in the transition that are the same as those that most
+common challenges in the transition that are the same as those that most
 incumbent firms encounter. Chesbrough (2010) considers that
 incumbent firms may encounter a tension between the configuration of
 their existing business model and the reconfiguration required by the new business
