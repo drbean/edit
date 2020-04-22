@@ -171,36 +171,36 @@ strengthen product innovation and process innovation and thus gain an
 advantage for their products in technological development and manufacturing
 (Eng 2009; Chu 2009).
 
-In the business model of a firm, organizational management plays a
-coordination role to moderate the business activities and the firm's
+Whatever the business model of a firm, organizational management plays a
+coordination role, moderating the firm's business activities and its
 performance (Wang and Chen 2020; Carayannis, Sindakis, and Walter 2015;
-Teece 2010). In the internal, the lines of managerial authority and
-organizational structures determine the organizational efficiency and
-the reaction to the changes in business activities (Taran, Boer, and
-Lindgren 2015; Teece 2010). In the external, partnership in contract
-manufacturing has dominated the interconnection with specific suppliers
-in the value chain to aggregate the value creation to promote the
+Teece 2010). Internally, the lines of managerial authority and
+organizational structures determine organizational efficiency and
+the reaction to changes in business activities (Taran, Boer, and
+Lindgren 2015; Teece 2010). Externally, partnerships in contract
+manufacturing have dominated the interconnections of latecomers with specific suppliers
+in the value chain to create aggregate value and promote the
 customer's value in the market (Eng and Spickett-Jones 2009; Sánchez and
-Ricart 2010). In the internal of organizational management, latecomers
-would follow their core business as the rules of organizational
-management. OEM latecomers would adapt the structures to follow
-manufacturing processes, and it would promote the efficiency of
-production (Chen 2016). ODM latecomers would combine product and
-manufacturing line in organizational management to enhance the contract
-product development (Ma 2005; Yung and Lai 2012). OBM latecomers would
-restructure to product-market organizational management, and it is
-beneficial to respond to the needs of the customers quickly (Eng and
-Spickett-Jones 2009; Eng 2009). In the external of organizational
-management, the partnership in outsourcing contracts is the core of
-external relationship management on contract manufacturing. OEM
-latecomers need a stable and long-term relationship with the suppliers
-of components to support manufacturing activities (Jacobides, MacDuffie,
+Ricart 2010). Internally, in organizational management, latecomers
+will follow their core business as determining the rules of organizational
+management. OEM latecomers will adapt their structures to accommodate
+manufacturing processes, and promote the efficiency of
+production (Chen 2016). ODM latecomers will combine product and
+manufacturing lines in organizational management to enhance their contract
+product development (Ma 2005; Yung and Lai 2012). OBM latecomers will
+restructure to promote product-market organizational management, as this is
+beneficial to responding to the needs of the customers quickly (Eng and
+Spickett-Jones 2009; Eng 2009). Externally, in the aspect of organizational
+management, partnerships in outsourcing contracts are at the core of
+external relationship management in contract manufacturing. OEM
+latecomers need a stable and long-term relationship with suppliers
+of their components to support their manufacturing activities (Jacobides, MacDuffie,
 and Tae 2016; Szalkai and Magyar 2017). ODM latecomers may need to
 manage the relationships with module partners, OEM partners, and
-suppliers, and adjust the outsourcing by the request of contract product
-development (Yung and Lai 2012). OBM latecomers would transform the role
-from a subcontractor to an outsourcer, which strategically outsources
-the production works to external partners (Chin, Liu, and Yang 2016; Chu
+suppliers, and adjust the outsourcing according to the demands of contract product
+development (Yung and Lai 2012). OBM latecomers will undergo transformation of their roles
+from subcontractor to outsourcer, strategically outsourcing
+their production work to external partners (Chin, Liu, and Yang 2016; Chu
 2009).
 
 Table. 1 Business models and innovation mix in contract manufacturers:
