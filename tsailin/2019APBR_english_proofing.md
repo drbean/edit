@@ -221,28 +221,28 @@ OEM, ODM, and OBM
   Internal structure                       Structuring follow the manufacturing processes                              Structuring follow the product development                  Structuring follow the product -market segments
   External partnership                     Suppliers, Module partners                                                  Suppliers, OEM partners, and Module partners                Suppliers, OEM, ODM partners, and Module partners, vendors
 
-According to the summary of business models in contract manufacturing in
+As can be seen from the summary of business models in contract manufacturing in
 Table 1, the three models of contract manufacturers demonstrate
-different configurations to do the business in the existing market. When
-latecomers want to upgrade their business model, they will face many
-challenges in the transition of the business model as same as most of
-the incumbent firms would encounter. Chesbrough (2010) considers that
-incumbent firms may encounter the tension between the configuration of
-the existing business model and the reconfiguration of the new business
-model. Teece (2010) argues that the incumbent firms have to recognize
-business activities in the value chains and implement the innovation
-practices in business activities to create new competitive advantage in
-the existing market when they re-design their business model. Koen,
+different configurations for doing business in existing markets. When
+latecomers want to upgrade their business models, they face many
+challenges in the transition that are the same as those that most
+incumbent firms encounter. Chesbrough (2010) considers that
+incumbent firms may encounter a tension between the configuration of
+their existing business model and the reconfiguration required by the new business
+model. Teece (2010) argues that incumbent firms have to recognize
+business activities in their value chains and to implement innovation
+practices in their business activities to create a new competitive advantage in
+the existing market when they re-design their business models. Koen,
 Bertels, and Elsum (2011) think that incumbent firms have to organize a
-new value network to interconnect between the value creation of internal
-business activities and the works of the upstream and downstream of
-partners when they seek a new business model in the existing market for
+new value network to interconnect the value creation of their internal
+business activities and the work of their upstream and downstream
+partners when they seek a new business model in an existing market to pursue
 growth. Euchner and Ganguly (2014) mention that incumbent firms should
-redefine the value proposition to leads them to shift business
-activities for new value creation. Carayannis, Sindakis, and Walter
-(2015) indicate that incumbent firms should have an active internal
-organizational management to incorporate with business activities for
-sustaining the innovation practices in the market. Furthermore, dynamic
+redefine their value proposition to guide them in the shift of business
+activities for the purpose of new value creation. Carayannis, Sindakis, and Walter
+(2015) indicate that incumbent firms should cultivate an active internal
+organizational management to incorporate in business activities in order to
+sustain innovation practices in their market. Furthermore, dynamic
 governance of external partnerships to enrich the firm\'s performance
 for implementing new business opportunities when they intend to transit
 their business model. Above all, if a contract manufacturer wants to
