@@ -327,7 +327,7 @@ for marketing channels, and for promotion in the market selling its products
 to its customers. For organizational innovation, we compile two
 variables to measure internal changes in a firm, *Authority Realignment*
 and *Organization Restructuring*, assessing the extent to which revision of
-managerial authority and organizational structure of the firm took places. In addition,
+managerial authority and organizational structure of the firm took place. In addition,
 we also compile a variable, *Outsourcing Re-assignment*, which examines
 changes in a firm's external outsourcing relationship with
 its suppliers and customers.
