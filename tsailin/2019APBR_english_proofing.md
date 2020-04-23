@@ -259,23 +259,23 @@ Empirical examination in Taiwanese Manufacturing Sectors
 Manufacturing sectors in Taiwan
 -------------------------------
 
-In the investigation of contract manufacturing in Taiwan, this paper
-summarizes the data about the manufacturing sectors in Table 2 from
-Industry and Service Census in Taiwan, which surveys every five years
-(DGBAS 2008, 2013, 2019). From 2006 to 2016, The size of Taiwanese
-manufacturing sectors increased from 147,908 to 161,334 firms. The OBM
-firms had substantial growth from 8,878 firms in 2006 to 13,797 firms in
-2011. It indicated it is a critical period in the five years which many
-firms transited their business model into OBM. On the production of
-manufacturing sectors, the total sales of goods also have a steady
-growth from 18,412 NT billion in 2006 to 25,175 NT billion in 2011. It
-has almost 24 % of total sales from new products. On the development of
-OBM business, the share of OBM sales in the overall sales is more than
-22%, and it indicated OBM firms have less 10% share of the total firms,
-but their revenue may be more than other non-OBM firms. Furthermore,
-offshore sales in OBM firms have been increasing from 2,076 NT billion
-in 2006 to 3,580 NT billion in 2011, and it indicated that OBM firms in
-Taiwan have a steady growth in the foreign market.
+To establish a context for the paper's investigation of contract manufacturing in Taiwan, we 
+summarize data in Table 2 about the manufacturing sector from
+the Industry and Service Census in Taiwan, a survey by the Taiwanese government carried out every five years
+(DGBAS 2008, 2013, 2019). From 2006 to 2016, the size of the Taiwanese
+manufacturing sector increased significantly, the number of firms rising from 147,908 to 161,334. OBM
+model representatives had substantial growth from 8,878 firms in 2006 to 13,797 firms in
+2011, indicating the five-year period was a critical one with many
+firms making the transition to the OBM model. As for production by the
+sector, total sales of goods also saw steady
+growth from 18,412 NT billion in 2006 to 25,175 NT billion in 2011. 
+Almost 24% of total sales was from new products. Sales by
+OBM businesses took a more than
+22% share of total sales, even though they represented less than 10% of the total number of firms,
+indicating their revenue was probably more than non-OBM firms. Furthermore,
+offshore sales of OBM firms increased from 2,076 NT billion
+in 2006 to 3,580 NT billion in 2011, indicating that OBM firms in
+Taiwan enjoyed a steady growth in foreign markets.
 
 Table. 2 The development of Taiwanese manufacturing sectors and OBM
 business.
