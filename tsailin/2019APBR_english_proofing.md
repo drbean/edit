@@ -315,22 +315,22 @@ and 1,223 OBM firms in TIS3.
 Variables compilation
 ---------------------
 
-On the compilation of variables, it compilated separately from TIS2 and
-TIS3. All variables in the studies are nominal or dummy variables. For
-the engagement of innovation practices, we compile *Product Innovation*
-and *Process Innovation*, which concerns these firms have engaged in new
-product development and reinventing the manufacturing process. On the
-marketing innovation, we gather *Product Design*, *Channel
-Distribution*, and *Marketing Promotion* to the inquiry that the firms
-have engaged in the changes of marketing strategies on product design,
-marketing channels, and promotion in the market for selling the products
-to the customers. On the organizational innovation, we compile two
-variables for the internal changes of the firms, *Authority Realignment*
-and *Organization Restructuring*, which investigate the revisions on the
-managerial authority and organizational structure of the firms. Besides,
+In the compilation of variables, values are assigned to variables separately in TIS2 and
+TIS3. All variables in the study are nominal or dummy variables. For
+engagement in innovation (innovation practices), we compile *Product Innovation*
+and *Process Innovation* variables, measures of whether a firm engaged in new
+product development and in reworking of the manufacturing process. To measure
+marketing innovation, we assigned to *Product Design*, *Channel
+Distribution*, and *Marketing Promotion* variables, depending on whether a firm
+engaged in changes to its marketing strategies for product design,
+for marketing channels, and for promotion in the market selling its products
+to its customers. For organizational innovation, we compile two
+variables to measure internal changes in a firm, *Authority Realignment*
+and *Organization Restructuring*, assessing the extent to which revision of
+managerial authority and organizational structure of the firm took places. In addition,
 we also compile a variable, *Outsourcing Re-assignment*, which examines
-the change of the firms on the external outsourcing relationship with
-the suppliers and the customers.
+changes in a firm's external outsourcing relationship with
+its suppliers and customers.
 
 For the business models of contract manufacturing, we compile a sole
 model to the firms by *OEM*, *ODM*, and *OBM*. On the transition of the
