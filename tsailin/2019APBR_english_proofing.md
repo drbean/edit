@@ -376,17 +376,17 @@ decide to employ the data of TIS3 as the observation. Then, we use
 logistic regression to investigate the configuration of innovation
 practices of the firms under the models of OEM, ODM, and OBM.
 
-Secondly, we want to examine the reconfiguration in the business model
-upgrading. To observe the changes in the transition, we concentrate on
-1,319 firms which both listed in TIS2 and TI3. For examining the changes
-before the transition, we cut the TIS2 data into the sub-datasets of OEM
-firms and ODM firms. We employ the models of logistic regression in
-which OEM transition and ODM transition are the independent variables
+Secondly, we want to examine the reconfiguration that takes place in business model
+upgrading. To observe the changes in the transition, we take the
+1,319 firms which were both listed in TIS2 and TI3. To examine the changes
+before the transition, we cut the TIS2 data into two sub-datasets of just OEM
+firms and ODM firms. We employ the models of logistic regression and
+take OEM transition and ODM transition as the independent variables
 that may influence the innovation practices of the firms. Following the
-same logic on the examination in the changes after the transition, we
-cut the TIS3 data into the sub-datasets of ODM firms and OBM firms and
-employ the logistic regression to analyze which ODM entrant and OBM
-entrant are the independent variables. For post hoc analysis, we employ
+same logic in the examination in the changes after the transition, we
+cut the TIS3 data into two sub-datasets of just ODM firms and OBM firms and
+employ logistic regression to analyze the effects of ODM entrant and OBM
+entrant as the independent variables. For post hoc analysis, we employ
 ANOVA to validate the results.
 
 Results
