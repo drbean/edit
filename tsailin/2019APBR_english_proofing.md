@@ -346,32 +346,32 @@ but OEM in TIS2 and 0 representing other ODM firms in TIS3, and we skip
 all non-ODM firms. Similarly, we compile an *OBM Entrant* variable in TIS3 for the
 upgraded OEM and ODM firms.
 
-On the control, we control the characteristics of the firms as the
-factors to the engagement of innovation practices. The industrial
-affiliation of *Hitech*, which compiled with the industrial code of the
-firms associated with the two-digital code of the Hi-tech industry in
-20, 26, and 27, and 1 means the firm is a Hi-tech firm. The size of
-firms is compiled by *SME*, which 1 means that the firms have more than
-200 people. The geography of the market of the firms is organized with
-the *Domestic*, which 1 means that the firms have no sale in other
-countries. The primary client of the firm is compiled with the *B2C*,
-which 1 means that the primary client of the firm is the end-user.
+As supporting variables, we measure characteristics of a firm that may be
+factors in the employment of innovation practices. The industrial
+characteristic of *Hitech* represents the high-tech affiliation of a
+firm with a two-digit code of 
+20, 26, and 27, with 1 meaning the firm is a high-tech firm. The size of
+a firm is represented by *SME*, with 1 meaning that the firm has more than
+200 people. The geography of the market of a firm is coded with
+*Domestic*, where 1 means that the firm has no sales in other
+countries. The primary client of the firm is compiled with *B2C*,
+with 1 meaning that the primary client of the firm is the end-user.
 
 Analytical model
 ----------------
 
 There are two critical investigations in this paper. Firstly, we want to
 investigate the configuration of innovation practices under the OEM,
-ODM, and OBM models. We have two datasets, TIS2 and TIS3 could be
-employed to measure. We use the independent sample test to examine the
-differences in innovation practices in TIS2 and TIS3. The results
-indicated that TIS2 and TIS3 are the two independent sample in product
+ODM, and OBM models. We have two datasets, TIS2 and TIS3 that could be
+employed to do this. To choose which one to analyze, We use the independent sample test to examine the
+differences in innovation practices between TIS2 and TIS3. The results
+indicate that TIS2 and TIS3 are two independent samples in product
 innovation (t=4.381, p\<0.001), process innovation (t=-3.025, p\<0.01),
 product design (t=-.248), channel distribution (t=5.199, p\<0.001),
 marketing promotion (t=.415), authority realignment (t=-9.707,
 p\<0.001), organization restructuring (t=-7.825, p\<0.001), and
-outsourcing re-assignment (t=-6.113, p\<0.001). Therefore, we consider
-the business development of contract manufacturing in Taiwan, and we
+outsourcing re-assignment (t=-6.113, p\<0.001). Therefore, as our interest is in
+the business development of contract manufacturing in Taiwan, we
 decide to employ the data of TIS3 as the observation. Then, we use
 logistic regression to investigate the configuration of innovation
 practices of the firms under the models of OEM, ODM, and OBM.
