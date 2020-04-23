@@ -298,7 +298,7 @@ Data collection
 
 The aim of this study is to investigate the configuration of
 innovation practices in firms following the OEM, ODM, OBM models as well as examine
-their reconfiguration by contract manufacturers undertaking business model
+reconfiguration of those practices by contract manufacturers undertaking business model
 transitions. We employ the Taiwanese
 Industrial Innovation Survey (TIS), a large-scale survey of the industries of Taiwan
 conducted by the Ministry of Science and Technology which is similar to the Community Innovation
