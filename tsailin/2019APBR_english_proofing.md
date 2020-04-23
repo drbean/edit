@@ -458,11 +458,11 @@ of TIS3) is the first choice to the transition of OEM firms. It also
 proves that the OEM-ODM-OBM path may be an essential model for the
 upgrading of the business model for contracted manufacturers.
 
-For investigating the business configuration on the innovation practices
-in contract manufacturing, this study defines the three specific models
-by OEM, ODM, and OBM for contracted manufacturers, and employ the
-logistic regression to examine the influence of these business model on
-the innovation practices of the firms (Table 4). For OEM contracted
+To investigate the effect of innovation-practice configuration
+in contract manufacturing, this study adopted the three specific models
+of OEM, ODM, and OBM, and employed
+logistic regression to examine the influence of these business models on
+the practices of the firms surveyed (Table 4). For OEM contracted
 manufacturers, it indicates no significant engagement in the product
 innovation (β=-.233), process innovation(β=-.049), and marketing
 innovation (*Product Design*, β=.322; *Channel Distribution*, β=.099;
