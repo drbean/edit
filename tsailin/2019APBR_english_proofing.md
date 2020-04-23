@@ -332,18 +332,18 @@ we also compile a variable, *Outsourcing Re-assignment*, which examines
 changes in a firm's external outsourcing relationship with
 its suppliers and customers.
 
-For the business models of contract manufacturing, we compile a sole
-model to the firms by *OEM*, *ODM*, and *OBM*. On the transition of the
-business model, we only gather the variables from the 1,319 firms, which
-both listed in TIS2 and TIS3. On the upgrade of OEM firms, we compile
-*OEM transition* in TIS2, which 1 means that the business model of firms
-is OEM in TIS2, but non-OEM in TIS3 and 0 indicate that the other firms
-stay at OEM in TIS2, and we skip all non-OEM firms. Following the prior
-logic, we compile the *ODM transition* in TIS2 as the upgrade of ODM
-firms. After upgrading the business model, we organize *ODM Entrant* in
-TIS3, which 1 means that the business model of the firms is ODM in TIS3,
-but OEM in TIS2 and 0 represents other ODM firms in TIS3, and we skip
-all non-ODM firms. As before, we compile *OBM Entrant* in TIS3 for the
+For the business model of a contract manufacturer, we assign a sole
+value to the firm in the *OEM*, *ODM*, and *OBM* variables. As for transition from
+one business model to another, we only gather data from the 1,319 firms which were
+both listed in TIS2 and TIS3. For the upgrade of an OEM firm, we compile
+*OEM transition* in TIS2, with 1 meaning that the business model of the firm
+is OEM in TIS2, but non-OEM in TIS3 and 0 indicating that the firm
+stays at OEM in both TIS2 and TIS3, and we skip all non-OEM firms. Following the same
+logic, we compile an *ODM transition* in TIS2 as the upgrade of an ODM
+firm. Concomintant with the upgrading of the business model, we set up *ODM Entrant* in
+TIS3, with 1 meaning that the business model of the firm is ODM in TIS3,
+but OEM in TIS2 and 0 representing other ODM firms in TIS3, and we skip
+all non-ODM firms. Similarly, we compile an *OBM Entrant* variable in TIS3 for the
 upgraded OEM and ODM firms.
 
 On the control, we control the characteristics of the firms as the
