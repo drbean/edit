@@ -395,19 +395,19 @@ Results
 Descriptive statistics
 ----------------------
 
-On the general structure of manufacturing sectors in Taiwan, Hi-tech
-firms share one-fifth to one-fourth of total firms during 2004-2011, and
-SME dominates the form of manufacturers by 89% in TIS2 and 74% in TIS3
-firms. The decrease in the percentage of the domestic market from 0.48
-in TIS2 to 0.31 in TIS3 indicates that the export of manufacturing goods
-has significant shares of the manufacturing business. Low rates on B2C
-(0.25 in TIS2 and 0.21 inTIS3) suggest that most of the manufacturers
-sell their products to other business customers. On the development of
-contract manufacturing, from the two surveys, the total shares of OEM
-and ODM firms, 25% in TIS2, and 42% in TIS3 indicate contract
+A feature of the general structure of the manufacturing sector in Taiwan, high-tech
+firms represent one-fifth to one-fourth of the total number of firms during the 2003-2011 period, and
+SME dominates in size of firms with 89% in TIS2 and 74% in TIS3.
+The decrease in the share of sales held by the domestic market from 48%
+in TIS2 to 31% in TIS3 indicates that the export of manufacturing goods
+continues to acquire greater significance for the sector. Low rates for B2C
+(25% in TIS2 and 21% in TIS3) show that most manufacturers
+sell their products to other business customers. As for the development of
+contract manufacturing evidenced in the two surveys, the combined share of OEM
+and ODM firms of 25% in TIS2 and 42% in TIS3 indicate contract
 manufacturing is the general business model and is increasing in
-manufacturing sectors of Taiwan. The OBM firms are growing in 2006-2010
-from 14% in TIS2 to 34% in TIS3 as consistent as the statistics in the
+the manufacturing sector in Taiwan. The growth in the number of OBM firms over the 2006-2010
+period from 14% in TIS2 to 34% in TIS3 is consistent with the statistics from the
 Industry and Service Census in Taiwan.
 
 Table. 3 Descriptive statistics.
@@ -438,21 +438,21 @@ Table. 3 Descriptive statistics.
 The configuration of innovation practices in OEM, ODM, and OEM Models
 ---------------------------------------------------------------------
 
-On the innovation practices in manufacturing sectors, product innovation
+Results for the innovation practices in the manufacturing sector for nominal variable means for product innovation
 (0.25 in TIS2 and 0.21 in TIS3) and process innovation (0.22 in TIS2 and
-0.25 in TIS3) have more manufacturers to engage. In the marketing
-innovation, product design (0.16 in TIS2 and TIS3) is a significant
-activity associated with the market for manufacturing firms. On the
-organizational innovation by business development, the frequency of
-internal changes is more than the adjustment of external partnership.
-The engagement in organizational changes has been increasing during
-2006-2010, such as the increase of Authority Realignment from 0.18 in
-TIS2 to 0.27 in TIS3, the rise of Organization Restructuring from 0.18
-in TIS2 to 0.25 in TIS3, and the increase of Outsourcing Re-assignment
-from 0.12 in TIS2 to 0.16 in TIS3. On the transition of a contract
-manufacturer, OEM firms (0.17 in OEM firms of TIS2) seem to have more
-motivation to upgrade their business model more than ODM firms (0.05 in
-ODM firms of TIS2). However, not all of OEM firms would upgrade their
+0.25 in TIS3) show more manufacturers have yet to engage. In marketing
+innovation, product design (0.16 in TIS2 and TIS3) was a significant
+activity associated with the market for manufacturing firms. In
+organizational innovation for business development, the frequency of
+internal changes was greater than that for the adjustment of external partnerships.
+The engagement in organizational changes increased during
+the 2006-2010 period, with an increase of Authority Realignment from 0.18 in
+TIS2 to 0.27 in TIS3, a rise of Organization Restructuring from 0.18
+in TIS2 to 0.25 in TIS3, and an increase of Outsourcing Re-assignment
+from 0.12 in TIS2 to 0.16 in TIS3. In business model transitions by contract
+manufacturers, OEM firms (17% of the OEM firms of TIS2) seem to have had more
+motivation to upgrade their OEM business model than ODM firms (5% of the
+ODM firms of TIS2) had to upgrade theirs. However, not all of OEM firms would upgrade their
 business to OBM (0.04 in OBM firms of TIS3), and ODM (0.05 in ODM firms
 of TIS3) is the first choice to the transition of OEM firms. It also
 proves that the OEM-ODM-OBM path may be an essential model for the
