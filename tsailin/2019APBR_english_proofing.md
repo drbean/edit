@@ -382,7 +382,7 @@ upgrading. To observe the changes in the transition, we take the
 before the transition, we cut the TIS2 data into two sub-datasets of just OEM
 firms and ODM firms. We employ the models of logistic regression and
 take OEM transition and ODM transition as the independent variables
-that may influence the innovation practices of the firms. Following the
+which may influence the innovation practices of the firms. Following the
 same logic in the examination in the changes after the transition, we
 cut the TIS3 data into two sub-datasets of just ODM firms and OBM firms and
 employ logistic regression to analyze the effects of ODM entrant and OBM
