@@ -301,7 +301,7 @@ innovation practices in firms following the OEM, ODM, OBM models as well as exam
 reconfiguration of those practices by contract manufacturers undertaking business model
 transitions. We employ the Taiwanese
 Industrial Innovation Survey (TIS), a large-scale survey of the industries of Taiwan
-conducted by the Ministry of Science and Technology which is similar to the Community Innovation
+conducted by the Ministry of Science and Technology, which is similar to the Community Innovation
 Survey (CIS) in Europe. Collecting data, we collated responses
 in the second survey in 2004-2006 (TIS2) and the third survey in
 2007-2010 (TIS3) (Wu 2009, 2013). After removing responses from
