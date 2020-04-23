@@ -296,21 +296,21 @@ business.
 Data collection
 ---------------
 
-This study would provide the investigation on the configuration of
-innovation practices in OEM, ODM, OBM models as well as the examination
-of the reconfiguration of contract manufacturers in business model
-transition. We employ a large-scale survey in the industries of Taiwan
-conducted by the Ministry of Science and Technology, Taiwanese
-Industrial Innovation Survey (TIS), as like the Community Innovation
-Survey (CIS) in Europe. On the data collection, we collected the data
-from the second survey in 2004-2006 (TIS2) and the third survey in
-2007-2010 (TIS3) (Wu 2009, 2013). After removing the respondents from
-non-manufacturing firms, there are 3,944 valid questionnaires in TIS2
-and 3,838 ones in TIS3. Moreover, 1,319 manufacturing firms have listed
-the surveys both in TIS2 and TIS3. Furthermore, we identified the
-business models of the firms, and there are 427 OEM firms, 543 ODM
-firms, 562 OBM firms in TIS2. There are 699 OEM firms, 816 ODM firms,
-1,223 OBM firms in TIS3.
+The aim of this study is to investigate the configuration of
+innovation practices in firms following the OEM, ODM, OBM models as well as examine
+their reconfiguration by contract manufacturers undertaking business model
+transitions. We employ the Taiwanese
+Industrial Innovation Survey (TIS), a large-scale survey of the industries of Taiwan
+conducted by the Ministry of Science and Technology which is similar to the Community Innovation
+Survey (CIS) in Europe. Collecting data, we collated responses
+in the second survey in 2004-2006 (TIS2) and the third survey in
+2007-2010 (TIS3) (Wu 2009, 2013). After removing responses from
+non-manufacturing firms, there remained 3,944 valid questionnaires in TIS2
+and 3,838 in TIS3. Moreover, 1,319 manufacturing firms were listed
+in both the TIS2 and TIS3 surveys. Furthermore, we identified the
+business models of the firms. There were 427 OEM firms, 543 ODM
+firms, and 562 OBM firms in TIS2. There were 699 OEM firms, 816 ODM firms,
+and 1,223 OBM firms in TIS3.
 
 Variables compilation
 ---------------------
