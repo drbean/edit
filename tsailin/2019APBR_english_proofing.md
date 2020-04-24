@@ -1027,16 +1027,16 @@ transition.
 The reconfiguration of innovation practices after the upgrade of the business model in contract manufacturers
 -------------------------------------------------------------------------------------------------------------
 
-In the transition of the business model, the new entrant would pay the
-efforts in building the new business activities and reconfigure their
-production works in the value chains to compete with the incumbent firms
-in the market. By examining the changes in innovation practices between
-new entrant and incumbent firms, it provides the understanding which new
-entrants pay apparent efforts to catch up on the new business as well as
-encounter the challenges in the new business. As a new entrant of ODM
-business, the firms may have significantly insufficient engagement in
+After transition to the next business model, the new entrant will make
+efforts to build new business activities and reconfigure its
+production work in its value chains to compete with incumbent firms
+in the market. Examining the differences in the innovation practices of
+new entrant and of incumbent firms provides an opportunity to understand what apparent efforts new
+entrants are making to catch up with established practices of the new business model as well as
+cope with new challenges. However, we see new entrants into the ODM
+business ranks may have significantly insufficient engagement in
 product innovation (β=-.856, p\<0.10) and marketing promotion (β=-1.890,
-p\<0.10) than incumbent firms (Table 9).
+p\<0.10), in comparison with incumbent firms (Table 9).
 
 Table. 9 Reconfiguration of innovation practices by ODM new entrants
 
