@@ -440,7 +440,7 @@ The configuration of innovation practices in OEM, ODM, and OEM Models
 
 Results for the innovation practices in the manufacturing sector for nominal variable means for product innovation
 (0.25 in TIS2 and 0.21 in TIS3) and process innovation (0.22 in TIS2 and
-0.25 in TIS3) show more manufacturers have yet to engage. In marketing
+0.25 in TIS3) show more manufacturers have yet to engage in innovative practices. In marketing
 innovation, product design (0.16 in TIS2 and TIS3) was a significant
 activity associated with the market for manufacturing firms. In
 organizational innovation for business development, the frequency of
@@ -452,11 +452,11 @@ in TIS2 to 0.25 in TIS3, and an increase of Outsourcing Re-assignment
 from 0.12 in TIS2 to 0.16 in TIS3. In business model transitions by contract
 manufacturers, OEM firms (17% of the OEM firms of TIS2) seem to have had more
 motivation to upgrade their OEM business model than ODM firms (5% of the
-ODM firms of TIS2) had to upgrade theirs. However, not all of OEM firms would upgrade their
-business to OBM (0.04 in OBM firms of TIS3), and ODM (0.05 in ODM firms
-of TIS3) is the first choice to the transition of OEM firms. It also
-proves that the OEM-ODM-OBM path may be an essential model for the
-upgrading of the business model for contracted manufacturers.
+ODM firms of TIS2) had to upgrade theirs. At the same time, not all OEM firms will have upgraded their
+business models to OBM, seeing that only 4% of the OBM firms of TIS3 were upgrading. ODM is the first-choice transition of OEM firms, with 5% of the ODM firms
+of TIS3 having been OEM firms. This
+suggests that time as an ODM on the OEM-ODM-OBM path may be an essential step in the
+upgrading of the business model of contracted manufacturers.
 
 To investigate the effect of innovation-practice configuration
 in contract manufacturing, this study adopted the three specific models
