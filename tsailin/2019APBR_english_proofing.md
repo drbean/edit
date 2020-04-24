@@ -1269,21 +1269,21 @@ business models explains the contract manufacturers' attempts to create value an
 to promote their competitive
 advantage in the market.
 
-As an entry mode of contract manufacturing, we find that OEM firms have
-lower engagement in the innovation of production works as well as fewer
+We find that OEM firms, as entry-level participants in contract manufacturing, have
+lower engagement in the innovation of production work, at the same time as they make fewer
 changes in organizational management. In the OEM model, to sustain
-excellent manufacturing efficiency is the core business of the firms,
-and to avoid the changes to keep cost advantage in the market becomes
-the critical factor to firm performance. Wang and Wu (2012) examined the
+excellent manufacturing efficiency is a core goal of a firm,
+and the avoidance of change that risks the firm's cost advantage in the market becomes
+a critical factor in firm performance. Wang and Wu (2012) examined the
 moderation of the contract manufacturing model on the relationship
-between R&D investment and the operating performance, and it found a
-negative effect on the OEM model, in which R&D investment may reduce the
+between R&D investment and the operating performance and found a
+negative effect in the OEM model, with R&D investment possibly reducing the
 performance of OEM firms. Feng-Hsu, Heng-Yih, and Ting-Ling (2008)
-considered that OEM contract manufacturers leverage existing
+argued that OEM contract manufacturers leverage existing
 manufacturing competence, which involves a low level of risk. Moreover,
 the success of the OEM model depends on the effectiveness of current
-organizational practices to offer incremental improvements on sustaining
-to fulfill customers' needs (Kittilaksanawong 2015).
+organizational efforts to sustain incremental improvements in the ability to 
+fulfill customers' needs (Kittilaksanawong 2014).
 
 On the configuration of innovation practices to ODM firms, product
 innovation, process innovation, marketing product design, and
