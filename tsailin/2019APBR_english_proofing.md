@@ -590,14 +590,14 @@ Table. 4 Engagement of innovation practices by OEM, ODM, and OBM firms.
 | 0.001 |       |       |       |       |       |       |       |       |
 +-------+-------+-------+-------+-------+-------+-------+-------+-------+
 
-OBM manufacturers also have significant positive engagement in the
-innovation practices of all production works, such as product innovation
+OBM manufacturers also have significant positive engagement in
+innovation practices in all aspects of production work, including product innovation
 (β=.447, p\<0.001), process innovation (β=.249, p\<0.05), and marketing
 innovation (*Product Design*, β=1.423, p\<0.001; *Channel Distribution*,
 β=.771, p\<0.001; *Marketing Promotion*, β=1.430, p\<0.001). Moreover,
-they have high frequency to adjust their organizational management in
-managerial authority (β=.699, p\<0.001), organizational structure
-(β=.291, p\<0.01), and management of outsourcing partnership (β=.708,
+at high frequency they make adjustments to their organizational management in
+the areas of managerial authority (β=.699, p\<0.001), organizational structure
+(β=.291, p\<0.01), and management of outsourcing partnerships (β=.708,
 p\<0.001).
 
 In Table 5, the ANOVA test on innovation practices by business models
