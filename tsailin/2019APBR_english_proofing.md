@@ -717,7 +717,7 @@ that there are no significant changes to their innovation practices in
 production work before upgrades by OEM firms in product innovation
 (β=-.120), process innovation(β=.445), and marketing innovation
 (*Product Design*, β=.020; *Channel Distribution*, β=.251; *Marketing
-Promotion*, β=-.272), the same as the results of ANOVA test in Table 7.
+Promotion*, β=-.272), the same as the results of the ANOVA test in Table 7.
 Although only a significant engagement in the change of
 managerial authority (β=.893, p\<0.01) is indicated in Table 6, the ANOVA test in Table 7 finds OEM firms
 are more able to change all aspects of their organizational management
