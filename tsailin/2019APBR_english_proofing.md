@@ -704,27 +704,26 @@ practices for OEM, ODM, and OBM firms.
 The reconfiguration of innovation practices before the upgrade of the business model in contract manufacturers
 --------------------------------------------------------------------------------------------------------------
 
-As we know, the upgrade of contract manufacturing would redefine their
-way of business, and it has many different organizational configurations
-on the business activities between old and new business models. When the
-firms have a plan to reinvent their business model, they need good
-preparatory to lead the transition of the business model. Therefore,
-this paper examines the reconfiguration of innovation practices before
-the upgrade of the business model in contract manufacturers. At first,
-we consider the changes in the configuration of OEM firms between
-prepare-to-upgrade and stay-quo ones. In Table 6, the results indicate
-that there are no significant changes of the innovation practices on
-production works before the upgrade of OEM firms in product innovation
+As we know, an upgrade in the model of a contract manufacturer will redefine its
+way of doing business. As a result, it will face the task of reconfiguring many different aspects of its organization
+and its business activities. When a
+firm has a plan to reinvent its business model, it needs good
+preparation ahead of the transition to ensure the move is successful. Therefore,
+this next section examines to what degree firms are reworking their innovation practices before
+upgrading. First,
+we consider the differences in the practices of 
+preparing-to-upgrade and status-quo OEM firms. In Table 6, the results indicate
+that there are no significant changes to their innovation practices in
+production work before upgrades by OEM firms in product innovation
 (β=-.120), process innovation(β=.445), and marketing innovation
 (*Product Design*, β=.020; *Channel Distribution*, β=.251; *Marketing
-Promotion*, β=-.272) as same as the results of ANOVA test in Table 7.
-Although it only indicates a significant engagement in the change of
-managerial authority (β=.893, p\<0.01) in Table 6, we find OEM firms
-have more possibilities to change their organizational management
+Promotion*, β=-.272), the same as the results of ANOVA test in Table 7.
+Although only a significant engagement in the change of
+managerial authority (β=.893, p\<0.01) is indicated in Table 6, the ANOVA test in Table 7 finds OEM firms
+are more able to change all aspects of their organizational management
 (*Authority Realignment*, F=10.208, p\<0.01; *Organization
 Restructuring*, F=0.524, p\<0.05; *Outsourcing Re-assignment*, F=5.581,
-p\<0.05) before they upgrade their business model which shown in Table
-6.
+p\<0.05) before they upgrade.
 
 Table. 6 Reconfiguration of innovation practices by OEM firms before the
 transition.
