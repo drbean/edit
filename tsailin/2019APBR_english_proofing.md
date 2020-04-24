@@ -463,21 +463,21 @@ in contract manufacturing, this study adopted the three specific models
 of OEM, ODM, and OBM, and employed
 logistic regression to examine the influence of these business models on
 the practices of the firms surveyed (Table 4). For OEM contracted
-manufacturers, it indicates no significant engagement in the product
-innovation (β=-.233), process innovation(β=-.049), and marketing
+manufacturers, no significant engagement in product
+innovation (β=-.233), process innovation (β=-.049), and marketing
 innovation (*Product Design*, β=.322; *Channel Distribution*, β=.099;
-*Marketing Promotion*, β=-.128, p\<0.001). On the changes in
+*Marketing Promotion*, β=-.128, p\<0.001) is indicated. On the changes in
 organizational management, OEM firms may have a significant engagement
-in a corporate restructuring (β=.318, p\<0.05). According to post hoc
-analysis by ANOVA (Table 5), it also confirms that OEM firms have low
-engagement in all innovation practices in their business activities. For
-ODM contract manufacturers, they aggressively engage in product
+in corporate restructuring (β=.318, p\<0.05). A post-hoc
+ANOVA analysis (Table 5) also confirms that OEM firms have low
+engagement in all innovation practices in their business activities. Meanwhile,
+ODM contract manufacturers aggressively engage in product
 innovation (β=.351, p\<0.01) and process innovation (β=.553, p\<0.001)
 and also have significant engagement in marketing innovation (*Product
 Design*, β=1.030, p\<0.001; *Channel Distribution*, β=.693, p\<0.001;
-*Marketing Promotion*, β=.829, p\<0.001). Facing the high degree of
-engagement in the innovation practices on production works, ODM firms
-have significant changes in organizational management by managerial
+*Marketing Promotion*, β=.829, p\<0.001). Facing a high degree of
+engagement in innovation practices in production work, ODM firms
+show significant change in organizational management in the areas of managerial
 authority (β=.219, p\<0.10), organizational structure (β=.649,
 p\<0.001), and outsourcing partnership (β=.819, p\<0.001).
 
