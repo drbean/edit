@@ -600,15 +600,15 @@ the areas of managerial authority (β=.699, p\<0.001), organizational structure
 (β=.291, p\<0.01), and management of outsourcing partnerships (β=.708,
 p\<0.001).
 
-In Table 5, the ANOVA test on innovation practices by business models
+The ANOVA test of the relationship of innovation practices to business models in Table 5
 also confirms that ODM and OBM firms have significant engagement in all
-innovation practices. However, it still has a difference in the
-configuration of innovation practices between ODM and OBM manufacturers.
-It indicates that ODM firms have more engagement in process innovation
-and organization restructuring, but they have equivalent involvement in
+innovation practices. However, there still are differences in the
+configuration of innovation practices followed by ODM and OBM manufacturers.
+On the one hand, ODM firms have more engagement in process innovation
+and organization restructuring, but with equivalent involvement in
 product innovation, marketing channels, and outsourcing management.
-Moreover, OBM firms have more engagement in marketing strategies, and
-they have aggressive adjustments on managerial authority to support
+On the other hand, OBM firms have more engagement in marketing strategies, and
+they make aggressive adjustments to managerial authority to support
 their business activities.
 
 Table. 5 ANOVA Table for variation in the engagement of innovation
