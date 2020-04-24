@@ -1137,26 +1137,26 @@ Table. 9 Reconfiguration of innovation practices by ODM new entrants
 | 0.001 |       |       |       |       |       |       |       |       |
 +-------+-------+-------+-------+-------+-------+-------+-------+-------+
 
-Also, we observe the average of engagement in innovation practices in
-Table 7, and we find new ODM entrants have distinctly low activities in
+Also, we tabulate the means of engagement in innovation practices in
+Table 7, and we find new ODM entrants have distinctly low levels of activity in
 average on *Product Innovation* (μ=.163\<.265), Product *Design*
 (μ=.130\<.239), *Channel Distribution* (μ=.109\<.162), and *Marketing
-Promotion* (μ=.022\<.126). Overall, the contract manufacturers would
-face the challenges of building the new competencies on R&D and
-marketing works when OEM firms transited their business model to the ODM
+Promotion* (μ=.022\<.126) in comparison with incumbents. Clearly, OEM contract manufacturers
+face challenges building new competencies in R&D and
+marketing work when they transit to the ODM
 model.
 
-For new entrants on OBM business, the firms have a comprehensive
-enhancement on production works in the market (Table 10), such as
+New OBM business entrants exhibit a comprehensive
+enhancement of production work in the market (Table 10), including in
 product innovation (β=.728, p\<0.05), process innovation (β=.277), and
 marketing innovation (*Product Design*, β=.631, p\<0.05; *Channel
 Distribution*, β=.504; *Marketing Promotion*, β=.893, p\<0.05).
-Moreover, they usually adjust organizational management in the external
+Moreover, they usually rework organizational management internally
 (*Authority Realignment*, β=.650, p\<0.05; Organization *Restructuring*,
-β=.647, p\<0.05) and the external (*Outsourcing Re-assignment*, β=.599,
-p\<0.10). In comparison to ANOVA in Table 7, it points out that the new
-OBM entrants would pay more effort to build the new practices of their
-new business for the competition in the market.
+β=.647, p\<0.05) and externally (*Outsourcing Re-assignment*, β=.599,
+p\<0.10). These observations are borne out by the ANOVA results in Table 7, where the engagement means show that the new
+OBM entrants are making greater efforts to establish the new practices of their
+new businesses for competition in the market.
 
 Table. 10 Reconfiguration of innovation practices by OBM new entrants
 
