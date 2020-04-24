@@ -818,17 +818,17 @@ transition.
 | 0.001 |       |       |       |       |       |       |       |       |
 +-------+-------+-------+-------+-------+-------+-------+-------+-------+
 
-Second, we observe the changes in the configuration of ODM firms before
-upgrading. In Table 8, it shows that the ODM firms have much
-insignificant difference on the reconfiguration of innovation before
-upgrading the business model, such as *Product Innovation* (β=.213),
+Second, we consider the differences in the configuration of ODM firms before
+upgrading. Table 8 shows that ODM firms have many
+insignificant differences in the reconfiguration of innovation before
+an upgrade, including in *Product Innovation* (β=.213),
 *Product Design* (β=-.157), *Marketing Promotion* (β=-.137), *Authority
 Realignment* (β=.583), *Organization Restructuring* (β=-.038), and
-*Outsourcing Re-assignment* (β=-.767). However, the results indicate
-that ODM firms would reduce to engage in process innovation (β=-.918,
-p\<0.05) and the exploration of the marketing channel (β=-1.070,
-p\<0.10). Furthermore, on the ANOVA in Table 7, the results also confirm
-the findings, but it finds a visible increase in *Authority Realignment*
+*Outsourcing Re-assignment* (β=-.767). However, other results from the same table indicate
+that ODM firms reduce engagement in process innovation (β=-.918,
+p\<0.05) and the exploration of marketing channels (β=-1.070,
+p\<0.10). Furthermore, the ANOVA in Table 7 confirms
+these findings, and it also finds a visible increase in *Authority Realignment*
 (μ=.556\>.388) and decreases in *Outsourcing Re-assignment*
 (μ=.185\<.290).
 
