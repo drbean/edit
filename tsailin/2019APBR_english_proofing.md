@@ -1258,15 +1258,15 @@ Table. 10 Reconfiguration of innovation practices by OBM new entrants
 Discussions
 ===========
 
-In the empirical examination, this paper employs the investigation of
-Taiwanese contract manufacturers for reconfiguring their business
-activities in the transition of business models. Through reviewing the
-business model innovation in contract manufacturing, OEM, ODM, and OBM
-firms demonstrate differentiated business activities to implement a
-value proposition in the existing market by providing valued production
-works. For detail, the engagement of innovation practices behind the
-business models explains the value creation and organizational
-configuration in contract manufacturers to promote their competitive
+This paper studies, by means of data provided by Taiwanese contract manufacturers, the efforts of
+these manufacturers to reconfigure their business
+activities through business model transitions. After reviewing the
+business model innovations carried out by the contract manufacturers, we see OEM, ODM, and OBM
+firms employ different means to implement a
+value proposition and provide valued production
+work in an existing market. In detail, the engagement of innovation practices behind the
+business models explains the contract manufacturers' attempts to create value and configure their organizations
+to promote their competitive
 advantage in the market.
 
 As an entry mode of contract manufacturing, we find that OEM firms have
