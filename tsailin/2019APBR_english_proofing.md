@@ -1398,24 +1398,24 @@ manufacturing history, including those of Acer, Quanta Computer, Giant, Johnson,
 model for reference in the study of business model transitions by contract
 manufacturers.
 
-Through the examination of the business model transition of Taiwanese
-contract manufacturers, it could find that business model innovation
-generates from the reposition of value proposition in the existing
-market, which still takes parts of works in value chains (Zott and Amit
-2010; Amit and Zott 2012; Johnson, Christensen, and Kagermann 2008). The
-firms would illustrate their business activities and engagement of
-innovation mix to provide the value to the customers in the existing
-market, which they repositioned (Bucherer, Eisert, and Gassmann 2012;
-Teece 2010). When the firm intends to reclaim their business models,
-they will purchase the transition of innovation mix in production and
-organizational works for reconfiguring their business activities to meet
-the new value proposition in the existing market (Sánchez and Ricart
-2010; Carayannis, Sindakis, and Walter 2015). In other words, it could
-conclude that business model innovation rooted in value repositioning,
-and the transition of the business model demonstrates in the
-reconfiguration of the innovation mix to describe new business
-activities. Therefore, the firms have to pay their effort to catch up on
-the innovation practices in the business model transition.
+Through examination of the business model transitions of Taiwanese
+contract manufacturers, we see that business model innovation
+is generated as a result of the repositioning of a value proposition in an existing
+market in which the manufacturer continues to take part in work on the value chain (Zott and Amit
+2010; Amit and Zott 2012; Johnson, Christensen, and Kagermann 2008).
+Firms leverage their business activities and engagement of
+innovation mix to provide value to their customers in the 
+market in which they reposition themselves (Bucherer, Eisert, and Gassmann 2012;
+Teece 2010). When a firm intends to change its business model,
+it will use as purchase its transitional innovation mix in production and
+organizational work to reconfigure its business activities and create
+its new value proposition for its existing market (Sánchez and Ricart
+2010; Carayannis, Sindakis, and Walter 2015). In other words, we can
+conclude that business model innovation is rooted in value repositioning,
+and a business model transition is demonstrated in the
+reconfiguration of the innovation mix that prefigures new business
+activities. Therefore, firms have to make efforts to tailor 
+their innovation practices to their business model transition.
 
 In practical implication, this paper points out some challenges on the
 upgrading of the business model to the latecomers. At first, although
