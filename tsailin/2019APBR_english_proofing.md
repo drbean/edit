@@ -611,7 +611,7 @@ On the other hand, OBM firms have more engagement in marketing strategies, and
 they make aggressive adjustments to managerial authority to support
 their business activities.
 
-Table. 5 ANOVA Table for variation in the engagement of innovation
+Table. 5 ANOVA table for variation in the engagement of innovation
 practices for OEM, ODM, and OBM firms.
 
 <table>
