@@ -1384,18 +1384,18 @@ of innovation practices. This study illustrates and demonstrates this process
 and the role of the new business models of OEM, ODM, and OBM in contract manufacturing
 by latecomers.
 
-In Taiwanese manufacturing sectors, by the growth of contract
-manufacturing in emerging Asia, the regular competition leads to a
-business model transition in OEM, ODM, and OBM are emerging from the
-1990s (Hobday 1998). Many Taiwanese contract manufacturers pursue the
-upgrading of business models to provide more added values to the
-contractors by developing new business activities through the engagement
-of innovation practices in production works as well as ongoing
-organizational innovation to coordinate the run of new business. Many
-success stories in the last 30 years on Taiwanese contract
-manufacturers, such as Acer, Quanta Computer, Giant, Johnson, and HTC
-(Hobday 1998; Chu 2009; Yan 2012), prove Taiwanese case as the good
-referred model for the business model transition of contract
+In the Taiwanese manufacturing sector, the growth of contract
+manufacturers in Asia and their regular competition has led to a
+OEM-ODM-OBM business model transition pathway that first emerged in the
+1990s (Hobday 1998). Many Taiwanese contract manufacturers pursue this
+upgrading of their business models to provide more added value to
+contractors, developing new business activities through the engagement
+of innovation practices in production work and
+organizational innovation in business management. Many
+success stories in the last 30 years of Taiwanese contract
+manufacturing history, including those by Acer, Quanta Computer, Giant, Johnson, and HTC
+(Hobday 1998; Chu 2009; Yan 2012), prove the Taiwanese case to be a good
+model for reference in the study of business model transitions by contract
 manufacturers.
 
 Through the examination of the business model transition of Taiwanese
