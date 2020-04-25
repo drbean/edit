@@ -1417,26 +1417,26 @@ reconfiguration of the innovation mix that prefigures new business
 activities. Therefore, firms have to make efforts to tailor 
 their innovation practices to their business model transition.
 
-In practical implication, this paper points out some challenges on the
-upgrading of the business model to the latecomers. At first, although
-the transition to ODM or OBM models aims to expand to R&D and marketing
-works, there is a gap of capabilities to encourage new entrants in
-building new configuration of innovation practices for reposition value
-proposition in the market (Teece 2010; Euchner and Ganguly 2014).
-Second, the tension of radical change from OEM to ODM exists in the
-transition, and the competence on new product development in R&D and
-marketing capabilities may need long term investment and accumulation
+As practical implications, this paper identifies some challenges
+facing latecomers upgrading their business models. First, although
+the aim in the transition to ODM or OBM models is to expand into R&D and marketing
+work, there is typically a gap in a firm's innovative practices focused on this. New entrants need to be encouraged to
+build new configurations of innovation practices that help them to reposition their value
+proposition in the market appropriately (Teece 2010; Euchner and Ganguly 2014).
+Second, the tension of radical change from OEM to ODM tests a
+firm's competence to undertake new product development in R&D and
+marketing capabilities, and long term investment and accumulation of expertise may be needed 
 (Chesbrough 2010; Yan, Chiang, and Chien 2014). Third, organizational
-management is the core mechanism to sustain the operation of business
-activities and to foster the transition of the business model. On the
-ODM and OBM models, adaptive organizational management could make the
-firms have high flexibility to react to the dynamic changes in the
-market by incorporating other business activities (Carayannis, Sindakis,
-and Walter 2015; Koen, Bertels, and Elsum 2011). In the final, the
-external network of partnership in contract manufacturing demonstrates
-the combination of valued works in the value chains, and the
-reassignment is the critical work in the operating business model to
-implement the specialization practices in terms of attaining the value
+management is the core mechanism sustaining operation of the business
+and its business activities and the core mechanism fostering the transition of the business model. For
+ODM and OBM models, adaptive organizational management may give
+firms greater ability to react flexibly to dynamic changes in the
+market by linking those changes to other business activities (Carayannis, Sindakis,
+and Walter 2015; Koen, Bertels, and Elsum 2011). Finally, the
+external network of partnerships in contract manufacturing is a prime instance of
+the combination of valued work that makes up a value chain.
+Reassignment of those partnerships is a critical task in the
+implementation of the specialization-practice features of the models and fulfilment of the promise of the value
 proposition in the market (Sánchez and Ricart 2010; Hsu and Liu 2008).
 
 In the future research, although the study finds different business
