@@ -277,11 +277,11 @@ offshore sales of OBM firms increased from 2,076 NT billion
 in 2006 to 3,580 NT billion in 2011, indicating that OBM firms in
 Taiwan enjoyed a steady growth in foreign markets.
 
-Table. 2 The development of Taiwanese manufacturing sectors and OBM
+Table. 2 development of Taiwanese manufacturing sector and OBM
 business.
 
   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Year                                    Firms\    OBM firms\   Sale of Goods\   Sale of New Products\   Goods Sale of OBM\   Offshore Goods Sale of OBM\                           
+  Year                                    Firms\    OBM firms\   Sales of Goods\  Sales of New Products\  Goods Sales of OBM\  Offshore Goods Sales of OBM\
                                           (N)       (N)          (NT/Billions)    (NT/Billions)           (NT/Billions)        (NT/Billions)                                         
   --------------------------------------- --------- ------------ ---------------- ----------------------- -------------------- ----------------------------- ------- ------- ------- -------
   2016                                    161,334   14,999       9.3%             24,626                  5,807                23.6%                         5,992   24.3%   3,080   51.4%
