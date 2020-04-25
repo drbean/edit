@@ -1393,7 +1393,7 @@ contractors, developing new business activities through the engagement
 of innovation practices in production work and
 organizational innovation in business management. Many
 success stories in the last 30 years of Taiwanese contract
-manufacturing history, including those by Acer, Quanta Computer, Giant, Johnson, and HTC
+manufacturing history, including those of Acer, Quanta Computer, Giant, Johnson, and HTC
 (Hobday 1998; Chu 2009; Yan 2012), prove the Taiwanese case to be a good
 model for reference in the study of business model transitions by contract
 manufacturers.
