@@ -1322,25 +1322,25 @@ innovation procedures to make sure business activities run smoothly and to align
 changes in the market (Day 2006; Carayannis, Sindakis, and Walter 2015;
 Foss and Saebi 2016).
 
-After confirming the differentiated configuration of innovation
-practices under OEM, ODM, and OBM models, this study also finds the
-reconfiguration in the transition is the critical threshold to upgrade
-the business models. Before the upgrade of OEM firms, we find a positive
+After confirming the existence of a differentiated structure of innovation
+practice under the OEM, ODM, and OBM models, this study also finds 
+reconfiguration before and after the transition to be a threshold critical for the upgrade
+of the business model. In OEM firms about to undergo an upgrade, we find a positive
 change in organizational management but no significant changes in their
 business activities compared to other OEM firms who have no intention to
-change the business model. Many prior scholars indicate organizational
-changes would influence the development of new capabilities and
-partnership in business model innovation, and the upgrade of OEM firms
-face a radical change to promote innovation practices for catching more
-valued works in contract manufacturing. In other words, OEM firms need
+change their business model. Many prior scholars indicate organizational
+changes will influence the development of new capabilities and
+partnerships in business model innovation, and the upgrade of OEM firms
+represents a radical change requiring the promotion of innovation practices to catch more
+valued contract manufacturing work. In other words, OEM firms need
 to overcome the barriers of organizational inertia associated with the
-old business model when they prepare to transit the upgraded business
+old business model when they prepare to move to the new business
 model (Carayannis, Sindakis, and Walter 2015; Jacobides, MacDuffie, and
-Tae 2016; Bijarboneh 2015). However, we do not find apparent changes
-when ODM firms prepare to upgrade to the OBM model, and it only
-indicates a significant reduction in process innovation for
-manufacturing. In other words, ODM firms may concentrate on the
-necessary process innovation to core products in branding development.
+Tae 2016; Bijarboneh 2015). However, we do not find apparent change
+when ODM firms prepare to upgrade to the OBM model, except for
+a significant reduction in manufacturing process innovation.
+In other words, ODM firms may move on from concentration on the
+necessary process innovation for core products to concentration on branding development.
 
 Furthermore, this paper compares the configuration of innovation
 practices between new entrants and incumbent firms in the business model
