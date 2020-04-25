@@ -203,7 +203,7 @@ from subcontractor to outsourcer, strategically outsourcing
 their production work to external partners (Chin, Liu, and Yang 2016; Chu
 2009).
 
-Table. 1 Business models and innovation mix in contract manufacturers:
+Table. 1 Business model and innovation mix in contract manufacturers:
 OEM, ODM, and OBM
 
                                            OEM                                                                         ODM                                                         OBM
@@ -215,10 +215,10 @@ OEM, ODM, and OBM
   Marketing                                Outsourcer                                                                  ODM, Outsourcer                                             OBM
   3\. Engagement of innovation practices                                                                                                                                           
   Product innovation                       Low                                                                         High                                                        High
-  Process innovation                       High                                                                        High                                                        Depend on the needs for product innovation
-  Marketing innovation                     Low                                                                         Demand on outsourcing business                              High
+  Process innovation                       High                                                                        High                                                        Depends on the need for product innovation
+  Marketing innovation                     Low                                                                         Dependence on outsourcing business                          High
   4\. Organizational management                                                                                                                                                    
-  Internal structure                       Structuring follow the manufacturing processes                              Structuring follow the product development                  Structuring follow the product -market segments
+  Internal structure                       Structuring follows the manufacturing processes                              Structuring follows the product development                  Structuring follows the product -market segments
   External partnership                     Suppliers, Module partners                                                  Suppliers, OEM partners, and Module partners                Suppliers, OEM, ODM partners, and Module partners, vendors
 
 As can be seen from the summary of business models in contract manufacturing in
