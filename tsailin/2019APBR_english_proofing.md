@@ -1342,21 +1342,21 @@ a significant reduction in manufacturing process innovation.
 In other words, ODM firms may move on from concentration on the
 necessary process innovation for core products to concentration on branding development.
 
-Furthermore, this paper compares the configuration of innovation
-practices between new entrants and incumbent firms in the business model
-of ODM and OBM. At the early stage in the transition from OEM to ODM, we
-find that the new entrants of the ODM business have fewer new product
-development and weak marketing capabilities compared to existing ODM
-firms. For a new ODM firm, promoting the R&D and marketing works is the
-determinant on the success of business model transition to build the
-competence and business practices, but it needs a long-term path and
-investment to transform into a new competitive advantage in the market
+Furthermore, this paper compares the innovation
+practice configurations of new entrants and incumbent firms after the business model
+transition to ODM or OBM. At the early stage after the transition from OEM to ODM, we
+find that new entrants into the ODM business undertake limited new product
+development and have weak marketing capabilities compared to existing ODM
+firms. For a new ODM firm, promoting R&D and marketing is a
+determinant of success in its efforts, through business model transition, to build its
+competence and business practices. But long-term vision and
+investment are needed to develop a new competitive advantage in the market
 (Feng-Hsu, Heng-Yih, and Ting-Ling 2008; Eng and Spickett-Jones 2009;
-Matthyssens, Vandenbempt, and Weyns 2009). In the transition to OBM
-firms, the new entrants demonstrate strategic changes in a comprehensive
-enhancement of production works and organizational management. It
-indicates the new entrants of the OBM business need to pay more effort
-to overcome the challenges in the competitive market as a second-mover
+Matthyssens, Vandenbempt, and Weyns 2009). In the transition to the OBM
+model, new entrants demonstrate strategic changes in and comprehensive
+enhancement of production work and organizational management. This
+indicates new entrants into the OBM business need to make greater effort
+to overcome the challenges competitive markets pose for second movers
 (Chu 2009; Lee, Song, and Kwak 2015; Yan 2012).
 
 From the observation in the business model transition of Taiwanese
