@@ -1373,16 +1373,16 @@ new value proposition.
 Conclusion and managerial implication
 =====================================
 
-By the rise of globalization, vertical specialization encouraged the
-business model innovation in manufacturing sectors by contract
-manufacturing in the existing market, and it provides the new business
-opportunity to participate in the value chains for the latecomers in the
-emerging economies, such as South Korea, Taiwan, and China. Through the
-positioning of the business model, latecomers take parts of production
-works as core business activities to create the values by the engagement
-of innovation practices. In this study, it illustrates and demonstrates
-the new business model of OEM, ODM, and OBM in contract manufacturing
-for the latecomers.
+With the rise of globalization, vertical specialization has encouraged
+business model innovation in the manufacturing sector by contract
+manufacturing in existing markets, providing latecomers in 
+emerging economies, such as South Korea, Taiwan, and China the
+opportunity to participate in global value chains. Through the
+positioning of their business models, latecomers take part in production
+work as core business activities, creating value by the engagement
+of innovation practices. This study illustrates and demonstrates this process
+and the role of the new business models of OEM, ODM, and OBM in contract manufacturing
+by latecomers.
 
 In Taiwanese manufacturing sectors, by the growth of contract
 manufacturing in emerging Asia, the regular competition leads to a
