@@ -1278,7 +1278,7 @@ a critical factor in firm performance. Wang and Wu (2012) examined the
 moderation of the contract manufacturing model on the relationship
 between R&D investment and the operating performance and found a
 negative effect in the OEM model, with R&D investment possibly reducing the
-performance of OEM firms. Feng-Hsu, Heng-Yih, and Ting-Ling (2008)
+performance of OEM firms. Liu, Liu and Lin (2008)
 argued that OEM contract manufacturers leverage existing
 manufacturing competence, which involves a low level of risk. Moreover,
 the success of the OEM model depends on the effectiveness of current
