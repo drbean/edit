@@ -1285,26 +1285,26 @@ the success of the OEM model depends on the effectiveness of current
 organizational efforts to sustain incremental improvements in the ability to 
 fulfill customers' needs (Kittilaksanawong 2014).
 
-On the configuration of innovation practices to ODM firms, product
+Meanwhile, for ODM firms, product
 innovation, process innovation, marketing product design, and
-organizational changes have significantly positive engagement in the run
-of business. For ODM model, contract manufacturers extend its value
-works to upstream outsourcing in new product development, product
-innovation, and process innovation synergize as technological
-capabilities of the ODM firms to demonstrate the primary product design
+organizational change configuration play significant positive engagement roles in their innovation practices and the way
+the business is run. With the ODM model, contract manufacturers extend their value
+work to upstream outsourcing in new product development, and product
+innovation and process innovation synergize as the firm's technological
+capabilities, which are demonstrated in the primary product design
 process in the market (Lee, Song, and Kwak 2015; Wang and Wu 2012).
-Furthermore, the ODM model connects the value works to downstream
-marketing practices to demonstrate the abilities of latecomers to react
-to the changes in the needs of end-users as the selling of market
-flexibility to the customers (Chu 2009; Manzakoğlu and Er 2018). Also,
-organizational management in ODM firms needs to be adaptive in dynamic
-markets to renew the internal organizational practices for the changes
-quickly and to reassign the external partnership for fostering new
-product development and manufacturing (Yung and Lai 2012; Christensen,
+Furthermore, the ODM model connects the firm's value work to downstream
+marketing practices, demonstrating the ability of latecomers to react
+to changes in the needs of end-users and sell market
+flexibility to their customers (Chu 2009; Manzakoğlu and Er 2018). Also,
+organizational management in ODM firms needs to be responsive to dynamic
+markets and ready to renew internal organizational practices to adapt to changes
+quickly, at the same time as it rebuilds external partnerships to foster new
+product development and manufacturing processes (Yung and Lai 2012; Christensen,
 Bartman, and Van Bever 2016). In contrast to OEM firms, ODM contract
-manufacturers have to upgrade their business activities to catch more
-production works in the value chains, and engagement in the innovation
-practices to pursue the success of their business model and to build a
+manufacturers have to embrace evolution of the way their business activities are carried out to catch more
+production work in their value chains, and engage in innovation
+practices to ensure success of their business model and to build a
 competitive advantage in the market.
 
 In contract manufacturing, the OBM model represents a radical change of
