@@ -1359,15 +1359,15 @@ indicates new entrants into the OBM business need to make greater effort
 to overcome the challenges competitive markets pose for second movers
 (Chu 2009; Lee, Song, and Kwak 2015; Yan 2012).
 
-From the observation in the business model transition of Taiwanese
-contract manufacturers, it indicates that the OEM-ODM-OBM path of
-reinventing the business models exhibits the reconfiguration of business
-activities by the value proposition in the market. The differentiated
-configuration of innovation practices under these models shows the
-composition of the firm's competence to fit the business activities of
-the firms in the value chains. In the transition of the business model
-of contract manufacturers, radical upgrading leads them a necessity to
-promote the engagement of innovation practices that could adapt to the
+From this observation of the business model transitions of Taiwanese
+contract manufacturers, we see that the OEM-ODM-OBM path of
+reinventing a business model is associated with the reconfiguration of a firm's business
+activities, as determined by its value proposition in the market. The differentiated
+configuration of innovation practices under these models also provides a 
+measure of a firm's ability to fit its business activities to
+the requirements of its value chains. In the transition of the business model
+of contract manufacturers, radical upgrading leads to a necessity to
+promote the engagement of innovation practices that allow adaption to the
 new value proposition.
 
 Conclusion and managerial implication
