@@ -1439,14 +1439,13 @@ Reassignment of those partnerships is a critical task in the
 implementation of the specialization-practice features of the models and fulfilment of the promise of the value
 proposition in the market (Sánchez and Ricart 2010; Hsu and Liu 2008).
 
-In the future research, although the study finds different business
-models in contract manufacturing that have focused on the various
-business activities, and plot the transition of the business model,
-there are two research limitations for further research. Although the
-data of TIS2 and TIS3 across two periods have the consideration on time
-horizontal, a time series analysis by consecutive years would provide
-more dynamic observation in the business model transition of contract
-manufacturers. Moreover, the Taiwanese case offers good evidence. Still,
-different industrial contexts for each economy may lead to the necessity
-of adjustment in the practices, and it would encourage the comparison
-across different economies.
+This study suffers from two research limitations that leave opportunities for future research.
+Although it details the different innovation focuses that the different business
+models in contract manufacturing have resulted in, and although it follows the changes in those focuses over transitions of the business model with
+TIS2 and TIS3 data across two periods with time
+on the horizontal axis, a time series analysis of observations at consecutive one-year intervals would provide
+a more dynamic view of the business model transitions of contract
+manufacturers. In addition, while the Taiwanese case offers good evidence of the relationship between business model transitions and innovation practices,
+the different industrial contexts in different economies may still make it necessary
+to adjust conclusions about this relationship, and thus comparisons of 
+the relationship across different economies is encouraged.
