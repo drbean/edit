@@ -1307,18 +1307,18 @@ production work in their value chains, and engage in innovation
 practices to ensure success of their business model and to build a
 competitive advantage in the market.
 
-In contract manufacturing, the OBM model represents a radical change of
-the role in the existing market from the suppliers to second movers (Chu
-2009). On the configuration of innovation practices, our results
-indicate that OBM firms have strong engagement in all production works
-as well as sustainable organizational management. As the latecomers in
-the existing market, OBM firms have to improve technological innovation
-capacity and change to high-value-added products, and they also need to
-strengthen the marketing capabilities to more skilled operation and
-value-added marketing activities in a competitive market (Eng and
-Spickett-Jones 2009; Feng-Hsu, Heng-Yih, and Ting-Ling 2008; Wan 2015).
-Moreover, the OBM firms also need sustainable organizational management
-to make sure the run of business activities and to align the dynamic
+For contract manufacturers, the OBM model represents a radical change of
+role from supplier to second mover in an existing market (Chu
+2009). As for the configuration of innovation practices, our results
+indicate that OBM firms have strong engagement in all production work
+as well as in sustainable organizational management. As latecomers in
+an existing market, OBM firms have to improve their technological innovation
+capacity and develop high-value-added products. They also need to
+strengthen their marketing capabilities to ensure more skilled operations and
+value-added marketing activities in their competitive markets (Eng and
+Spickett-Jones 2009; Liu, Liu and Lin 2008; Wan 2015).
+Moreover, OBM firms also need sustainable organizational management
+innovation procedures to make sure business activities run smoothly and to align with dynamic
 changes in the market (Day 2006; Carayannis, Sindakis, and Walter 2015;
 Foss and Saebi 2016).
 
