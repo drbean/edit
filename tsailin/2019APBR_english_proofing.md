@@ -832,7 +832,7 @@ these findings, and it also finds a visible increase in *Authority Realignment*
 (μ=.556\>.388) and decreases in *Outsourcing Re-assignment*
 (μ=.185\<.290).
 
-Table. 7 ANOVA Table for variation in the engagement of innovation
+Table. 7 ANOVA table for variation in the engagement of innovation
 practices in the transition for OEM, ODM, OBM firms.
 
 +-------+-------+-------+-------+-------+-------+-------+-------+-------+
