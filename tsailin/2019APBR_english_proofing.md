@@ -105,8 +105,8 @@ final section, we will discuss the findings in light of the results of prior stu
 an insightful conclusion and develop the implications for research and business
 practices.
 
-Business model innovation in manufacturing sectors: Contract Manufacturing in OEM, ODM, OBM
-===========================================================================================
+Business model innovation in the manufacturing sector: Contract Manufacturing in OEM, ODM, OBM
+==============================================================================================
 
 With the vertical specialization of global production networks, the
 business of contract manufacturing has become a new opportunity for
@@ -253,11 +253,11 @@ reconfiguration of innovation practices will enhance its organizational
 sustainability in the market as it comes up to speed in the new business model and
 competes with other incumbent competitors.
 
-Empirical examination in Taiwanese Manufacturing Sectors
-========================================================
+Empirical examination of the Taiwanese Manufacturing Sector
+===========================================================
 
-Manufacturing sectors in Taiwan
--------------------------------
+Manufacturing sector in Taiwan
+------------------------------
 
 To establish a context for the paper's investigation of contract manufacturing in Taiwan, we 
 summarize data in Table 2 about the manufacturing sector from
@@ -312,8 +312,8 @@ business models of the firms. There were 427 OEM firms, 543 ODM
 firms, and 562 OBM firms in TIS2. There were 699 OEM firms, 816 ODM firms,
 and 1,223 OBM firms in TIS3.
 
-Variables compilation
----------------------
+Variable compilation
+--------------------
 
 In the compilation of variables, values are assigned to variables separately in TIS2 and
 TIS3. All variables in the study are nominal or dummy variables. For
@@ -1255,8 +1255,8 @@ Table. 10 Reconfiguration of innovation practices by OBM new entrants
 | 0.001 |       |       |       |       |       |       |       |       |
 +-------+-------+-------+-------+-------+-------+-------+-------+-------+
 
-Discussions
-===========
+Discussion
+==========
 
 This paper studies, by means of data provided by Taiwanese contract manufacturers, the efforts of
 these manufacturers to reconfigure their business
@@ -1370,8 +1370,8 @@ of contract manufacturers, radical upgrading leads to a necessity to
 promote the engagement of innovation practices that allow adaption to the
 new value proposition.
 
-Conclusion and managerial implication
-=====================================
+Conclusion and managerial implications
+======================================
 
 With the rise of globalization, vertical specialization has encouraged
 business model innovation in the manufacturing sector by contract
