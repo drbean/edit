@@ -1123,7 +1123,7 @@ Table. 9 Reconfiguration of innovation practices by ODM new entrants
 | and   |       |       |       |       |       |       |       |       |
 | signi |       |       |       |       |       |       |       |       |
 | fican |       |       |       |       |       |       |       |       |
-| t     |       |       |       |       |       |       |       |       |
+| ce    |       |       |       |       |       |       |       |       |
 | level |       |       |       |       |       |       |       |       |
 | at    |       |       |       |       |       |       |       |       |
 | +p\<0 |       |       |       |       |       |       |       |       |
