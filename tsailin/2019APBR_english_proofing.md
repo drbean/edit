@@ -132,7 +132,7 @@ These business models have defined the general operation of latecomers
 as specialized manufacturers in the production networks of value
 chains.
 
-As for value proposition for their customers, OEM latecomers posit their
+As value proposition for their customers, OEM latecomers posit their
 value on providing the contracted manufacturing with advantages in
 cost, speed, and reliability (Chin, Liu, and Yang 2016; Jacobides,
 MacDuffie, and Tae 2016). ODM latecomers provide customized product
