@@ -423,7 +423,7 @@ Table. 3 Descriptive statistics.
 The configuration of innovation practices in OEM, ODM, and OEM Models
 ---------------------------------------------------------------------
 
-Results for the innovation practices in the manufacturing sector for nominal variable means for product innovation
+Results in the manufacturing sector for product innovation
 (0.25 in TIS2 and 0.21 in TIS3) and process innovation (0.22 in TIS2 and
 0.25 in TIS3) show more manufacturers have yet to engage in innovative practices. In marketing
 innovation, product design (0.16 in TIS2 and TIS3) was a significant
