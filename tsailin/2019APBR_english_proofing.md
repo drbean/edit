@@ -380,7 +380,7 @@ Results
 Descriptive statistics
 ----------------------
 
-A feature of the general structure of the manufacturing sector in Taiwan, high-tech
+In statistics for general features of the manufacturing sector in Taiwan, high-tech
 firms represent one-fifth to one-fourth of the total number of firms during the 2003-2011 period, and
 SME dominates in size of firms with 89% in TIS2 and 74% in TIS3.
 The decrease in the share of sales held by the domestic market from 48%
