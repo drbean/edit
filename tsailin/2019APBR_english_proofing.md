@@ -177,7 +177,7 @@ Teece 2010). Internally, the lines of managerial authority and
 organizational structures determine organizational efficiency and
 the reaction to changes in business activities (Taran, Boer, and
 Lindgren 2015; Teece 2010). Externally, partnerships in contract
-manufacturing have dominated the interconnections of latecomers with specific suppliers
+manufacturing dominate the interconnections of latecomers with specific suppliers
 in the value chain to create aggregate value and promote the
 customer's value in the market (Eng and Spickett-Jones 2009; Sánchez and
 Ricart 2010). Internally, in organizational management, latecomers
