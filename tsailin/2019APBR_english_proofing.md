@@ -295,21 +295,7 @@ business.
 Data collection
 ---------------
 
-The aim of this study is to investigate the configuration of
-innovation practices in firms following the OEM, ODM, OBM models as well as examine
-reconfiguration of those practices by contract manufacturers undertaking business model
-transitions. We employ the Taiwanese
-Industrial Innovation Survey (TIS), a large-scale survey of the industries of Taiwan
-conducted by the Ministry of Science and Technology, which is similar to the Community Innovation
-Survey (CIS) in Europe. Collecting data, we collated responses
-in the second survey in 2004-2006 (TIS2) and the third survey in
-2007-2010 (TIS3) (Wu 2009, 2013). After removing responses from
-non-manufacturing firms, there remained 3,944 valid questionnaires in TIS2
-and 3,838 in TIS3. Moreover, 1,319 manufacturing firms were listed
-in both the TIS2 and TIS3 surveys. Furthermore, we identified the
-business models of the firms. There were 427 OEM firms, 543 ODM
-firms, and 562 OBM firms in TIS2. There were 699 OEM firms, 816 ODM firms,
-and 1,223 OBM firms in TIS3.
+The aim of this study is to investigate the configuration of innovation practices in firms following the OEM, ODM, OBM models as well as examine reconfiguration of those practices by contract manufacturers undertaking business model transitions. We employ the Taiwanese Industrial Innovation Survey (TIS), a large-scale survey of the industries of Taiwan conducted by the Ministry of Science and Technology, which is similar to the Community Innovation Survey (CIS) in Europe. Collecting data, we collated responses in the second survey in 2004-2006 (TIS2) and the third survey in 2007-2010 (TIS3) (Wu 2009, 2013). After removing responses from non-manufacturing firms, there remained 3,944 valid questionnaires in TIS2 and 3,838 in TIS3. Moreover, 1,319 manufacturing firms were listed in both the TIS2 and TIS3 surveys. Furthermore, we identified the business models of the firms. There were 427 OEM firms, 543 ODM firms, and 562 OBM firms in TIS2. There were 699 OEM firms, 816 ODM firms, and 1,223 OBM firms in TIS3.
 
 Variable compilation
 --------------------
@@ -339,7 +325,7 @@ both listed in TIS2 and TIS3. For the upgrade of an OEM firm, we compile
 is OEM in TIS2, but non-OEM in TIS3 and 0 indicating that the firm
 stays at OEM in both TIS2 and TIS3, and we skip all non-OEM firms. Following the same
 logic, we compile an *ODM transition* in TIS2 as the upgrade of an ODM
-firm. Concomintant with the upgrading of the business model, we set up *ODM Entrant* in
+firm. Concomitant with the upgrading of the business model, we set up *ODM Entrant* in
 TIS3, with 1 meaning that the business model of the firm is ODM in TIS3,
 but OEM in TIS2 and 0 representing other ODM firms in TIS3, and we skip
 all non-ODM firms. Similarly, we compile an *OBM Entrant* variable in TIS3 for the
