@@ -58,7 +58,7 @@ in competition in the existing market (Jacobides, MacDuffie, and Tae
 2016). Through the value propositions of their business models, contract
 manufacturers develop their business activities and create added value
 on the production network by means of R&D, manufacturing, and marketing work
-(Feng-Hsu, Heng-Yih, and Ting-Ling 2008; Jacobides, MacDuffie, and Tae
+(Liu, Liu and Lin 2008; Jacobides, MacDuffie, and Tae
 2016). To sustain an advantage in the production network, contract
 manufacturers rely upon continuing to create sufficient added value in the
 existing market through the engagement of the different innovation practices
@@ -139,7 +139,7 @@ MacDuffie, and Tae 2016). ODM latecomers provide customized product
 development and contract manufacturing, along with the coordination of
 marketing strategy to brand subcontractors (Bijarboneh 2015; Lee, Song,
 and Kwak 2015). OBM latecomers sell innovative products to promote the
-utilization scenarios of customers (Chu 2009; Feng-Hsu, Heng-Yih, and Ting-Ling
+utilization scenarios of customers (Chu 2009; Liu, Liu and Lin
 2008). As for business activities, latecomers configure their work
 through the position of their production work on their value chains, including
 by means of R&D, manufacturing and marketing (Chu 2009; Manzakoğlu and Er 2018).
@@ -1352,7 +1352,7 @@ firms. For a new ODM firm, promoting R&D and marketing is a
 determinant of success in its efforts, through business model transition, to build its
 competence and business practices. But long-term vision and
 investment are needed to develop a new competitive advantage in the market
-(Feng-Hsu, Heng-Yih, and Ting-Ling 2008; Eng and Spickett-Jones 2009;
+(Liu, Liu and Lin 2008; Eng and Spickett-Jones 2009;
 Matthyssens, Vandenbempt, and Weyns 2009). In the transition to the OBM
 model, new entrants demonstrate strategic changes in and comprehensive
 enhancement of production work and organizational management. This
