@@ -33,7 +33,7 @@ Introduction
 
 In recent times, the transformation undergone by contract manufacturers has become a
 critical issue in emerging countries. With the increase of their experience in
-contracted manufacturing, these manufacturers accumulated sufficient
+contracted manufacturing, these manufacturers have accumulated sufficient
 technological capabilities to undertake in-house R&D and play catch-up with their
 customers in the market. This experience also has stimulated firms to advance both
 upstream and downstream in the value chain pursuing firm growth.
