@@ -98,8 +98,8 @@ section, this paper will discuss business model innovation
 in the manufacturing sector and the mix of innovation practices in
  OEM, ODM, and OBM models. In the methodology section, we will provide more
 information on data collection, variable compilation, and analytical
-method. In the results section, the paper will show a comprehensive Taiwanese
-case in business model transition for contract manufacturers. In the
+method. In the results section, the paper will present a comprehensive set of Taiwanese
+data about business model transition by contract manufacturers. In the
 final section, we will discuss the findings in light of the results of prior studies, seek to provide
 an insightful conclusion and develop the implications for research and business
 practices.
