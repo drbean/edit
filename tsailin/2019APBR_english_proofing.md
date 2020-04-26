@@ -1,8 +1,7 @@
 The Business Model and Innovation Mix in Transition: Evidence from Taiwanese
 Contract Manufacturers
 
-The successful transition of Taiwanese contract manufacturers from followers to leaders is a
-critical case for the study of business model innovation by latecomers in
+The successful transition of Taiwanese contract manufacturers from followers to leaders is a critical case for the study of business model innovation by latecomers in
 an emerging Asia. From original equipment manufacturers (OEM) to original
 brand manufacturers (OBM), latecomers engage in different innovation
 practices to coordinate with the transition of their value propositions in
@@ -1241,7 +1240,7 @@ Table. 10 Reconfiguration of innovation practices by OBM new entrants
 | and   |       |       |       |       |       |       |       |       |
 | signi |       |       |       |       |       |       |       |       |
 | fican |       |       |       |       |       |       |       |       |
-| t     |       |       |       |       |       |       |       |       |
+| ce    |       |       |       |       |       |       |       |       |
 | level |       |       |       |       |       |       |       |       |
 | at    |       |       |       |       |       |       |       |       |
 | +p\<0 |       |       |       |       |       |       |       |       |
