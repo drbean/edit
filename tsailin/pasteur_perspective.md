@@ -53,23 +53,23 @@ organizational changes, including in university leadership, climate, formal
 incentives, technology transfer office support, and 
 faculty engagement promotion (Klofsten et al., 2019; Perkmann et al., 2013).
 
-Stokes (1997) proposed the use-inspired basic research or Pasteur's
-quadrant research to encourage academia to develop a balancing work on
-knowledge creation for exploring our understanding and knowledge
-utilization for exploiting practical use. However, the Pasteur's
-quadrant provides little insights into how organizational structures,
-strategies, and processes to develop both knowledge creation and
-knowledge utilization in universities simultaneously. On the
-organizational development, prior research argued that an organization
-could establish an ambidextrous structure to coordinate the dual
-activities, such as exploration and exploitation (He & Wong, 2004;
+Stokes (1997) advocated use-inspired basic research, or Pasteur's
+quadrant research, and encouraged academia to develop a balance between work on
+knowledge creation, for the purpose of exploring understanding of natural phenomena, and work on knowledge
+utilization, to the end of exploiting scientific knowledge for its practical use. However, Pasteur's
+quadrant provides little insight into how organizational structures,
+strategies, and processes can be created so both knowledge creation and
+knowledge utilization can be pursued in universities simultaneously. Tackling
+organizational development, other researchers have argued that ambidextrous structures could be constructed by an organization
+to coordinate a mix of
+activities that foster both exploration and exploitation (He & Wong, 2004;
 Lavie, Stettner, & Tushman, 2010), research publication and research
 commercialization (Chang, Yang, Martin, Chi, & Tsai-Lin, 2016) , or
 alignment and adaptability (Gibson & Birkinshaw, 2004; Raisch &
-Birkinshaw, 2008; Tushman & O\'Reilly, 1996). For the universities, they
-could develop a *Pasteurian orientation (PO)* for balance between
-knowledge creation and knowledge utilization to respond to the rise of
-entrepreneurial universities, which is inspired by the concept of
+Birkinshaw, 2008; Tushman & O\'Reilly, 1996). In any case, universities
+need to develop a *Pasteurian orientation (PO)* to establish a balance between
+knowledge creation and knowledge utilization and respond to the call for an
+entrepreneurial professoriate, inspired by the concept of
 Pasteur's quadrant and organizational ambidexterity. Moreover, the
 universities with the new organizational practice for entrepreneurial
 universities could facilitate collective actions by building the
