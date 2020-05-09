@@ -27,7 +27,7 @@ into entrepreneurial university. Policy and managerial implications are
 also suggested.
 
 **Keywords**: Entrepreneurial universities, Pasteurian orientation,
-knowledge creation, knowledge utilization, Collective efficacy
+knowledge creation, knowledge utilization, collective efficacy
 
 **1. Introduction**
 
