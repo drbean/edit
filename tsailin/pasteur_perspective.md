@@ -31,15 +31,15 @@ knowledge creation, knowledge utilization, collective efficacy
 
 **1. Introduction**
 
-The increase of entrepreneurial universities in the past few decades has
-stimulated investigation in fields of the new economics of science
-(Merton, 1968; Partha & David, 1994; Stokes, 1997), the
-university-industry linkage (D'Este & Patel, 2007; Stankiewicz, 1986),
+The rise of entrepreneurial universities in the past few decades has
+stimulated investigation by researchers studying the new economics of science
+(Merton, 1968; Partha & David, 1994; Stokes, 1997), 
+university-industry linkages (D'Este & Patel, 2007; Stankiewicz, 1986),
 the triple helix model (Etzkowitz & Leydesdorff, 2000), and academic
-entrepreneurship (Etzkowitz, 2003; Shane, 2004). Along with reforms in
+entrepreneurship (Etzkowitz, 2003; Shane, 2004). They have elaborated how, with reforms in
 science and technology policy, universities have gradually developed
 multiple infrastructures with closer and more productive relationships
-with industry in order to provide a fundamental economic and social
+with industry in order to provide a more fundamental economic and social
 contribution to society (Etzkowitz, 1998).
 
 When universities are encouraged to nurture entrepreneurial habits, they
