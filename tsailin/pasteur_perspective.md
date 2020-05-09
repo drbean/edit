@@ -1,29 +1,29 @@
-**Reconciling Conflicts between Knowledge Creation and Knowledge
-Utilization at Entrepreneurial Universities: The Pasteurian Orientation
+**Reconciling Conflict between Knowledge Creation and Knowledge
+Utilization at Entrepreneurial Universities: A Pasteurian Orientation
 Perspective**
 
 **Abstract**
 
-This paper develops the concept of Pasteurian orientation (PO), which
-reflects university departments\' reform on organizational strategies
-and structures to achieve both knowledge creation and knowledge
-utilization simultaneously in the new era of entrepreneurial
-universities. Furthermore, we elaborate on a model that consists of four
-major hypotheses and developing PO as a mediator between organizational
-antecedents and collective efficacy. The paper collects a dataset of 634
+This paper develops the concept of the Pasteurian orientation (PO) as the best approach
+to understanding reforms by university departments of their organizational strategies
+and structures to foster both knowledge creation and knowledge
+utilization in the new era of the entrepreneurial
+university. We put forward a model and four
+major hypotheses that posit PO as a mediator between a department's organizational
+antecedents and collective departmental efficacy. The paper reports a dataset of responses from 634
 department administrators and non-administrative faculty members from 99
-departments among six Taiwanese universities via a postal questionnaire
-survey. The regression results indicate that organizational munificence
-and organizational flexibility as the contextual antecedents are
-positively associated with PO development in departments. Knowledge
-creation is a significant contributor to develop knowledge utilization.
-PO development is positively associated with departmental collective
-efficacy. Also, balancing knowledge creation and knowledge utilization
-with PO development has a positive mediating effect on the relationship
-between contextual antecedents and collective efficacy. This paper
-concludes that developing PO of university departments acts as a crucial
-factor in facilitating departments toward the transformation of
-entrepreneurial universities. Policy and managerial and implications are
+departments at six Taiwanese universities collected via a postal questionnaire
+survey. Regression results indicate that organizational munificence
+and organizational flexibility, as contextual antecedents, are
+positively associated with a department's PO development, at the same time as knowledge
+creation is a significant contributor to development of knowledge utilization.
+PO development is also positively associated with departmental collective
+efficacy, and balancing knowledge creation and knowledge utilization
+by means of PO development has a positive mediating effect on the relationship
+between contextual antecedents and this collective efficacy. The paper
+concludes that developing the PO of university departments acts as a crucial
+factor in facilitating their role in the transformation from traditional university
+into entrepreneurial university. Policy and managerial implications are
 also suggested.
 
 **Keywords**: Entrepreneurial universities, Pasteurian orientation,
