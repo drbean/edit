@@ -42,16 +42,16 @@ multiple infrastructures with closer and more productive relationships
 with industry in order to provide a more fundamental economic and social
 contribution to society (Etzkowitz, 1998).
 
-When universities are encouraged to nurture entrepreneurial habits, they
-still face severe problems of balancing between old and new missions,
-knowledge creation and knowledge utilization, and traditional and new
+When universities are encouraged to develop entrepreneurial habits, they
+still face severe problems balancing old and new missions,
+choosing between knowledge creation and knowledge utilization, and finding traditional and new
 sources of support (Clark, 2004; Van Looy et al., 2011). Although the
-tensions impede traditional universities transforming into more
-entrepreneurial, many universities have attempted to create favorable
-contexts for reconciling these dual activities by providing new
-organizational changes such as university's leadership, climate, formal
-incentives, technology transfer office's support, and promoting
-faculty's engagement (Klofsten et al., 2019; Perkmann et al., 2013).
+tensions impede the transformation of traditional universities into more
+entrepreneurial ones, many universities have attempted to create favorable
+contexts for these dual activities by providing new
+organizational changes, including in university leadership, climate, formal
+incentives, technology transfer office support, and 
+faculty engagement promotion (Klofsten et al., 2019; Perkmann et al., 2013).
 
 Stokes (1997) proposed the use-inspired basic research or Pasteur's
 quadrant research to encourage academia to develop a balancing work on
