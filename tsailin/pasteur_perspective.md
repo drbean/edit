@@ -48,7 +48,7 @@ choosing between knowledge creation and knowledge utilization, and finding tradi
 sources of support (Clark, 2004; Van Looy et al., 2011). Although the
 tensions impede the transformation of traditional universities into more
 entrepreneurial ones, many universities have attempted to create favorable
-contexts for these dual activities by providing new
+contexts for these dual tracks by providing new
 organizational changes, including in university leadership, climate, formal
 incentives, technology transfer office support, and 
 faculty engagement promotion (Klofsten et al., 2019; Perkmann et al., 2013).
