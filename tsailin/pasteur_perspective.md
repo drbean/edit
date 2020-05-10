@@ -92,22 +92,22 @@ Conclusions and implications are presented.
 
 **2. Theoretical Model**
 
-**2.1 The rise and conflicts in creating entrepreneurial universities **
+**2.1 The rise of and conflicts in the entrepreneurial university **
 
-On the initiative of developing the entrepreneurial university, *the new
-economics of science approach* argues that university research could not
-only contribute to knowledge creation but also supports the development
-of the knowledge application with economic benefits (Nelson, 2004;
-Partha & David, 1994; Stokes, 1997). Moreover, *the triple-helix
-approach* emphasizes that developing an entrepreneurial university could
-promote effective interactions between academia, industry, and
-government which forms a better regional and national innovation systems
-to support industrial innovation (Etzkowitz, 2003; Shane, 2004). In
-other words, the rise of entrepreneurial universities means that the
-universities should transit to new organizational trajectories for
-embracing the third mission, and coordinate the teaching, research, and
-commercialize works that could meet the expectation for promoting social
-and economic impacts (Chang et al., 2016; Clark, 1998; Etzkowitz, 2017).
+Contributing to the initiative to develop entrepreneurial universities, proponents of *the new
+economics of science approach* argued that university researchers could not
+only be involved in knowledge creation but could also support the development
+of knowledge applications with an economic benefit (Nelson, 2004;
+Partha & David, 1994; Stokes, 1997). For their part, advocates of *the triple-helix
+approach* emphasized that developing an entrepreneurial university could
+promote effective interaction between academia, industry, and
+government and result in better regional and national innovation systems
+supporting industrial innovation (Etzkowitz, 2003; Shane, 2004). In
+other words, the call for entrepreneurial universities implied that the
+professoriate should transit to new organizational trajectories 
+and embrace a third mission, coordinated alongside the traditional ones of teaching and research, of
+commercializing work that would have a social
+and economic impact meeting the expectations of society (Chang et al., 2016; Clark, 1998; Etzkowitz, 2017).
 
 However, in the developing entrepreneurial universities, it may induce
 some tensions with the traditional goals and norms of science (Ambos,
