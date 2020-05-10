@@ -53,14 +53,14 @@ organizational changes, including in university leadership, climate, formal
 incentives, technology transfer office support, and 
 faculty engagement promotion (Klofsten et al., 2019; Perkmann et al., 2013).
 
-Stokes (1997) advocated use-inspired basic research, or Pasteur's
+Stokes (1997) advocated use-inspired basic research, calling it Pasteur's
 quadrant research, and encouraged academia to develop a balance between work on
 knowledge creation, for the purpose of exploring understanding of natural phenomena, and work on knowledge
 utilization, to the end of exploiting scientific knowledge for its practical use. However, Pasteur's
 quadrant provides little insight into how organizational structures,
 strategies, and processes can be created so both knowledge creation and
 knowledge utilization can be pursued in universities simultaneously. Tackling
-organizational development, other researchers have argued that ambidextrous structures could be constructed by an organization
+organizational development, other researchers have argued that ambidextrous structures could be established by an organization
 to coordinate a mix of
 activities that foster both exploration and exploitation (He & Wong, 2004;
 Lavie, Stettner, & Tushman, 2010), research publication and research
