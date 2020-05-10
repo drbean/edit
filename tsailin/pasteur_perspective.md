@@ -70,11 +70,11 @@ Birkinshaw, 2008; Tushman & O\'Reilly, 1996). In any case, universities
 need to develop a *Pasteurian orientation (PO)* to establish a balance between
 knowledge creation and knowledge utilization and respond to the call for an
 entrepreneurial professoriate, inspired by the concept of
-Pasteur's quadrant and organizational ambidexterity. Moreover, the
-universities with the new organizational practice for entrepreneurial
-universities could facilitate collective actions by building the
-efficacy belief to convince faculty members of the universities engaging
-in (Aschhoff & Grimpe, 2014; Jain, George, & Maltarich, 2009).
+Pasteur's quadrant and organizational ambidexterity. This will allow
+universities following the new organizational practices of the entrepreneurial
+university to facilitate collective action by faculty members, as it builds their
+efficacy beliefs and convinces them of the value of engaging
+in academic-industry cooperation (Aschhoff & Grimpe, 2014; Jain, George, & Maltarich, 2009).
 
 As the focal unit of a university, university department plays an
 influential role in not only a performing unit in knowledge creation and
