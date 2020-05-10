@@ -136,14 +136,14 @@ Park, 2010; Jain et al., 2009).
 **2.2 Pasteurian orientation: Combining Pasteur's quadrant and
 organizational ambidexterity**
 
-In creating entrepreneurial universities, coordinating the conflicts in
-an organizational setting between academic and industrial logics are
-critical work. Stokes (1997) proposed the framework of Pasteur's
-quadrant to transform the spectrum of the strategic direction of
-scientific research into a quadrant model. Stokes (1997) folded the two
-ends of the line model into two axes of the quadrant model. One is
-knowledge creation, which means enhancing the understanding of the
-knowledge frontier of human beings. Another one is knowledge
+In creating entrepreneurial universities, coordinating the conflict in
+an organizational setting between the academic and industrial logics is
+critical work. Stokes (1997) proposed a framework that helps here,
+transforming the straight-line spectrum along which the strategic direction of
+scientific research ranges into a two-dimensional quadrant model. Stokes (1997) folded the two
+ends of the line model into the two orthogonal axes of a quadrant model. One axis is
+knowledge creation, which means enhancing our understanding of the
+world and pushing back the frontiers of knowledge. The other one is knowledge
 utilization, which means resolving specific technical or social problems
 and realizing the market potential of innovation (Figure 1).
 
