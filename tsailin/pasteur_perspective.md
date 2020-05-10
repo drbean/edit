@@ -109,27 +109,27 @@ and embrace a third mission, coordinated alongside the traditional ones of teach
 commercializing work that would have a social
 and economic impact meeting the expectations of society (Chang et al., 2016; Clark, 1998; Etzkowitz, 2017).
 
-However, in the developing entrepreneurial universities, it may induce
-some tensions with the traditional goals and norms of science (Ambos,
+However, development of the entrepreneurial university leads in directions that are
+in tension with the traditional goals and norms of science (Ambos,
 Mäkelä, Birkinshaw, & D\'Este, 2008; Haas & Park, 2010; Jain et al.,
 2009; Philpott, Dooley, O\'Reilly, & Lupton, 2011). The critical problem
-is the inherent conflicts between traditional academic (e.g., talent
+is the inherent conflict between traditional academic paradigms (e.g., talent
 training, publishing academic results, and pursuing academic reputation)
-and industrial or entrepreneurial paradigms (e.g., consulting, contract
-research, patenting and licensing the research results, spin-off
+and industrial or entrepreneurial ones (e.g., consulting, contract
+research, patenting and licensing research results, spin-off
 formation, and pursuing economic and societal returns). From the
-organizational development perspective, those two have different
-organizational settings as the two ends of a spectrum of scientist's
-work (Philpott et al., 2011; Sauermann & Stephan, 2013). Academic logics
-tend to focus on basic and curiosity-oriented research (Ambos et al.,
-2008). Industrial logics relatively undertake less risk and direct
-commercial research. Second, they have different norms of knowledge
-dissemination (Kalar & Antoncic, 2015). Academic logics tend to
-encourage open disclosure and the contribution to scientific commons. On
-the other hand, industrial logics seeks beneficial ownership and
+organizational development perspective, the two paradigms have different
+organizational settings at the two ends of a spectrum of scientific
+work (Philpott et al., 2011; Sauermann & Stephan, 2013). Academic logic
+implies a focus on basic and curiosity-oriented research (Ambos et al.,
+2008). Industrial logic, relatively speaking, leads to undertakings involving less risk and more direct
+commercial research. Second, the two follow different norms of knowledge
+dissemination (Kalar & Antoncic, 2015). Academic logic tends to
+encourage open disclosure and contribution to the scientific commons. On
+the other hand, industrial logic seeks beneficial ownership and
 privatization of intellectual property. These organizational conflicts
-may impede universities from transforming towards more entrepreneurial
-orientation, and many efforts can be found to encourage universities to
+may impede universities' moves towards a more entrepreneurial
+orientation, and much effort may be needed to encourage universities to
 engage in research commercialization (Bercovitz & Feldman, 2008; Haas &
 Park, 2010; Jain et al., 2009).
 
