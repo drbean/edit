@@ -76,18 +76,18 @@ university to facilitate collective action by faculty members, as it builds thei
 efficacy beliefs and convinces them of the value of engaging
 in academic-industry cooperation (Aschhoff & Grimpe, 2014; Jain, George, & Maltarich, 2009).
 
-As the focal unit of a university, university department plays an
-influential role in not only a performing unit in knowledge creation and
-knowledge utilization but also an illustrated organizational cognition
-to reshape the behaviors in the group or the individual(Gustafsson &
-Autio, 2011). Therefore, this study aims to explore the relations among
-the university's context, the PO development, and collective efficacy at
-university department level. This paper is organized as follows. After
-the introduction, the theoretical framework between organizational
+As a focal unit in the work of a university, a university department plays an
+influential role not only with its achievements in knowledge creation and
+knowledge utilization but also in its identity as an illustrated organizational cognitive complex
+reshaping the behaviors of the group and the individual (Gustafsson &
+Autio, 2011). Therefore, the aim of this study is to explore the relations among
+a university's context, PO development, and collective efficacy at
+the university department level, linking those achievements with its identity. The paper is organized as follows. After
+an introduction, a theoretical framework connecting organizational
 antecedents, PO construct, and collective efficacy is proposed. Thirdly,
-the data, variables, and data analysis are illustrated. The descriptive
-statistics, correlations, and regression models are shown. Finally, the
-empirical research results compared to previous studies are discussed.
+data, variables, and data analysis are presented. Descriptive
+statistics, correlations, and regression models are included. Finally, 
+our empirical research results are discussed and compared to those of previous studies.
 Conclusions and implications are presented.
 
 **2. Theoretical Model**
