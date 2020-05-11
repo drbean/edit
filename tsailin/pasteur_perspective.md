@@ -153,17 +153,17 @@ Insert Figure 1 Here
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
 
-Expressly, the upper-left cell referred to as *Bohr's quadrant* focuses
-on basic research with little consideration of the practical
+Research in the upper-left cell, referred to as *Bohr's quadrant*, is
+basic research pursued with little consideration of its practical
 application. The lower-right cell, called *Edison's quadrant*,
-concentrates on research directed towards technology development, which
-seeks more efficient knowledge utilization. Moreover, for the lower-left
-quadrant, Stokes (1997) cited Peterson's quadrant to indicate research
-that contains neither the creation nor the use of knowledge. Finally,
-Stokes (1997) proposed the concept of *Pasteur's quadrant*, which
-focuses on the use-inspired basic research to encourage that academic
-scientists search them both to explore the understanding of scientific
-knowledge and to exploit the technologies for meeting practical needs.
+characterizes research directed towards technological development which
+seeks more efficient knowledge utilization. The lower-left
+quadrant Stokes (1997) called Peterson's quadrant and indicates research
+that neither creates new knowledge nor extends the use of existing knowledge. Finally,
+in  *Pasteur's quadrant* is
+use-inspired basic research, which Stokes (1997) proposed academic
+scientists should be encouraged to pursue, both exploring scientific understanding
+and exploiting it as technology to meet practical needs.
 
 From the underpin of organizational ambidexterity (Tushman and O'Reilly,
 1996; Raisch and Birkinshaw, 2008), universities developing toward the
