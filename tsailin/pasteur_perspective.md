@@ -186,14 +186,14 @@ PO= KCO\*KUO..............................Equation 1
 
 Furthermore, each sub-orientation consists of *organizational support*
 and *faculty engagement*. *Organizational support* is associated with
-organizational resources, incentives, and supervisor and colleague's
+organizational resources, incentives, and supervisor and colleague
 consensus (Bercovitz & Feldman, 2008; Datta, Mukherjee, & Jessup, 2015)
 to support knowledge creation and knowledge utilization. *Faculty
-engagement* shows the faculty members' intention and capabilities
-regarding time, awareness, experience, and research portfolio engaged in
-their knowledge creation and knowledge utilization (Chang, Yang, & Chen,
+engagement* represents faculty members' intentions and capabilities
+regarding time, awareness, experience, and research portfolios in
+their knowledge creation and knowledge utilization activities (Chang, Yang, & Chen,
 2009; Jain et al., 2009). We can draw a figure to illustrate the
-composition of the PO (Figure 2).
+composition of PO (Figure 2).
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
 
