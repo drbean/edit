@@ -165,19 +165,19 @@ use-inspired basic research, which Stokes (1997) proposed academic
 scientists should be encouraged to pursue, both exploring scientific understanding
 and exploiting it as technology to meet practical needs.
 
-From the underpin of organizational ambidexterity (Tushman and O'Reilly,
-1996; Raisch and Birkinshaw, 2008), universities developing toward the
-Pasteur's quadrant are expected to create ambidextrous structures and
-contexts to pursue research excellence and research commercialization
-simultaneously. By re-conceptualization of Pasteur's quadrant and
-organizational ambidexterity, this paper argues Pasteurian Orientation
-(PO) includes two sub-orientations: the knowledge creation orientation
-(KCO) and the knowledge utilization orientation (KUO) which deploys the
-two dimensions represent two major distinctive activities in
-entrepreneurial universities. Moreover, the PO is equivalent to the
-knowledge creation orientation multiplied by the knowledge creation
-orientation and the knowledge utilization orientation, as shown in
-Equation 1(Gibson & Birkinshaw, 2004). Correctly, the PO could be
+Universities moving in the direction of
+Pasteur's quadrant need to create ambidextrous structures and
+contexts that can underpin the pursuit of research excellence and research commercialization
+simultaneously (Tushman and O'Reilly,
+1996; Raisch and Birkinshaw, 2008).  In a re-conceptualization of Pasteur's quadrant and
+organizational ambidexterity that extends analysis of these ambidextrous structures and contexts, this paper argues Pasteurian Orientation
+(PO) includes two sub-orientations: a knowledge creation orientation
+(KCO) and a knowledge utilization orientation (KUO), creating a two-dimensional plane on which the
+major activities which distinguish a
+entrepreneurial university can be mapped. Moreover, we posit the effect of the two orientations is multiplicative and that PO is equivalent to the
+knowledge creation orientation multiplied by the 
+knowledge utilization orientation, as shown in
+Equation 1 (Gibson & Birkinshaw, 2004). Conceptually, the PO could be
 regarded as *the organizational propensity to develop organizational
 strategies, processes, and structures to achieve, simultaneously,
 knowledge creation and knowledge utilization*.
