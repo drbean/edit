@@ -172,7 +172,7 @@ simultaneously (Tushman and O'Reilly,
 1996; Raisch and Birkinshaw, 2008).  In a re-conceptualization of Pasteur's quadrant and
 organizational ambidexterity that extends analysis of these ambidextrous structures and contexts, this paper argues Pasteurian Orientation
 (PO) includes two sub-orientations: a knowledge creation orientation
-(KCO) and a knowledge utilization orientation (KUO), creating a two-dimensional plane on which the
+(KCO) and a knowledge utilization orientation (KUO), creating a two-dimensional surface on which the
 major activities which distinguish a
 entrepreneurial university can be mapped. Moreover, we posit the effect of the two orientations is multiplicative and that PO is equivalent to the
 knowledge creation orientation multiplied by the 
