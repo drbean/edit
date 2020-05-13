@@ -313,45 +313,45 @@ utilization. Thus:
 > departments has a positive influence on their development of knowledge
 > utilization orientation.*
 
-However, developing entrepreneurial university does not only creates a
-new organizational arrangement, or ambidextrous/hybrid organizations
-(Ambos et al., 2008; Etzkowitz, 2017; Guerrero & Urbano, 2012) but also
-promotes the self-efficacy on the new paradigm (Bouncken, 2018). As the
-focal unit in universities, self-efficacy on the new paradigm of
-university departments have strong peer influence on faculty members'
-decisions and behavior (Aschhoff & Grimpe, 2014; Jain et al., 2009) as
-departmental collective efficacy(Stajkovic, Lee, & Nyberg, 2009; Watson,
-Chemers, & Preiser, 2001). The collective efficacy represents the
-self-efficacy at the group level, which is defined as a group's shared
+However, developing a entrepreneurial university does not only create a
+new organizational arrangement, or ambidextrous/hybrid organization
+(Ambos et al., 2008; Etzkowitz, 2017; Guerrero & Urbano, 2012). It also
+promotes self-efficacy in the new paradigm (Bouncken, 2018). As a
+focal unit in the university, self-efficacy in the new paradigm in a
+university department has a strong influence on faculty member peers
+and on their decisions and behavior (Aschhoff & Grimpe, 2014; Jain et al., 2009) as
+departmental collective efficacy (Stajkovic, Lee, & Nyberg, 2009; Watson,
+Chemers, & Preiser, 2001). Collective efficacy represents
+self-efficacy at the group level, and is defined as a group's shared
 belief in its conjoint capabilities to organize and execute the actions
-required to produce given levels of attainments (Bandura, 1997, 2000). A
-high degree of collective efficacy represents an organization has
-functional organizational readiness, which could internalize new
-organizational practices into the routines to pursue the goals of the
-organization when the organization is transforming (Bandura, 2000;
+required to produce given levels of attainment (Bandura, 1997, 2000). A
+high degree of collective efficacy indicates an organization has
+functional organizational readiness, and has been able to internalize new
+organizational practices into its routines to pursue the goals of the
+organization as the organization transforms itself (Bandura, 2000;
 Barrick, Thurgood, Smith, & Courtright, 2015; Holt & Vardaman, 2013).
-University departments develop PO organizational propensity, which
-combined knowledge creation orientation (KCO) and knowledge utilization
-orientation (KUO), represents they try to develop the new organizational
-practices by reshipment to the paradigm of the entrepreneurial
-universities(Leih & Teece, 2016). Moreover, departmental collective
-efficacy demonstrates that the members collectively judge the
-effectiveness of organizational transformation to pursue research
-excellence and research commercialization in the department. By the
-development of PO, strong organizational support, and faculty engagement
-on both knowledge creation and commercialization could conjointly
-enhance departmental collective efficacy with a favor departmental
-practices in the implementation of entrepreneurial universities. Thus:
+University departments develop PO organizational propensity, 
+combining knowledge creation orientation (KCO) and knowledge utilization
+orientation (KUO), and this propensity represents their attempts to develop new organizational
+practices by reshapement to the paradigm of the entrepreneurial
+university (Leih & Teece, 2016). Moreover, departmental collective
+efficacy indicates that the department's members collectively judge they now are
+organized to effectively pursue research
+excellence and research commercialization in the department. By means of the
+development of PO, strong organizational support and faculty engagement
+in both knowledge creation and knowledge commercialization can conjointly
+enhance departmental collective efficacy with favorable departmental
+practices in the development of the entrepreneurial university Thus:
 
 > *Hypothesis 4： University departments with a higher propensity of PO
-> are associated with higher level of departmental collective efficacy.*
+> are associated with a higher level of departmental collective efficacy.*
 >
-> *Hypothesis 4a：University departments have a knowledge creation
-> orientation is associated with higher level of departmental collective
+> *Hypothesis 4a：University departments having a knowledge creation
+> orientation are associated with a higher level of departmental collective
 > efficacy.*
 >
-> *Hypothesis 4b：University departments have a higher knowledge
-> utilization orientation is associated with higher level of
+> *Hypothesis 4b：University departments having a higher knowledge
+> utilization orientation are associated with a higher level of
 > departmental collective efficacy.*
 
 **2.5 Mediating Effect of Pasteurian orientation**
