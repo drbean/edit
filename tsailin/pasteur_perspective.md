@@ -289,24 +289,24 @@ organizational flexibility to promote KUO and KCO simultaneously. Thus:
 **2.4 Pasteurian orientation and departmental collective efficacy**
 
 Since Stokes (1997) proposed Pasteur's quadrant and the concept of
-use-inspired basic research, it suggests a new direction in which the
-integration of knowledge creation and knowledge utilization could create
-the societal and scientific values in a research agenda. Stokes (1997)
-exampled Louis Pasteur had promoted fundamental knowledge of
-microbiology and commercialized the knowledge into practice using for
-fermentation technology. It means that knowledge creation and knowledge
-utilization are not conflict but complement, and knowledge creation are
-the predominant of knowledge utilization (Etzkowitz, 1983; Shibayama,
-2012). In developing Pasteurian orientation, the universities do not
-intend to compete or replace the role of industry sectors in
-technological development but facilitate the innovation with the
-advanced knowledge which delivers from scientific research (Etzkowitz,
-1983, 2017). Moreover, Glenna et al. (2011) also consider that the
-scientific foundations and advancement of industrial technologies are
-likely to decline when the universities have not sufficient investment
-in pursuing research excellence. Therefore, this paper argues that
+use-inspired basic research, a new direction in science policy has been pursued, in which the
+integration of knowledge creation and knowledge utilization is seen to have value, creating
+both societal and scientific benefits from the one research agenda. Stokes (1997)
+took as his example Louis Pasteur, who had promoted fundamental knowledge in
+microbiology at the same time as he commercialized this knowledge into practice in
+fermentation technology. He showed that knowledge creation and knowledge
+utilization are not in conflict but complementary, even if knowledge creation 
+predominates over knowledge utilization (Etzkowitz, 1983; Shibayama,
+2012). In developing a Pasteurian orientation, the entrepreneurial university does not
+intend to compete with or replace industry in terms of
+technological development but facilitate innovation with the
+advanced knowledge which stems from scientific research (Etzkowitz,
+1983, 2017). At the same time, Glenna et al. (2011) also consider that the
+scientific foundations and advancement of industrial technology are
+likely to decline if universities do not have sufficient investment
+to pursue research excellence. Therefore, this paper argues that
 university departments have to sustain the commitment to knowledge
-creation, then they may have an active development of knowledge
+creation, and that then they may foster active development of knowledge
 utilization. Thus:
 
 > *Hypothesis 3：The knowledge creation orientation of university
