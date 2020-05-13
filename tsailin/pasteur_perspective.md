@@ -203,43 +203,43 @@ Insert Figure 2 Here
 
 **2.3 Contextual antecedents**
 
-For creating entrepreneurial universities, university departments are
-the meso-level unit between institutional contexts of the universities
-and faculty members to perform the integration and engagement in
-changing university paradigm (Ambos et al., 2008; Chang et al., 2016;
+In the creation of the entrepreneurial university, university departments are
+the meso-level unit standing between the institutional contexts of the university
+and its faculty members, performing a crucial role in integration and engagement in
+the changing university paradigm (Ambos et al., 2008; Chang et al., 2016;
 Gibb, Haskins, & Robertson, 2013; Jain et al., 2009). Jain et al. (2009)
-argue that universities with appropriate environmental contexts would
-encourage the internal actors to respond to the transformation of the
-university paradigm (Perkmann et al., 2013). In organizational studies,
-the organizations in higher environmental munificence are more
-accessible to adopt new strategies and structure even stabilize the new
-practices in a turbulent environment (Boyne & Meier, 2009; Keats & Hitt,
-1988). The level of munificence refers as the availability of resource
-and support in the environmental contexts which it could help the
-organizations adopt new practices to sustain organizational growth and
-changes (Dess & Beard, 1984; Goll & Rasheed, 2005; Haveman, 1993). For
-creating entrepreneurial universities, Clark (2004) suggests that the
-managerial group could provide a sustainable commitment to the new
-university paradigm to encourage the internal actors to build an
-integrated context to respond to the changes. O'Reilly and Tushman
-(2008) point out that senior managers could adapt, integrate, and
-reconfigure organizational skills and resources for orchestrating both
-new and existing routines to matching changing environments. Glenna,
-Welsh, Ervin, Lacy, and Biscotti (2011) recommends that university
-administrators should provide sufficient commitment on various incentive
-structures, funding sources, policies, and practices to invest in
-diverse scientific research values. Gibb et al. (2013) consider that
-university administrators could remove barriers and provide abundant
+argue that universities with appropriate environmental contexts will
+encourage internal actors to respond to the transformation of the
+university paradigm (Perkmann et al., 2013). And organizational studies have found
+organizations characterized by greater environmental munificence are more
+open to adopting new strategies and structures, even stabilizing new
+practices in turbulent environments (Boyne & Meier, 2009; Keats & Hitt,
+1988). The level of munificence here refers to the availability of resources
+and support in the environmental context which could help an
+organization adopt new practices to sustain organizational growth and
+changes (Dess & Beard, 1984; Goll & Rasheed, 2005; Haveman, 1993). To
+create the entrepreneurial university, Clark (2004) suggests that a
+managerial group can provide a sustainable commitment to the new
+university paradigm to encourage internal actors to build an
+integrated context that will respond to the changes. O'Reilly and Tushman
+(2008) point out that senior managers can adapt, integrate, and
+reconfigure organizational skills and resources to orchestrate both
+new and existing routines suitable for the changing environment. Glenna,
+Welsh, Ervin, Lacy, and Biscotti (2011) recommend that university
+administrators provide sufficient commitment to a variety of incentive
+structures, funding sources, policies, and practices to allow it to invest in
+a diverse set of scientific research values. Gibb et al. (2013) consider that
+it is possible for university administrators to remove barriers and provide abundant
 resources and support associated with the entrepreneurial paradigm as
-well as carry its existing culture, mission, and strategy. Above all,
-the university administration should continuously create organizational
-munificence to encourage the internal actors to realign with the
-missions of universities (Andrews & Johansen, 2012; Smith, Mitchell, &
+well as carry on its existing culture, mission, and strategy. Above all,
+a university administration should continuously create organizational
+munificence to encourage internal actors to realign with the
+mission of the university (Andrews & Johansen, 2012; Smith, Mitchell, &
 Summer, 1984; Tilcsik, 2014; Wu, 2008). Therefore, this paper argues
-that the senior team (i.e., university administrators) have to provide
-sufficient organizational munificence on pursuing research excellence
-and commercialization, and it would influence that the departments
-enhance and integrate KCO and KUO simultaneously. Thus:
+that the senior team (i.e., university administrators) has to provide
+sufficient organizational munificence to pursue research excellence
+and commercialization, and the degree to which it does this will influence departments'
+enhancement and simultaneous integration of KCO and KUO. Thus:
 
 > *Hypothesis 1：The degree of organizational munificence is positively
 > associated with the development of Pasteurian orientation at
