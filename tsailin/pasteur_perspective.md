@@ -255,22 +255,22 @@ enhancement and simultaneous integration of KCO and KUO. Thus:
 
 Furthermore, Clark (1998) suggests that "universities need to become
 *quicker*, more adaptive and especially more focused in reactions to
-expanding and changing demands." Moreover, Clark (2004) argues that
+expanding and changing demands." In addition, Clark (2004) argues that
 "universities need to develop flexible and adaptive capabilities that
 permit them to weave together new and old, change and continuity, in a
-sustainable form." Various policies, such as the enhancement of
+sustainable form." In line with this call, a variety of policies, such as the enhancement of
 university-industry collaboration and the establishment of academic
-spin-offs, have been widely instituted in universities (Perkmann et al.,
+spin-offs, has been widely instituted in universities (Perkmann et al.,
 2013; Shane, 2004). Also, universities are adjusting their
-infrastructures to establish new units such as technology transfer
+infrastructure, establishing new units such as technology transfer
 offices, technology liaison offices, and university-affiliated
 incubators to support research commercialization (Etzkowitz, 2003;
 Landry, Amara, & Rherrad, 2006). *Organizational flexibility* can be
 seen as the outcome of an interaction between the responsiveness of the
 organizational design and the managerial task (Volberda, 1996). Smith
-and Tushman (2005) argue that organizational flexibility as an
-integrating capability involves shifting levels of analysis to identify
-potential linkage. Therefore, this study argues that these political and
+and Tushman (2005) argue that organizational flexibility, as an
+integrating capability, involves shifting levels of analysis identifying
+potential linkages. Therefore, this study argues that these political and
 infrastructure reforms provide the university department with more
 organizational flexibility to promote KUO and KCO simultaneously. Thus:
 
