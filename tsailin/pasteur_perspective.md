@@ -440,20 +440,20 @@ Insert Table 2 Here
 
 **3.2 Questionnaire development**
 
-There are three parts to the questionnaire. The first part concerns
-contextual antecedents, organizational munificence, and organizational
-flexibility, followed by the PO part and departmental collective
-efficacy part. The six items of organizational munificence focus on the
-investigation of the munificent environment for resource, long-term
-support and strategic objectives in entrepreneurial universities
-(Bercovitz & Feldman, 2008; Clark, 2004; Landry et al., 2006) which are
-perceived by the university departments and the three items of
-organizational flexibility are referred from Volberda (1996). The 14
-items of PO have adapted from Chang et al. (2009). The three items of
-departmental collective efficacy are referred to as Riggs, Warka,
-Babasa, Betancourt, and Hooker (1994). All of the survey items for
-contextual antecedents, PO, and Departmental collective efficacy used a
-7-point Likert-scale.
+A questionnaire was developed with three parts. The first part concerns
+contextual antecedents, namely, organizational munificence, and organizational
+flexibility, and is followed by a PO part and a departmental collective
+efficacy part. The six organizational munificence items focus on the
+investigation of the degree of munificence, in terms of resources, long-term
+support and strategic objectives, enjoyed by the department
+(Bercovitz & Feldman, 2008; Clark, 2004; Landry et al., 2006), as
+perceived by the department, and the three items of
+organizational flexibility are taken from Volberda (1996). The 14
+PO items were adapted from Chang et al. (2009) and the three 
+departmental collective efficacy items were developed referring to Riggs, Warka,
+Babasa, Betancourt, and Hooker (1994). All of the
+contextual antecedents, PO, and departmental collective efficacy survey items used a
+7-point Likert scale.
 
 **3.3 Sampling and Respondents**
 
