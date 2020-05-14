@@ -409,9 +409,9 @@ Insert Figure 3 Here
 Inspired by the U.S. *Bayh-Dole Act* of 1980, Taiwan enacted the
 *Science and Technology Basic Law* in 1999. Specifically, Article 6
 allows universities to claim the ownership of IPRs derived from
-government-funded research and to remove the restrictions allowing a
-more decentralized licensing policy. Similarly, Taiwanese universities
-have increased the number of patent grants and licensing income, and
+government-funded research and removes other restrictions allowing a
+more decentralized licensing policy. Consequently, Taiwanese universities
+have increased their number of patent grants and licensing income, while
 universities are encouraged to develop research partnerships with
 industry (Chang et al., 2008).
 
