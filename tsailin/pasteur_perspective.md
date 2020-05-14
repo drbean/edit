@@ -357,32 +357,32 @@ practices in the development of the entrepreneurial university Thus:
 **2.5 Mediating Effect of Pasteurian orientation**
 
 Prior studies have argued that contextual antecedents can resolve the
-internal tensions, as well as the simultaneous capabilities for
+internal tensions of, as well as develop the simultaneous capabilities for,
 knowledge creation and knowledge utilization (Ambos et al., 2008). This
 study argues that organizational munificence builds the environmental
-capacity to sustain existed and new university missions, and
-*organizational flexibility* creates multiple choices for university
+capacity to sustain existing and new university missions, and
+*organizational flexibility* creates multiple paths for these
 missions, which thereby encourages cross-functional coordination and
 integration between knowledge creation and knowledge utilization.
-Therefore, these antecedents could enhance the efficacy in the
-organization, which has sufficient capabilities to develop the paradigm
-of entrepreneurial universities(Etzkowitz, 2003). However, Gibb et al.
+Therefore, these antecedents may enhance efficacy in an
+organization which is capable of developing according to the paradigm
+of the entrepreneurial university (Etzkowitz, 2003). However, Gibb et al.
 (2013) argue that universities are pluralistic organizations with
 different departments having very different organizational routines,
 orientations, and values. So, in the absence of departmental initiative,
-formal institutional contexts and flexibility may not sufficient to
-inspire the capacity and motivation for departments to take up
-challenges in organizational adjustment for the transition of
-entrepreneurial universities. Rasmussen, Mosey, and Wright (2014) also
-think that university departments also need to evolve their competencies
-to develop new organizational structures, routines, supports, and
-encourage and motive the members to engage in new practices. The concept
-of PO is meant to maintain multiple competencies that address the
+formal institutional contexts and flexibility may not be sufficient to
+inspire a department to develop the capacity or motivation to take up
+challenges in organizational adjustment required to make the transition to the
+entrepreneurial university. Rasmussen, Mosey, and Wright (2014) also
+think that university departments need to cultivate their ability
+to develop new organizational structures, routines and support, and
+to encourage and motivate their members to engage in new practices. Central to the concept
+of PO is the maintaining of the multiple competencies that characterize the
 ambidextrous organization (Etzkowitz, 2003; Gibson & Birkinshaw, 2004;
 Tushman & O\'Reilly, 1996). Therefore, university departments have to
-develop the PO as the organizational capabilities for creating their
-organizational practices, and the departments could employ the
-capabilities to promote departmental collective efficacy in the new
+develop PO as the organizational capability to create
+organizational practices, and then they can employ this
+capability to promote departmental collective efficacy according to the new
 university paradigm. Thus:
 
 > *Hypothesis 5a： Pasteurian orientation mediates the relationship
