@@ -415,14 +415,14 @@ have increased their number of patent grants and licensing income, while
 universities are encouraged to develop research partnerships with
 industry (Chang et al., 2008).
 
-The list of top ten universities in domestic patent grants are shown in
+The list of top ten universities in terms of domestic patent grants is shown in
 Table 1. The primary participants in generating patent grants are public
-universities, and there is also a different pattern of the patent grant
-between public and private universities. Public universities have
+universities, and there is also a different pattern in the patent grants
+of public and private universities. Public universities have
 focused on 'utility' patents, whereas private universities, including
 Far East University, and Southern Taiwan University of Science and
-Technology, have focused on more non-utility patents that reflect their
-natures and features of the inventions. The statistics show a
+Technology, have focused more on non-utility patents that reflect their
+interests and the features of their inventions. Statistics also show a
 substantial increase in paper publication, patenting, licensing, and
 venture incubation between 2006 and 2010 (see Table 2).
 
