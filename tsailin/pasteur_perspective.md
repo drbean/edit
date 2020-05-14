@@ -514,19 +514,19 @@ Insert Table 3 Here
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
 
-Specifically, the respondents include 157 department administrators and
-477 non-administrative faculty members. Some departments have more than
-one administrator answered the questionnaires, such as administrative
-head, chairs of departments or institutes, and directors of
-administrative offices. Overall, there are 70 departments with only one
-administrator who answered the survey. The average number of
-administrators replies per department is 2.20. The answers of all
+Specifically, the respondents included 157 department administrators and
+477 non-administrative faculty members. In some departments, questionnaires were answered by more than
+one administrator, including by administrative
+heads, chairs of departments or institutes, and directors of
+administrative offices. Overall, there were 70 departments where only one
+administrator answered the survey, but the average number of
+administrator replies per department was 2.20. The answers of all
 administrators in the same department were averaged to represent the
-status of the department. Moreover, there are 368 male respondents (83%
+status of the department. In terms of gender, there were 368 male respondents (83%
 of the respondents). There were 342 full professors (54%), 139 associate
-professors (22%), and 133 assistant professors (21%). The working years
-for the respondents are 13.6 years on average. Moreover, there are
-393respondents (62%) who had already received tenures as faculty
+professors (22%), and 133 assistant professors (21%). The length of career
+of the respondents was 13.6 years on average. However, there were
+393 respondents (62%) who had already received tenure as faculty
 members.
 
 **3.4 Measurements**
