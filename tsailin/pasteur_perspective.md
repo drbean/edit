@@ -487,12 +487,12 @@ department-level PO. Specifically, we compute the multiplicative
 interaction between KUO and KCO to reflect the theoretical concept of
 PO.
 
-Moreover, the dimensions KUO and KCO are computed through the
-multiplicative interaction between the o*rganizational support* and
-*faculty engagement*. The compositions of KUO and KCO are based on the
-prior studies that two mechanisms are non-substitutable and
+In addition, the dimensions KUO and KCO are computed through 
+multiplicative interaction between o*rganizational support* and
+*faculty engagement*. This composition of KUO and KCO is based on 
+prior findings that the two mechanisms are non-substitutable and
 interdependent. Finally, the dimension of departmental collective
-efficacy is answered by all of the respondents for each department.
+efficacy is aggregated from the answers of all of the respondents in each department.
 
 The paper built a complete survey list by referring to both university
 websites and the Ministry of Science and Technology academic researcher
