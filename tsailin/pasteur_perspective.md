@@ -496,14 +496,14 @@ efficacy is aggregated from the answers of all of the respondents in each depart
 
 The paper built a complete survey list by referring to both university
 websites and the Ministry of Science and Technology academic researcher
-database. Overall, the total number of the sample in six universities
-was 2,868 faculty members. This study also compared respondents with
+database. Overall, the total size of the sample in the six universities
+was 2,868 faculty members. The study also compared respondents with
 non-respondents, in terms of position (χ^2^= .97, p= .629), age (χ^2^=
 1.00, p= .484), and tenure (χ^2^= .82, p= .945) of respondents,
-indicating non-response bias is minimal. After a three-round survey
-collection, we obtained 711 returned questionnaires, an overall 26%
-response rate. To meet the analysis criteria, we required that at least
-one administrator and four faculty members compose a valid sample of the
+indicating non-response bias was minimal. After a three-round survey
+collection process, we obtained 711 returned questionnaires, an overall 26%
+response rate. To meet our analysis criteria, we required that at least
+one administrator and four faculty members respond to be recognized as a valid sample of the
 department. Finally, there were 634 valid questionnaires, representing
 27 schools and 99 departments. Table 3 provides a brief breakdown of the
 respondents.
