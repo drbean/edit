@@ -457,13 +457,13 @@ contextual antecedents, PO, and departmental collective efficacy survey items us
 
 **3.3 Sampling and Respondents**
 
-Sampling criteria of this study focused on university departments of
-science, engineering, and medical research since they have a higher
-potential to commercialize their research results. In contrast to formal
-activities (i.e., patents, licensing, or spin-offs), the faculty members
-from social science and the humanities were excluded from the survey
-because informal activities (i.e., consultancy, training programs) are
-particularly preferred in these disciplines (Abreu and Grinevich, 2013).
+Sampling in this study focused on university departments of
+science, engineering, and medical research since they have a greater
+ability to commercialize their research results. In contrast to the formal
+activities (i.e., patents, licensing, or spin-offs) undertaken there,
+informal activities (i.e., consultancies, training programs) are
+preferred from faculty members in social science and humanities departments
+(Abreu and Grinevich, 2013) and so these disciplines were excluded from the survey.
 
 Considering the differentiated attributes of organizational contexts and
 comply with the PO, six universities were chosen to represent different
