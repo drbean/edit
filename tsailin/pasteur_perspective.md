@@ -473,19 +473,19 @@ universities (Universities A, B, C & D), one private comprehensive university
 Finally, the original survey list of the 29 schools and 172 departments
 within these universities was prepared, collecting data from their websites.
 
-The data were collected from administrators and faculty members who
-serve for the same department to assess department-level
+Questionnaire responses were collected from administrators and faculty members who
+serve in the same department to assess department-level
 characteristics. In line with multilevel theory, our model consists of
 "shared unit-level constructs" that we presumed to be shared within a
-department (Klein & Koslowski, 2000: 41). Moreover, to avoid the common
+department (Klein & Koslowski, 2000: 41). However, to avoid the common
 method variance (CMV) problem, this paper adopted the following
-questionnaire design. First, the contextual antecedents are answered by
-the administrator(s) and reflect the departmental context. Second, the
-construct of Pasteurian orientation (PO) is answered by all faculty
-members for each department and then aggregated to represent
-department-level PO. Specifically, we computed the multiplicative
+questionnaire design. First, the contextual antecedent questions are answered by
+administrator(s) and reflect the departmental context. Second, the
+Pasteurian orientation (PO) construct questions are answered by all faculty
+members in each department and then aggregated to represent
+department-level PO. Specifically, we compute the multiplicative
 interaction between KUO and KCO to reflect the theoretical concept of
-the PO.
+PO.
 
 Moreover, the dimensions KUO and KCO are computed through the
 multiplicative interaction between the o*rganizational support* and
