@@ -393,8 +393,8 @@ university paradigm. Thus:
 > between organizational flexibility and Departmental collective
 > efficacy.*
 >
-> This study depicts the research framework and the corresponding
-> hypotheses in Figure 3.
+> This study's research framework and the corresponding
+> hypotheses are depicted in Figure 3.
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
 
