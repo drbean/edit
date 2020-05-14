@@ -465,13 +465,13 @@ informal activities (i.e., consultancies, training programs) are
 preferred from faculty members in social science and humanities departments
 (Abreu and Grinevich, 2013) and so these disciplines were excluded from the survey.
 
-Considering the differentiated attributes of organizational contexts and
-comply with the PO, six universities were chosen to represent different
-forms of universities. One medical and three generals in four public
-ones (Universities A, B, C & D), one private and general university
-(University E), and one private and technical university (University F).
-Finally, the original survey list of 29 schools and 172 departments
-within these universities was collected from their websites.
+Because of the differentiation in organizational contexts and
+presumed PO orientation, six universities were chosen to represent the different
+forms of university, four (one medical and three comprehensive) public
+universities (Universities A, B, C & D), one private comprehensive university
+(University E), and one private technical university (University F).
+Finally, the original survey list of the 29 schools and 172 departments
+within these universities was prepared, collecting data from their websites.
 
 The data were collected from administrators and faculty members who
 serve for the same department to assess department-level
