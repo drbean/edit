@@ -533,10 +533,10 @@ members.
 
 **3.4.1 Departmental collective efficacy**
 
-To measure departmental collective efficacy, we collected the subjective
-measures over the three years (2007-2009). The survey asked the
+To measure departmental collective efficacy, we collected subjective
+measures for the three years (2007-2009). The survey asked the
 respondents to 'assess your department/institute's capabilities and
-practices on pursuing research excellence/research commercialization
+practices pursuing research excellence/research commercialization
 over the past three years compared to other equivalent departments.'
 Three original items loaded on a single factor having an eigenvalue of
 1.048 (α = .75) (see Appendix 1).
