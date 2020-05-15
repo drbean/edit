@@ -557,15 +557,15 @@ the above knowledge creation dimensions as the k*nowledge creation
 orientation* (KCO) of departments.
 
 Similarly, we measured knowledge utilization orientation by asking
-faculty members to indicate the degree to which they agree with the
-statements. There are four items loaded on a single factor having an
-eigenvalue of 7.084 (α = .97). We referred to this factor as
+faculty members to indicate the degree to which they agree with the corresponding
+statements. There were four items which loaded on a single factor having an
+eigenvalue of 7.084 (α = .97). We refer to this factor as
 o*rganizational* s*upport for knowledge utilization*. Also, three items
-load on a single factor having an eigenvalue of 1.048 (α =.75). We
-referred to this factor as *faculty engagement in knowledge
-utilization*. We computed multiplicative interaction between the above
+loaded on a single factor having an eigenvalue of 1.048 (α =.75). We
+refer to this factor as *faculty engagement in knowledge
+utilization*. We computed the multiplicative interaction between the above
 knowledge utilization dimensions as *knowledge utilization orientation*
-(KUO) at departments. Finally, we computed the perceived *PO* as the
+(KUO) of departments. Finally, we computed the perceived *PO* as the
 multiplicative interaction between KCO and KUO (see Appendix 1).
 
 3.  **Contextual antecedents**
