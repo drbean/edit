@@ -587,14 +587,14 @@ retained this factor as our *organizational flexibility* measure (see Appendix 1
 
 **3.4.4 Control variables**
 
-This study employed four control variables to reflect the
-characteristics of the departments. First, the ownership is measured by
-the departments are from the public universities. Second, the size is
-measured by the number of faculty members in a department. Then, we used
-the macro-variables to represent the research attribute of the
-departments. We created three "college" variables as the dummy variables
-to represent the colleges whether the departments belonged to
-Engineering, Science, Life Science, and Medical Colleges, respectively
+This study employed three control variables reflecting the
+characteristics of the departments. First, ownership was measured by
+whether the department belonged to a public university or not. Second, size was
+represented by the number of faculty members in the department. Third, we used
+a macro-variable to represent the nature of the discipline of the
+department. We created three "college" variables as dummy variables
+to represent whether a department belonged to an
+Engineering, Science or Life Science and Medical College, respectively
 (Ambos et al., 2008; D'Este & Perkmann, 2011).
 
 **4. Results**
