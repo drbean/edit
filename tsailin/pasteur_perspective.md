@@ -448,7 +448,7 @@ investigation of the degree of munificence, in terms of resources, long-term
 support and strategic objectives, enjoyed by the department
 (Bercovitz & Feldman, 2008; Clark, 2004; Landry et al., 2006), as
 perceived by the department, and the three items of
-organizational flexibility are taken from Volberda (1996). The 14
+organizational flexibility were taken from Volberda (1996). The 14
 PO items were adapted from Chang et al. (2009) and the three 
 departmental collective efficacy items were developed referring to Riggs, Warka,
 Babasa, Betancourt, and Hooker (1994). All of the
