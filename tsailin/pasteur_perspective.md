@@ -570,20 +570,20 @@ multiplicative interaction between KCO and KUO (see Appendix 1).
 
 3.  **Contextual antecedents**
 
-The dimension of contextual antecedents has nine items that were
-perceived by the department administrator(s). In organizational
-munificence, to make question items more specific, three items addressed
-to research excellence while the other three items addressed to research
-commercialization. Three items of the organizational munificence to
-research excellence are loaded onto a single factor having an eigenvalue
-of 2.02 (α = .91) (Appendix 1). Three items of organizational
-munificence to research commercialization are loaded onto a single
-factor having an eigenvalue of 4.73 (α = .97) (Appendix 1). Then, we
-aggregated the two factors as organizational munificence represented the
-level of munificence for old and new missions in entrepreneurial
-universities. Moreover, three items of organizational flexibility load
-on a single factor had an eigenvalue of 3.035 (α =.93). Thus, we
-retained this factor as *organizational flexibility* (see Appendix 1).
+The contextual antecedents part of the questionnaires had nine items that assessed
+the perceptions of department administrator(s). To make the six question items related to organizational
+munificence more specific, three items addressed
+research excellence while the other three items addressed research
+commercialization. The three items about organizational munificence and
+research excellence loaded onto a single factor having an eigenvalue
+of 2.02 (α = .91) (Appendix 1). The three items about organizational
+munificence and research commercialization loaded onto a single
+factor having an eigenvalue of 4.73 (α = .97) (Appendix 1). We
+aggregated the two factors as organizational munificence, the
+level of munificence for the old and new missions of the entrepreneurial
+university. The other three items of organizational flexibility loaded
+on a single factor with an eigenvalue of 3.035 (α =.93). Thus, we
+retained this factor as our *organizational flexibility* measure (see Appendix 1).
 
 **3.4.4 Control variables**
 
