@@ -538,7 +538,7 @@ measures for the three years (2007-2009). The survey asked the
 respondents to 'assess your department/institute's capabilities and
 practices pursuing research excellence/research commercialization
 over the past three years compared to other equivalent departments.'
-Three original items loaded on a single factor having an eigenvalue of
+The three original items loaded on a single factor having an eigenvalue of
 1.048 (α = .75) (see Appendix 1).
 
 **3.4.2 Pasteurian orientation**
