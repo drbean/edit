@@ -599,26 +599,26 @@ Engineering, Science or Life Science and Medical College, respectively
 
 **4. Results**
 
-Table 4 reported the descriptive statistics for the variables. Among
-these 99 departments, the average size of the departments is 21 faculty
-members. There are 53 departments (54%) from engineering colleges,
-followed by 13 departments (13%) from science colleges, 26 departments
-(26%) from life science and medical colleges. The PO is significantly
-and positively correlated with the departmental collective efficacy (β =
+Table 4 reports descriptive statistics for the variables. Among
+the 99 departments, the average size of the departments was 21 faculty
+members. There were 53 departments (54%) from engineering colleges,
+followed by 13 departments (13%) from science colleges, and 26 departments
+(26%) from life science and medical colleges. PO was significantly
+and positively correlated with departmental collective efficacy (β =
 .560, p \< .001) as well as the two contextual antecedents,
 organizational munificence (β = .260, p \< .01) and organizational
 flexibility (β = .172, p \< .10).
 
-With the control variables, the public university is negatively
+As for the control variables, whether the department belonged to a public university was negatively
 correlated to organizational munificence (β = -.200, p \< .05), KUO (β =
 -.459, p \< .001) and departmental collective efficacy (β = -.241, p \<
-.05). Moreover, most are not significantly correlated to the department
-size, except the departments in life and medicine colleges are
-negatively correlated. However, the departments in engineering colleges
-have shown positive and statistically significant relationships with PO
+.05). Most of the variables of interest were not significantly correlated to department
+size, except for departments in life science and medicine colleges where they were
+negatively correlated. The nature of the discipline had more general effects. Whether a department belonged to an engineering college or not
+was positively and statistically significantly related with PO
 (β = .436, *p* \< .01) and departmental collective efficacy (β = .399,
-*p* \< .01). The departments from science colleges are negatively
-correlated with life and medicine colleges (*p* \< .05).
+*p* \< .01). And for affiliations with science and life science and medicine colleges, the
+correlations were negative (*p* \< .05).
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
 
