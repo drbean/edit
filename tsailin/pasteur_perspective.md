@@ -731,24 +731,24 @@ faculty members consistent with the new university paradigm. (Ambos et al.,
 confirm that PO has a robust association with departmental
 collective efficacy.
 
-Third, the PO acts as a mediator between contextual antecedents and
-departmental collective efficacy. Etzkowitz (2003) considers that the
-universities provide equivalent institutional spheres on pursuing
-research excellence and research commercialization could function
-effectively to coordinate the emergence of conflict of interests in
-developing the new paradigm of entrepreneurial universities. Moreover,
-the development of overlapping institutional spheres that encourages the
-development of hybrid entities which they can reconcile seemingly
+Third, PO acts as a mediator between contextual antecedents and
+departmental collective efficacy. Etzkowitz (2003) considers that 
+universities can provide institutional spheres that overlap for pursuing
+research excellence and research commercialization and that these can function
+effectively to regulate emerging conflicts of interest in
+developing the new paradigm of the entrepreneurial university. Moreover,
+the development of overlapping institutional spheres encourages the
+development of hybrid entities which can reconcile seemingly
 contradictory ideas and practices (Schildt & Perkmann, 2017; Tuunainen,
 2005). In our findings, university departments with a high degree of PO
-mean that they could harbor the "opposing" norms and orientations, and
-they have the capabilities to reinterprets the legitimation of harmony
-and mutual reinforcement from each goal. In other words, the
-universities provide sufficient organizational munificence and shape a
-flexible environment that could facilitate the departments to engage in
-multiple missions. They need to develop the PO to coordinate knowledge
+could harbor "opposing" norms and orientations, and
+had the capability to reinterpret these norms and orientations for the legitimation of harmony
+and mutual reinforcement of each goal (Etzkowitz, 2003). In other words, the
+universities provided sufficient organizational munificence and a
+sufficiently flexible environment to facilitate the departments' engagement in
+multiple missions. They needed to develop PO to coordinate knowledge
 creation and knowledge utilization in the new paradigm of
-entrepreneurial universities for better departmental collective
+the entrepreneurial university for better departmental collective
 efficacy.
 
 **6. Conclusion**
