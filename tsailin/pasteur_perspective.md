@@ -641,27 +641,27 @@ relationship with KCO (β = .237, *p* \< .05), KUO (β = .152, *p* \< .10),
 and PO (β = .184, *p* \< .10), respectively. However, H2 is only partially supported due to
 the marginal impact on the development of KUO and PO.
 
-H3 stated that KCO is positively associated with departmental KUO. As
-shown in Table 6, Model 9 confirmed the relationship with strong effect
+H3 states that KCO is positively associated with departmental KUO. As
+shown in Table 6, Model 9 confirms there is a strong relationship between the two components of PO.
 (β = .605, *p* \< .001). Furthermore, H4 predicted that the development
-of the PO would contribute to departmental collective efficacy. For
-observing the sub-effects of KCO and KCO, we also divide the hypothesis
-into H4, H4a, and H4b. As shown in Model 10, Model 11, and Model 12, It
-confirmed that university departments develop KCO (β = .381, *p* \<
-.001), KUO (β = .459, *p* \< .001), and PO (β = .459, *p* \< .001) could
+of PO would contribute to departmental collective efficacy. To
+observe the effects of KCO and KUO, we sub-divided the H4 hypothesis
+into H4a and H4b. Model 10, Model 11, and Model 12
+confirm that university departments developing KCO (β = .381, *p* \<
+.001), KUO (β = .459, *p* \< .001), and PO (β = .459, *p* \< .001) 
 positively enhance their collective efficacy. In other words, H4 is
-fully supported. In the final, H5 attempted to verify the mediating
-effect of PO on the between contextual antecedents and departmental
-collective efficacy. Following the Baron and Kenny (1986), we examined
-separately for the two antecedents as H5a and H5b. Through the results
-of Model 13 and Model 14, it shown PO partially mediated the
+fully supported. Finally, H5 predicted there would be a mediating
+effect of PO on the relationship between contextual antecedents and departmental
+collective efficacy. Following Baron and Kenny (1986), we examined
+separately this hypothesis for munificence and flexibility as H5a and H5b. Through the results
+of Model 13 and Model 14, we see PO partially mediated the
 relationship between organizational munificence (β = .177, *p* \< .05)
-and departmental collective efficacy (β = .414, *p* \< .001). And, in
-Model 15 and Model 16, it also shown PO fully mediated the between the
+and departmental collective efficacy (β = .414, *p* \< .001). And in
+Model 15 and Model 16, it is shown PO fully mediated the relationship between 
 organizational flexibility (β = .081) and departmental collective
 efficacy (β = .442, *p* \< .001) . H5a and H5b are supported, but it is
-worthy to note that the balance of organizational munificence on
-pursuing research excellence and research commercialization still has a
+worthy to note that the balance exerted by organizational munificence on
+pursuing research excellence and research commercialization has 
 partial influence on departmental collective efficacy (Aldwin, 1994;
 Baron & Kenny, 1986).
 
