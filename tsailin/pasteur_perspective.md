@@ -679,39 +679,38 @@ Insert Table 6 Here
 
 **5. Discussion**
 
-By positioning the academic transition on organizational development for
-the rise of entrepreneurial universities, this paper aimed to understand
-an ambidextrous development in university departments (Etzkowitz, 2017).
-The study proposed an organizational propensity, 'Pasteurian
-orientation,' and examined its development and relationships between
-university antecedents and departmental collective efficacy. First, the
-findings suggest that the university munificence and flexibility are
-critical determinants for facilitating the development of Pasteurian
-orientation within departments. This study argues that organizational
-munificence provides necessary legitimacy and support for the
-subordinated departments to redefine their organizational practices
-towards Pasteurian orientation (Powers & McDougall, 2005; Vanaelst et
-al., 2006). Through a significant effect on knowledge creation and
-knowledge utilization, this evidence confirms organizational munificence
-has a secure connection with the engagement of university departments,
-even has a direct effect on departmental collective efficacy
-(Owen-smith, 2005; Perkmann et al., 2013). Furthermore, the result is
-aligned with other organizational contexts that can facilitate or
-transit to ambidextrous structures or Pasteurian orientation in
+By examining the development of ambidexterity in university departments, this paper aimed to understand the academic transitions involved in the organizational changes associated with the rise of the entrepreneurial university,
+(Etzkowitz, 2017).
+The study took an organizational propensity, 'Pasteurian
+orientation,' and examined its development and its relationships
+with university antecedents and departmental collective efficacy. First,
+the study found that university munificence and flexibility are
+important determinants facilitating the development of a Pasteurian
+orientation within departments. These findings suggest that organizational
+munificence provides the subordinated departments the necessary legitimacy and
+support required for them to redefine their organizational practices
+and move towards Pasteurian orientation (Powers & McDougall, 2005; Vanaelst et
+al., 2006). Its significant effect on knowledge creation and
+knowledge utilization confirms that organizational munificence
+has a firm connection with the engagement of university departments,
+and even a direct effect on departmental collective efficacy
+(Owen-smith, 2005; Perkmann et al., 2013). Furthermore, this result is
+aligned with findings that other organizational contexts can facilitate or
+result in ambidextrous structures or Pasteurian orientation in
 universities (Gibson & Birkinshaw, 2004), including shared vision,
-common culture (O'Reilly & Tushman, 2008)and social integration (Jansen,
+common culture (O'Reilly & Tushman, 2008) and social integration (Jansen,
 Tempelaar, van den Bosch, & Volberda, 2009) between the existing (e.g.
 teaching and research) and the new missions (commercialization and
-entrepreneurship). Moreover, there is significant evidence in line with
-Clark\'s (2004)'s survey of the leading entrepreneurial universities,
-which suggested that a more flexible and adaptable organization can
+entrepreneurship). Moreover, there is significant evidence stemming from
+Clark\'s (2004) survey of the leading entrepreneurial universities,
+which suggests that a more flexible and adaptable organization can
 respond to environmental changes and encourage the development of
-'entrepreneurial' universities. Jansen et al. (2009) also suggested that
+entrepreneurality. Jansen et al. (2009) also suggested that
 cross-functional interfaces create a formal integration mechanism that
 can respond to environmental changes. Furthermore, the result is
-consistent with the arguments of past research that universities and
-managers are more flexible and less bureaucratic, and create a
-munificent environment for facilitating their organizational
+consistent with the recommendations of past research that universities and
+managers be more flexible and less bureaucratic, and create a
+munificent environment facilitating organizational
 ambidexterity or Pasteurian orientation (Andrews & Johansen, 2012;
 Friedman & Silberman, 2003; Siegel, Waldman, & Link, 2003; Tilcsik,
 2014; Tushman & O\'Reilly, 1996).
