@@ -715,20 +715,20 @@ ambidexterity or Pasteurian orientation (Andrews & Johansen, 2012;
 Friedman & Silberman, 2003; Siegel, Waldman, & Link, 2003; Tilcsik,
 2014; Tushman & O\'Reilly, 1996).
 
-Second, this paper finds that knowledge creation orientation is
-predominant in developing knowledge utilization orientation, and the two
-orientations can be reconciled via the development of the PO. This
+Second, the paper found that a knowledge creation orientation 
+predominated over the development of a knowledge utilization orientation, but that the two
+orientations could be reconciled via the development of PO. This
 empirical finding is consistent with the argument that research
-excellence and research commercialization are more complementary, rather
-than contradictory, within entrepreneurial universities (Guerrero,
+excellence and research commercialization are complementary rather
+than in conflict, within the entrepreneurial university (Guerrero,
 Urbano, Fayolle, Klofsten, & Mian, 2016; Sengupta & Ray, 2017).
-University departments are suggested to sustain excellent research works
-firstly, and they should create a hybrid context that allows the balance
-of KUO and KCO. Specifically, university departments employ the PO to
+It is suggested that university departments sustain an excellent level of research work
+first, but that they also create a hybrid context that allows a balance
+between KUO and KCO. Specifically, university departments should employ PO to
 create organizational norms, routines, and recognition for leading
-faculty members engaging in the new university paradigm. (Ambos et al.,
-2008; Bercovitz & Feldman, 2008; Chang et al., 2016). Our results
-confirm that the PO has a robust association with departmental
+faculty members consistent with the new university paradigm. (Ambos et al.,
+2008; Bercovitz & Feldman, 2008; Chang et al., 2016), because our results
+confirm that PO has a robust association with departmental
 collective efficacy.
 
 Third, the PO acts as a mediator between contextual antecedents and
