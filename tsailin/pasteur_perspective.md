@@ -626,20 +626,20 @@ Insert Table 4 Here
 
 \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
 
-This study tested the hypotheses using the ordinary least square (OLS)
-regression. H1 predicted that the relationship between the
-organizational munificence and PO, and it was also divided into H1a and
-H1b for observing the influence of organizational munificence on the
-development of KCO and KUO in university departments. As shown in Table
-5, Model 2 and 5 indicated organizational munificence has significantly
+This study tested its hypotheses using ordinary least squares (OLS)
+regression. The first, H1 predicted a relationship between
+organizational munificence and PO, and its sub-hypotheses H1a and
+H1b similarly posited the influence of organizational munificence on the
+development of KCO and KUO. As seen in Table
+5, Model 2 and 5 indicate organizational munificence has a significant
 positive impact on KCO (β = .251, *p* \< .05) and KUO (β = .175, *p* \<
-.05) as well as PO in Model 7 (β = .216, *p* \< .05). H1 is fully
-supported. Moreover, regarding H2, which also states the organizational
-flexibility has a positive influence on the PO. Model 3, Model 6 and
-Model 8 confirmed the organizational flexibility has positive
-contribution on KCO (β = .237, *p* \< .05), KUO (β = .152, *p* \< .10),
-and PO (β = .184, *p* \< .10). However, H2 is partially supported due to
-the impact on the development of KUO and PO.
+.05) and Model 7 shows the same on PO (β = .216, *p* \< .05). H1 is fully
+supported. H2 states that organizational
+flexibility has a positive influence on PO. Model 3, Model 6 and
+Model 8 confirm that organizational flexibility has a positive
+relationship with KCO (β = .237, *p* \< .05), KUO (β = .152, *p* \< .10),
+and PO (β = .184, *p* \< .10), respectively. However, H2 is only partially supported due to
+the marginal impact on the development of KUO and PO.
 
 H3 stated that KCO is positively associated with departmental KUO. As
 shown in Table 6, Model 9 confirmed the relationship with strong effect
