@@ -544,7 +544,7 @@ The three original items loaded on a single factor having an eigenvalue of
 **3.4.2 Pasteurian orientation**
 
 PO is a two-dimension construct comprised of KUO and KCO. It is worth
-noting that all faculty members recognized a Pasteurian orientation in their departments.
+noting that all faculty members perceived their departments to have a Pasteurian orientation.
 We measured knowledge creation orientation by asking faculty
 members to indicate the degree to which they agreed with the corresponding statements.
 Specifically, four items loaded on a single factor having an
