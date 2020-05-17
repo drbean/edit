@@ -4,7 +4,7 @@ Perspective**
 
 **Abstract**
 
-This paper develops the concept of the Pasteurian orientation (PO) as the best approach
+This paper develops the concept of the Pasteurian orientation (PO) as an approach
 to understanding reforms by university departments of their organizational strategies
 and structures to foster both knowledge creation and knowledge
 utilization in the new era of the entrepreneurial
