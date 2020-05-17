@@ -753,16 +753,16 @@ efficacy.
 
 **6. Conclusion**
 
-In the previous studies, it has indicated university departments are
-essential and focal units which shape, lead, and demonstrate to the
-behaviors of faculty members which is reflected on organizational
-identity, norms, learning, and peer reference (Aschhoff & Grimpe, 2014;
-Jain et al., 2009; Perkmann et al., 2013). Unlike previous studies
-focusing on the analysis of institutional (i.e., the passage of
-*Bayh-Dole Act*) or individual (i.e., faculty members) aspects, this
-paper used organizational meso-level, university departments as the unit
-of analysis and suggested their interplay of organizational layers in
-stimulating the development of entrepreneurial universities.
+Previous studies have indicated university departments are
+essential and focal units which shape, lead, and demonstrate the
+behaviors of faculty members, a process which is reflected in organizational
+identity, norms, learning, and peer relationships (Aschhoff & Grimpe, 2014;
+Jain et al., 2009; Perkmann et al., 2013). Taking its cue from these studies and unlike previous entrepreneurial university research
+which has focused on the analysis of institutional (e.g., the passage of
+the *Bayh-Dole Act*) or individual (e.g., faculty member) players, this
+paper used organizational meso-level university departments as the unit
+of analysis and studied their role in the interplay of organizational layers responsible 
+for the development of the entrepreneurial university.
 
 This paper finds that organizational munificence and organizational
 flexibility are critical organizational antecedents. The level of
