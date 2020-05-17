@@ -764,29 +764,29 @@ paper used organizational meso-level university departments as the unit
 of analysis and studied their role in the interplay of organizational layers responsible 
 for the development of the entrepreneurial university.
 
-This paper finds that organizational munificence and organizational
-flexibility are critical organizational antecedents. The level of
-organizational munificence would influence the university departments to
-engage in the new paradigm, and equivalent support to differentiated
-activities of the university's missions could keep a balancing act.
-Moreover, a high degree of organizational flexibility could help
-university departments quickly adopt new practices with no adverse
-influence on existing ones, and it provide agility to align with the new
-paradigm of entrepreneurial universities.
+It found that organizational munificence and organizational
+flexibility are critical organizational antecedents in the development of a Pasteurian orientation (PO). The level of
+organizational munificence influences the degree to which university departments 
+engage in the new paradigm, and even-handed support for the multiplicity
+of activities undertaken in pursuit of the university's goals is a necessary part of its balancing act.
+At the same time, a high degree of organizational flexibility could help
+university departments to develop the agility to align with the new
+paradigm of the entrepreneurial university and to quickly adopt new practices with no adverse
+influence on existing ones.
 
-Moreover, the findings also indicated that the PO is a valuable
-strategic perspective for departmental collective efficacy. The PO acts
+Moreover, the findings also suggest that PO provides valuable
+strategic help for establishing departmental collective efficacy. PO acts
 as a mediator between contextual antecedents and departmental collective
-efficacy, suggesting that the university contextual factors act only as
-a *necessary condition* to promote departments engaging in the new
-paradigm of universities. However, the development of the PO is a
-*sufficient condition*. The paper concludes the concept of PO as highly
-promising for reconciling the conflicts and balance between knowledge
-creation and knowledge utilization in entrepreneurial universities.
+efficacy, indicating that the university's contextual factors act only as
+a *necessary condition* to promoting departmental engagement in the new
+entrepreneurial paradigm, while the development of PO is a
+*sufficient condition*. The paper concludes the concept of PO is well-suited
+for reconciling the conflict and establishing a balance between knowledge
+creation and knowledge utilization in the entrepreneurial university.
 Encouraging organizational contexts with a high level of organizational
-munificence and flexibility that generates dual capabilities for
+munificence and flexibility that generate dual capacities in
 knowledge creation and knowledge utilization may be a critical source of
-competitive advantage for creating entrepreneurial universities.
+competitive advantage when creating one.
 
 This paper advanced our understanding of organizational strategies and
 structures to develop PO at university departments. First, this paper
