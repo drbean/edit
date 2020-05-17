@@ -798,24 +798,24 @@ departments can compose, diagnose, and measure their own PO. Third, it
 confirms the organizational meso-mediation relation between
 contextual factors, PO, and departmental collective efficacy.
 
-Some policy and managerial implications are suggested as follows. The
-nature of universities is characterized to be bureaucratic organizations
-that stress the institutionalization (Clark, 1998), and the resource
-endowments would determine the paths to organizational development
-(Siegel & Wright, 2015). However, the universities also have high
-autonomy and self-organizing system (Martin, 2012). For building the
-paradigm of entrepreneurial universities, university administrators
+The following policy and managerial implications are suggested.
+Universities are characterized as bureaucratic organizations
+that stress institutionalization (Clark, 1998), while resource
+endowments determine the paths to organizational development
+(Siegel & Wright, 2015). However, they also have high
+autonomy and are self-organizing system (Martin, 2012). Building the
+paradigm of the entrepreneurial university, university administrators
 should create a munificent environment and provide a high degree of
-flexibility to encourage departments to reshape organizational
-practices. Moreover, to maintain strategic and structural balances
+flexibility to allow departments to reshape organizational
+practices. However, maintaining a strategic and structural balance
 between old and new missions, and knowledge creation and knowledge
-utilization tasks are never easy. It is necessary to develop the right
+utilization tasks is never easy. It is necessary to develop the right
 degree of integration and coordination among the administrative team,
 colleges, and departments in order to maintain the right balance and a
-coherent action plan. For developing the PO at departments, departmental
-heads may use the proposed construct and measurement to diagnose or
+coherent action plan. To develop PO within departments, departmental
+heads may use the construct and its measurement proposed in this paper to diagnose or
 build up their departments' norms, routines, support, and engagement
-towards PO.
+with PO.
 
 **References**
 
