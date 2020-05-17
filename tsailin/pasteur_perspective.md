@@ -788,14 +788,14 @@ munificence and flexibility that generate dual capacities in
 knowledge creation and knowledge utilization may be a critical source of
 competitive advantage when creating one.
 
-This paper advanced our understanding of organizational strategies and
-structures to develop PO at university departments. First, this paper
+This paper advances our understanding of organizational strategies and
+structures in the development of PO in university departments. First, it
 integrates the Pasteur's quadrant framework and ambidexterity theory
-into a strategic and organizational ability of PO. It also extends the
-application of Pasteur's quadrant framework at the organization level.
+into a strategic and organizational system where PO plays the major role. It also extends the
+application of the Pasteur's quadrant framework at the organization level.
 Second, via the developed construct and measurement of PO, university
-departments could compose, diagnose, and measure their PO. Third, this
-paper confirms the organizational meso-mediation relation between
+departments can compose, diagnose, and measure their own PO. Third, it
+confirms the organizational meso-mediation relation between
 contextual factors, PO, and departmental collective efficacy.
 
 Some policy and managerial implications are suggested as follows. The
