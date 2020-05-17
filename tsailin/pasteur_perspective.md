@@ -1,5 +1,5 @@
 **Reconciling Conflict between Knowledge Creation and Knowledge
-Utilization at Entrepreneurial Universities: A Pasteurian Orientation
+Utilization in the Entrepreneurial University: A Pasteurian Orientation
 Perspective**
 
 **Abstract**
