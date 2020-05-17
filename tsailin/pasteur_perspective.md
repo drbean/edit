@@ -1340,10 +1340,10 @@ orientation and Departmental collective efficacy** ^a^
 |     > exhibitions related to my   |                                   |
 |     > research agenda.            |                                   |
 +-----------------------------------+-----------------------------------+
-| 3.  The industrial firms have     | .842                              |
+| 3.  Industrial firms have         | .842                              |
 |     > shown great interest in     |                                   |
 |     > commercializing my research |                                   |
-|     > and keep the contact.       |                                   |
+|     > and keeping in contact.     |                                   |
 +-----------------------------------+-----------------------------------+
 | *Departmental collective efficacy |                                   |
 | (eigenvalues=1.048, α=.750)*      |                                   |
