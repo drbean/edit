@@ -467,8 +467,8 @@ preferred from faculty members in social science and humanities departments
 
 Because of the differentiation in organizational contexts and
 presumed PO orientation, six universities were chosen to represent the different
-forms of university, four (one medical and three comprehensive) public
-universities (Universities A, B, C & D), one private comprehensive university
+forms of university, four (one medical and three general) public
+universities (Universities A, B, C & D), one private general university
 (University E), and one private technical university (University F).
 Finally, the original survey list of the 29 schools and 172 departments
 within these universities was prepared, collecting data from their websites.
