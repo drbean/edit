@@ -1196,21 +1196,21 @@ orientation and Departmental collective efficacy** ^a^
 | (eigenvalues=2.022, α=.911)*      |                                   |
 +-----------------------------------+-----------------------------------+
 | 1.  My university provides        | .889                              |
-|     > sufficient resource for     |                                   |
-|     > pursuing research           |                                   |
-|     > excellence.                 |                                   |
+|       sufficient resources for    |                                   |
+|       pursuing research           |                                   |
+|       excellence.                 |                                   |
 +-----------------------------------+-----------------------------------+
-| 2.  My university commits         | .885                              |
-|     > long-term support for       |                                   |
-|     > pursuing research           |                                   |
-|     > excellence.                 |                                   |
+| 2.  My university is committed to | .885                              |
+|       long-term support for       |                                   |
+|       pursuing research           |                                   |
+|       excellence.                 |                                   |
 +-----------------------------------+-----------------------------------+
-| 3.  I perceived that university   | .821                              |
-|     > administrators considered   |                                   |
-|     > pursuing research           |                                   |
-|     > excellence is one of        |                                   |
-|     > primary objectives in my    |                                   |
-|     > university.                 |                                   |
+| 3.  I perceive university         | .821                              |
+|       administrators to consider  |                                   |
+|       pursuing research           |                                   |
+|       excellence to be a          |                                   |
+|       primary objective in my     |                                   |
+|       university.                 |                                   |
 +-----------------------------------+-----------------------------------+
 | *Organizational munificence for   |                                   |
 | research                          |                                   |
@@ -1219,41 +1219,41 @@ orientation and Departmental collective efficacy** ^a^
 | α=.971)*                          |                                   |
 +-----------------------------------+-----------------------------------+
 | 4.  My university provides        | .926                              |
-|     > sufficient resource for     |                                   |
-|     > pursuing research           |                                   |
-|     > commercialization.          |                                   |
+|       sufficient resources for    |                                   |
+|       pursuing research           |                                   |
+|       commercialization.          |                                   |
 +-----------------------------------+-----------------------------------+
-| 5.  My university commits         | .843                              |
-|     > long-term support in        |                                   |
-|     > pursuing commercialization. |                                   |
+| 5.  My university is committed to | .843                              |
+|       long-term support for       |                                   |
+|       pursuing commercialization. |                                   |
 +-----------------------------------+-----------------------------------+
-| 6.  I perceived that university   | .857                              |
-|     > administrators considered   |                                   |
-|     > pursuing research           |                                   |
-|     > commercialization is one of |                                   |
-|     > primary objectives in my    |                                   |
-|     > university.                 |                                   |
+| 6.  I perceive university         | .857                              |
+|       administrators to consider  |                                   |
+|       pursuing research           |                                   |
+|       commercialization to be a   |                                   |
+|       primary objective in my     |                                   |
+|       university.                 |                                   |
 +-----------------------------------+-----------------------------------+
 | *Organization flexibility         |                                   |
 | (eigenvalues=3.035, α=.933)*      |                                   |
 +-----------------------------------+-----------------------------------+
 | 1.  My university authorized my   | .829                              |
-|     > department could frequently |                                   |
-|     > set up cross-functional     |                                   |
-|     > committees to reconfigure   |                                   |
-|     > inappropriate regulations.  |                                   |
+|       department to frequently    |                                   |
+|       set up cross-functional     |                                   |
+|       committees to reconfigure   |                                   |
+|       inappropriate regulations.  |                                   |
 +-----------------------------------+-----------------------------------+
 | 2.  My university authorized my   | .824                              |
-|     > department could frequently |                                   |
-|     > set up cross-functional     |                                   |
-|     > committees to respond to    |                                   |
-|     > ongoing external            |                                   |
-|     > opportunities.              |                                   |
+|       department to frequently    |                                   |
+|       set up cross-functional     |                                   |
+|       committees to respond to    |                                   |
+|       ongoing external            |                                   |
+|       opportunities.              |                                   |
 +-----------------------------------+-----------------------------------+
 | 3.  My university authorized my   | .821                              |
-|     > department could rapidly    |                                   |
-|     > adjust the priority of      |                                   |
-|     > goals.                      |                                   |
+|       department to rapidly       |                                   |
+|       adjust the priority of      |                                   |
+|       goals.                      |                                   |
 +-----------------------------------+-----------------------------------+
 | *Organizational support for       |                                   |
 | Knowledge creation (              |                                   |
@@ -1300,30 +1300,30 @@ orientation and Departmental collective efficacy** ^a^
 | knowledge utilization             |                                   |
 | (eigenvalues=7.084, α=.965)*      |                                   |
 +-----------------------------------+-----------------------------------+
-| 1.  My department has sufficient  | .903                              |
-|     > incentives and supports and |                                   |
-|     > for faculty to apply and    |                                   |
-|     > protect intellectual        |                                   |
-|     > property rights             |                                   |
+| 1.  My department has provided    | .903                              |
+|       sufficient incentives and   |                                   |
+|       support for faculty to      |                                   |
+|       apply for and protect       |                                   |
+|       intellectual property rights|                                   |
 +-----------------------------------+-----------------------------------+
 | 2.  My department has provided    | .946                              |
-|     > sufficient incentives and   |                                   |
-|     > supports for faculty to     |                                   |
-|     > engage in technology        |                                   |
-|     > transfers                   |                                   |
+|       sufficient incentives and   |                                   |
+|       support for faculty to      |                                   |
+|       engage in technology        |                                   |
+|       transfers                   |                                   |
 +-----------------------------------+-----------------------------------+
 | 3.  My department has provided    | .955                              |
-|     > sufficient incentives and   |                                   |
-|     > supports for faculty to     |                                   |
-|     > engage in                   |                                   |
-|     > university-industry         |                                   |
-|     > collaborative research      |                                   |
+|       sufficient incentives and   |                                   |
+|       support for faculty to      |                                   |
+|       engage in                   |                                   |
+|       university-industry         |                                   |
+|       collaborative research      |                                   |
 +-----------------------------------+-----------------------------------+
 | 4.  My department has provided    | .897                              |
-|     > sufficient incentives and   |                                   |
-|     > supports for faculty to     |                                   |
-|     > engage in creating          |                                   |
-|     > spin-offs                   |                                   |
+|       sufficient incentives and   |                                   |
+|       support for faculty to      |                                   |
+|       engage in creating          |                                   |
+|       spin-offs                   |                                   |
 +-----------------------------------+-----------------------------------+
 | *Faculty engagement in knowledge  |                                   |
 | utilization (eigenvalues=1.209,   |                                   |
@@ -1353,7 +1353,7 @@ orientation and Departmental collective efficacy** ^a^
 |     > universities, my department |                                   |
 |     > has excellent capabilities  |                                   |
 |     > and organizational          |                                   |
-|     > practices on the            |                                   |
+|     > practices for the           |                                   |
 |     > implementation of pursuing  |                                   |
 |     > research excellence.        |                                   |
 +-----------------------------------+-----------------------------------+
@@ -1362,7 +1362,7 @@ orientation and Departmental collective efficacy** ^a^
 |     > universities, my department |                                   |
 |     > has excellent capabilities  |                                   |
 |     > and organizational          |                                   |
-|     > practices on the            |                                   |
+|     > practices for the           |                                   |
 |     > implementation of pursuing  |                                   |
 |     > research commercialization. |                                   |
 +-----------------------------------+-----------------------------------+
