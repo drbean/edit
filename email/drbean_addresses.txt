@@ -1,16 +1,10 @@
-Greg_Matheson <drbean@freeshell.org>
+Greg Matheson <greg@nuu.edu.tw>
+
 drbean@sac.nuu.edu.tw
-counterbean@gmail.com
-beancounterbean@yahoo.com
-Greg Matheson <greg@nuu.edu.tw>
-Greg Matheson <greg@nuu.edu.tw>
-Greg Matheson <greg@nuu.edu.tw>
-Greg Matheson <greg@nuu.edu.tw>
-Greg Matheson <greg@nuu.edu.tw>
-Greg Matheson <greg@nuu.edu.tw>
-Greg Matheson <greg@nuu.edu.tw>
-Greg Matheson <greg@nuu.edu.tw>
-Greg Matheson <greg@nuu.edu.tw>
-Greg Matheson <greg@nuu.edu.tw>
-Not Greg Matheson <@nuu.edu.tw>
-Not Greg Matheson <dfdsdsd@nuu.edu.tw>
+
+# Greg_Matheson <drbean@freeshell.org>
+# counterbean@gmail.com
+# beancounterbean@yahoo.com
+# Not Greg Matheson <@nuu.edu.tw>
+# Not drbean <notdrbean@sac.nuu.edu.tw>
+# Not Greg Matheson <dfdsdsd@nuu.edu.tw>
