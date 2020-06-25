@@ -4,26 +4,25 @@ Mari Kitaoka
 
 *Books and the City*:
 
-Social changes featuring *The Jane Austen Book Club*
+Social changes featured in *The Jane Austen Book Club*
 
 Introduction
 
-Karen Joy Fowler's *The Jane Austen Book Club* (2004) is about its five
+Karen Joy Fowler's *The Jane Austen Book Club* (2004) is about the five
 female members,
 
-Jocelyn, Allegra, Prudie, Bernadette, Sylvia, and an only man, Grigg,
-who gather for a monthly book club meeting to discuss Austen's six
+Jocelyn, Allegra, Prudie, Bernadette, Sylvia, and the single male member, Grigg,
+of a book club who gather for monthly meetings to discuss Austen's six
 novels, *Emma*, *Sense and Sensibility*, *Mansfield Park*, *Northanger
 Abbey*, *Pride and Prejudice*, and *Persuasion* from March through
-August, at their homes in the early twenty-first century Central Valley,
+August, at their homes in early twenty-first century Central Valley,
 California.
 
-This essay is about how *The Jane Austen Book Club* is featured by the
-social changes such as the emergence of the third wave feminism which
-promoted the book club trend among American women, Jane Austen's as
-well, and the rise of popular culture including *Sex and the City,* a
-popular American romantic comedy sitcom: situation comedy series, whose
-influences are clearly reflected on the life styles and narratives of
+This essay is about how *The Jane Austen Book Club* portrays such
+social changes as the emergence of third wave feminism, a movement associated with book club discussions among American women of the novels of Jane Austen,
+among others, and the rise of popular culture icons like *Sex and the City,* a
+popular American romantic sitcom series, whose
+influences are clearly reflected in the life styles and narratives of
 the book club members.
 
 Karen Joy Fowler (1950-), an American postmodernist writer says that
