@@ -1,4 +1,0 @@
-$_REPL->load_plugin('DumpHistory')
-use List::Util qw/max sum/; use MyCurry
-my $sum = foldn(sub{ $_[0]+$_[1] })->(0)
-my $product = foldn(sub{ $_[0]*$_[1] })->(1)

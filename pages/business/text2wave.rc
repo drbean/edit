@@ -1,5 +1,0 @@
-use YAML qw/LoadFile DumpFile/;
-my ( $texts, $questions ) = LoadFile('../../dic/data/business.yaml');
-$| = 1;
-use IO::All;
-my $io = io ( "career.txt" );

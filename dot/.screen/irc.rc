@@ -1,4 +1,0 @@
-screen su -c 'v /var/lib/znc/.znc'
-screen weechat-curses -r /iset
-screen
-stuff "su"

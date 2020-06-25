@@ -1,9 +1,0 @@
-use MyStream
-star(unionordered(concat( literal("a"), plus(literal("b"))), literal("c") ))',
-star(unionordered(concat( literal("a"), plus(literal("b"))), literal("c") ))'
-star(unionordered(concat( literal("a"), plus(literal("b"))), literal("c") ))
-show star(unionordered(concat( literal("a"), plus(literal("b"))), literal("c") )), 22
-$_REPL->load_plugin('DumpHistory')
-:dump repl.txt
-use YAML qw/LoadFile DumpFile/
-:dump repl.yaml

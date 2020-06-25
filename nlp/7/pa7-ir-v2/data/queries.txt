@@ -1,4 +1,0 @@
-happiness, surprise, family, adventure
-happiness surprise, family surprise, adventure family, surprise adventure
-happiness, 0; surprise, 1; family, 2; adventure, 3
-happiness surprise, family surprise, adventure family, surprise adventure
