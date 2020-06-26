@@ -104,55 +104,55 @@ members.
 
 Chapter 2 Why Austen?
 
-Jane Austen is attracting huge devotion in America, two centuries after
-her most celebrated novel, *Pride and Prejudice*. Why is this
+Jane Austen still attracts the devotion of readers in America, two centuries after
+her most celebrated novel, *Pride and Prejudice* appeared. Why is the work of this
 nineteenth-century 'English' mannerist writer so appealing to Americans?
 
-It is obvious that it was the Jane Austen book club phenomenon in the
+It is clear that it was the popularity of Jane Austen book clubs in the
 late twentieth century which inspired Fowler, a big fan of Austen, to
 write the novel. In fact, Fowler decided to write the book when she
-realized a sign she saw at a book shop wasn't a book title, but it was
-actually an invitation to one of the real Jane Austen book clubs, which
-was becoming popular in the US.
+realized a sign she saw at a book shop wasn't a book title, but 
+actually an invitation to one of the real Jane Austen book clubs which
+were becoming popular in the US.
 
-According to Jane Austen Society of North America, JASNA, 'Jane Austen
+But, according to the Jane Austen Society of North America, JASNA, 'Jane Austen
 (1775-1817) was never publicly acknowledged as a writer during her
-lifetime.' Austen passed away at the age of forty-one in 1817 with only
+lifetime.' She passed away at the age of forty-one in 1817 with only
 six novels to her name. (Kelly, 2013)
 
-In fact, Austen was out of print and almost out of mind in the 1820's.
-However, she slowly gained fame and popularity.
+In fact, her works were out of print and she was almost completely forgotten in the 1820's,
+before slowly gaining fame and popularity.
 
 In 1870, the family's *Memoir* that was published by Austen's nephew
-caught much attention and by 1890 the first wave of 'Janeites (Jane
-Austen devotees), who have long hoped that 'Austen would take a rightful
+attracted much attention and by 1890 the first wave of Janeites (Jane
+Austen devotees), who hoped that 'Austen would take a rightful
 place next to or near Shakespeare,' had appeared. (Reeves, 2010)
 
 The publication of *The Novels of Jane Austen* (vol.1-5) in 1923, from
-Oxford's Clarendon Press, also shifted Austen from Janeites' fandom idol
-to a writer suitable for critical analysis. (Reeves, 2010)
+Oxford's Clarendon Press, also raised Austen's status from fan idol
+to that of a writer suitable for critical analysis. (Reeves, 2010)
 
-Though Janeites would mostly agree that romance and relationships
-attract them to Austen's world, there seems to be other reasons for
+Though Janeites would mostly agree that it is the romance and relationships
+that attracts them to Austen's world, there seems to be additional reasons for
 their enthusiasm. An American member of JASNA, thinks that Austen's
-popularity in America comes from Anglophile tendency of its people, and
-a longing for the elegance of the time. America is in love with British
+popularity in America comes from an Anglophile tendency of its people, and
+a longing for the elegance of the time. That is, America is in love with British
 culture, most of the time.
 
 (Kelly, 2013)
 
-Janeite, Janeitism, Austenmania, or Janemania, whatever Austen devotees
-are called, they not only read the novels of Austen, but also write
-sequels or spin-offs, either based on Austen's original plot or by
-extending it to create Austen-style fan fictions. At fan events,
+Janeite, Janeitism, Austenmania, or Janemania, in whatever way Austen devotees
+are referred to, they not only read the novels of Austen, but also write
+sequels or spin-offs, either based on Austen's original plots or 
+extending them to create Austen-style fan fiction. At fan events,
 conventions, tea parties, banquets and balls held by JASNA, Janeites
 from around the world enjoy lectures, dance workshops, antique
 exhibitions, with many of the participants in bonnets and early
-nineteenth-century-style costume. Some critics call this fanatic fandom
-worship of Janeites, "Austen cult."
+nineteenth-century-style costume. Some critics call this fanatical fandom
+worship of Janeites, an "Austen cult."
 
 Austen scholar Deidre Lynch compares this phenomenon to time-travelling
-and says that Janeites are trying to preserve 'vanished Englishness or
+and says that Janeites are trying to preserve a 'vanished Englishness or
 set of "traditional" values.' ('Janeite,' Wikipedia) However, she notes
 that Austen\'s works are now considered to be part of 'both high culture
 and popular culture.' ('Reception history of Jane Austen,' Wikipedia)
