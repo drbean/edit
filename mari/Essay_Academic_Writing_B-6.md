@@ -20,7 +20,7 @@ California.
 
 This essay is about how *The Jane Austen Book Club* portrays such
 social changes as the emergence of third wave feminism, a movement associated with book club discussions among American women of the novels of Jane Austen,
-among others, and the rise of popular culture icons like *Sex and the City,* a
+among others, and the rise of popular culture icons like *Sex and the City,* (SATC) a
 popular American romantic sitcom series, whose
 influences are clearly reflected in the life styles and narratives of
 the book club members.
@@ -159,33 +159,33 @@ and popular culture.' ('Reception history of Jane Austen,' Wikipedia)
 
 Chapter 3 Austen in chick lit and pop culture
 
-At the end of the 20th century, the second Janeites' wave emerged in
-chick lit; contemporary novels directed primarily at women, and pop
-culture. In the course of commercialization of Austen brand and media
+At the end of the 20th century, a second Janeite wave emerged in
+chick lit--contemporary novels directed primarily at women--and pop
+culture. In the course of commercialization of the Austen brand and the media
 frenzy over chick lit merchandise, Austen's novels and personal life
-have been adapted into books to movies, from journals and magazines to
-blogs and YouTube and even stationery, board games, clothing, and shoes,
-in greatly varied ways depending on the creators' sincerity to the
+were adapted into books, movies, journals, magazines,
+blogs, YouTube clips and even stationery, board games, clothing, and shoes,
+in greatly varied ways depending on the creators' faithfulness to the
 original. (Mitchell, 2012)
 
 According to Encyclopedia Britannica, 'in reaction and opposition to
 stereotypical images of women as passive, weak, \[...\] or alternatively
-as domineering, demanding, \[...\] the third wave (feminism) redefined
+as domineering, demanding, \[...\] the third wave \[of feminism\] redefined
 women and girls as assertive, powerful and in control of their own
 sexuality."
 
 (Burkett, 2020)
 
-In popular culture, this redefinition gave rise to icons of powerful
-singers such as Madonna, Riot Grrrl and the four Manhattan career women
-in *Sex and the City* (1998-2004), a romantic comedy series based on
+In popular culture, this redefinition gave rise to powerful
+iconic singers such as Madonna and Riot Grrrl and the four Manhattan career women
+in *Sex and the City* (1998-2004), a romantic sitcom series based on
 Candace Bushnell's best-selling book of the same name.
 
 "Chick lit" or chick literature, a genre of popular postfeminist fiction
-would confirm the link between Austen, Bushnell and Fowler.
+confirms the link between Austen, Bushnell and Fowler.
 
-Diana Abu Ujum confirms in her paper (2017) that Austen and Fowler's
-works are both defined as chick lit.
+Diana Abu Ujum reports in her paper (2017) that Austen and Fowler's
+works are both seen to be chick lit.
 
 > Many scholars, readers, and novelists of Chick Lit, \[...\] claim that
 > Jane Austen was the original Chick Lit pioneer. \[...\] In fact, many
@@ -196,25 +196,25 @@ works are both defined as chick lit.
 >
 > (Ujum, 2017, pp. 41-42)
 
-Stephanie Harzewski endorses Ujum's theory.
+Stephanie Harzewski endorses Ujum's point of view.
 
-The chick lit genre is best exemplified by *Sex and the City*: SATC
-sitcom series and \[...\] adventures of their protagonists－typically a
-single, urban media professional－\[...\] Marrying elements of the
-popular romance with the satiric aspects of the novel of manners, chick
-lit extends Jane Austen's comedic legacy and brings elements of
-adventure fiction to the contemplative tradition of the novel of
-manners. (Harzewski, 2011, Introduction)
+> The chick lit genre is best exemplified by *Sex and the City*
+> and \[...\] adventures of their protagonists－typically a
+> single, urban media professional－\[...\] Marrying elements of the
+> popular romance with the satiric aspects of the novel of manners, chick
+> lit extends Jane Austen's comedic legacy and brings elements of
+> adventure fiction to the contemplative tradition of the novel of
+> manners. (Harzewski, 2011, Introduction)
 
-As Ujim and Harzewski point out, traditional novel of manners and
-current chic lit novels both focus on "society and culture," and that
-could be the horizon where Austen, Fowler and Bushnell all meet. In
-fact, *The Jane Austen Book Club* is full of countless cues from Jane
-Austen: wits, irony, humor, timeless stories, people and their
+As Ujim and Harzewski point out, the traditional novel of manners and
+current chic lit both focus on "society and culture," and that
+could be the point where Austen, Fowler and Bushnell all meet. In
+fact, *The Jane Austen Book Club* is full of countless cues taken from Jane
+Austen: wit, irony, humor, timeless stories, people and their
 relationships, matchmaking, etc. and from SATC, love, loss, betrayal,
-career ups and downs, open talk about sex, true love and happily ever
-after ending, just to name a few. Actually Fowler couldn't wait to see
-the readers find SATC elements, one of the questions for discussion at
+career ups and downs, open talk about sex, true love and happily-ever-after
+endings, just to name a few. Actually Fowler couldn't wait to see
+the readers find SATC elements. One of the questions for discussion at
 the end of the book is "Which of the women in *Sex and the City* is Dean
 really most like?" (Harzewski, 2011, Introduction)
 
