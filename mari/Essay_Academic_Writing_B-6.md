@@ -209,13 +209,13 @@ Stephanie Harzewski endorses Ujum's point of view.
 As Ujim and Harzewski point out, the traditional novel of manners and
 current chic lit both focus on "society and culture," and that
 could be the point where Austen, Fowler and Bushnell all meet. In
-fact, *The Jane Austen Book Club* is full of countless cues taken from Jane
-Austen: wit, irony, humor, timeless stories, people and their
-relationships, matchmaking, etc. and from SATC, love, loss, betrayal,
+fact, *The Jane Austen Book Club* is full of countless instances of cues taken from Jane
+Austen in wit, irony, humor, timeless stories, people and their
+relationships, matchmaking, etc. and from SATC in love, loss, betrayal,
 career ups and downs, open talk about sex, true love and happily-ever-after
 endings, just to name a few. Actually Fowler couldn't wait to see
 the readers find SATC elements. One of the questions for discussion at
-the end of the book is "Which of the women in *Sex and the City* is Dean
+the end of the book is, "Which of the women in *Sex and the City* is Dean
 really most like?" (Harzewski, 2011, Introduction)
 
 CONCLUSION
