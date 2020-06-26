@@ -25,68 +25,68 @@ popular American romantic sitcom series, whose
 influences are clearly reflected in the life styles and narratives of
 the book club members.
 
-Karen Joy Fowler (1950-), an American postmodernist writer says that
-readers don't have to be familiar with Jane Austen works to enjoy the
-book, which could be compared to a tapestry gently woven with two kinds
-of narrative thread, Austen's as warp, Fowler's as weft, with some
-sparkling pop culture magic cast on its surface, making the book even
-more welcoming, generous and fun.
+An American postmodernist writer, Karen Joy Fowler (1950-) says that
+readers don't have to be familiar with Jane Austen's works to enjoy the
+book, which can be compared to a tapestry gently woven from two kinds
+of narrative thread, Austen's as warp, and Fowler's as weft, with some
+sparkling pop culture magic cast over its surface, making the book
+welcoming, generous and fun.
 
 Though Jane Austen lived in a totally different era, there are things in
-common between the narratives and interests of ladies in Jane Austen's
-books and women, and a man, in Fowler's. What makes these women of two
-hundred years apart empathize so much with each other?
+common shared by the narratives and the interests of the ladies in Jane Austen's
+books and the women, and man, in Fowler's. What makes these women of two
+hundred years apart resonate so much with each other?
 
 Chapter 1 Why book clubs?
 
-The book club phenomenon in the late twentieth century US was inspired
-by the third wave feminism. Pamela Burger says, 'Leisure reading groups
+The book club wave in the late twentieth century US was inspired
+by third wave feminism that emerged at the same time. Pamela Burger says, 'Leisure reading groups
 have become a full-fledged phenomenon since 1989, and are now found
 everywhere from offices to religious communities to, increasingly,
 virtual platforms.' (Burger, 2015)
 
-Among the numerous forerunners from the Puritan Bible-study groups to
-the contemporary book clubs of women, the most significant were women's
+But the phenomenon had numerous forerunners, including Puritan Bible-study groups.
+The most significant were women's
 culture clubs that emerged out of the late nineteenth century
 progressive movements. The members of these clubs were mostly white
 women from the middle and upper-middle classes and they gathered to
-discuss literature, history, and the fine arts, instead of social
-reform, which was often the case with the first and the second wave
+discuss literature, history, and the fine arts, rather than social
+reform, which was often the concern of the first and the second wave
 feminists. (Burger, 2015)
 
-Though it might be hard for 2020ers to imagine that "home" was the only
+Though it might be hard for millenials to imagine that "home" was the only
 place where Americans believed a woman should be 150 years ago, even
 bright, inquisitive and determined American women had few opportunities
 to display their talents in those days. Education and career
-opportunities were few, no skill-developing beyond house chores such as
-needlework or cooking was expected of them, let alone women being
-involved in the community. Mothers and wives were thoroughly expected to
-focus on caring for their families as a good example of moral behavior.
+opportunities were few, no skill-developing beyond household chores such as
+needlework or cooking was expected of them, let alone 
+involvement in the community. Mothers and wives were thoroughly expected to
+focus on caring for their families as good examples of moral behavior.
 
 (National Women's History Museum, 2014)
 
-The society between the 1870s and 1920s was in a long process of
-community building. Various voluntary organizations were formed in their
-neighborhoods including women's clubs, which became the major vehicle
-for American women to network, learn about social issues in order to
+But, society between the 1870s and 1920s was involved in a long process of
+community building. Various voluntary organizations were formed in 
+neighborhoods among which were women's clubs, and these became the major vehicle
+for American women to network and learn about social issues in order to
 develop their talents for the world beyond their homes. A book club was
-one of those outcomes.
+often one of the outcomes.
 
 (National Women's History Museum, 2014)
 
 However, most people in the 1950s still felt that women should be
-homemakers whereas men, breadwinners. It was in the late twentieth
-century, when women, working home or outside, gradually started to gain
-freedom and more leisure time and leave spouses, children, and house
-chores behind in order to spend time with other women such as friends,
-co-workers outside their home. This improvement of women's status cannot
-have been realized without feminism movement.
+homemakers and men, breadwinners. It was only in the late twentieth
+century that women, working at home or outside, gradually started to gain
+more freedom and leisure time and were able to leave spouses, children, and household
+chores behind in order to spend time with other women--their friends and
+co-workers--outside the home. This improvement of women's status could not
+have been realized without the feminist movement.
 
-According to Encyclopedia Britannica, 'The third wave feminism is made
+According to Encyclopedia Britannica, 'The third wave was made
 possible by the greater economic and professional power and status
-achieved by women of the second wave, the massive expansion in
+achieved by women of the second wave, [and] the massive expansion in
 opportunities for the dissemination of ideas created by the information
-revolution of the late twentieth century.' (Burkett, 2020)
+revolution of the late twentieth century..' (Burkett, 2020)
 
 However, the book club boom of recent decades cannot be fully explained
 without referring to Oprah's Book Club, a TV book discussion club
@@ -96,10 +96,10 @@ friends meet at the host's home, a library meeting room, or at Starbucks
 and discuss the monthly selection over tea, lunch or dinner, and share
 their personal stories. (Burger, 2015) 　　　　　　　　　
 
-As Jocelyn, the founder of 'the all-Jane-Austen-all-the-time book club'
-in the book says, 'Real people are really complicated,' the members of
-her newly founded book club certainly prove this to be true. As in
-Austen novels, the intricate plots slowly reveal private lives of the
+As Jocelyn, a founder of the 'all-Jane-Austen-all-the-time' book club
+in the book says, 'Real people are really complicated.' The members of
+the newly founded book club certainly prove this to be true. As in
+Austen's novels, the intricate plot slowly reveals the private lives of the
 members.
 
 Chapter 2 Why Austen?
