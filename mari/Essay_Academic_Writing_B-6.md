@@ -2,15 +2,12 @@ Mari Kitaoka
 
 25 June, 2020
 
-*Books and the City*:
-
-Social changes featured in *The Jane Austen Book Club*
+*Books and the City*: Social changes featured in *The Jane Austen Book Club*
 
 Introduction
 
 Karen Joy Fowler's *The Jane Austen Book Club* (2004) is about the five
 female members,
-
 Jocelyn, Allegra, Prudie, Bernadette, Sylvia, and the single male member, Grigg,
 of a book club who gather for monthly meetings to discuss Austen's six
 novels, *Emma*, *Sense and Sensibility*, *Mansfield Park*, *Northanger
@@ -62,7 +59,6 @@ opportunities were few, no skill-developing beyond household chores such as
 needlework or cooking was expected of them, let alone 
 involvement in the community. Mothers and wives were thoroughly expected to
 focus on caring for their families as good examples of moral behavior.
-
 (National Women's History Museum, 2014)
 
 But, society between the 1870s and 1920s was involved in a long process of
@@ -71,7 +67,6 @@ neighborhoods among which were women's clubs, and these became the major vehicle
 for American women to network and learn about social issues in order to
 develop their talents for the world beyond their homes. A book club was
 often one of the outcomes.
-
 (National Women's History Museum, 2014)
 
 However, most people in the 1950s still felt that women should be
@@ -244,8 +239,7 @@ story as in Austen's novels, and yet everything happens in each book.
 
 Works Cited
 
-Karen Joy Fowler. *The Jane Austen Book Club*: Penguin Group (USA),
-2015. Print
+Karen Joy Fowler, *The Jane Austen Book Club* (New York: Penguin, 2015). Print
 
 Pamela Burger, 'Women's Groups and the Rise of the Book Club: The
 history of the book club' (2015)
