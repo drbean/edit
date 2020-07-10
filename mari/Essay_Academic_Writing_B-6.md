@@ -131,10 +131,7 @@ Though Janeites would mostly agree that it is the romance and relationships
 that attracts them to Austen's world, there seems to be additional reasons for
 their enthusiasm. An American member of JASNA, thinks that Austen's
 popularity in America comes from an Anglophile tendency of its people, and
-a longing for the elegance of the time. That is, America is in love with British
-culture, most of the time.
-
-(Kelly, 2013)
+a longing for the elegance of the time. That is, America is in love with British culture, most of the time. (Kelly, 2013)
 
 Janeite, Janeitism, Austenmania, or Janemania, in whatever way Austen devotees
 are referred to, they not only read the novels of Austen, but also write
@@ -166,9 +163,7 @@ original. (Mitchell, 2012)
 According to Encyclopedia Britannica, 'in reaction and opposition to
 stereotypical images of women as passive, weak, \[...\] or alternatively
 as domineering, demanding, \[...\] the third wave \[of feminism\] redefined
-women and girls as assertive, powerful and in control of their own
-sexuality."
-
+women and girls as assertive, powerful and in control of their own sexuality."
 (Burkett, 2020)
 
 In popular culture, this redefinition gave rise to powerful
@@ -187,9 +182,7 @@ works are both seen to be chick lit.
 > Chick Lit novels are modern adaptations of Austen's six novels.
 > \[...\] The content of Austen's novels have also become fodder for
 > original storylines like Karen Joy Fowler's *The Jane Austen Book
-> Club*.
->
-> (Ujum, 2017, pp. 41-42)
+> Club*. (Ujum, 2017, pp. 41-42)
 
 Stephanie Harzewski endorses Ujum's point of view.
 
