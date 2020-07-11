@@ -6,19 +6,19 @@ Mari Kitaoka
 
 Introduction
 
-Karen Joy Fowler's *The Jane Austen Book Club* (2004) is about the five
-female members,
-Jocelyn, Allegra, Prudie, Bernadette, Sylvia, and the single male member, Grigg,
-of a book club who gather for monthly meetings to discuss Austen's six
+Karen Joy Fowler's *The Jane Austen Book Club* (2004) is about the five female members,
+Jocelyn, Allegra, Prudie, Bernadette, Sylvia, and the single man, Grigg,
+who gather for a monthly book club meeting to discuss Austen's six
 novels, *Emma*, *Sense and Sensibility*, *Mansfield Park*, *Northanger
 Abbey*, *Pride and Prejudice*, and *Persuasion* from March through
 August, at their homes in early twenty-first century Central Valley,
 California.
 
 This essay is about how *The Jane Austen Book Club* portrays such
-social changes as the emergence of third wave feminism, a movement associated with book club discussions among American women of the novels of Jane Austen,
-among others, and the rise of popular culture icons like *Sex and the City,* (SATC) a
-popular American romantic sitcom series, whose
+social changes as the emergence of third wave feminism, which
+promoted book club readings by American women of the novels of Jane Austen as
+well as others, and the rise of popular culture icons like *Sex and the City,* a
+popular American romantic situation comedy series, whose
 influences are clearly reflected in the life styles and narratives of
 the book club members.
 
@@ -31,57 +31,59 @@ welcoming, generous and fun.
 
 Though Jane Austen lived in a totally different era, there are things in
 common shared by the narratives and the interests of the ladies in Jane Austen's
-books and the women, and man, in Fowler's. What makes these women of two
+books and the women, and a man, in Fowler's. What makes these women of two
 hundred years apart resonate so much with each other?
 
 Chapter 1 Why book clubs?
 
-The book club wave in the late twentieth century US was inspired
-by third wave feminism that emerged at the same time. Pamela Burger says, 'Leisure reading groups
+The book club phenomenon in the late twentieth century US was inspired
+by the third wave feminism. Pamela Burger says, 'Leisure reading groups
 have become a full-fledged phenomenon since 1989, and are now found
 everywhere from offices to religious communities to, increasingly,
 virtual platforms.' (Burger, 2015)
 
-But the phenomenon had numerous forerunners, including Puritan Bible-study groups.
-The most significant were women's
+Among the numerous forerunners from the Puritan Bible-study groups to
+the contemporary book clubs of women, the most significant were women's
 culture clubs that emerged out of the late nineteenth century
 progressive movements. The members of these clubs were mostly white
 women from the middle and upper-middle classes and they gathered to
-discuss literature, history, and the fine arts, rather than social
-reform, which was often the concern of the first and the second wave
+discuss literature, history, and the fine arts, instead of social
+reform, which was often the case with the first and the second wave
 feminists. (Burger, 2015)
 
-Though it might be hard for millenials to imagine that "home" was the only
+Though it might be hard for 2020ers to imagine that "home" was the only
 place where Americans believed a woman should be 150 years ago, even
 bright, inquisitive and determined American women had few opportunities
 to display their talents in those days. Education and career
-opportunities were few, no skill-developing beyond household chores such as
-needlework or cooking was expected of them, let alone 
-involvement in the community. Mothers and wives were thoroughly expected to
-focus on caring for their families as good examples of moral behavior.
+opportunities were few, no skill-developing beyond house chores such as
+needlework or cooking was expected of them, let alone women being
+involved in the community. Mothers and wives were thoroughly expected to
+focus on caring for their families as a good example of moral behavior.
+
 (National Women's History Museum, 2014)
 
-But, society between the 1870s and 1920s was involved in a long process of
-community building. Various voluntary organizations were formed in 
-neighborhoods among which were women's clubs, and these became the major vehicle
-for American women to network and learn about social issues in order to
+The society between the 1870s and 1920s was in a long process of
+community building. Various voluntary organizations were formed in their
+neighborhoods including women's clubs, which became the major vehicle
+for American women to network, learn about social issues in order to
 develop their talents for the world beyond their homes. A book club was
-often one of the outcomes.
+one of those outcomes.
+
 (National Women's History Museum, 2014)
 
 However, most people in the 1950s still felt that women should be
-homemakers and men, breadwinners. It was only in the late twentieth
-century that women, working at home or outside, gradually started to gain
-more freedom and leisure time and were able to leave spouses, children, and household
-chores behind in order to spend time with other women--their friends and
-co-workers--outside the home. This improvement of women's status could not
-have been realized without the feminist movement.
+homemakers whereas men, breadwinners. It was in the late twentieth
+century, when women, working home or outside, gradually started to gain
+freedom and more leisure time and leave spouses, children, and house
+chores behind in order to spend time with other women such as friends,
+co-workers outside their home. This improvement of women's status cannot
+have been realized without feminism movement.
 
-According to Encyclopedia Britannica, 'The third wave was made
+According to Encyclopedia Britannica, 'The third wave feminism is made
 possible by the greater economic and professional power and status
-achieved by women of the second wave, [and] the massive expansion in
+achieved by women of the second wave, the massive expansion in
 opportunities for the dissemination of ideas created by the information
-revolution of the late twentieth century..' (Burkett, 2020)
+revolution of the late twentieth century.' (Burkett, 2020)
 
 However, the book club boom of recent decades cannot be fully explained
 without referring to Oprah's Book Club, a TV book discussion club
@@ -91,140 +93,147 @@ friends meet at the host's home, a library meeting room, or at Starbucks
 and discuss the monthly selection over tea, lunch or dinner, and share
 their personal stories. (Burger, 2015) 　　　　　　　　　
 
-As Jocelyn, a founder of the 'all-Jane-Austen-all-the-time' book club
-in the book says, 'Real people are really complicated.' The members of
-the newly founded book club certainly prove this to be true. As in
-Austen's novels, the intricate plot slowly reveals the private lives of the
+As Jocelyn, the founder of 'the all-Jane-Austen-all-the-time book club'
+in the book says, 'Real people are really complicated,' the members of
+her newly founded book club certainly prove this to be true. As in
+Austen novels, the intricate plots slowly reveal private lives of the
 members.
 
 Chapter 2 Why Austen?
 
-Jane Austen still attracts the devotion of readers in America, two centuries after
-her most celebrated novel, *Pride and Prejudice* appeared. Why is the work of this
+Jane Austen is attracting huge devotion in America, two centuries after
+her most celebrated novel, *Pride and Prejudice*. Why is this
 nineteenth-century 'English' mannerist writer so appealing to Americans?
 
-It is clear that it was the popularity of Jane Austen book clubs in the
+It is obvious that it was the Jane Austen book club phenomenon in the
 late twentieth century which inspired Fowler, a big fan of Austen, to
 write the novel. In fact, Fowler decided to write the book when she
-realized a sign she saw at a book shop wasn't a book title, but 
-actually an invitation to one of the real Jane Austen book clubs which
-were becoming popular in the US.
+realized a sign she saw at a book shop wasn't a book title, but it was
+actually an invitation to one of the real Jane Austen book clubs, which
+was becoming popular in the US.
 
-But, according to the Jane Austen Society of North America, JASNA, 'Jane Austen
+According to Jane Austen Society of North America, JASNA, 'Jane Austen
 (1775-1817) was never publicly acknowledged as a writer during her
-lifetime.' She passed away at the age of forty-one in 1817 with only
+lifetime.' Austen passed away at the age of forty-one in 1817 with only
 six novels to her name. (Kelly, 2013)
 
-In fact, her works were out of print and she was almost completely forgotten in the 1820's,
-before slowly gaining fame and popularity.
+In fact, Austen was out of print and almost out of mind in the 1820's.
+However, she slowly gained fame and popularity.
 
 In 1870, the family's *Memoir* that was published by Austen's nephew
-attracted much attention and by 1890 the first wave of Janeites (Jane
-Austen devotees), who hoped that 'Austen would take a rightful
+caught much attention and by 1890 the first wave of 'Janeites (Jane
+Austen devotees), who have long hoped that 'Austen would take a rightful
 place next to or near Shakespeare,' had appeared. (Reeves, 2010)
 
 The publication of *The Novels of Jane Austen* (vol.1-5) in 1923, from
-Oxford's Clarendon Press, also raised Austen's status from fan idol
-to that of a writer suitable for critical analysis. (Reeves, 2010)
+Oxford's Clarendon Press, also shifted Austen from Janeites' fandom idol
+to a writer suitable for critical analysis. (Reeves, 2010)
 
-Though Janeites would mostly agree that it is the romance and relationships
-that attracts them to Austen's world, there seems to be additional reasons for
+Though Janeites would mostly agree that romance and relationships
+attract them to Austen's world, there seems to be other reasons for
 their enthusiasm. An American member of JASNA, thinks that Austen's
-popularity in America comes from an Anglophile tendency of its people, and
-a longing for the elegance of the time. That is, America is in love with British culture, most of the time. (Kelly, 2013)
+popularity in America comes from Anglophile tendency of its people, and
+a longing for the elegance of the time. America is in love with British
+culture, most of the time.
 
-Janeite, Janeitism, Austenmania, or Janemania, in whatever way Austen devotees
-are referred to, they not only read the novels of Austen, but also write
-sequels or spin-offs, either based on Austen's original plots or 
-extending them to create Austen-style fan fiction. At fan events,
+(Kelly, 2013)
+
+Janeite, Janeitism, Austenmania, or Janemania, whatever Austen devotees
+are called, they not only read the novels of Austen, but also write
+sequels or spin-offs, either based on Austen's original plot or by
+extending it to create Austen-style fan fictions. At fan events,
 conventions, tea parties, banquets and balls held by JASNA, Janeites
 from around the world enjoy lectures, dance workshops, antique
 exhibitions, with many of the participants in bonnets and early
-nineteenth-century-style costume. Some critics call this fanatical fandom
-worship of Janeites, an "Austen cult."
+nineteenth-century-style costume. Some critics call this fanatic fandom
+worship of Janeites, "Austen cult."
 
 Austen scholar Deidre Lynch compares this phenomenon to time-travelling
-and says that Janeites are trying to preserve a 'vanished Englishness or
+and says that Janeites are trying to preserve 'vanished Englishness or
 set of "traditional" values.' ('Janeite,' Wikipedia) However, she notes
 that Austen\'s works are now considered to be part of 'both high culture
 and popular culture.' ('Reception history of Jane Austen,' Wikipedia)
 
 Chapter 3 Austen in chick lit and pop culture
 
-At the end of the 20th century, a second Janeite wave emerged in
-chick lit--contemporary novels directed primarily at women--and pop
-culture. In the course of commercialization of the Austen brand and the media
+At the end of the 20th century, the second Janeites' wave emerged in
+chick lit; contemporary novels directed primarily at women, and pop
+culture. In the course of commercialization of Austen brand and media
 frenzy over chick lit merchandise, Austen's novels and personal life
-were adapted into books, movies, journals, magazines,
-blogs, YouTube clips and even stationery, board games, clothing, and shoes,
-in greatly varied ways depending on the creators' faithfulness to the
+have been adapted into books to movies, from journals and magazines to
+blogs and YouTube and even stationery, board games, clothing, and shoes,
+in greatly varied ways depending on the creators' sincerity to the
 original. (Mitchell, 2012)
 
 According to Encyclopedia Britannica, 'in reaction and opposition to
 stereotypical images of women as passive, weak, \[...\] or alternatively
-as domineering, demanding, \[...\] the third wave \[of feminism\] redefined
-women and girls as assertive, powerful and in control of their own sexuality."
+as domineering, demanding, \[...\] the third wave (feminism) redefined
+women and girls as assertive, powerful and in control of their own
+sexuality."
+
 (Burkett, 2020)
 
-In popular culture, this redefinition gave rise to powerful
-iconic singers such as Madonna and Riot Grrrl and the four Manhattan career women
-in *Sex and the City* (1998-2004), a romantic sitcom series based on
+In popular culture, this redefinition gave rise to icons of powerful
+singers such as Madonna, Riot Grrrl and the four Manhattan career women
+in *Sex and the City* (1998-2004), a romantic comedy series based on
 Candace Bushnell's best-selling book of the same name.
 
 "Chick lit" or chick literature, a genre of popular postfeminist fiction
-confirms the link between Austen, Bushnell and Fowler.
+would confirm the link between Austen, Bushnell and Fowler.
 
-Diana Abu Ujum reports in her paper (2017) that Austen and Fowler's
-works are both seen to be chick lit.
+Diana Abu Ujum confirms in her paper (2017) that Austen and Fowler's
+works are both defined as chick lit.
 
 > Many scholars, readers, and novelists of Chick Lit, \[...\] claim that
 > Jane Austen was the original Chick Lit pioneer. \[...\] In fact, many
 > Chick Lit novels are modern adaptations of Austen's six novels.
 > \[...\] The content of Austen's novels have also become fodder for
 > original storylines like Karen Joy Fowler's *The Jane Austen Book
-> Club*. (Ujum, 2017, pp. 41-42)
+> Club*.
+>
+> (Ujum, 2017, pp. 41-42)
 
-Stephanie Harzewski endorses Ujum's point of view.
+Stephanie Harzewski endorses Ujum's theory.
 
-> The chick lit genre is best exemplified by *Sex and the City*
-> and \[...\] adventures of their protagonists－typically a
-> single, urban media professional－\[...\] Marrying elements of the
-> popular romance with the satiric aspects of the novel of manners, chick
-> lit extends Jane Austen's comedic legacy and brings elements of
-> adventure fiction to the contemplative tradition of the novel of
-> manners. (Harzewski, 2011, Introduction)
+The chick lit genre is best exemplified by *Sex and the City*: SATC
+sitcom series and \[...\] adventures of their protagonists－typically a
+single, urban media professional－\[...\] Marrying elements of the
+popular romance with the satiric aspects of the novel of manners, chick
+lit extends Jane Austen's comedic legacy and brings elements of
+adventure fiction to the contemplative tradition of the novel of
+manners. (Harzewski, 2011, Introduction)
 
-As Ujim and Harzewski point out, the traditional novel of manners and
-current chic lit both focus on "society and culture," and that
-could be the point where Austen, Fowler and Bushnell all meet. In
-fact, *The Jane Austen Book Club* is full of countless instances of cues taken from Jane
-Austen in wit, irony, humor, timeless stories, people and their
-relationships, matchmaking, etc. and from SATC in love, loss, betrayal,
-career ups and downs, open talk about sex, true love and happily-ever-after
-endings, just to name a few. Actually Fowler couldn't wait to see
-the readers find SATC elements. One of the questions for discussion at
-the end of the book is, "Which of the women in *Sex and the City* is Dean
+As Ujim and Harzewski point out, traditional novel of manners and
+current chic lit novels both focus on "society and culture," and that
+could be the horizon where Austen, Fowler and Bushnell all meet. In
+fact, *The Jane Austen Book Club* is full of countless cues from Jane
+Austen: wits, irony, humor, timeless stories, people and their
+relationships, matchmaking, etc. and from SATC, love, loss, betrayal,
+career ups and downs, open talk about sex, true love and happily ever
+after ending, just to name a few. Actually Fowler couldn't wait to see
+the readers find SATC elements, one of the questions for discussion at
+the end of the book is "Which of the women in *Sex and the City* is Dean
 really most like?" (Harzewski, 2011, Introduction)
 
 CONCLUSION
 
 With the end of the Cold War in 1989 and the collapse of the Soviet
-Union in 1991, America began to globalize, extending its reach into the world economy
-just as the internet promised to make the world more interconnected.
+Union in 1991, America began to integrate into the global market economy
+as the internet started to make the world more interconnected.
 
-Social changes in the late twentieth century in the US, such as third wave
-feminism and popular culture developments emerged through the booming economy that was
-generated by globalization, and late twentieth century pop culture serves as the cultural and
+Social changes in the late twentieth century US, such as the third wave
+feminism and popular culture emerged in this booming economy that was
+generated by globalization, and pop culture served as the cultural and
 social backdrop for the book*.*
 
 As Fowler says in her book, 'The Jane Austen Book Club members meet in
 each other's living rooms, where they share their individual
-interpretations, life experiences, laughter, food and friendship.' The
-book is filled with characters and a plot similar to those of
-Austen's novels, but their responses are different because of the different cultural circumstances of the US in the late twentieth century and of England 200 years earlier.
+interpretations, life experiences, laughter, food and friendship,' the
+book is filled with characters and plots similar to the ones from
+Austen's novels.
 
-Still, the problems Jocelyn, Allegra, Prudie, Bernadette, Sylvia and
-Grigg encounter during the six months somehow resemble the ones that
+Though the problems Jocelyn, Allegra, Prudie, Bernadette, Sylvia and
+Grigg encounter during the six months, somehow resemble the ones that
 Austen's characters are faced with. Nothing much happens in Fowler's
 story as in Austen's novels, and yet everything happens in each book.
 
@@ -232,7 +241,8 @@ story as in Austen's novels, and yet everything happens in each book.
 
 Works Cited
 
-Karen Joy Fowler, *The Jane Austen Book Club* (New York: Penguin, 2015). Print
+Karen Joy Fowler. *The Jane Austen Book Club*: Penguin Group (USA),
+2015. Print
 
 Pamela Burger, 'Women's Groups and the Rise of the Book Club: The
 history of the book club' (2015)
