@@ -234,8 +234,7 @@ story as in Austen's novels, and yet everything happens in each book.
 
 Works Cited
 
-Karen Joy Fowler. *The Jane Austen Book Club*: Penguin Group (USA),
-2015. Print
+Karen Joy Fowler, *The Jane Austen Book Club* (New York: Penguin, 2015). Print
 
 Pamela Burger, 'Women's Groups and the Rise of the Book Club: The
 history of the book club' (2015)
@@ -283,10 +282,7 @@ Malaysia, '*Chick Lit Authorship and the Twenty-first Century
 Zeitgeist,*' Journal of Language and Communication, 4 (1), 39-49 (2017)
 , e-ISSN: 2637-0875, Universiti Putra Malaysia Press
 
-Stephanie Harzewski, '*Chick Lit and Postfeminism*: Introduction'
-(2011), web
-
-(*Chick Lit and Postfeminism* by STEPHANIE HARZEWSKI, googleブックス)
+Harzewski, Stephanie, *Chick Lit and Postfeminism*, (Charlottesville: University of Virginia Press, 2011), in *Google Books* <https://books.google.com/books?id=bxFRfvKetYwC> [Accessed 25 June 2020]
 
 Bibliography
 
