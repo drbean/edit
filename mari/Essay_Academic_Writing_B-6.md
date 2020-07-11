@@ -301,7 +301,7 @@ August 12, 2015
 Gabriela-Iuliana Colipca-Ciobanu/Ioana Mohor-Ivan.
 
 *The mere habit of learning to love is a thing: Janeitism and/in Karen
-Joy Fowler's The Jane Austen Book Club*: ReserachGate, 2017.
+Joy Fowler's The Jane Austen Book Club*: ResearchGate, 2017.
 [[https://www.reseachgate.net/publication/322233709]{.underline}](https://www.reseachgate.net/publication/322233709)
 
 Katherine Wyrick (Interviewer/writer). *Karen Joy Fowler: A California
