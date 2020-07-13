@@ -298,7 +298,7 @@ August 12, 2015
 [[https://daily.jstor.org/feature-book-club/]{.underline}](https://daily.jstor.org/feature-book-club/)
 (December, 2019) web
 
-Gabriela-Iuliana Colipca-Ciobanu/Ioana Mohor-Ivan.
+Gabriela-Iuliana Colipca-Ciobanu and Ioana Mohor-Ivan.
 
 *The mere habit of learning to love is a thing: Janeitism and/in Karen
 Joy Fowler's The Jane Austen Book Club*: ResearchGate, 2017.
