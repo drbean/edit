@@ -2,8 +2,9 @@
 *.sw?
 .gitignore
 email/*
+mari/
 ray/
 steve/
-taro/
+tsailin/
 wallace/
 work/
