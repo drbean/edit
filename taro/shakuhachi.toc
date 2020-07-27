@@ -1,0 +1,13 @@
+\contentsline {chapter}{Contents}{iii}% 
+\contentsline {chapter}{List of Figures}{iii}% 
+\contentsline {section}{Preface}{v}% 
+\contentsline {section}{Brief history of the instrument}{1}% 
+\contentsline {section}{Breath and mind}{1}% 
+\contentsline {section}{Meri and kari}{1}% 
+\contentsline {section}{Maintenance}{4}% 
+\contentsline {section}{The basic notes}{4}% 
+\contentsline {section}{Holding the shakuhachi}{5}% 
+\contentsline {chapter}{Appendices}{7}% 
+\contentsline {section}{Fingering}{9}% 
+\contentsline {section}{Interview}{13}% 
+\contentsline {section}{The author}{14}% 
