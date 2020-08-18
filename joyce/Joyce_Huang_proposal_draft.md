@@ -60,46 +60,46 @@ student has achieved letter name knowledge, it is important to
 have a screening test of letter names or a checklist that can be
 administered efficiently and reliably.
 
-1.2. The Statements of Problems
+1.2. Statement of the Problem
 
 To monitor children's learning pace, an alphabet checklist or test is
-essential. There have been existing alphabet assessments used in
-preschool or kindergarten for L1 children, such as CIRCLE Phonological
-Awareness, Language and Literacy System(C-PALLS)-Rapid Letter Naming,
-Dynamic Indicators of Basic Early Literacy Skills (DIBLS)-Letter Naming
-Fluency, Phonological Awareness Literacy Screening (PALS)-Alphabet
+essential. There exist alphabet assessments used in
+preschool or kindergarten for L1 children, such as the CIRCLE Phonological
+Awareness, Language and Literacy System(C-PALLS), Rapid Letter Naming,
+Dynamic Indicators of Basic Early Literacy Skills (DIBLS), Letter Naming
+Fluency, Phonological Awareness Literacy Screening (PALS), Alphabet
 Knowledge, Letter Sounds (Invernizzi, Juel, & Meier, 2003), Clay's
-Observation Survey-Alphabet Knowledge (Clay, 2002), and Woodcock Reading
-Mastery Tests (Woodcock, 1998). Ideally, to understand what alphabetic
+Observation Survey: Alphabet Knowledge (Clay, 2002), and Woodcock Reading
+Mastery Tests (Woodcock, 1998) assessments. Ideally, to understand what alphabetic
 instruction should be given to a particular student, the student should
 be tested with all the letters, including uppercase and lowercase
 letters. However, to have children read aloud 26 uppercase and 26
 lowercase letters is time-consuming as the test has to be administered
 on an individual basis (*Tortorelli, Bowles & Skibbe, 2017, p. 149*). It
-is necessary to develop a valid assessment that teachers can administer
-efficiently. Such a test is needed because, in addition to understanding
+is necessary to have a valid assessment that teachers can administer
+efficiently and repeatedly. Such a test is needed because, in addition to understanding
 a student's readiness for alphabetic learning, teachers also need to
-check children's development of alphabetic learning regularly, usually
+check children's development of alphabetic learning regularly, typically
 at the beginning, in the middle, and at the end of the school semester.
 For this reason, *Tortorelli* et al. (2017) developed a quick, effective
 assessment of letter name knowledge called Quick Letter Name Knowledge
-(Q-LNK) Assessment. The assessment was based on Bowels et al.'s (2014)
+(Q-LNK) Assessment. The assessment was based on Bowles et al.'s (2014)
 research, with data collected from 1,113 preschoolers of L1 English who
 were required to name all of the uppercase and lowercase letters of the
-alphabet. After collecting the data, Bowels et al. used the item
-response theory method to analyze preschoolers' letter name knowledge.
-The result presents that letter name knowledge assessments can have
-fewer items and measure an extended range of ability while maintaining
-high levels of reliability (Bowels et al, 2014). The Q-LNK assessment
-includes six short forms of letter name knowledge. Each form
+alphabet. After collecting the data, Bowles et al. used Item
+Response Theory methods to analyze preschoolers' letter name knowledge.
+The result is a letter name knowledge assessment that has
+fewer items and measures an extended range of ability while maintaining
+high levels of reliability (Bowles et al, 2014). The Q-LNK assessment
+includes six short forms testing letter name knowledge. Each form
 strategically chooses eight letters out of the 52 uppercase and
-lowercase letters, significantly reducing the load from testing 52
-letters to testing eight letters. While the test can be administered in
+lowercase letters, significantly reducing the time and effort required to gauge a student's letter name knowledge, by testing 
+eight letters instead of 52. While the test can be administered in
 less than a minute, its reliability is still high (Bowles et al., 2014).
-The purpose of Q-LNK is designed for quick screening and benchmark
-testing. The total score is eight. The teacher can estimate how many
-letters a student has currently acquired in total according to the score
-from the eight letters in a form. The higher score a student gets, the
+Q-LNK was designed so teachers and others could use it for quick screening and benchmark
+testing purposes. The total score is eight. The teacher can estimate how many
+letters a student has currently acquired in total as a percentage of the score
+from the eight letters in the form. The higher the score a student gets, the
 more letters he/she knows.
 
 Whether the Q-LNK assessment can be successfully implemented in Taiwan
