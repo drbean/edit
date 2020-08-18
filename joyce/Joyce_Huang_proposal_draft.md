@@ -124,7 +124,7 @@ letter name knowledge for English L2 learners in Taiwan. If the Q-LNK
 Assessment successfully estimates children's letter name knowledge
 in L2 young learners, then the screening and benchmark test will benefit
 English teachers in Taiwan as it provides useful information to
-teachers to help them make effective instructional decisions and to efficiently monitor the
+help them make effective instructional decisions and to efficiently monitor the
 developmental trajectories of alphabetic knowledge in their students.
 
 1.3 Research Questions
