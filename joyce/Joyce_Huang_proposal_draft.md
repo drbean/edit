@@ -22,20 +22,20 @@ findings, both letter name knowledge and letter sound knowledge affect
 reading-related skills.
 
 In Taiwan, young EFL learners (first and second grade students) are
-expected to be proficient and fluent in their letter name and letter
+expected to become proficient and fluent in their letter name and letter
 sound knowledge. However, children differ considerably in their
-alphabetic knowledge. In most Taiwan elementary schools, the bimodal
-phenomena exist in English classroom classes. Students' English reading
-abilities differ considerably (Li, 2010). When the first-grade children
+alphabetic knowledge. In most Taiwan elementary schools, a pronounced bimodality
+exists in English classroom classes. Students' English reading
+abilities differ considerably (Li, 2010). When first-grade children
 begin their first English class in elementary schools, some children
-have already known how to read and write the 52 uppercase and lowercase
-English letters as they have started learning English in cram schools or
-bilingual preschools since they were toddlers. However, for the rest of
-the children, it is their first English class. They are just about to
-begin their English learning journey. There is no evidence that the gap
-between the students will be closed as children move on to the next
+already know how to read and write the 52 uppercase and lowercase
+English letters as they started learning English in cram schools or
+bilingual preschools when they were toddlers. However, for the other
+children, it is their first English class. They are just about to
+begin their English learning journeys. There is no evidence that the gap
+between students is closed as children move on to the next
 learning stage. When they are in their third grade, their English
-academic achievement tends to fall behind.
+academic achievement still tends to lag behind.
 
 To fill in the gap in the letter knowledge and to help students who are
 lagging to catch up with others, English teachers in Taiwan usually have
