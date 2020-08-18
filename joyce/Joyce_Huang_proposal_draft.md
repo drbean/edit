@@ -37,26 +37,26 @@ between students is closed as children move on to the next
 learning stage. When they are in their third grade, their English
 academic achievement still tends to lag behind.
 
-To fill in the gap in the letter knowledge and to help students who are
-lagging to catch up with others, English teachers in Taiwan usually have
+To close the gap in letter knowledge and to help students who are
+behind to catch up with the others, English teachers in Taiwan usually have
 to differentiate their instruction in class or spend extra time after
-class to conduct remedial instruction for those low-achieving students.
-The contents for differentiated instruction or remedial instruction
-typically include the alphabet knowledge. Normally, when English
-teachers begin their new classes, they usually wonder who has mastered
-the alphabetic knowledge and who have not. To benchmark students'
-alphabet knowledge, the best way is to check how many letters their
+class conducting remedial instruction for the low-achieving students.
+The content of differentiated instruction or remedial instruction
+typically includes alphabet knowledge. Normally, when English
+teachers begin their new classes, they consider who has mastered
+alphabetic knowledge and who has not. To benchmark students'
+alphabet knowledge, the accepted way is to check how many letters their
 students can recognize. This benchmark information is important as
-differentiated or remedial instruction should move beyond the typical
-sequence of whole-class instruction (i.e., from ABC to XYZ) and provide
-the instruction needed by the individual children (Piasta, 2014). Letter
+it is required by a differentiated or remedial instruction that moves beyond the typical
+sequence of whole-class instruction (i.e., starting at ABC and working through all 26 letters to XYZ) to provide
+the instruction needed by individual children (Piasta, 2014). This benchmarking just checks letter name knowledge, but letter
 name knowledge is perhaps more important than letter sound knowledge as
 knowledge of letter names precedes knowledge of letter sounds (Levin,
 Shatil-Carmon, & Asif-Rave, 2006). Letter name knowledge predicts
 subsequent development of letter sound knowledge whereas letter sound
 knowledge does not predict subsequent development of letter-name
 knowledge (McBride-Chang, 1999). To understand the extent to which a
-student achieves in his or her letter name knowledge, it is important to
+student has achieved letter name knowledge, it is important to
 have a screening test of letter names or a checklist that can be
 administered efficiently and reliably.
 
