@@ -121,10 +121,10 @@ of the test is compromised if L2 learners do not have similar
 difficulty with all 26 letters as L1 learners. Thus, there is a need to
 examine whether the Q-LNK assessment is a valid assessment tool of
 letter name knowledge for English L2 learners in Taiwan. If the Q-LNK
-Assessment also successfully estimates children's letter name knowledge
+Assessment successfully estimates children's letter name knowledge
 in L2 young learners, then the screening and benchmark test will benefit
 English teachers in Taiwan as it provides useful information to
-teachers to help them make effective instructional decisions and for monitoring
+teachers to help them make effective instructional decisions and to efficiently monitor the
 developmental trajectories of alphabetic knowledge in their students.
 
 1.3 Research Questions
