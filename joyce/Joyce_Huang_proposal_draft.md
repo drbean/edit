@@ -1,4 +1,4 @@
-**Validation of "The Quick Letter Name Knowledge Assessment" test in
+**Validation of "The Quick Letter Name Knowledge Assessment" test of
 early literacy for young Taiwanese EFL Learners**
 
 > Keywords: alphabet assessment, alphabet name knowledge
@@ -14,10 +14,10 @@ knowledge is an important predictor of future reading ability (Adam,
 1990; Ball & Blachman, 1991; Bowles, Pentimonti, Gerde, & Montroy, 2014,
 Foulin, 2005; Hammill, 2004; NELP, 2008; Piasta, Petscher, & Justice,
 2012;). Children who have difficulty recognizing the 26 English letters
-will struggle with follow-up learning activities which mostly need their
-reading ability. The extent of children's letter name knowledge will
-influence their literacy-related skills and consequentially, influence
-their reading achievement (Foulin, 2005). In McBride-Chang's (1999)
+will struggle with follow-up learning activities which mostly assume a basic
+letter-reading ability. The extent of children's letter name knowledge 
+influences their literacy-related skills and consequentially, influences
+their reading achievement (Foulin, 2005). According to McBride-Chang's (1999)
 findings, both letter name knowledge and letter sound knowledge affect
 reading-related skills.
 
