@@ -138,8 +138,8 @@ The current study is guided by the following research questions:
     > used multiple times as benchmark assessments to monitor the
     > alphabetic progress of L2 learners in Taiwan?
 
-> 3\. What factors should be taken into consideration in using the forms
-> (e.g., children's names)?
+3 . What other factors should be taken into consideration in using the forms
+    > (e.g., children's names)?
 
 1.4 Significance of the Study
 
