@@ -79,7 +79,7 @@ on an individual basis (*Tortorelli, Bowles & Skibbe, 2017, p. 149*). It
 is necessary to have a valid assessment that teachers can administer
 efficiently and repeatedly. Such a test is needed because, in addition to understanding
 a student's readiness for alphabetic learning, teachers also need to
-check children's development of alphabetic learning regularly, typically
+check children's development of alphabetic learning at regular intervals, typically
 at the beginning, in the middle, and at the end of the school semester.
 For this reason, *Tortorelli* et al. (2017) developed a quick, effective
 assessment of letter name knowledge called Quick Letter Name Knowledge
