@@ -47,9 +47,9 @@ teachers begin their new classes, they consider who has mastered
 alphabetic knowledge and who has not. To benchmark students'
 alphabet knowledge, the accepted way is to check how many letters their
 students can recognize. This benchmark information is important as
-it is required by a differentiated or remedial instruction that moves beyond the typical
+it is required by differentiated or remedial instruction that moves beyond the typical
 sequence of whole-class instruction (i.e., starting at ABC and working through all 26 letters to XYZ) to provide
-the instruction needed by individual children (Piasta, 2014). This benchmarking just checks letter name knowledge, but letter
+the instruction needed by individual children (Piasta, 2014). Such benchmarking just checks letter name knowledge, but letter
 name knowledge is perhaps more important than letter sound knowledge as
 knowledge of letter names precedes knowledge of letter sounds (Levin,
 Shatil-Carmon, & Asif-Rave, 2006). Letter name knowledge predicts
