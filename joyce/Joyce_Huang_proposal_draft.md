@@ -102,7 +102,7 @@ letters a student has currently acquired in total as a percentage of the score
 from the eight letters in the form. The higher the score a student gets, the
 more letters he/she knows.
 
-Whether the Q-LNK assessment can be successfully introduced in Taiwan
+Whether the Q-LNK can be successfully introduced in Taiwan
 is still an empirical question. All the relevant research has been conducted
 with young English L1 learners in North America. The letters in each
 form were selected according to the difficulty level of the letters
@@ -110,22 +110,22 @@ for English L1 learners. However, English L2 learners in Taiwan may
 not experience the same types of difficulty with the alphabet as English L1 children. The
 foremost question is whether children who are English L2 learners in Taiwan exhibit the same
 patterns of difficulty with different letters as L1 learners. If they
-don't, then the Q-LNK assessment may not be a valid tool for assessment of
+don't, then the Q-LNK may not be a valid tool for assessment of
 the letter name knowledge of English L2 learners in Taiwan. Furthermore, it
-is not clear whether the six different forms of the Q-LNK assessment yield comparable results for
+is not clear whether its six different forms yield comparable results for
 L2 learners as they do for L1 learners. If the six short forms of letter
 name knowledge are not comparable, then they cannot be used to benchmark
 letter name progress and development in L2 learners. As the test forms
 are constructed based on the difficulty of the letters, the validity
 of the test is compromised if L2 learners do not have similar
 difficulty with all 26 letters as L1 learners. Thus, there is a need to
-examine whether the Q-LNK assessment is a valid assessment tool of
-letter name knowledge for English L2 learners in Taiwan. If the Q-LNK
-assessment successfully measures children's letter name knowledge
-in L2 young learners, then the screening and benchmark test will benefit
+examine whether the Q-LNK is a valid assessment tool of
+letter name knowledge for English L2 learners in Taiwan. If the screening and benchmark test
+successfully measures children's letter name knowledge
+in L2 young learners, then its introduction will benefit
 English teachers in Taiwan as it provides useful information 
 for making effective instructional decisions and for monitoring the
-developmental trajectories of alphabetic knowledge in their students.
+developmental trajectories of alphabetic knowledge in students.
 
 1.3 Research Questions
 
