@@ -179,8 +179,8 @@ the very beginning skill in reading.**
 
 **Letter name knowledge assessment is the testing of children's
 letter naming ability. Children need to name some or all uppercase and lowercase
-letters during such tasks. Forms of letter name knowledge assessment are an
-instrument to help language teachers to understand what children know
+letters during such tasks. Letter name knowledge assessments are 
+instruments to help language teachers to understand what children know
 and what they still need to learn.**
 
 CHAPTER TWO
