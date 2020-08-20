@@ -144,15 +144,15 @@ The current study is guided by the following research questions:
 1.4 Significance of the Study
 
 **The goal of the study is to investigate the practicality and
-feasibility of Q-LNK Assessment for young Taiwan EFL learners. If the
-Q-LNK Assessment is valid in predicting the total number of letter names
+feasibility of use of the Q-LNK assessment with young Taiwan EFL learners. If the
+Q-LNK is valid in predicting the total number of letter names
 known by children, the language teacher can make teaching decisions
 according to the results of the assessment. For instance, which students
-are falling behind in terms of their letter name knowledge? Does the
-student receiving remedial instruction make meaningful progress? Through
-the above questions, language teachers will make an effective teaching
-plan based on their children's needs. Thus, children will benefit from
-the teacher's specific alphabet instruction. **
+are falling behind in terms of their letter name knowledge? Is the
+student receiving remedial instruction making meaningful progress? With quick answers
+to the above questions, language teachers will be able to make effective teaching
+plans based on their children's specific needs. And, children will benefit from
+the teacher's targeted alphabet instruction. **
 
 1.5 Definitions of Terms
 
