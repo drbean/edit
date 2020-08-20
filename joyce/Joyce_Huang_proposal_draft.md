@@ -196,15 +196,15 @@ provides an overview of the present study.
 2.1 The Alphabet Knowledge Standard
 
 Alphabet knowledge, including letter name knowledge, letter sound
-knowledge, and letter writing ability, is one of the main fundamental
+knowledge, and letter writing ability, is one of the most fundamental
 early literacy abilities. (Adam, 1990; Ball & Blachman, 1991; Hammill,
 2004; McBride-Chang, 1999; Piasta & Wagner, 2010) The starting point of
-alphabet knowledge is learning letter name knowledge. According to
+alphabet knowledge is learning the letter names. According to
 Piasta, Petscher, and Justice (2012), "The ability to name the letters
 of the alphabet during preschool and kindergarten is a well-established
 predictor of children's later literacy skills." Such an important
 literacy ability for children's reading acquisition is established as
-learning goals by the government or organizations in the US. Table 2.1.1
+a learning goals by the government or organizations in the US. Table 2.1.1
 shows the benchmarks of letter naming ability in US preschool and
 kindergarten (National Governors Association Center for Best Practices &
 Council of Chief State School Officers, 2010; Office of Head Start,
