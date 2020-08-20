@@ -156,32 +156,32 @@ the teacher's targeted alphabet instruction. **
 
 1.5 Definitions of Terms
 
-**The following terms as regards to the present study are defined in
-this whole research:**
+**The following terms, as regards to the present study, are defined for
+this area of research overall:**
 
 ***Letter knowledge***
 
-**Children who are with letter knowledge mean that they can recognize
+**Children with letter knowledge are children who can recognize
 all uppercase and lowercase letters. They know the letter names and
-letter sounds. Letter knowledge is considered as the stepping stone on
+letter sounds. Letter knowledge is considered a major stepping stone on
 the path to reading.**
 
 ***Letter Name Knowledge***
 
-**Letter name knowledge is a narrow skill under letter knowledge.
+**Letter name knowledge is a narrower skill under letter knowledge.
 Children with letter name knowledge are mastering the uppercase and
-lowercase letters can say letter names. Letter name knowledge is the
-foundation of letter knowledge, the development of letter name knowledge
-will help children transit to letter sound knowledge and phonics. It's
-the very beginning skill of reading.**
+lowercase letters and can say letter names. Letter name knowledge is the
+foundation of letter knowledge. The development of letter name knowledge
+helps children transit to letter sound knowledge and phonics. It's
+the very beginning skill in reading.**
 
 ***Letter Name Knowledge Assessment ***
 
-The letter name knowledge assessment would like to test the children's
-letter naming ability. Children need to name all uppercase and lowercase
-letters during the task. The letter name knowledge assessment is an
+**Letter name knowledge assessment is the testing of children's
+letter naming ability. Children need to name some or all uppercase and lowercase
+letters during such tasks. Forms of letter name knowledge assessment are an
 instrument to help language teachers to understand what children know
-and what they still need to learn.
+and what they still need to learn.**
 
 CHAPTER TWO
 
