@@ -187,9 +187,9 @@ CHAPTER TWO
 
 **LITERATURE REVIEW**
 
-The literature review consists of four sections. The first section
-compares the alphabet knowledge standards between the US and Taiwan. The
-second section explores the letter name knowledge. The third section
+This literature review consists of four sections. The first section
+compares alphabet knowledge standards in the US and Taiwan. The
+second section explores letter name knowledge. The third section
 reviews the previous research on alphabet assessment. The final section
 provides an overview of the present study.
 
