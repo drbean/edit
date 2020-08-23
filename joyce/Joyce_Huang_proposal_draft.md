@@ -212,9 +212,9 @@ Council of Chief State School Officers, 2010; Office of Head Start,
 
 As can be seen from Table 2.1.1, the letter naming ability standards developed by
 US national and professional organizations apply from early childhood and specify in
-detailed development progress in sequence. Each stage offers the
-exact number of letter names which children should know. At the end of
-the kindergarten and before entering the first grade, children need to
+detail a series of stages through which development will take place. Each stage prescribes the
+exact number of letter names which children are expected to know. At the end of
+kindergarten and before entering the first grade, children need to be able to
 name all the uppercase and lowercase letters of the alphabet.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
