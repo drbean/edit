@@ -210,9 +210,9 @@ kindergarten benchmarks for letter naming ability there (National Governors Asso
 Council of Chief State School Officers, 2010; Office of Head Start,
 2015).
 
-According to Table 2.1.1, the letter naming ability standards of
-national or professional organizations start at early childhood and show
-the detailed development progress in sequence. Each stage offers the
+As can be seen from Table 2.1.1, the letter naming ability standards developed by
+US national and professional organizations apply from early childhood and specify in
+detailed development progress in sequence. Each stage offers the
 exact number of letter names which children should know. At the end of
 the kindergarten and before entering the first grade, children need to
 name all the uppercase and lowercase letters of the alphabet.
