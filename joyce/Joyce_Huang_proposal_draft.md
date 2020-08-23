@@ -239,17 +239,17 @@ name all the uppercase and lowercase letters of the alphabet.
 
 *Note*. Adapted from Tortorelli et al. (2017).
 
-In Taiwan, the alphabetic knowledge standard is less specified. English
+In Taiwan, alphabetic knowledge standards are less specific. English
 is a foreign language, rather than a community language. Given that
-English has developed into a global language due to the prosperity of
+English has developed into a global language due to the prosperity brought about by
 global communication, many English as foreign language (EFL) countries,
-including Taiwan, place great importance on English as basic education.
-English was promoted as the main subject for primary school students in
-Taiwan since 2001. At first, English as a subject began in fifth grade.
-Four years later in 2005, the English curriculum was extended to include
+including Taiwan, place great importance on English in basic education.
+English has been promoted as a main subject for primary school students in
+Taiwan since 2001. At that time, English tuition began in fifth grade.
+Four years later in 2005, the start of English teaching was lowered to include
 the third and the fourth grade (Ministry of Education, 2005; Feng,
-2019). Up to 2019, several counties in Taiwan extended the English
-curriculum down to include first and second grade, including Taipei
+2019). As of 2019, several counties in Taiwan had dropped the English
+curriculum starting point down to include first and second grade, including Taipei
 City, New Taipei City, and Taoyuan City. The decisions made by the
 educational divisions of city governments in Taiwan show that formal
 English education starts at an increasingly earlier age. In September
