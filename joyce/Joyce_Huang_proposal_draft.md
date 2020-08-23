@@ -202,11 +202,11 @@ early literacy abilities. (Adam, 1990; Ball & Blachman, 1991; Hammill,
 alphabet knowledge is learning the letter names. According to
 Piasta, Petscher, and Justice (2012), "The ability to name the letters
 of the alphabet during preschool and kindergarten is a well-established
-predictor of children's later literacy skills." Such an important
-literacy ability for children's reading acquisition is established as
-a learning goals by the government or organizations in the US. Table 2.1.1
-shows the benchmarks of letter naming ability in US preschool and
-kindergarten (National Governors Association Center for Best Practices &
+predictor of children's later literacy skills." This important
+literacy ability in children's reading acquisition is established as
+a learning goal by US government bodies and other organizations in the US. Table 2.1.1
+shows preschool and
+kindergarten benchmarks for letter naming ability there (National Governors Association Center for Best Practices &
 Council of Chief State School Officers, 2010; Office of Head Start,
 2015).
 
