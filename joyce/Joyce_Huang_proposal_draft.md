@@ -96,7 +96,7 @@ strategically chooses eight letters out of the 52 uppercase and
 lowercase letters, significantly reducing the time and effort required to gauge a student's letter name knowledge, by testing 
 eight letters instead of 52. While the test can be administered in
 less than a minute, its reliability is still high (Bowles et al., 2014).
-Q-LNK was designed so teachers and others could use it for quick screening and benchmark
+The Q-LNK was designed so teachers and others could use it for quick screening and benchmark
 testing purposes. The total score is eight. The teacher can estimate how many
 letters a student has currently acquired in total as a percentage of the score
 from the eight letters in the form. The higher the score a student gets, the
@@ -690,7 +690,7 @@ alphabet assessments have their purposes to use, knowing overall
 progress, or knowing the detailed information in children. However, none
 of the assessments contains all the following features: efficient,
 time-saving, and be able to get detailed information. The following
-section presents such an assessment, Q-LNK, which is the primary
+section presents such an assessment, the Q-LNK, which is the primary
 interest of the present study.
 
 2.4 The Quick Letter Name Knowledge Assessment
