@@ -537,7 +537,7 @@ Given the constrained properties of letter name knowledge, English L1
 children show similar developmental letter name knowledge pathways
 (Stahl, 2011). For language teachers, understanding the development of
 letter name knowledge will help them to know which developmental stage
-the children are currently in so that teachers can make instructional
+the children are currently in so that they can make appropriate instructional
 decisions. Figure 2.2.3.1 displays the development of letter name
 knowledge by Tortorelli et al. (2017).
 
@@ -548,19 +548,19 @@ height="2.3777777777777778in"}
 
 *Note.* Selected from Tortorelli et al. (2017).
 
-At the beginning stage, English L1 children learn ABC song, recognize
-their name initials, and know the distinct uppercase letters such as O
-and X. Also, based on the order effect, they are familiar with the
-uppercase letter at the beginning of alphabet order, that is, A, B, C.
-At the middle stage, children recognize more uppercase letters and some
+At the beginning stage, English L1 children will learn the ABC song, recognize
+their name's initials, and know distinct uppercase letters such as O
+and X. Also, because of the order effect, they will be familiar with the
+uppercase letters at the beginning of the alphabet, that is, A, B, C.
+At the middle stage, children will recognize more uppercase letters and some
 lowercase letters, especially those letters with lowercase shapes
 resembling their uppercase counterparts, for example, C/c, O/o, S/s.
-Children also recognize several high-frequency lowercase letters such as
-"e" and "s". They start to learn some phonemes which provide the sound
-clues in letter names, for example, B, P, F, and S. At the end of the
+Children will also recognize several high-frequency lowercase letters such as
+"e" and "s". They will start to learn some phonemes which provide sound
+clues to letter names, for example, B, P, F, and S. At the end of this
 stage, children are able to recognize most uppercase and lowercase
 letters. However, they may confuse some similar-looking letters such as
-b and d, t and f, and p and q. Moreover, they begin to learn the letter
+b and d, t and f, and p and q. Moreover, they will be beginning to learn the letter
 sounds that are not related to letter names, for example, H and W
 (Bowles et al., 2014; Evans, Bell, Shaw, Moretti, &Page, 2006, Huang &
 Invernizzi, 2012; Justice et al., 2006; McBride-Chang, 1999; Treiman &
@@ -569,7 +569,7 @@ Broderick, 1998).
 Ehri (2009) proposed four phases describing how English L1 children
 learn to read a word at sight. The four phases delineate a broader view
 of sight word reading than the developmental stages of letter name
-knowledge by Tortorelli et al. (2017). The four phases are
+knowledge of Tortorelli et al. (2017). The four phases are
 pre-alphabetic, partial alphabetic, full alphabetic, and consolidated
 alphabetic.
 
