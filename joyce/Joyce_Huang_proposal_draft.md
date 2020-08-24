@@ -487,48 +487,48 @@ Figure 2.2.2.1 *Continuum of Constraint*
 
 *Note*. Adapted from Stahl (2011).
 
-Besides the constrained properties of letter names, there are few
-characteristics of letter names that are discussed in Piasta's (2014)
+Besides the constrained property, letter name knowledge has some other
+characteristics that are discussed in Piasta's (2014)
 study. The first characteristic is the primacy effect of learning letter
-names. The beginning letters of alphabet order, A, B, and C, are the
-most familiar letters to young children, probably due to the attribution
-of children's most popular ABC songs. Children sing the song so often in
-their early literacy period that they pick up the beginning letters
-without effort. Moreover, the order effect is also the properties of the
-letter name. When referring to the sequence and order, such as the
-arrangement of the book and find the seat, all of the sequences start
-with A, B, C. However, the last few letters in the alphabetic list X, Y,
-and Z are not familiar to most children.
+names. The beginning letters of the alphabet, A, B, and C, are the
+letters with which young children are most familiar, probably due to the contribution
+of popular ABC songs. Children sing the songs so often in
+the early literacy period that they pick up the beginning letters
+without effort. Moreover, order effects are also a property of 
+letter names. When referring to sequences and orders, such as the
+arrangement of books or finding one's seat, practically all sequences start
+with A, B, C. As a consequence, most children are not familiar with the last few letters in the alphabet, X, Y,
+and Z.
 
-The second property of letter name is the frequent show up of letter
-names in the environment that are worthy to notice. The words, "The", at
-the beginning of the story sentences catch children's eyes, the word
-shows up mostly every book and at the clear-cut position in the start
-point of a sentence. Children may recognize the letter "T" quickly. In
+The second property of letter names is the frequency with which certain letters which are worthy of notice
+are encountered in the environment. The word, "The", at
+the beginning of story sentences catches children's eyes. The word
+shows up mostly in every book and at a clear-cut position at the starting
+point of sentences. Children may learn to recognize the letter "T" quickly. In
 addition to the word "The", the letter "a," is also a letter that
 frequently shows up in storybooks. Children get familiar with the letter
 "a" through reading storybooks.
 
-The third property of the letter name is that letter names consist of
-letter sounds. For example, letters B, D, L, and M are children mostly
-recognize sounds of the letters because the sounds are included in
-letter names rather than those are not (Piasta & Wagner, 2010).
+The third property of letter names is that some, but not all, letter names incorporate the corresponding
+letter sounds. For example, the letters B, D, L, and M are ones where children mostly
+recognize the sounds of the letters because the sounds are included in
+the letter names. For the letters, H, W and Y, the letter sounds are not incorporated, making them more difficult (Piasta & Wagner, 2010).
 
-The fourth property of the letter name is the visual similarities of
+The fourth property of letter names is the visual similarities of
 letters. Some of the letters look the same in uppercase and lowercase.
-(e.g., "O" and "o"). Children usually recognize them well. However, the
+(e.g., "O" and "o"). Children usually recognize them easily. However, 
 letters that look similar may confuse children (e.g., t and f, b and d,
-p and q). Besides, some of the letter shapes of lowercase letters are
-distinct from others. These letters are mostly recognizable by children
+p and q). In addition, some of the letter shapes of letters are quite
+distinct from the shapes of the 25 others. These letters are mostly recognizable by children
 (e.g., "x") (Treiman & Kessler, 2003).
 
-Lastly, there are some special phonological similarities with the
-pronunciation of letter names. Letter B, C, D, E, and G include /i/
-sound at the end of the letters. Letters F, H, L, M, and N include /e/
-sound at the beginning of the letters. Children can learn letters easily
-for their similar pronunciation. Also, letter names containing phonemes
-like bilabial sounds, B /b/, P /p/ and M /m/, would be easier to
-pronounce than letter names containing difficult phonemes Z /z/ and J
+Lastly, there are some special phonological similarities involved in the
+pronunciation of letter names. The letters B, C, D, E, and G include the /i/
+sound at the end of the letter names. The letters F, H, L, M, and N include the /e/
+sound at the beginning of their names. Children can learn letters more easily
+if they have similar pronunciations. Also, letter names containing phonemes
+like the bilabial sounds, B /b/, P /p/ and M /m/, should be easier to
+pronounce than letter names containing the difficult phonemes Z /z/ and J
 /dʒ/ (Justice, Pence, Bowles & Wiggins 2006).
 
 2.2.3 The Development of Letter Name Knowledge
