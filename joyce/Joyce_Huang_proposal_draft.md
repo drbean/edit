@@ -434,20 +434,22 @@ combination of letter-sound knowledge and phonemic sensitivity."
 
 2.2.2 The properties of Letter Name Knowledge
 
-Letter name knowledge has constrained features. Paris (2005)
-discriminated reading abilities into constrained and unconstrained
-skills. The constrained skills theory places reading-related skills into
-a continuum, which starts from the most highly constrained skills to the
-most highly unconstrained skills. The concept of "constrained" means the
-limited number of items to learn (Stahl, 2011). Constrained reading
-skills include writing name, alphabet, high-frequency word list,
+A feature of letter name knowledge is that it is constrained, a concept
+that was introduced by Paris's (2005)
+constrained skills theory, discriminating between reading abilities 
+which are unconstrained, like vocabulary and those which are constrained, like letter name
+knowledge. The theory places reading-related skills onto
+a continuum from the most highly constrained skills to the
+most highly unconstrained skills. The concept, "constrained" means there are
+a limited number of items to learn (Stahl, 2011). Constrained reading
+skills include writing one's name, the alphabet, the high-frequency words,
 phonics, and phonological awareness. The items to be learned are limited
-in number. Unconstrained skills of reading ability include oral reading
-fluency, vocabulary, and comprehension. These skills have unlimited
-items to learn. There are always new words to learn in a reader's
-lifetime. Moreover, the development pathways for constrained skills are
-similar among each person; however, the development pathways for
-unconstrained skills are distinctive and unique among every person.
+in number. Unconstrained reading skills include oral reading
+fluency, vocabulary, and comprehension. These skills place no limit
+on the items that need to be learned. There are always new words to learn over a reader's
+lifetime. Moreover, the development pathways followed learning constrained skills are
+similar for each person; however, the development pathways learning
+unconstrained skills are distinctive and unique for every person.
 Figure 2.2.2.1 displays the continuum of constraint for a range of
 reading-related skills.
 
