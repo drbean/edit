@@ -245,33 +245,32 @@ English has developed into a global language due to the prosperity brought about
 global communication, many English as foreign language (EFL) countries,
 including Taiwan, place great importance on English in basic education.
 English has been promoted as a main subject for primary school students in
-Taiwan since 2001. At that time, English tuition began in fifth grade.
-Four years later in 2005, the start of English teaching was lowered to include
-the third and the fourth grade (Ministry of Education, 2005; Feng,
-2019). As of 2019, several counties in Taiwan had dropped the English
-curriculum starting point down to include first and second grade, including Taipei
-City, New Taipei City, and Taoyuan City. The decisions made by the
-educational divisions of city governments in Taiwan show that formal
-English education starts at an increasingly earlier age. In September
-2019, the Ministry of Education (MOE) enacted the 12-year Basic
-Education implementation (MOE, 2014). In the 12-year Basic Education
-curriculum framework, MOE-mandated course, which is planned by the
+Taiwan since 2001. At that time, English study began in fifth grade.
+Four years later in 2005, the start of English teaching was moved one to two years earlier to third or fourth grade (Ministry of Education, 2005; Feng,
+2019). As of 2019, several counties in Taiwan had moved the English
+starting point to first and second grade, including Taipei
+City, New Taipei City, and Taoyuan City. This decision made by the
+education departments of city governments show there exists a push to to start formal
+English education at an increasingly earlier age in Taiwan. In September
+2019, the Ministry of Education (MOE) promulgated a 12-year Basic
+Education curriculum (MOE, 2014). In the 12-year 
+curriculum framework and its MOE-mandated courses, which are designed by the
 government to develop students' basic abilities, there are no hours for
 English in first and second grade. However, the framework provides space
-for each school to develop their school curriculums. Each school could
-design their curriculum according to their development vision. To build
+for each school to develop its own school curriculum. Each school can
+design its curriculum according to its own developmental vision. To build
 up student's English ability, the majority of elementary schools in
-Taiwan incorporate English in their integrative theme course, which is
+Taiwan are incorporating English in an integrative theme course, which is
 subordinate to the alternative curriculum and school-developed
 curriculum. The course begins in first grade.
 
-The national curriculum, 12-year Basic Education Framework in Taiwan,
-specifies learning performance that students at each learning stage
-should achieve. These performance indicators are similar to the concept
+The national curriculum, the 12-year Basic Education Framework in Taiwan,
+specifies learning performance levels that students at each learning stage
+are expected to achieve. These performance indicators are similar to the concept
 of learning goals or learning standards in the US (Table 2.1.2). The
-performance indicators for letter name knowledge including listening,
-speaking, reading, and writing. The performance indicators for letter
-reading and letter writing contains the concept of upper- and lowercase
+performance indicators for letter name knowledge include listening,
+speaking, reading, and writing. Those for letter
+reading and letter writing incorporate knowledge of upper- and lowercase
 letters. The table shows that elementary school students need to
 recognize and differentiate between the uppercase and lowercase letters
 in reading and writing.
@@ -280,18 +279,18 @@ in reading and writing.
 | Table 2.1.2           |                       |                       |
 +=======================+=======================+=======================+
 | *The Learning         |                       |                       |
-| Performance of Letter |                       |                       |
+| Levels for Letter     |                       |                       |
 | Name Ability in       |                       |                       |
-| 12-year Basic         |                       |                       |
-| Education of Taiwan*  |                       |                       |
+| Taiwan 12-Year Basic  |                       |                       |
+| Education*            |                       |                       |
 +-----------------------+-----------------------+-----------------------+
 | **Language Ability**  | **Learning Stage**    | **Learning            |
 |                       |                       | Performance**         |
 +-----------------------+-----------------------+-----------------------+
 | Listening             | MOE-mandated\         | Be able to recognize  |
-|                       | Curriculum: Grade 3-4 | the 26 alphabets in   |
-|                       |                       | their spoken forms    |
-|                       | (8-10 years old)      |                       |
+|                       | Curriculum: Grade 3-4 | the 26 letters of the |
+|                       |                       | alphabet in their     |
+|                       | (8-10 years old)      | spoken form           |
 |                       |                       |                       |
 |                       | School-developed\     |                       |
 |                       | Curriculum: Grade 1-2 |                       |
@@ -299,15 +298,18 @@ in reading and writing.
 |                       | (6-8 years old)       |                       |
 +-----------------------+-----------------------+-----------------------+
 | Speaking              |                       | Be able to say the 26 |
-|                       |                       | alphabets             |
+|                       |                       | letters of the        |
+|                       |                       | alphabet              |
 +-----------------------+-----------------------+-----------------------+
 | Reading               |                       | Be able to read the   |
 |                       |                       | 26 upper- and         |
-|                       |                       | lowercase alphabets   |
+|                       |                       | lowercase letters     |
+|                       |                       | of the alphabet       |
 +-----------------------+-----------------------+-----------------------+
 | Writing               |                       | Be able to write the  |
 |                       |                       | 26 upper- and         |
-|                       |                       | lowercase alphabets   |
+|                       |                       | lowercase letters     |
+|                       |                       | of the alphabet       |
 +-----------------------+-----------------------+-----------------------+
 
 Comparing the national standards of letter name ability between the US
