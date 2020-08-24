@@ -453,15 +453,15 @@ unconstrained skills are distinctive and unique for every person.
 Figure 2.2.2.1 displays the continuum of constraint for a range of
 reading-related skills.
 
-Alphabetic knowledge is a constrained skill. The limited numbers of
-alphabet consist of 52 items, which include 26 uppercase letters and 26
-lowercase letters in total. There are some characteristics of
-constrained skills. First, a constrained skill is usually learned in a
-short time frame. Due to the limited items, children do not need to
-spend a long time, like a few years, to master the alphabetic knowledge.
-In English speaking countries, the alphabet instruction starts at
-kindergarten to preschool. In Taiwan, alphabet instruction lasts two
-school years. Hence, instruction time is also limited (Paris, 2005).
+Alphabetic knowledge is a constrained skill, because of the limited numbers of letters in
+the alphabet, which consists of 52 items, 26 uppercase letters and 26
+lowercase letters in total. Constrained skills share some characteristics.
+First, a constrained skill is usually learned in a
+short time frame. Due to the limited number of items, children do not need to
+spend a long time, like a few years, to master alphabetic knowledge.
+In English speaking countries, alphabet instruction starts in
+kindergarten or preschool. In Taiwan, alphabet instruction lasts two
+school years. Hence, instruction is also limited to an interval in time (Paris, 2005).
 
 Second, the developmental pathways of constrained skills are universal.
 Every child receives the alphabet instruction so that the skills they
