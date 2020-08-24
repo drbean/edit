@@ -340,16 +340,16 @@ end of the two years.
 2.2 Letter Name Knowledge
 
 The main foundation of reading is alphabet knowledge, which is also one
-of the strong factors affecting children's future reading achievement
-(Adam, 1990). According to the report of the National Early Literacy
+of the strongest factors affecting children's future reading achievement
+(Adam, 1990). According to a report of the National Early Literacy
 Panel in the US, alphabet knowledge is defined as "knowledge of the
 names and sounds associated with printed letters" (NELP, 2008). Though
 knowledge of letter name and letter sound are both important in terms of
 alphabetic literacy acquisition, there are some unique and unreplaceable
-characteristics about letter name knowledge. In this section, the
-important factors of letter name knowledge affecting children's early
+characteristics of letter name knowledge that deserve attention. In this section, the
+important elements of letter name knowledge affecting children's early
 literacy skills, the properties of letter name knowledge, and the stages
-of development about letter name knowledge will be discussed.
+of development of letter name knowledge will be discussed.
 
 2.2.1 The importance of Letter Name Knowledge
 
