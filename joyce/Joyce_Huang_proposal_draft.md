@@ -313,29 +313,29 @@ in reading and writing.
 +-----------------------+-----------------------+-----------------------+
 
 Comparing the national standards of letter name ability between the US
-and Taiwan reveals a noticeable difference. Since English is the mother
-tongue of the US, learning letter names start at a considerably early
-age and the stages are in harmony with children's mental development and
-learning condition. Also, the standards offer the exact number of
-letters that children should reach in each stage. It provides a useful
+and Taiwan reveals a noticeable difference. Since English is a mother
+tongue in the US, learning letter names starts at a considerably earlier
+age and the stages are co-ordinated with children's mental development and
+their learning condition. Also, the standards offer the specific number of
+letters that children are expected to reach in each stage. This provides a useful
 checklist for both parents and teachers to determine if their children
-are on track or if they may need extra help in the development of
+are on track or if they need extra help in the development of
 alphabetic knowledge.
 
-Yet as EFL in Taiwan, the performance indicators in the national
+Yet for EFL in Taiwan, the performance indicators in the national
 curriculum do not specify step-by-step milestones for letter learning.
 They only specify the intended final learning outcomes in that students
-should listen to, speak, read, and write all the letters from grade 3 up
-to grade 4 (or school-developed curriculum: from grade 1 up to grade 2).
-There are no intermediate goals for the two-year learning in letters.
-The lacking specification in the intermediate goals causes some
-problems. Through general learning performance, when teachers examine
-the learning stage, there is no clear level reference for them to
+should be able to hear, speak, read, and write all the letters from grade 3 up
+to grade 4 (or in school-developed curricula: from grade 1 up to grade 2).
+There are no intermediate goals for the two-year period of the learning of the letters.
+This lack of specification of intermediate goals causes some
+problems. Using the MOE's mandated learning performance framework, when teachers examine
+learning at each stage of the course over two years, there is no clear level reference for them to
 monitor children's learning progress. Without intermediate goals to
-gauge children's progress, English teachers will not be able to know how
-well a child learns during the learning process or how much support they
-should offer to the child so that the child can achieve the goal at the
-end of the learning process.
+gauge children's progress, English teachers will not be able to tell whether
+a child is on pace to achieve the goal, or whether more support 
+should be offered, so that the child can read, write, hear and speak all 26 letters, both upper- and lowercase at the
+end of the two years.
 
 2.2 Letter Name Knowledge
 
