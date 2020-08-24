@@ -586,17 +586,17 @@ fluently, it is not because they can read the words through the
 application of the alphabetic principle, but because they have already
 memorized the words by listening to and seeing them many times or
 because they just read the words with some contextual cues such as
-pictures. Compared with Tortorelli et al.'s study (2017), there is no
-pre-alphabetic phase in letter name knowledge development in
-Tortorelli's study.
+pictures. There is no
+pre-alphabetic phase in the letter name knowledge development process in
+Tortorelli et al.'s (2017) study.
 
 Children in the partial alphabetic phase are learning letter names and
 letter sounds and using them to read a word. However, they can only
-segment the first and the final letter sounds. They cannot segment all
-the pronunciation into phonemes. Children lack full letter knowledge so
+segment the first and the final letter sounds. They cannot segment the whole word
+into pronunciation of its constituent phonemes. Children lack full letter knowledge so
 it is difficult for them to decode unfamiliar words. The partial
-alphabetic phase entirely matches the whole development of letter name
-knowledge in Tortorelli et al. (2017). At the end of the development of
+alphabetic phase entirely matches the whole process of the development of letter name
+knowledge of Tortorelli et al. (2017). At the end of the development of
 letter name knowledge in the paper of Tortorelli et al., (2017) children
 begin to develop their phonics skills. Similar to Ehri's partial
 alphabetic phase (2009), children know the letter names and sounds and
