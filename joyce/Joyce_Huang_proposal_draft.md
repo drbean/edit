@@ -353,19 +353,19 @@ of development of letter name knowledge will be discussed.
 
 2.2.1 The importance of Letter Name Knowledge
 
-Compared to letter names, letter sounds are frequently used in reading
-and speaking. When children read out a word, the language skill involves
-the letter sound knowledge in it. In that case, why have letter names
+Compared to letter names, letter sounds are more frequently used in reading
+and speaking. When children read a word aloud, the language skill involved
+is letter sound knowledge rather than letter name knowledge. In that case, why have letter names
 nevertheless been widely discussed? According to previous studies, both
-letter names and letter sounds are individual predictors of reading
+knowledge of letter names and letter sounds are individual predictors of reading
 achievement (Adam, 1990; Ball & Blachman, 1991; Foulin, 2005; Hammill,
 2004; McBride-Chang, 1999; NELP, 2008). However, letter name knowledge
 develops earlier than letter sound knowledge and is more variable than
-letter sounds when children are in kindergarten ages (Foulin, 2005).
-Once all the children are skilled in letter name knowledge, the letter
-sound knowledge becomes the main predictor of reading achievement
-(Foulin, 2005). Therefore, letter name knowledge is the foundation of
-reading skills and plays an important role in the early development of
+the latter when children are in kindergarten (Foulin, 2005).
+Once all the children are skilled in letter name knowledge, letter
+sound knowledge takes over and becomes the main predictor of reading achievement
+(Foulin, 2005). This indicates that letter name knowledge is the foundation of
+reading skills and that it plays an important role in the early development of
 alphabetic knowledge.
 
 Letter names provide children with memory storage to identify letter
