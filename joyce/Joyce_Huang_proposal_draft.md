@@ -382,28 +382,27 @@ of letters. Once the children are familiar with letter names and letter
 shapes, they begin to read and learn more words (Adams, 1990).
 
 In addition, letter name knowledge helps children learn letter sounds
-effectively. Letter names are related to letter sounds. When children say
-a letter name, for example, D (dee), the beginning sound of the letter
-name represents the corresponding letter sound /d/. Another example is F. The final
-sound of the letter name represents the letter sound /f/. Letter name
-knowledge serves as a guide for children, helping them to learn letter sounds.
-Children can make good use of the association between letter names and
-letter sounds to learn and remember letter sounds (Piasta & Wagner,
-2010).
+effectively. Letter names are related to letter sounds. When children say a
+letter name, for example, D (dee), the beginning sound of the letter name
+represents the letter sound /d/. Another example is F. The final
+sound of the letter name represents the letter sound /f/. Letter name knowledge
+serves as a guide for children, helping them to learn letter sounds.  Children
+can make good use of the association between letter names and letter sounds to
+learn and remember letter sounds (Piasta & Wagner, 2010).
 
-Previous studies investigated the relationship between letter name
-knowledge and letter sound knowledge and focus on the questions: "Does
-letter name affect phoneme?" or "Does phoneme affect letter name?" The
-results show that learning of letter sounds is affected by letter names
+Previous studies have investigated the relationship between letter name
+knowledge and letter sound knowledge and have focused on the questions: "Does
+letter name affect phoneme learning?" and "Does phoneme affect letter name learning?" The
+results show that the learning of letter sounds is affected by letter names
 (Adams, 1990; Treiman, Weatherston, & Berch, 1994; Treiman, & Broderick,
-1998; McBride-Chang, 1999). Among the letter names, the letter sounds
-that are mostly accessible are CV structure letter names, for example,
+1998; McBride-Chang, 1999). Among the 26 letters, the letter sounds
+that are mostly accessible are those with CV structure letter names, for example,
 B, D, J, K, P, Q, T, V, and Z. The above letter names begin with the
-letter sounds that the letters represent. The next accessible letter
+letter sounds that the letters represent. The next most accessible letter
 sounds are VC structure letter names, for example, F, L, M, N, S, and X.
 The letter sounds of these VC-structure letters fall at the end of
-letter names. The above properties of letter names make children easier
-to acquire letter sounds.
+letter names. The above properties of letter names make it easier for children
+to acquire those letter sounds.
 
 Letter names and letter sounds can be confused in certain conditions.
 For instance, when children write the word, elephant, they will
