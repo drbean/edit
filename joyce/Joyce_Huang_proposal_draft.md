@@ -381,12 +381,12 @@ names) (Foulin, 2005). Gradually, children will treat words as sequences
 of letters. Once the children are familiar with letter names and letter
 shapes, they begin to read and learn more words (Adams, 1990).
 
-In addition, letter name knowledge makes children learn letter sounds
-effective. Letter names are related to letter sounds. When children say
+In addition, letter name knowledge helps children learn letter sounds
+effectively. Letter names are related to letter sounds. When children say
 a letter name, for example, D (dee), the beginning sound of the letter
-name represents its letter sound /d/. Another example is F. The final
-sound of the letter name represents its letter sound /f/. Letter name
-knowledge serves as a guide for children to learn letter sounds.
+name represents the corresponding letter sound /d/. Another example is F. The final
+sound of the letter name represents the letter sound /f/. Letter name
+knowledge serves as a guide for children, helping them to learn letter sounds.
 Children can make good use of the association between letter names and
 letter sounds to learn and remember letter sounds (Piasta & Wagner,
 2010).
