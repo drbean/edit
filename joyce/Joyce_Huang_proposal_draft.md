@@ -464,10 +464,10 @@ kindergarten or preschool. In Taiwan, alphabet instruction lasts two
 school years. Hence, instruction is also limited to an interval in time (Paris, 2005).
 
 Second, the developmental pathways of constrained skills are universal.
-Every child receives the alphabet instruction so that the skills they
-develop are similar and predictable (Stahl, 2011). It is obvious for
-language teachers to know how well the children learn the alphabet and
-what alphabet stages the children are currently in.
+Every child receives alphabet instruction so that the skills they
+develop are similar and predictable (Stahl, 2011). It is not difficult for
+language teachers to understand how well children have learned the alphabet and
+what alphabet stage they are currently in.
 
 Third, due to the limited items of constrained skills, the alphabet
 measurement is usually similar to what children practice during lessons.
