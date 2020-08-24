@@ -368,18 +368,18 @@ sound knowledge takes over and becomes the main predictor of reading achievement
 reading skills and that it plays an important role in the early development of
 alphabetic knowledge.
 
-Letter names provide children with memory storage to identify letter
-shapes. When children spell a word, e.g. "elephant", it is conventional
-that people spell the word by saying its letter name, "e-l-e-p-h-a-n-t"
-rather than letter sound. When seeing a letter, children will remember
-letter shapes by saying out its name. Letter names help children connect
-the letter names they say to the reference, that is, connect the speech
+Letter names provide children with memory storage hooks to identify letter
+shapes. When children spell a word, e.g. "elephant" that they see in a book, it is conventional
+that they spell the word by saying the letters' names, "E-L-E-P-H-A-N-T"
+rather than letter sounds. When seeing the letter, children will remember
+its shape by saying its name. Letter names help children connect
+the letter names they say to their referents, that is, connect speech
 to print while recognizing the printed words (Adams, 1990; Ehri, 1985).
 Letter name knowledge allows children to bridge the gap from visual-cue
 strategy (the shapes of letter names) to phonetic-cue strategy (letter
 names) (Foulin, 2005). Gradually, children will treat words as sequences
 of letters. Once the children are familiar with letter names and letter
-shapes, they began to read and learn more words (Adams, 1990).
+shapes, they begin to read and learn more words (Adams, 1990).
 
 In addition, letter name knowledge makes children learn letter sounds
 effective. Letter names are related to letter sounds. When children say
