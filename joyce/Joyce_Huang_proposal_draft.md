@@ -404,28 +404,27 @@ The letter sounds of these VC-structure letters fall at the end of
 letter names. The above properties of letter names make it easier for children
 to acquire those letter sounds.
 
-Letter names and letter sounds can be confused in certain conditions.
-For instance, when children write the word, elephant, they will
-intuitively write the letter "L" instead of "el" because the beginning
-sounds of "elephant" are similar to the letter name "L".
+Letter names and letter sounds can be confused in some circumstances.
+For instance, when children write the word, elephant, 
+intuition will lead them to write the letter "L" instead of "el" because the beginning
+sound of "elephant" is similar to the letter name "L".
 
 In conclusion, what are the relationships between letter names, letter
 sounds, and reading achievement? Letter name knowledge is the beginning
-skill and is the precursor of letter sounds. Letter sounds play the role
+skill and is the precursor of letter sound knowledge. Letter sounds play the role
 of a mediator which connects letter names to reading achievement
 (Foulin, 2005). If children have stable and fluent letter name
-knowledge, they can rapidly correspond letter names to letter sounds.
-The less time they react to the letters, the easier and faster they
-decode a word (Adams, 1990). After that, they can immerse themselves in
+abilities, they can rapidly match letter names to letter sounds.
+The less time they take to react to letters, the easier and faster they
+can decode a word (Adams, 1990). After that, they can immerse themselves in
 extensive reading.
 
 Letter name knowledge is related to not only the acquisition of letter
 shapes and letter sounds but also phonemic sensitivity (Foulin, 2005).
 By seeing a letter in print and saying its letter name, children
-gradually acquire the concept that letter names and printed letters are
-correspondents with the phonemes. Letter name knowledge provides
-children an insight into the phonemic structures of spoken words and
-makes children know the segmentations of a word (Wagner, Torgesen, &
+gradually acquire the concept that letter names and printed letters maintain
+a correspondence with phonemes. Letter name knowledge 
+leads children to an understanding of the segmentation of spoken words and provides them with an insight into their phonemic structures (Wagner, Torgesen, &
 Rashotte, 1994). With the knowledge of letter names and letter sounds,
 children are able to manipulate and identify the segments involved in a
 word. As pointed out by Byrne, Ball, and Blachman (1991, 1998), "Letter
