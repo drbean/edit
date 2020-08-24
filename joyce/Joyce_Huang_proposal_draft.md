@@ -469,18 +469,18 @@ develop are similar and predictable (Stahl, 2011). It is not difficult for
 language teachers to understand how well children have learned the alphabet and
 what alphabet stage they are currently in.
 
-Third, due to the limited items of constrained skills, the alphabet
-measurement is usually similar to what children practice during lessons.
-It is easy to see the improvement and growth from the measurement
-results if children are given lots of practice. Because the instruction
-time of highly-constrained skills should be effective, time-efficient,
-systematic, the time for instruction should be short and targeted to
-children's current levels (Stahl, 2011). The measurement ought to be
-effective, too. Though the measurement is easy for teachers to see
-improvement, seeking of a time-efficient measurement is another
-necessary way. The Q-LNK assessment is a suitable solution for the above
-requirements as it can saving time to diagnose children's learning
-difficulties and provide useful information to guide proper teaching
+Third, due to the limited number of items in the alphabet, as a constrained skill, alphabet
+knowledge assessment usually yields results that reflect what children practice during lessons.
+It is easy to see improvement and growth in measurement
+results when children are given lots of practice. Because instruction
+in highly-constrained skills should be effective, time-efficient, and
+systematic, the time given to instruction should be short and targeted to
+children's current levels (Stahl, 2011). Assessment ought to be
+efficient, too. Though it is easy for teachers to see
+improvement through measurement, the seeking of time-efficient measurement is another
+consideration. The Q-LNK assessment is a suitable solution satisfying the above
+requirements as it can save time when diagnosing children's learning
+difficulties and provide useful information to guide appropriate teaching
 decisions.
 
 Figure 2.2.2.1 *Continuum of Constraint*
