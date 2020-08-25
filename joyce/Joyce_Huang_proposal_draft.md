@@ -737,22 +737,22 @@ Are Acquired*
 
 *Note.* Selected from Piasta (2014).
 
-The Q-LNK assessment is developed based on Bowles et al.'s (2014)
+The Q-LNK assessment was developed based on Bowles et al.'s (2014)
 research. The research collected uppercase and lowercase letter name
-knowledge from 1,113 preschoolers and analyzed the collected data by
-item response theory. The conclusions of the research include three
-points. First, uppercase letters tend to be easier and more
-discriminating but had a narrow range of difficulty. Second, including
+responses from 1,113 preschoolers and analyzed the collected data using
+Item Response Theory methods. The research reached three conclusions about the acquisition
+of letter name knowledge. First, uppercase letters tend to be easier and 
+discriminate the more advanced from less advanced learners, but they also have a narrow range of difficulty. Second, including
 lowercase letters in the assessment increases the range of difficulty.
-Children who are near to ceiling in uppercase letters may not have the
-same ceiling effect in lowercase. Including lowercase letters improves
+Children who know almost all of the 26 uppercase letters and create a ceiling effect in uppercase letter name knowledge may not know
+so many lowercase letters, so there is not so much of a ceiling effect in lowercase. Including lowercase letters improves
 the validity of the test for children with higher levels of letter name
 knowledge. Lastly and most importantly, it is not necessary to assess
-both uppercase and lowercase letters in their entirety because the
-reliability exceeds the typical acceptance. The letter name knowledge
-assessment may only include a selection of uppercase and lowercase
-letters so that it shortens the assessment time while keeping the
-assessment with high reliability (Bowles et al., 2014).
+both uppercase and lowercase letters in their entirety because 
+reliability exceeds typical acceptance levels. Letter name knowledge
+assessment only needs to include a selection of uppercase and lowercase
+letters, and as a result, assessment time can be shortened while 
+assessment with high reliability is maintained (Bowles et al., 2014).
 
 Tortorelli et al., (2017) created six forms (Table 2.4.2) with each
 include eight strategically chosen letters based on the study of Bowles
