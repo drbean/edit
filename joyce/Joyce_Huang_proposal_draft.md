@@ -625,17 +625,17 @@ the developmental path is less clear.
 
 2.3 Alphabet Assessment
 
-Alphabet assessments provide language teachers with information on
-children's learning problems and needs. Through the assessment data,
+Alphabet assessments provide language teachers with information about
+children's learning problems and needs. Using assessment data,
 teachers can set specific teaching goals for alphabet instruction.
-Although there is a general path of development in alphabetic knowledge,
-not every child develops in a similar path. Alphabet assessments help
-teachers differentiate children's stages of letter name knowledge.
-Piasta (2014) collected several letter name knowledge assessments in her
-study and these different assessments provide teachers with choices to
+Although there is a general path of development of alphabetic knowledge,
+not every child follows exactly the same path at the same speed. Alphabet assessments help
+teachers determine the differences in children's letter name knowledge.
+Piasta (2014) collects several letter name knowledge assessments in her
+study and argues that these different assessments provide teachers with options, allowing them to
 select a suitable assessment according to their requirements. For
 instance, when teachers have a new class of students, it is necessary
-for teachers to know each student's levels of letter name knowledge. A
+for teachers to know each student's level of letter name knowledge. A
 screening assessment is essential. The "Dynamic Indicators of Basic
 Early Literacy Skills (DIBELS) -- Letter Naming Fluency" test is a kind
 of screening test. This test measures children's rate of letter naming.
@@ -643,10 +643,10 @@ Students need to read out a form with many letters on it and read the
 letter names as fast as they can. However, "for young learners, the rate
 of letter naming is not necessarily as important as accuracy" (Speece,
 Mills, Ritchey, & Hillman, 2003; Tortorelli et al., 2017). The timed
-test cannot show children's real letter name knowledge because of the
+test cannot show children's real letter name knowledge because it puts them under
 time pressure. Besides, teachers cannot collect detailed information
 about children's letter naming through a timed test (Tortorelli et al.,
-2017).
+2017), so it may not be the most appropriate screening test.
 
 Another type of alphabet assessment is diagnostic assessment, which
 helps language teachers pinpoint out students' letter name knowledge
