@@ -613,13 +613,13 @@ that they can learn more difficult words easily. There are no
 developmental pathways in Tortorelli et al. (2017) corresponding to
 Ehri's full alphabetic and consolidated phases.
 
-In the paper of Tortorelli et al. (2017), the researcher provides clear
-letter names development pathways and detailed characteristics in each
-period. Ehri's (2009) study presents broader views of word reading
-phases. Even though the two researchers differ in the focus of their
-theories, both researchers highlighted an important concept in the
-development of alphabetic knowledge: English L1 children go through some
-phases in the acquisition process of the alphabetic knowledge and the
+In the paper of Tortorelli et al. (2017), the researchers demonstrate clear
+letter name development pathways and they detail characteristics of development in each
+period. Ehri's (2009) study presents a broader view of word reading.
+Even though the two studies differ in the focus of their
+theories, both highlight an important point about the
+development of alphabetic knowledge: English L1 children go through 
+phases in the acquisition of alphabetic knowledge and the
 acquisition process is similar across children. For English L2 children,
 the developmental path is less clear.
 
