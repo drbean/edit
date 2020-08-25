@@ -479,7 +479,7 @@ efficient, too. Though it is easy for teachers to see
 improvement through measurement, the seeking of time-efficient measurement is another
 consideration. The Q-LNK assessment is a suitable solution satisfying the above
 requirements as it can save time when diagnosing children's learning
-difficulties and provide useful information to guide appropriate teaching
+difficulties and can provide useful information to guide appropriate teaching
 decisions.
 
 Figure 2.2.2.1 *Continuum of Constraint*
