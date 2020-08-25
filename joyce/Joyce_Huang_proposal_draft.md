@@ -875,17 +875,17 @@ helpful instrument for teachers who teach early literacy learners.
 
 2.5 The Present Study
 
-**The present study investigates the practicality and feasibility of the
-Q-LNK Assessment for English L2 children in Taiwan. The Q-LNK Assessment
-had been only used in America. There is not yet any research on the
-practicality and feasibility of assessment in Taiwan. The present study
-will** examine whether the **Q-LNK** Assessment will effectively
-estimate how many uppercase and lowercase letters second-graders in
-Taiwan know**. If the result is affirmative, then the Q-LNK Assessment
-will help language teachers not only in Taiwan but other English as
-foreign language countries. They can use the assessment with less time
-to know students\' needs especially for classes with different English
-levels students. **
+**The present study investigates the practicality and feasibility of use of the
+Q-LNK assessment with English L2 children in Taiwan. The Q-LNK assessment
+has been only used in America. There is not yet any research on the
+practicality and feasibility of the assessment in Taiwan. The present study
+will** examine whether the **Q-LNK** Assessment effectively
+estimates how many uppercase and lowercase letters second-graders in
+Taiwan know**. If the result is in the affirmative, then the Q-LNK Assessment
+will help language teachers not only in Taiwan but also in other English as
+foreign language countries. They will have an assessment tool with which they can quickly
+ascertain students\' needs, especially important in classes students at different English
+levels.**
 
 The three research questions addressed in the present study are
 reiterated in the following:
@@ -897,8 +897,8 @@ reiterated in the following:
     > used multiple times as benchmark assessments to monitor the
     > alphabetic progress of L2 learners in Taiwan?
 
-> 3\. What factors should be taken into consideration in using the forms
-> (e.g., children's names)?
+3.  What other factors should be taken into consideration in using the forms
+    > (e.g., children's names)?
 
 CHAPTER THREE
 
