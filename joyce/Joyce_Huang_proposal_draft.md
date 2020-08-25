@@ -754,15 +754,15 @@ assessment only needs to include a selection of uppercase and lowercase
 letters, and as a result, assessment time can be shortened while 
 assessment with high reliability is maintained (Bowles et al., 2014).
 
-Tortorelli et al., (2017) created six forms (Table 2.4.2) with each
-include eight strategically chosen letters based on the study of Bowles
-et al.'s (2014) (Table 2.4.3). Each form contains different sets of
-letters with a mix of uppercase and lowercase letters. Nevertheless,
-four letters are not included in the six partition forms, which are C,
-O, l, and x. In terms of the data from Bowles et al. (2014), the
-difficulties of uppercase C and lowercase are very closed, so are the
-difficulties of the letter O/o and the letter X/x. Therefore, one of the
-uppercase and lowercase pairs is taken out from 52 letters.
+Tortorelli et al., (2017) created six forms (Table 2.4.2), each of which
+includes eight strategically chosen letters based on Bowles
+et al.'s (2014) study (Table 2.4.3). Each form contains a different set of
+letters and a mix of uppercase and lowercase letters. Nevertheless,
+four letters are not included in the six partition forms: C,
+O, l, and x. According to the data from Bowles et al. (2014), the
+difficulties of uppercase and lowercase C are very close, as are the
+difficulties of the letter O/o and the letter X/x in their two forms. Therefore, one of each of the
+uppercase and lowercase pairs was taken from the 52 letters, leaving its upper- or lowercase partner to represent it in the assessment.
 
 Table 2.4.2 *Quick Letter Name Knowledge Assessment Forms*
 
