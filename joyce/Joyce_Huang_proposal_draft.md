@@ -556,7 +556,7 @@ lowercase letters, especially those letters with lowercase shapes
 resembling their uppercase counterparts, for example, C/c, O/o, S/s.
 Children will also recognize several high-frequency lowercase letters such as
 "e" and "s". They will start to learn some phonemes which provide sound
-clues to letter names, for example, B, P, F, and S. At the end of this
+clues to letter names, for example, B, P, F, and S. In the last
 stage, children are able to recognize most uppercase and lowercase
 letters. However, they may confuse some similar-looking letters such as
 b and d, t and f, and p and q. Moreover, they will be beginning to learn the letter
