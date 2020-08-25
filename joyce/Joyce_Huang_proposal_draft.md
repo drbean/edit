@@ -654,7 +654,7 @@ learning problems. One example of a diagnostic assessment is Clay's (2002) Obser
 Early Literacy Achievement. The assessment provides a list of uppercase
 and lowercase letters in random order. Children need to read out the
 letter names following the predetermined order. If children read the
-letter name incorrectly, the test administer will record the
+letter name incorrectly, the test administrator will record the
 errors on a record sheet. Such a diagnostic letter name knowledge
 assessment helps teachers collect information about individual children's errors.
 Teachers can get insight into a child's current level
