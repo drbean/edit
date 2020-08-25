@@ -848,9 +848,9 @@ letters in forms and their total LNK scores was recognized across the six forms.
 known is shown in Table 2.4.3.
 
 Table 2.4.3 *Score Interpretation for the Quick Letter Name Knowledge
-Assessment *
+Assessment*
 
-  Total score   Expected total letters are known
+  Total score   Expected total letters known
   ------------- ----------------------------------
   0             1
   1             6 or 7
