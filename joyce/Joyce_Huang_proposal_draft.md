@@ -9,7 +9,7 @@ INTRODUCTION
 
 1.1 Background and Motivation
 
-A rich body of research has documented that a child's letter name
+A rich body of research has demonstrated that a child's letter name
 knowledge is an important predictor of future reading ability (Adam,
 1990; Ball & Blachman, 1991; Bowles, Pentimonti, Gerde, & Montroy, 2014,
 Foulin, 2005; Hammill, 2004; NELP, 2008; Piasta, Petscher, & Justice,
