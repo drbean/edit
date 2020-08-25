@@ -968,8 +968,8 @@ student's sheet with a score blank for each section. See Appendix 2.
 > then the test administrator will write down "No Name" in the name
 > blank.
 >
-> After the test administer record the information about the
-> participant's name the administer will ask the participant to point
+> After the test administrator record the information about the
+> participant's name the administrator will ask the participant to point
 > the first column of letters and say the name. If the participant
 > cannot say the name, he or she can say "I don't know," skip the
 > letter, and proceed to name the next letter. If the participant says
@@ -978,7 +978,7 @@ student's sheet with a score blank for each section. See Appendix 2.
 > its name." When giving the assessment, the administrator will read the
 > test item number and make sure that the participant follows the test
 > items one by one. Three seconds are given for each test item for which
-> the participant shows hesitation in naming. The test administers need
+> the participant shows hesitation in naming. The test administrator need
 > to record the responses made by the participant on the record sheet
 > (Appendix 2). If the participant gives an incorrect name, the
 > incorrect name will be recorded. Each item is given one point if it is
