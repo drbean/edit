@@ -838,14 +838,14 @@ Figure 2.4.4 *Letter Recognition Difficulty*
 
 *Note.* Adapted from Tortorelli et al. (2017).
 
-After the six forms complete, the next step is to verify the reliability
-and validity of each form. The reliability of each form is ranging from
-.89 to .92, with the averaged .91, which shows that the six forms are
-with high reliability. The validity was established by comparing the
-scores on each form with the scores from each students' total LNK scores
-(Tortorelli et al., 2017). The correspondence between the numbers of
-letters is recognized in six forms and the numbers of total letter names
-know are shown (Table 2.4.3).
+With the six forms complete, the next step was to verify the reliability
+and validity of each form. The reliability of each form ranged from
+.89 to .92, with an average of .91, which indicates that the six forms are
+a measure with high reliability. Validity was established by comparing 
+each student's scores on the six forms with their total LNK scores
+(Tortorelli et al., 2017). A correspondence between their scores for
+letters in forms and their total LNK scores was recognized across the six forms. The correspondence of form scores to total letter names
+known is shown in Table 2.4.3.
 
 Table 2.4.3 *Score Interpretation for the Quick Letter Name Knowledge
 Assessment *
