@@ -933,28 +933,28 @@ METHODOLOGY
 
 3.3 Instrument
 
-The instrument for collecting data is the letter name knowledge
-assessment. The assessment includes two sections. The first section
+The instrument for collecting data is a letter name knowledge
+assessment test. The assessment test includes two sections. The first section
 contains 26 uppercase letters in random order. The second section
 contains 26 lowercase letters, again, in random order. The two sections
 are printed on the same page. Each letter item is preceded by a number
-to prevent the participants from missing or skipping the test items. The
+to make it easier for the participants to avoid missing or skipping test items. The
 assessment is designed in five versions, each version will be printed on
-different color sheets (white, red, yellow, green, and blue) so that the
+a different color sheet (white, red, yellow, green, and blue) so that the
 test administrators can easily identify the five versions. The letter
-orders on each color sheet are also different in case the test causes
-the fatigue effect. If only one version is adopted as the instrument for
-all participants, due to the fatigue effect, the participants would feel
-tired at the end of the assessment and affect the assessment
-performance. The letters which fall at the back of the assessment will
-get a lower score than those fall at the front of the assessment. In
-order to avoid the fatigue effect, make a different version by
+order on each of the five color sheets is also different to counteract
+the fatigue effect caused by the test. If only one version is adopted as the order for
+all participants, due to the fatigue effect, the participants will feel
+tired at the end of the assessment only for those letters at the end, affecting assessment
+performance. The letters which fall at the end of the assessment will
+get a lower score than those coming at the front of the assessment. In
+order to avoid the fatigue effect, making different versions by
 rearranging the letter order is necessary. See Appendix 1 for the five
 versions of the assessment. The assessment contains a record sheet and a
-student sheet. If the participant accepts the white sheet, the test
+student sheet. If the participant takes the white sheet, the test
 administrator will use the white record sheet to record the
-participant's responses. The record sheet has a similar format with the
-student's sheet and with a score blank in each section. See Appendix 2.
+participant's responses. The record sheet has a similar format as the
+student's sheet with a score blank for each section. See Appendix 2.
 
 3.4 Procedures
 
