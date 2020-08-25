@@ -325,7 +325,7 @@ alphabetic knowledge.
 Yet for EFL in Taiwan, the performance indicators in the national
 curriculum do not specify step-by-step milestones for letter learning.
 They only specify the intended final learning outcomes in that students
-should be able to hear, speak, read, and write all the letters from grade 3 up
+should learn to hear, speak, read, and write all the letters from grade 3 up
 to grade 4 (or in school-developed curricula: from grade 1 up to grade 2).
 There are no intermediate goals for the two-year period of the learning of the letters.
 This lack of specification of intermediate goals causes some
