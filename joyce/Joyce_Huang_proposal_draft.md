@@ -667,18 +667,18 @@ are likely to become overly fatigued towards the end of the tests (i.e., after t
 have read 52 items). The cognitive fatigue caused by a lengthy test may
 reduce the validity of the test (Tortorelli et al., 2017).
 
-At the end of the alphabet instruction, a benchmark assessment can be
+At the end of alphabet instruction, a benchmark assessment can be
 used to check children's overall progress in letter name learning. The
-results of the assessment will decide whether children are capable
-enough of moving to the next letter sound instruction. Most of the
-benchmark assessments are large, which include many subtests such as
+results of the assessment can be used to decide whether children are capable
+enough to move to letter sound instruction next. Most of the
+benchmark assessments are large and include many subtests, such as
 Woodcock Reading Mastery Tests (Woodcock, 1998). The subtests tap into
-different aspects of linguistic skills such as listening comprehension,
-oral fluency, phonemic awareness, and rapid automatic naming in. Other
-tests like the Test of Preschool Early Literacy (Lonigan, Wagner,
-Torgesen & Rashotte, 2007) include a subtest called "Print Knowledge",
-which requires children to identify the letter and words, point to
-specific letters, name the specific letters, identify letters associated
+different aspects of linguistic skill such as listening comprehension,
+oral fluency, phonemic awareness, and rapid automatic naming. Another
+test, the Test of Preschool Early Literacy (Lonigan, Wagner,
+Torgesen & Rashotte, 2007) includes a subtest called "Print Knowledge",
+which requires children to identify letters and words, point to
+specific letters, name specific letters, identify letters associated
 with specific sounds, and say the sounds associated with specific
 letters. It takes a long time to finish the test. The test items involve
 many skills and thus the information revealed by the test scores is not
