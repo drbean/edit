@@ -908,12 +908,12 @@ METHODOLOGY
 
 > The participants will be 129 second graders from public elementary
 > schools in northern Taiwan. According to the English curriculum
-> arrangement by the Department of Education in New Taipei City, Taoyuan
+> standards of the Departments of Education in New Taipei City, Taoyuan
 > City, and Hsinchu County, second graders need to master the sounds of
-> the alphabets while first graders need to be able to name the
-> alphabets. Therefore, the participants will be targeted at second
-> grade students who had already received complete letter name
-> instruction. The gender of the participants will hopefully balance.
+> the alphabet while first graders need to be able to name the letters of the
+> alphabet. Therefore, the study will target second
+> grade students, who have already completed letter name
+> instruction. The gender of the participants will hopefully be balanced.
 
 3.2 Research Design
 
