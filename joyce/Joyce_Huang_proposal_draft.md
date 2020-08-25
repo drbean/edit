@@ -175,7 +175,7 @@ foundation of letter knowledge. The development of letter name knowledge
 helps children transit to letter sound knowledge and phonics. It's
 the very beginning skill in reading.**
 
-***Letter Name Knowledge Assessment ***
+***Letter Name Knowledge Assessment***
 
 **Letter name knowledge assessment is the testing of children's
 letter naming ability. Children need to name some or all uppercase and lowercase
@@ -220,7 +220,7 @@ name all the uppercase and lowercase letters of the alphabet.
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   Table 2.1.1                                                                                                               
   ------------------------------------------------------------------------------------------ ------------------------------ ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  *The Benchmarks for Letter Naming Ability in Preschool and Kindergarten in the US *
+  *The Benchmarks for Letter Naming Ability in Preschool and Kindergarten in the US*
 
   **National Standard**                                                                      **Age**                        **Standard text**
 
