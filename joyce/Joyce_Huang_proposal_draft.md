@@ -611,7 +611,7 @@ Learners are familiar with letter patterns that recur in different
 words. Learners can memorize larger units or chunks within a word so
 that they can learn more difficult words easily. There are no
 developmental pathways in Tortorelli et al. (2017) corresponding to
-Ehri's full alphabet phase and consolidated phases.
+Ehri's full alphabetic and consolidated phases.
 
 In the paper of Tortorelli et al. (2017), the researcher provides clear
 letter names development pathways and detailed characteristics in each
