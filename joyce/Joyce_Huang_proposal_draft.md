@@ -82,7 +82,7 @@ a student's readiness for alphabetic learning, teachers also need to
 check children's development of alphabetic learning at regular intervals, typically
 at the beginning, in the middle, and at the end of the school semester.
 For this reason, *Tortorelli* et al. (2017) developed a quick, effective
-assessment of letter name knowledge called Quick Letter Name Knowledge
+assessment of letter name knowledge called the Quick Letter Name Knowledge
 (Q-LNK) Assessment. The assessment was based on Bowles et al.'s (2014)
 research, with data collected from 1,113 preschoolers of L1 English who
 were required to name all of the uppercase and lowercase letters of the
