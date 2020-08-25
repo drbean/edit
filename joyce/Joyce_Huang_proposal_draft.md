@@ -958,12 +958,12 @@ student's sheet with a score blank for each section. See Appendix 2.
 
 3.4 Procedures
 
-> The participants will be given a letter name knowledge assessment of
+> The participants will be given a letter name knowledge assessment test of
 > the 52 letters individually. The students\' English names will be
-> recorded. The students will be shown on the sheet (Appendix 1). The
-> test administrator will ask participants their English names and ask
+> recorded. The students will be shown the sheet (Appendix 1). The
+> test administrator will ask participants for their English names and ask
 > them to spell out their English names. If the participant cannot spell
-> their names, then the administer help them spell the names and mark X
+> their names, then the administrator will help them spell the names and mark X
 > following their names. If the participants do not have English names,
 > then the test administrator will write down "No Name" in the name
 > blank.
