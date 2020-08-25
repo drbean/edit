@@ -814,15 +814,15 @@ Table 2.4.3 *Difficulty of Uppercase and Lowercase Letters*
 
 *Note.* Adapted from Bowles et al. (2014).
 
-As for how the letters are assigned to and arranged on each form, it is based on the difficulty
+Assignment to and arrangement of the letters on each form was based on the difficulty
 of the uppercase and lowercase letters as found by Bowles et al. (2014) (Table
 2.4.3), Tortorelli et al. (2017) ordered the letters from easiest
 to hardest. (Figure 2.4.4). The order for letter recognition difficulty
 starts with the children's initials. Afterward, according to the difficulty
 order, the first six easiest letters: o, B, A, X, S, and R (removing letter
-O and x), are randomly distributed, one to each form. Then the next six
-letters: c, M, K, s, E, and k, are distributed to each form and so on until
-all the letters are distributed.
+O and x), were randomly distributed, one to each form. Then the next six
+letters: c, M, K, s, E, and k, were distributed to each form and so on until
+all the letters were distributed.
 
 Figure 2.4.4 *Letter Recognition Difficulty*
 
