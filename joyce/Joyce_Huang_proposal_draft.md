@@ -986,16 +986,17 @@ student's sheet with a score blank for each section. See Appendix 2.
 
 3.5 Data Analysis (unfinished)
 
-> The examination of whether the Q-LNK Assessment estimates how many
-> uppercase and lowercase letters do the participants know, firstly, we
-> will sum up the score of 52 letters name knowledge. Secondly, we will
-> fill out the Q-LNK Score Sheet (six forms) according to the data of 52
-> letters name knowledge collecting from the participants and then
-> calculate the total score of each form. Lastly, check each form's
-> total score of Q-LNK Score Sheet and the expected total letter known
-> chart, contrast with the collecting data, the score of 52 letters name
-> knowledge. To check if the expected total letter known chart estimates
-> the participants' real 52 letters name knowledge.
+> The aim of the data analysis is to examine whether the Q-LNK assessment accurately and reliably estimates how many
+> uppercase and lowercase letters the participants know. Firstly, we
+> will sum the scores of the 52 letters, giving a figure for each participant's letter name knowledge. Secondly, we will
+> compute the scores for the six individual Q-LNK forms using the data for the 52
+> letters which have already been collected from the participants.
+> Lastly, we will check 
+> total scores on each Q-LNK form against the expected total letters known
+> chart (see Table 2.4.3), and compare them with the
+> collected data, the score out of 52, for each participant's letter name
+> knowledge, to check if the expected total letter known chart estimates
+> agree with the participants' real 52 letters name knowledge.
 >
 > **REFERENCES**
 
