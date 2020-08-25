@@ -918,10 +918,10 @@ METHODOLOGY
 3.2 Research Design
 
 > To investigate whether the Q-LNK assessment can be effectively used to estimate
-> the letter name knowledge of second-grade students in Taiwan, the researcher
-> will collect letter name knowledge data by administering a
-> letter-naming test that requires second-grade students to read the 26
-> uppercase and 26 lowercase letters. The test will be administered on
+> the letter name knowledge of second-grade students in Taiwan, 
+> letter name knowledge data will be collected by means of a
+> letter-naming test. The test will require second-grade students to read the 26
+> uppercase and 26 lowercase letters, and will be administered on
 > an individual basis. Students' performance on the 52 letters will be
 > partitioned into the six different Q-LNK assessment forms.
 > Correlations between the original and partitioned data will be
