@@ -864,13 +864,13 @@ Assessment*
 
 *Note.* Adapted from Tortorelli et al. (2017).
 
-The Q-LNK Assessment consists of many benefits. First, teachers can use
+The Q-LNK assessment consists of many benefits. First, teachers can use
 the forms at regular intervals to benchmark children's letter name
-knowledge in learning blocks. Second, the assessment time is
-substantially reduced so that teachers can have more time to plan to
-differentiate instruction. Third, the six forms provide teachers with a
-more convenient and quick way to assess, the forms can be used
-repeatedly. With the above benefits, the Q-LNK Assessment seems a
+knowledge in learning blocks. Second, it substantially reduces assessment time
+so that teachers can have more time to plan 
+differentiated instruction. Third, the six forms provide teachers with a
+more convenient and quick way to assess instruction and they can be used
+repeatedly. With the above benefits, the Q-LNK assessment promises to be a
 helpful instrument for teachers who teach early literacy learners.
 
 2.5 The Present Study
