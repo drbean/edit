@@ -396,10 +396,10 @@ letter name affect phoneme learning?" and "Does phoneme affect letter name learn
 results show that the learning of letter sounds is affected by letter names
 (Adams, 1990; Treiman, Weatherston, & Berch, 1994; Treiman, & Broderick,
 1998; McBride-Chang, 1999). Among the 26 letters, the letter sounds
-that are mostly accessible are those with CV structure letter names, for example,
+that are mostly accessible are those with CV-structure letter names, for example,
 B, D, J, K, P, Q, T, V, and Z. The above letter names begin with the
 letter sounds that the letters represent. The next most accessible letter
-sounds are VC structure letter names, for example, F, L, M, N, S, and X.
+sounds are VC-structure letter names, for example, F, L, M, N, S, and X.
 The letter sounds of these VC-structure letters fall at the end of
 letter names. The above properties of letter names make it easier for children
 to acquire those letter sounds.
