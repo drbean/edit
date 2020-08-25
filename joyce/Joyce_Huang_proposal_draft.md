@@ -685,12 +685,12 @@ many skills and thus the information revealed by the test scores is not
 specific enough for teachers to plan letter name instruction (Tortorelli
 et al., 2017).
 
-The above alphabet assessments have their own proper time to use, at the
-beginning of the school year or the end of the school year. Also, the
-alphabet assessments have their purposes to use, knowing overall
-progress, or knowing the detailed information in children. However, none
-of the assessments contains all the following features: efficient,
-time-saving, and be able to get detailed information. The following
+The above alphabet assessments have their own proper time, at the
+beginning of the school year or the end of the school year when their use may be appropriate. Also, 
+alphabet assessments have their purposes of use, measuring overall
+progress, or learning detailed information about children. However, none
+of the above assessments contain all the following features: efficient,
+time-saving, and providing detailed information. The following
 section presents such an assessment, the Q-LNK, which is the primary
 interest of the present study.
 
