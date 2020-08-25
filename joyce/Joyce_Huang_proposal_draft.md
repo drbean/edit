@@ -435,14 +435,13 @@ combination of letter-sound knowledge and phonemic sensitivity."
 2.2.2 The properties of Letter Name Knowledge
 
 A feature of letter name knowledge is that it is constrained, a concept
-that was introduced by Paris's (2005)
+introduced by Paris's (2005)
 constrained skills theory, with its distinction between reading abilities 
 which are unconstrained, like vocabulary and those which are constrained, like letter name
 knowledge. The theory places reading-related skills onto
-a continuum from the most highly constrained skills to the
-most highly unconstrained skills. The concept, "constrained" means there are
-a limited number of items to learn (Stahl, 2011). Constrained reading
-skills include writing one's name, knowledge of the alphabet and high-frequency words,
+a continuum from the most highly constrained skills 
+ to the most highly unconstrained skills. Constrained reading
+skills require the learning of a limited number of items (Stahl, 2011), and include writing one's name, knowledge of the alphabet and high-frequency words,
 phonics, and phonological awareness. The items to be learned are limited
 in number. Unconstrained reading skills include oral reading
 fluency, vocabulary, and comprehension. These skills place no limit
