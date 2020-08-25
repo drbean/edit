@@ -742,7 +742,7 @@ research. The research collected uppercase and lowercase letter name
 responses from 1,113 preschoolers and analyzed the collected data using
 Item Response Theory methods. The research reached three conclusions about the acquisition
 of letter name knowledge. First, uppercase letters tend to be easier and 
-discriminate the more advanced from less advanced learners, but they also have a narrow range of difficulty. Second, including
+discriminate between the more advanced and less advanced learners, but they also have a narrow range of difficulty. Second, including
 lowercase letters in the assessment increases the range of difficulty.
 Children who know almost all of the 26 uppercase letters and create a ceiling effect in uppercase letter name knowledge may not know
 so many lowercase letters, so there is not so much of a ceiling effect in lowercase. Including lowercase letters improves
