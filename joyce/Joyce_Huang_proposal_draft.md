@@ -699,22 +699,22 @@ interest of the present study.
 The Q-LNK Assessment is a quick, reliable, research-based letter name
 knowledge assessment. It can efficiently assess student's letter name
 knowledge, screen children who might have problems in letter naming
-knowledge, and to monitor their progress in letter name knowledge over
-time (Tortorelli et al., 2017). The theoretical background of the Q-LNK
+knowledge, and monitor their progress in letter name knowledge over
+time (Tortorelli et al., 2017). The theoretical background to the Q-LNK
 assessment is that letters differ from one another in their difficulty
 (Bowles et al., 2014; Huang & Invernizzi, 2014; Justice et al., 2006;
 McBride-Chang, 1999; Phillps et al., 2012; Piasta, 2014). Some of the
-letters are easy to be picked up by students while others are not.
+letters are easily picked up by students while others are not.
 Figure 2.4.1 presents the typical order in which letter names and letter
-sounds are acquired. From this figure, it is important to know that each
-letter is different among others. The typical order provides the
-information that some of the uppercase letters are easy to learn and
+sounds are acquired. From this figure, it is important to note that each
+letter is different. The typical order provides the
+information that some uppercase letters are easy to learn and
 teachers may focus their instruction on difficult letter names (Piasta,
-2014). However, the typical order does not consider the lowercase
+2014). However, the typical order does not provide information about the lowercase
 letters.
 
 Figure 2.4.1 *The Typical Order in Which Letter Names and Letter Sounds
-Are Required*
+Are Acquired*
 
   Letter Names                     Letter Sounds
   --------------- ---------------- ---------------
