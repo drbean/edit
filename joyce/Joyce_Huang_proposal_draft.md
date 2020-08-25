@@ -649,22 +649,22 @@ about children's letter naming through a timed test (Tortorelli et al.,
 2017), so it may not be the most appropriate screening test.
 
 Another type of alphabet assessment is diagnostic assessment, which
-helps language teachers pinpoint out students' letter name knowledge
-learning problems. One example is Clay's (2002) Observation Survey of
+helps language teachers pinpoint students' letter name knowledge
+learning problems. One example of a diagnostic assessment is Clay's (2002) Observation Survey of
 Early Literacy Achievement. The assessment provides a list of uppercase
 and lowercase letters in random order. Children need to read out the
 letter names following the predetermined order. If children read the
-letter name incorrectly, the test administer will record children's
-errors on the record sheet. Such a diagnostic letter name knowledge
-assessment helps teachers collect children's errors individually.
-Teachers can take an insight into a child's current developmental level
+letter name incorrectly, the test administer will record the
+errors on a record sheet. Such a diagnostic letter name knowledge
+assessment helps teachers collect information about individual children's errors.
+Teachers can get insight into a child's current level
 of letter name knowledge and plan differentiated alphabet instruction
 for the individual child or children in a small group. Even though
-giving diagnostic letter name assessment helps language teachers
-understand each child's letter name knowledge, the time of administering
-assessment is still a big problem. Young children, as well as teachers,
-may become overly fatigued towards the end of tests (i.e., after they
-read 52 items). The cognitive fatigue caused by the lengthy test may
+giving diagnostic letter name assessment tests helps language teachers
+understand the state of each child's letter name knowledge, the time taken to administer
+the assessment is still a big problem. Young children, as well as teachers,
+are likely to become overly fatigued towards the end of the tests (i.e., after they
+have read 52 items). The cognitive fatigue caused by a lengthy test may
 reduce the validity of the test (Tortorelli et al., 2017).
 
 At the end of the alphabet instruction, a benchmark assessment can be
