@@ -884,7 +884,7 @@ estimates how many uppercase and lowercase letters second-graders in
 Taiwan know**. If the result is in the affirmative, then the Q-LNK Assessment
 will help language teachers not only in Taiwan but also in other English as
 foreign language countries. They will have an assessment tool with which they can quickly
-ascertain students\' needs, especially important in classes students at different English
+ascertain students\' needs, especially important in classes with students at different English
 levels.**
 
 The three research questions addressed in the present study are
