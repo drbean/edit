@@ -1,4 +1,4 @@
-**Validation of "The Quick Letter Name Knowledge Assessment" test of
+**Validation of "The Quick Letter Name Knowledge Assessment" of
 early literacy for young Taiwanese EFL Learners**
 
 > Keywords: alphabet assessment, alphabet name knowledge
