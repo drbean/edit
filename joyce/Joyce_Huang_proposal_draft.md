@@ -10,7 +10,7 @@ INTRODUCTION
 1.1 Background and Motivation
 
 A rich body of research has demonstrated that a child's letter name
-knowledge is an important predictor of future reading ability (Adam,
+knowledge is an important predictor of future reading ability (Adams,
 1990; Ball & Blachman, 1991; Bowles, Pentimonti, Gerde, & Montroy, 2014,
 Foulin, 2005; Hammill, 2004; NELP, 2008; Piasta, Petscher, & Justice,
 2012;). Children who have difficulty recognizing the 26 English letters
@@ -197,7 +197,7 @@ provides an overview of the present study.
 
 Alphabet knowledge, including letter name knowledge, letter sound
 knowledge, and letter writing ability, is one of the most fundamental
-early literacy abilities. (Adam, 1990; Ball & Blachman, 1991; Hammill,
+early literacy abilities. (Adams, 1990; Ball & Blachman, 1991; Hammill,
 2004; McBride-Chang, 1999; Piasta & Wagner, 2010) The starting point of
 alphabet knowledge is learning the letter names. According to
 Piasta, Petscher, and Justice (2012), "The ability to name the letters
@@ -341,7 +341,7 @@ end of the two years.
 
 The main foundation of reading is alphabet knowledge, which is also one
 of the strongest factors affecting children's future reading achievement
-(Adam, 1990). According to a report of the National Early Literacy
+(Adams, 1990). According to a report of the National Early Literacy
 Panel in the US, alphabet knowledge is defined as "knowledge of the
 names and sounds associated with printed letters" (NELP, 2008). Though
 knowledge of letter name and letter sound are both important in terms of
@@ -358,7 +358,7 @@ and speaking. When children read a word aloud, the language skill involved
 is letter sound knowledge rather than letter name knowledge. In that case, why have letter names
 nevertheless been widely discussed? According to previous studies, both
 knowledge of letter names and letter sounds are individual predictors of reading
-achievement (Adam, 1990; Ball & Blachman, 1991; Foulin, 2005; Hammill,
+achievement (Adams, 1990; Ball & Blachman, 1991; Foulin, 2005; Hammill,
 2004; McBride-Chang, 1999; NELP, 2008). However, letter name knowledge
 develops earlier than letter sound knowledge and is more variable than
 the latter when children are in kindergarten (Foulin, 2005).
