@@ -260,8 +260,8 @@ English in first and second grade. However, the framework provides space
 for each school to develop its own school curriculum. Each school can
 design its curriculum according to its own developmental vision. To build
 up student's English ability, the majority of elementary schools in
-Taiwan are incorporating English in an integrative theme course, which is
-subordinate to the alternative curriculum and school-developed
+Taiwan are incorporating English in an integrative theme course, as
+part of the alternative school-developed
 curriculum. The course begins in first grade.
 
 The national curriculum, the 12-year Basic Education Framework in Taiwan,
