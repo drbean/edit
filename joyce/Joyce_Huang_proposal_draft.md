@@ -762,7 +762,7 @@ four letters are not included in the six partition forms: C,
 O, l, and x. According to the data from Bowles et al. (2014), the
 difficulties of uppercase and lowercase C are very close, as are the
 difficulties of the letter O/o and the letter X/x in their two forms. Therefore, one of each of the
-uppercase and lowercase pairs was taken from the 52 letters, leaving its upper- or lowercase partner to represent the letter in the assessment.
+uppercase and lowercase pairs was removed from the 52 letters, leaving its upper- or lowercase partner to represent the letter in the assessment.
 
 Table 2.4.2 *Quick Letter Name Knowledge Assessment Forms*
 
