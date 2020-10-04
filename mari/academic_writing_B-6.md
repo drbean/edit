@@ -48,33 +48,33 @@ Translated with www.DeepL.com/Translator (free version)
 
 ５）Mari's summary translation: Please check this passage.
 
-Making notes of the literature is the most time-consuming but very
-rewarding stage in thesis writing process. It is advisable to start with
-extensive reading for narrowing down the research topics, then, as the
-scheme of the paper becomes concrete and refined, gradually move on to
-the more specialized reference materials. (Andrew Armour and others,
+Reading the literature and taking notes is the most time-consuming, but also very
+rewarding, part of the thesis writing process. It is advisable to start with
+extensive reading of a wide variety of sources before narrowing down the research topic, and then, as the
+form of the paper becomes clearer and more refined, gradually move on to
+more specialized reference materials. (Andrew Armour and others,
 *Academic Writing Oyo-hen*: *Bungaku, Bunka-kenkyu no Eigo-ronbun
 Sakusei-ho (Academic Writing Advanced Level: How to Write an English
 Dissertation on Literature and Cultural Studies)*, (Keio University
 Press, 1999), p.32)
 
-The broad reference of literature (books, journals and researches) help
-make the paper, ensures the profoundness of the paper, and makes the
-plan into a more sophisticated thesis. (Even though not all the notes
-can be used for the paper) In order to gradually realize the form of th,
-The best way probably is to start reading wide-range literature,
-extracting the knowledge and in the process of extracting the knowledge.
+Broad reference to the secondary literature (books, journals and research) helps
+make the paper, ensures its profoundness, and forces
+vague ideas to be developed into a more sophisticated thesis, (even though not all the notes that are taken
+will be used). In order to gradually realize what needs to go into the paper,
+the best way probably is to start reading extensively,
+extracting the knowledge of other writers, and in the process of extracting that knowledge, developing one's own about the work under consideration.
 (Andrew Armour and others, Academic Writing 1999, p.32)
 
 1\)
 
-Making notes of the literature is the most time-consuming but rewarding
-process in thesis writing. The broad reference of literature (books,
-journals and researches ensures the profoundness of the paper, and makes
-the plan into a more sophisticated thesis. (Even though not all the
-notes can be used for the paper) In order to gradually realize the form
-of th, The best way probably is to start reading wide-range literature,
-extracting the knowledge and in the process of extracting the knowledge.
+Reading and making notes of the literature is the most time-consuming, but rewarding,
+process in thesis writing. The broad reference to the literature (books,
+journals and research) ensures the profoundness of the paper, and helps
+a plan become a sophisticated thesis, (even though not all the
+notes taken can be used in it.) In order to gradually realize the form
+of the paper, the best way probably is to start reading a wide range of secondary literature,
+extracting knowledge from it. The process of extracting that knowledge will make the paper richer in content.
 (Andrew Armour and others, Academic Writing 1999, p.32)
 
-make the paper rich in content
+
