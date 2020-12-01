@@ -41,7 +41,7 @@ wushengyu@nuu.edu.tw
 k12009162002@yahoo.com.tw
 # peter0318@thu.edu.tw # 500 5.0.0 Service unavailable
 llwinni@yahoo.com.tw
-yuxuan.yang@msa.hinet.net
+# yuxuan.yang@msa.hinet.net # disc quota exceeded
 yuiichien@yahoo.com.tw
 huiping@nuu.edu.tw
 echenchun@gmail.com
