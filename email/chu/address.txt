@@ -10,7 +10,6 @@ yshou@chu.edu.tw
 yuhsiunglin@chu.edu.tw
 
 # compsci
-
 whtsai@cs.nctu.edu.tw
 sjl@chu.edu.tw
 yu@chu.edu.tw
@@ -29,7 +28,6 @@ changc@chu.edu.tw
 lcwu@chu.edu.tw
 
 # mechanical
-
 ming@chu.edu.tw
 chiou@chu.edu.tw
 bjtsai@chu.edu.tw
@@ -41,3 +39,16 @@ cfchen@chu.edu.tw
 yylung@chu.edu.tw
 luo@chu.edu.tw
 yyhsu@chu.edu.tw
+
+# optoelectronics,materials
+tscheng@chu.edu.tw
+yulilin@chu.edu.tw
+chiou@chu.edu.tw
+bjtsai@chu.edu.tw
+kjma@chu.edu.tw
+ming@chu.edu.tw
+rossiwu@chu.edu.tw
+jyhuang@chu.edu.tw
+chihua.tung@chu.edu.tw
+yylung@chu.edu.tw
+richard@chu.edu.tw
