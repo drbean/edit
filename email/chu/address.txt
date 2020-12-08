@@ -202,7 +202,6 @@ chkou@chu.edu.tw
 01135@ems.hccg.gov.tw
 mwk_hsu@rrbceo.gov.tw
 cjchang@chu.edu.tw
-mglee@chu.edu.tw
 
 # design
 sjh@chu.edu.tw
@@ -290,3 +289,7 @@ pchen@chu.edu.tw
 ballytour@gmail.com
 happy4golf@chu.edu.tw
 yumi@chu.edu.tw
+
+# tourism master
+
+ct_su@chu.edu.tw
