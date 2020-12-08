@@ -293,3 +293,9 @@ yumi@chu.edu.tw
 # tourism master
 
 ct_su@chu.edu.tw
+
+# tourism double major
+
+ichang@g.chu.edu.tw
+p.y.wu@g.chu.edu.tw
+tourism@chu.edu.tw
