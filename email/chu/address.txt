@@ -246,3 +246,7 @@ rosa@g.chu.edu.tw
 yschen@chu.edu.tw
 bob@chu.edu.tw
 gamesfirsteds@g.chu.edu.tw
+
+# afl
+chienkan@chu.edu.tw
+koka@chu.edu.tw
