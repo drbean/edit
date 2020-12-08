@@ -179,7 +179,6 @@ shaofu@g.chu.edu.tw
 
 # landscape
 yuchi@g.chu.edu.tw
-ycshiau@chu.edu.tw
 gsyang@chu.edu.tw
 joeylee@chu.edu.tw
 wucc@chu.edu.tw
@@ -304,3 +303,10 @@ tourism@chu.edu.tw
 peterchen9036@chu.edu.tw
 kennylin@chu.edu.tw
 jml@chu.edu.tw
+
+# community planning
+
+yuchi@chu.edu.tw
+shaotsai@chu.edu.tw
+dama@chu.edu.tw
+linda.train@chu.edu.tw
