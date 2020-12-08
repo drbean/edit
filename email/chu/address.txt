@@ -62,7 +62,6 @@ trhsu@chu.edu.tw
 
 # bioinformatics
 chihua.tung@chu.edu.tw
-jyhuang@chu.edu.tw
 kyhu@chu.edu.tw
 jswu@chu.edu.tw
 yshou@chu.edu.tw
@@ -299,3 +298,9 @@ ct_su@chu.edu.tw
 ichang@g.chu.edu.tw
 p.y.wu@g.chu.edu.tw
 tourism@chu.edu.tw
+
+# oracle dbm
+
+peterchen9036@chu.edu.tw
+kennylin@chu.edu.tw
+jml@chu.edu.tw
