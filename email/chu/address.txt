@@ -171,7 +171,6 @@ chmason@tcb-bank.com.tw
 dama@g.chu.edu.tw
 planner@chu.edu.tw
 2010hmc@chu.edu.tw
-cty@chu.edu.tw
 wlin@chu.edu.tw
 yiyint@g.chu.edu.tw
 sunnywilltsai@gmail.com
@@ -182,16 +181,9 @@ shaofu@g.chu.edu.tw
 # landscape
 yuchi@g.chu.edu.tw
 ycshiau@chu.edu.tw
-sjh@chu.edu.tw
-sharon@chu.edu.tw
 gsyang@chu.edu.tw
 joeylee@chu.edu.tw
-chiachi0501@gmail.com
-hualun@chu.edu.tw
 wucc@chu.edu.tw
-chien@chu.edu.tw
-poching.liao@gmail.com
-superqqming@gmail.com
 
 # civil engineering
 cclu@chu.edu.tw
@@ -211,3 +203,13 @@ chkou@chu.edu.tw
 mwk_hsu@rrbceo.gov.tw
 cjchang@chu.edu.tw
 mglee@chu.edu.tw
+
+# design
+sjh@chu.edu.tw
+sharon@chu.edu.tw
+chiachi0501@gmail.com
+cty@chu.edu.tw
+hualun@chu.edu.tw
+chien@chu.edu.tw
+poching.liao@gmail.com
+superqqming@gmail.com
