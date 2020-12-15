@@ -26,3 +26,6 @@ kmh838@ydu.edu.tw
 norman@ydu.edu.tw
 shyong@ydu.edu.tw
 
+# multimedia
+# can't find profs
+
