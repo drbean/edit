@@ -29,3 +29,24 @@ shyong@ydu.edu.tw
 # multimedia
 # can't find profs
 
+# iot
+ylt1116@ydu.edu.tw
+cyt@ydu.edu.tw
+ystsai@ydu.edu.tw
+tslan@ydu.edu.tw
+maxlin@ydu.edu.tw
+cfwu@ydu.edu.tw
+cht@ydu.edu.tw
+chienfon@ydu.edu.tw
+hschuang@ydu.edu.tw
+hychang@ydu.edu.tw
+hychiu@ydu.edu.tw
+hjw@ydu.edu.tw
+cih@ydu.edu.tw
+suchen@ydu.edu.tw
+samuel@ydu.edu.tw
+dawn@ydu.edu.tw
+panpeter@ydu.edu.tw
+chings01@ydu.edu.tw
+zsmin@ydu.edu.tw
+
