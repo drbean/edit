@@ -64,3 +64,13 @@ fc7909@yahoo.com.tw
 
 # ai manufacturing
 # only dupes
+
+# hospitality
+sic@tust.edu.tw
+ive324722@yahoo.com.tw
+cycingrid@gmail.com
+nick80909@gmail.com
+denny13322001@gmail.com
+hung@tust.edu.tw
+padsly@tust.edu.tw
+
