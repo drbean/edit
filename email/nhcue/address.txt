@@ -28,7 +28,7 @@ chf.yeh@gmail.com
 
 # 學習科學與科技研究所
 gzliao@mx.nthu.edu.tw
-%20suychen@mx.nthu.edu.tw
+suychen@mx.nthu.edu.tw
 scy@mx.nthu.edu.tw
 lyfu@mx.nthu.edu.tw
 truscott@mx.nthu.edu.tw
