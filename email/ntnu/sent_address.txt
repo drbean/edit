@@ -260,19 +260,13 @@ glchiou@ntnu.edu.tw
 tzungjinlin@ntnu.edu.tw
 
 # glis_0
-chihwu
-@ntnu.edu.tw
-chui
-@ntnu.edu.tw
+chihwu@ntnu.edu.tw
+chui@ntnu.edu.tw
 glis@deps.ntnu.edu.tw
 jirlong@ntnu.edu.tw
-kchang
-@
-ntnu.edu.tw
-linyt
-@ntnu.edu.tw
-mpchen
-@ntnu.edu.tw
+kchang@ntnu.edu.tw
+linyt@ntnu.edu.tw
+mpchen@ntnu.edu.tw
 
 # ice_0
 mpchen@ice.ntnu.edu.tw
