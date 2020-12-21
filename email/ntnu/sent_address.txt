@@ -598,7 +598,7 @@ jeanww@ntnu.edu.tw
 kneng@ntnu.edu.tw
 knight88@ntnu.edu.tw
 lun1216@ntnu.edu.tw
-mingchao@ntnu.edu.tw
+# mingchao@ntnu.edu.tw # unknown_user_but_web_page_still up
 mlhuang@ntnu.edu.tw
 salami@ntnu.edu.tw
 secreteva@ntnu.edu.tw
