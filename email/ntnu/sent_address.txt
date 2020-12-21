@@ -569,7 +569,7 @@ yunjulai@ntnu.edu.tw
 t43019@ntnu.edu.tw
 ktlu@ntnu.edu.tw
 
-# ch_0
+# http://ch.ntnu.edu.tw chinese
 01long99@ntnu.edu.tw
 8114ming@gmail.com
 a89011222@yahoo.com.tw
