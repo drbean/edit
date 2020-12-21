@@ -39,5 +39,5 @@ cschang@mail.nctu.edu.tw
 shuhchen@mail.nctu.edu.tw
 schi@mail.nctu.edu.tw
 cctsai7@mail.nctu.edu.tw
-jsshie@crystotech.com.tw
+# jsshie@crystotech.com.tw host unknown, retired prof
 mhlu@cc.nctu.edu.tw
