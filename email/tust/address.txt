@@ -29,7 +29,7 @@ Wdh36.wen@msa.hinet.net
 vincent@tust.edu.tw
 eecly@tust.edu.tw
 tyan@thit.edu.tw
-h220442@yahoo.com.tw
+# h220442@yahoo.com.tw # disabled mailbox
 
 # information
 peiyuli@mitust.edu.tw
