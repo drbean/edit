@@ -352,8 +352,6 @@ yctsao@mail.ntust.edu.tw
 # ba_0
 tomlin@ba.ntust.edu.tw
 wu@ba.ntust.edu.tw
-luarm@ba.ntust.edu.tw
-luarm@mail.ntust.edu.tw
 ntustba@yahoo.com.tw
 msheng@mail.ntust.edu.tw
 chialin@mail.ntust.edu.tw
