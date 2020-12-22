@@ -89,7 +89,7 @@ tss@must.edu.tw
 wlue@must.edu.tw
 wphc@must.edu.tw
 yjn@must.edu.tw
-ypjen@must.edu
+ypjen@must.edu.tw
 
 # civil_0
 anna@must.edu.tw
@@ -196,7 +196,7 @@ whjeng@must.edu.tw
 wml@must.edu.tw
 
 # im_0
-alvin@must.edu
+alvin@must.edu.tw
 bsc@must.edu.tw
 cardy@must.edu.tw
 cfchiu@must.edu.tw
