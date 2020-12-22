@@ -210,7 +210,6 @@ josephmis@gmail.com
 lily6220@gmail.com.tw
 # unodavid@digiwin.biz # unodavid@digiwin.com also, service unavailable
 hielwong@digiwin.biz
-janny@0800168.com.tw
 emily_ku@tk3c.tsannkuen.com
 
 # business
@@ -290,7 +289,6 @@ josephmis@gmail.com
 lily6220@gmail.com.tw
 unodavid@digiwin.biz
 hielwong@digiwin.biz
-janny@0800168.com.tw
 emily_ku@tk3c.tsannkuen.com
 
 # general_ed
