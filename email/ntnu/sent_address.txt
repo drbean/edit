@@ -156,7 +156,6 @@ changch2@ntnu.edu.tw
 hl1419@ntnu.edu.tw
 t10024@ntnu.edu.tw
 pjtsai@ntnu.edu.tw
-epan@ntnu.edu.tw
 wflai@ntnu.edu.tw
 cyang@ntnu.edu.tw
 s.wang@ntnu.edu.tw
