@@ -260,7 +260,6 @@ tzungjinlin@ntnu.edu.tw
 
 # glis_0
 chihwu@ntnu.edu.tw
-chui@ntnu.edu.tw
 glis@deps.ntnu.edu.tw
 jirlong@ntnu.edu.tw
 kchang@ntnu.edu.tw
