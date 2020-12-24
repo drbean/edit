@@ -772,7 +772,6 @@ t24013@ntnu.edu.tw
 # tcll_0
 annheylen@ntnu.edu.tw
 a_yinglai@ntnu.edu.tw
-chunyenwang@ntnu.edu.tw
 fmlin@ntnu.edu.tw
 hsuhj@ntnu.edu.tw
 khinhoan@ntnu.edu.tw
