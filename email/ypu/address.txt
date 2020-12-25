@@ -12,6 +12,7 @@ kuoter64@gmail.com
 hwtypu@mail.ypu.edu.tw
 llai@mail.ypu.edu.tw
 twchin@mail.ypu.edu.tw
+
 # healthcare
 aven@mail.ypu.edu.tw
 ya3910@mail.ypu.edu.tw
@@ -27,6 +28,7 @@ brian@mail.ypu.edu.tw
 clare@mail.ypu.edu.tw
 jermin@mail.ypu.edu.tw
 olivehung@gmail.com
+
 # lab
 jameskung@mail.ypu.edu.tw
 erythrodics2000@yahoo.com.tw
@@ -41,7 +43,9 @@ d86624105@ntu.edu.tw
 jhchen@mail.ypu.edu.tw
 hcyang@mail.ypu.edu.tw
 twspal@gmail.com
+
 # nursing
+
 yuchu@mail.ypu.edu.tw
 yuchien@mail.ypu.edu.tw
 hsumf22@gmail.com
@@ -76,6 +80,7 @@ gillianchiousuechang@gmail.com
 ypu1060701@mail.ypu.edu.tw
 emijresa@gmail.com
 utitis3232@gmail.com
+
 # biomed
 wangts@mail.ypu.edu.tw
 chungho@mail.ypu.edu.tw
@@ -88,6 +93,7 @@ minfeng@mail.ypu.edu.tw
 linyh@mail.ypu.edu.tw
 mingyen@mail.ypu.edu.tw
 leetc@mail.ypu.edu.tw
+
 # pet
 kuofeng@mail.ypu.edu.tw
 merri@mail.ypu.edu.tw
@@ -102,6 +108,7 @@ gbj712@gmail.com
 m10516005@g4e.npust.edu..tw
 iseeabigcat@gmail.com
 peiting0928@gmail.com
+
 # optometry
 ptfmy@mail.ypu.edu.tw
 alphalaister@gmail.com
@@ -118,6 +125,7 @@ wenhsiang_wu@mail.ypu.edu.tw
 wenhsiang_wu@yahoo.com.tw
 miaomiao@mail.ypu.edu.tw
 ctcamber@mail.ypu.edu.tw
+
 # environment
 ckwang@mail.ypu.edu.tw
 chhuang@mail.ypu.edu.tw
@@ -127,6 +135,7 @@ vivianhung@mail.ypu.edu.tw
 wenchin@mail.ypu.edu.tw
 jlchen@mail.ypu.edu.tw
 szupeiwu@mail.ypu.edu.tw
+
 # food
 yihuang@mail.ypu.edu.tw
 lcc@mail.ypu.edu.tw
@@ -139,6 +148,7 @@ jenliang@mail.ypu.edu.tw
 chungsl@mail.ypu.edu.tw
 mcfang@mail.ypu.edu.tw
 jgliu@mail.ypu.edu.tw
+
 # beverage
 yhchen@mail.ypu.edu.tw
 mimje@mail.ypu.edu.tw
@@ -151,6 +161,7 @@ wcliu@mail.ypu.edu.tw
 juilienhsu@mail.ypu.edu.tw
 rachel@mail.ypu.edu.tw
 rich101324@yahoo.com.tw
+
 # biotech
 ltchuang@mail.ypu.edu.tw
 sylin@mail.ypu.edu.tw
@@ -160,6 +171,7 @@ szupeiwu@mail.ypu.edu.tw
 weihsien@mail.ypu.edu.tw
 d8801004@mail.ypu.edu.tw
 jsliu@mail.ypu.edu.tw
+
 # tourism
 jasmine-lin@mail.ypu.edu.tw
 chinyao@mail.ypu.edu.tw
@@ -170,6 +182,7 @@ huichung@mail.ypu.edu.tw
 sharonchen@mail.ypu.edu.tw
 t270106@mail.ypu.edu.tw
 rachel@mail.ypu.edu.tw
+
 # information
 scho@mail.ypu.edu.tw
 imtch@mail.ypu.edu.tw
@@ -197,6 +210,7 @@ lily6220@gmail.com.tw
 # unodavid@digiwin.biz # unodavid@digiwin.com also, service unavailable
 hielwong@digiwin.biz
 emily_ku@tk3c.tsannkuen.com
+
 # business
 miaomiao@mail.ypu.edu.tw
 ycchung@mail.ypu.edu.tw
@@ -207,6 +221,7 @@ s_864333@yahoo.com.tw
 mimosa1122@yahoo.com.tw
 lynnchang@mail.ypu.edu.tw
 ruth@mail.ypu.edu.tw
+
 # leisure
 hongct@mail.ypu.edu.tw
 kss12345@mail.ypu.edu.tw
@@ -215,6 +230,7 @@ erica@mail.ypu.edu.tw
 juichen@mail.ypu.edu.tw
 yuanchen@mail.ypu.edu.tw
 jylee@ym.edu.tw
+
 # afl
 imtch@mail.ypu.edu.tw
 ietch.tsai@msa.hinet.net
@@ -233,11 +249,13 @@ bujska@hotmail.com
 ru021701@wmail.hcu.edu.tw
 Jessuk0615@gmail.com
 Lipingwang1102@gmail.com
+
 # teacups
 paul@mail.ypu.edu.tw
 mypiano@mail.ypu.edu.tw
 pcfang@mail.ypu.edu.tw
 marychou@mail.ypu.edu.tw
+
 # mobile tech
 scho@mail.ypu.edu.tw
 wangts@seed.net.tw
@@ -249,6 +267,7 @@ ikiyama@gmail.com
 hcchan@mail.ypu.edu.tw
 jacob@mail.ypu.edu.tw
 zionjac@msn.com
+
 # digital_media
 scho@mail.ypu.edu.tw
 cyberpaul747@gmail.com
@@ -270,6 +289,7 @@ lily6220@gmail.com.tw
 unodavid@digiwin.biz
 hielwong@digiwin.biz
 emily_ku@tk3c.tsannkuen.com
+
 # general_ed
 jrhongwu@gmail.com
 meichi@mail.ypu.edu.tw
@@ -302,3 +322,4 @@ dinhdung250562@gmail.com
 aries3418@hotmail.com
 hsuehju.lin@gmail.com
 hank.spwu@gmail.com
+

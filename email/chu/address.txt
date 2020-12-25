@@ -8,6 +8,7 @@ kao@chu.edu.tw
 mcyen@chu.edu.tw
 yshou@chu.edu.tw
 yuhsiunglin@chu.edu.tw
+
 # compsci
 whtsai@cs.nctu.edu.tw
 sjl@chu.edu.tw
@@ -25,6 +26,7 @@ chwang@chu.edu.tw
 jameschen@chu.edu.tw
 changc@chu.edu.tw
 lcwu@chu.edu.tw
+
 # mechanical
 ming@chu.edu.tw
 chiou@chu.edu.tw
@@ -37,6 +39,7 @@ cfchen@chu.edu.tw
 yylung@chu.edu.tw
 luo@chu.edu.tw
 yyhsu@chu.edu.tw
+
 # optoelectronics,materials
 tscheng@chu.edu.tw
 yulilin@chu.edu.tw
@@ -49,22 +52,26 @@ jyhuang@chu.edu.tw
 chihua.tung@chu.edu.tw
 yylung@chu.edu.tw
 richard@chu.edu.tw
+
 # electronic
 lichen@mail.nctu.edu.tw
 chlai@g.chu.edu.tw
 kuojenlin@chu.edu.tw
 fclee102@gmail.com
 trhsu@chu.edu.tw
+
 # bioinformatics
 chihua.tung@chu.edu.tw
 kyhu@chu.edu.tw
 jswu@chu.edu.tw
 richard@chu.edu.tw
 wmchang@chu.edu.tw
+
 # engineering science
 kai@chu.edu.tw
 chlai@chu.edu.tw
 ycshiau@chu.edu.tw
+
 # international biz
 yihui@chu.edu.tw
 pochi@chu.edu.tw
@@ -74,6 +81,7 @@ jeni@chu.edu.tw
 freda@chu.edu.tw
 plin@chu.edu.tw
 zoe@chu.edu.tw
+
 # industrial management
 president@chu.edu.tw
 hengma@chu.edu.tw
@@ -95,6 +103,7 @@ kate@chu.edu.tw
 hcchuang@chu.edu.tw
 xahsugo@gmail.com
 yaowen1027@chu.edu.tw
+
 # information management
 eugene@chu.edu.tw
 jlo@chu.edu.tw
@@ -111,6 +120,7 @@ qflin.ait@gmail.com
 sota.chou@msa.hinet.net
 garryckimo@yahoo.com.tw
 shiang0623@gmail.com
+
 # business management
 wpei@chu.edu.tw
 swt@chu.edu.tw
@@ -121,6 +131,7 @@ ysjuang@chu.edu.tw
 yc@chu.edu.tw
 mlyeh@chu.edu.tw
 hteng@chu.edu.tw
+
 # finance
 jasmine@chu.edu.tw
 hsien@chu.edu.tw
@@ -136,6 +147,7 @@ m9219019@chu.edu.tw
 donnagina2005@yahoo.com.tw
 angel1962@ems.miaoli.gov.tw
 hanst.09@gmail.com
+
 # bm_continuing ed
 stoney@chu.edu.tw
 chiuping@chu.edu.tw
@@ -152,6 +164,7 @@ NT14458@cathaybk.com.tw
 maruko4151@yahoo.com.tw
 golfbird@ms39.hinet.net
 chmason@tcb-bank.com.tw
+
 # architecture
 dama@g.chu.edu.tw
 planner@chu.edu.tw
@@ -162,11 +175,13 @@ sunnywilltsai@gmail.com
 linda.train@msa.hinet.net
 weiming@chu.edu.tw
 shaofu@g.chu.edu.tw
+
 # landscape
 yuchi@g.chu.edu.tw
 gsyang@chu.edu.tw
 joeylee@chu.edu.tw
 wucc@chu.edu.tw
+
 # civil engineering
 cclu@chu.edu.tw
 ccw@chu.edu.tw
@@ -184,6 +199,7 @@ chkou@chu.edu.tw
 01135@ems.hccg.gov.tw
 mwk_hsu@rrbceo.gov.tw
 cjchang@chu.edu.tw
+
 # design
 sjh@chu.edu.tw
 sharon@chu.edu.tw
@@ -193,6 +209,7 @@ hualun@chu.edu.tw
 chien@chu.edu.tw
 poching.liao@gmail.com
 superqqming@gmail.com
+
 # japanese
 weichihchen@g.chu.edu.tw
 chienkan88.tw@yahoo.com.tw
@@ -202,6 +219,7 @@ liaowenshu@gmail.com
 tsurikichisydney@gmail.com
 ywang112@chu.edu.tw
 manami.nishizawa.628@hotmail.com
+
 # public admin
 chang197512@gmail.com
 suhui@chu.edu.tw
@@ -217,16 +235,20 @@ yuan0317@ms32.hinet.net
 chunda671004@gmail.com
 chanmaverick@gmail.com
 bear6150_9@msn.com
+
 # english
 liwenliu@chu.edu.tw
 rosa@g.chu.edu.tw
 yschen@chu.edu.tw
 bob@chu.edu.tw
 gamesfirsteds@g.chu.edu.tw
+
 # afl
 chienkan@chu.edu.tw
 koka@chu.edu.tw
+
 # hospitality
+
 simond@chu.edu.tw
 hywang@chu.edu.tw
 ylchen@chu.edu.tw
@@ -244,7 +266,9 @@ julin0515@gmail.com
 cihou@chu.edu.tw
 wangtzuhui2008@gmail.com
 doris@chu.edu.tw
+
 # mice
+
 ichang@chu.edu.tw
 huangkinmen@gmail.com
 cihou@chu.edu.tw
@@ -252,7 +276,9 @@ wchang@chu.edu.tw
 Peiyingwu2013@gmail.com
 kuanwenericlin@iCloud.com
 doris@chu.edu.tw
+
 # tourism
+
 hwchang@chu.edu.tw
 mglee@chu.edu.tw
 linli_tai@chu.edu.tw
@@ -260,21 +286,31 @@ pchen@chu.edu.tw
 ballytour@gmail.com
 happy4golf@chu.edu.tw
 yumi@chu.edu.tw
+
 # tourism master
+
+
 # tourism double major
+
 ichang@g.chu.edu.tw
 p.y.wu@g.chu.edu.tw
 tourism@chu.edu.tw
+
 # oracle dbm
+
 peterchen9036@chu.edu.tw
 kennylin@chu.edu.tw
 jml@chu.edu.tw
+
 # community planning
+
 yuchi@chu.edu.tw
 shaotsai@chu.edu.tw
 dama@chu.edu.tw
 linda.train@chu.edu.tw
+
 # general ed
+
 liang@g.chu.edu.tw
 stshy@chu.edu.tw
 kingjang@chu.edu.tw
@@ -304,7 +340,9 @@ g860412@yahoo.com.tw
 freedom1238@yahoo.com.tw
 liangwin@seed.net.tw
 h370205@ms41.hinet.net
+
 # phys ed
+
 linkuo@chu.edu.tw
 jml@chu.edu.tw
 jing @chu.edu.tw
@@ -313,3 +351,4 @@ yazhen@chu.edu.tw
 woei@cc.chu.edu.tw
 chunyu@chu.edu.tw
 joychang@chu.edu.tw
+
