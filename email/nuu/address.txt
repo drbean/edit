@@ -8,7 +8,6 @@ andrea@nuu.edu.tw
 nous@nuu.edu.tw
 kwang@nuu.edu.tw
 jks@nuu.edu.tw
-
 # afl
 hfcheng@nuu.edu.tw
 gklwj@nuu.edu.tw
@@ -22,16 +21,11 @@ ysleu@nuu.edu.tw
 reneelin1011@nuu.edu.tw
 szuhan@nuu.edu.tw
 aruo@nuu.edu.tw
-
 # cll
 rtliu@nuu.edu.tw
-
 chinat@nuu.edu.tw
-
 hohoho@nuu.edu.tw
-
 bcdefg@nuu.edu.tw
-
 tititi@nuu.edu.tw
 lingpan@nuu.edu.tw
 mhchen@nuu.edu.tw
@@ -45,172 +39,89 @@ llwinni@yahoo.com.tw
 yuiichien@yahoo.com.tw
 huiping@nuu.edu.tw
 echenchun@gmail.com
-
 # arch
-
-
 kyw@nuu.edu.tw
-
 lhh@nuu.edu.tw
-
 bcw@nuu.edu.tw
-
 chlin@nuu.edu.tw
-
 wsteng@nuu.edu.tw
-
 000049@nuu.edu.tw
-
 sure-lin@nuu.edu.tw
-
 yeh@nuu.edu.tw
-
 normantsai@nuu.edu.tw
-
 swh@nuu.edu.tw
-
 vicky@nuu.edu.tw
-
 arch@nuu.edu.tw
-
 #id
-
 changcc@nuu.edu.tw
-
 ymy@nuu.edu.tw
-
 ypchou@nuu.edu.tw
 rchou17@gmail.com
-
 kmchen@nuu.edu.tw
-
 maurice@nuu.edu.tw
-
 FanGeo@nuu.edu.tw
-
 hsiujye@nuu.edu.tw
-
 hungweiken@gmail.com
 achille@nuu.edu.tw
-
 Kim.cklee@msa.hinet.net
-
 yuwei.wu1979@gmail.com
-
 chiewei@gmail.com
-
 sifan-626@yahoo.com.tw
-
 ck43.tw@hotmail.com
-
 mokochiu@gmail.com
-
 cattothink@gmail.com
-
 lilaliao0904@hotmail.com
-
 h3267275@hotmail.com
-
 shwoyou@ms59.hinet.net
-
 runchingtang@gmail.com
-
 jll6601@hotmail.com
-
 wagipayan@nuu.edu.tw
-
 # part-time continuing education
-
 kuoann.lin@msa.hinet.net
-
 DAB67@tpech.gov.tw
-
 f6425@ms18.hinet.net
-
 zuhsin.wang@msa.hinet.net
-
 lantsen@seed.net.tw
-
 sfg@nuu.edu.tw
-
 derek18961048@gmail.com
-
 d89341007@ntu.edu.tw
-
 kucctw@gmail.com
-
 rodey@nuu.edu.tw
-
 fhsieh1125@aol.com
-
 louilun@ms24.hinet.net
-
 rabbit651109@yahoo.com.tw
-
 newsqq5@yahoo.com.tw
-
 yangming1958@yahoo.com.tw
-
 ray.bird@msa.hinet.net
-
 pakk2345@gmail.com
-
 wang19660728@yahoo.com.tw
-
 A3703@tpech.gov.tw
-
 dae34@tpech.gov.tw
-
 A2530@tpech.gov.tw
-
 DAB74@tpech.gov.tw
-
 chenchishao@gmail.com
-
 yichioulee@gmail.com
-
 k262350@gmail.com
-
 ccwang@nuu.edu.tw
-
 sungminlin@gmail.com
-
 aspera0126@yahoo.com.tw
-
 Chief.force@msa.hinet.net
-
 Ntumcliu8@gmail.com
-
 chi0901@ms42.hinet.net
-
 farn0118@nuu.edu.tw
-
 yayu0606@nuu.edu.tw
-
 includes182004@yahoo.com.tw
-
 rayleeishere@hotmail.com
-
 ranty@nuu.edu.tw
-
 yhha2002@yahoo.com.tw
-
 pattyyingpi@gmail.com
-
 a0928277309@gmail.com
-
 81390@mil.mohw.gov.tw
-
 72064@mil.mohw.gov.tw
-
 shiseido1031@yahoo.com.tw
-
 chang.jenchih@gmail.com
-
 icchen1020@gmail.com
-
 # continuing ed
-
 chinat@nuu.edu.tw
 lhchang@nuu.edu.tw
 lincle@nuu.edu.tw
@@ -227,13 +138,10 @@ ruthliner@nuu.edu.tw
 shho@nuu.edu.tw
 suncmh@nuu.edu.tw
 dungming@nuu.edu.tw
-
 # disaster
 wsteng@nuu.edu.tw
-
 # glass
 hwyang@nuu.edu.tw
-
 # cultural tourism
 hyfeng@nuu.edu.tw
 lin66@nuu.edu.tw
@@ -244,7 +152,6 @@ liuhuany@nuu.edu.tw
 magfan@nuu.edu.tw
 long@nuu.edu.tw
 lihan888@nuu.edu.tw
-
 # cultural innovation digital marketing
 datoyu@nuu.edu.tw
 wyjen@nuu.edu.tw
@@ -253,7 +160,6 @@ kiwi@nuu.edu.tw
 maggie@nuu.edu.tw
 chen201@nuu.edu.tw
 ps0925@nuu.edu.tw
-
 # hakka l & c
 fahn@nuu.edu.tw
 mccheng@nuu.edu.tw
@@ -261,11 +167,9 @@ TSWU@nuu.edu.tw
 lulanlan@nuu.edu.tw
 fahn@nuu.edu.tw
 fanfen@nuu.edu.tw
-
 # hakka research
 rueyming@nuu.edu.tw
 lin66@nuu.edu.tw
-
 # bma
 tjhwu@nuu.edu.tw
 cslee@nuu.edu.tw
@@ -286,7 +190,6 @@ ahwong@nuu.edu.tw
 yschiu@nuu.edu.tw
 hsiehgk@nuu.edu.tw
 hsinyihu@nuu.edu.tw
-
 # FIA
 jiang@nuu.edu.tw
 wychiu@nuu.edu.tw
@@ -297,7 +200,6 @@ hlyang@nuu.edu.tw
 hhtsai@nuu.edu.tw
 yingchen327@nuu.edu.tw
 ijutsai@nuu.edu.tw
-
 # MIA
 mgwen@nuu.edu.tw
 ctchen@nuu.edu.tw
@@ -313,7 +215,6 @@ KTCheng@nuu.edu.tw
 pcchen@nuu.edu.tw
 yutso@nuu.edu.tw
 jhchang@nuu.edu.tw
-
 # kwangdian
 jmhsu@nuu.edu.tw
 june@nuu.edu.tw
@@ -332,7 +233,6 @@ soniachen@nuu.edu.tw
 cchsu920624@nuu.edu.tw
 wcandy@nuu.edu.tw
 chifang@nuu.edu.tw
-
 # info engineering
 ncwang@nuu.edu.tw
 hsin@nuu.edu.tw
@@ -344,7 +244,6 @@ nschou@nuu.edu.tw
 flhuang@nuu.edu.tw
 gclee@nuu.edu.tw
 ykchiang@nuu.edu.tw
-
 # EE
 hcchen@nuu.edu.tw
 billtai@nuu.edu.tw
@@ -375,7 +274,6 @@ mftsai@nuu.edu.tw
 yschen@nuu.edu.tw
 yjchiou@nuu.edu.tw
 cmwu@nuu.edu.tw
-
 # electrical
 jhlin@nuu.edu.tw
 hsuch@nuu.edu.tw
@@ -406,7 +304,6 @@ vcsu@nuu.edu.tw
 MYLin@nuu.edu.tw
 jmjang@nuu.edu.tw
 chio@nuu.edu.tw
-
 # SHE
 wenw@nuu.edu.tw
 wsk@nuu.edu.tw
@@ -431,7 +328,6 @@ yeyan@nuu.edu.tw
 jhkuo@nuu.edu.tw
 yfh@nuu.edu.tw
 cfjuang@nuu.edu.tw
-
 # materials
 fangchi@nuu.edu.tw
 byshih@nuu.edu.tw
@@ -444,7 +340,6 @@ fangchi@nuu.edu.tw
 yslai@nuu.edu.tw
 willyhsu@nuu.edu.tw
 juiyuanchen@nuu.edu.tw
-
 # mechanical
 jslo@nuu.edu.tw
 pcl@nuu.edu.tw
@@ -475,7 +370,6 @@ lywang@nuu.edu.tw
 fatatsai@nuu.edu.tw
 cwchang@nuu.edu.tw
 linyeunh@nuu.edu.tw
-
 # civil engineering
 cmlo@nuu.edu.tw
 cdwang@nuu.edu.tw
@@ -491,7 +385,6 @@ lchiang@nuu.edu.tw
 jfwang@nuu.edu.tw
 jrchang@nuu.edu.tw
 lee@nuu.edu.tw
-
 # energy
 sunban@nuu.edu.tw
 thchiang@nuu.edu.tw
@@ -502,7 +395,6 @@ lychen@nuu.edu.tw
 sunban@nuu.edu.tw
 mahuang@nuu.edu.tw
 jydai@nuu.edu.tw
-
 # chemical engineering
 an@nuu.edu.tw
 linys@nuu.edu.tw
@@ -520,4 +412,3 @@ pyho@nuu.edu.tw
 mino@nuu.edu.tw
 chiou@nuu.edu.tw
 chipingli@nuu.edu.tw
-

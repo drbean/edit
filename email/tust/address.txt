@@ -7,19 +7,16 @@ hoho@tust.edu.tw
 hch@tust.edu.tw
 feicu7057@gmail.com
 hueyrong@ms18.hinet.net
-
 # mechanical, energy
 aecct@tust.edu.tw 
 davidee@tust.edu.tw
 peiyuli@tust.edu.tw
-
 # electro-mechanical
 aeysc@tust.edu.tw
 aelhc@tust.edu.tw
 jmliang@tust.edu.tw
 lhchang@tust.edu.tw
 ae3@tust.edu.tw
-
 # ee
 eelou@et4.thit.edu.tw
 lou@et4.thit.edu.tw
@@ -30,7 +27,6 @@ vincent@tust.edu.tw
 eecly@tust.edu.tw
 tyan@thit.edu.tw
 # h220442@yahoo.com.tw # disabled mailbox
-
 # information
 peiyuli@mitust.edu.tw
 chuang@tust.edu.tw
@@ -40,7 +36,6 @@ hcho@tust.edu.tw
 shtsai@tust.edu.tw
 lynnlien@tust.edu.tw
 lisahct@ms68.hinet.net
-
 # tourism
 lyp0614@tust.edu.tw
 jmwu@tust.edu.tw
@@ -48,7 +43,6 @@ huichen@tust.edu.tw
 ssho@tust.edu.tw
 g88133036@hotmail.com
 hcho@tust.edu.tw
-
 # business
 myfanyi@tust.edu.tw
 mydodo@kimo.com
@@ -60,10 +54,8 @@ slguo@tust.edu.tw
 aiping@tust.edu.tw
 annietai124@yahoo.com.tw
 kuocheng@tust.edu.tw
-
 # ai manufacturing
 # only dupes
-
 # hospitality
 sic@tust.edu.tw
 ive324722@yahoo.com.tw
@@ -72,7 +64,6 @@ nick80909@gmail.com
 denny13322001@gmail.com
 hung@tust.edu.tw
 padsly@tust.edu.tw
-
 # phys ed
 Lyp0614@mitust.edu.tw
 ouyang0415@yahoo.com.tw

@@ -12,7 +12,6 @@ ydjames@ydu.edu.tw
 hychang@ydu.edu.tw
 m851008m@ydu.edu.tw
 alan9956@ydu.edu.tw
-
 # marketing
 edison9@ydu.edu.tw
 muyeh@ydu.edu.tw
@@ -25,10 +24,8 @@ brnlai@ydu.edu.tw
 kmh838@ydu.edu.tw
 norman@ydu.edu.tw
 shyong@ydu.edu.tw
-
 # multimedia
 # can't find profs
-
 # iot
 ylt1116@ydu.edu.tw
 cyt@ydu.edu.tw
@@ -49,7 +46,6 @@ dawn@ydu.edu.tw
 panpeter@ydu.edu.tw
 chings01@ydu.edu.tw
 zsmin@ydu.edu.tw
-
 # japanese
 etoh@ydu.edu.tw
 changamy@ydu.edu.tw
@@ -58,7 +54,6 @@ joy206tw@ydu.edu.tw
 miekot@ydu.edu.tw
 kinka@ydu.edu.tw
 suchin@ydu.edu.tw
-
 # child
 chc@ydu.edu.tw
 chenrs@ydu.edu.tw
@@ -69,7 +64,6 @@ ilwang@ydu.edu.tw
 minxiong@ydu.edu.tw
 Happykai@ms16.hinet.net
 b88663077@yahoo.com.tw
-
 # health/social work
 yd2935@ydu.edu.tw
 chenrs@ydu.edu.tw
@@ -91,7 +85,6 @@ aha.buligy@msa.hinet.net
 a0937754027@ydu.edu.tw
 rfyrdd@ydu.edu.tw
 k037721483@ydu.edu.tw
-
 # tourism/recreation
 tong0919@ydu.edu.tw
 leo@ydu.edu.tw
@@ -132,7 +125,6 @@ gin526407@mail.cish.mlc.edu.tw
 yhtseng@mx.nthu.edu.tw
 qttrt7848@gmail.com
 cyc450501@gmail.com
-
 # recreation/sports
 smilehor@ydu.edu.tw
 lilianchen@ydu.edu.tw
@@ -143,7 +135,6 @@ yhs@ydu.edu.tw
 clee@ydu.edu.tw
 wjlin@ydu.edu.tw
 linday7812@ydu.edu.tw
-
 # hospitality
 sw520@ydu.edu.tw
 omics1@ydu.edu.tw
@@ -159,7 +150,6 @@ hankyjiang@ydu.edu.tw
 alexjen@ydu.edu.tw
 suman1926@ydu.edu.tw
 sallywang@ydu.edu.tw
-
 # fashion
 cylung@ydu.edu.tw
 y2800@ydu.edu.tw
@@ -175,7 +165,6 @@ cp5280606@ydu.edu.tw
 aaa67130@ydu.edu.tw
 kaiak5598@ydu.edu.tw
 htchen521211@ydu.edu.tw
-
 # general ed
 smilehor@ydu.edu.tw
 pclan@ydu.edu.tw

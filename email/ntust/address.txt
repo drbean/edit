@@ -1,4 +1,3 @@
-
 # gsac_0
 mjtsai@mail.ntust.edu.tw
 rickylee@mail.ntust.edu.tw
@@ -8,7 +7,6 @@ hungfeikuo@mail.ntust.edu.tw
 kuo@mail.ntust.edu.tw
 jeffreykuo@mail.ntust.edu.tw
 sdxu@mail.ntust.edu.tw
-
 # me_0
 ckchao@mail.ntust.edu.tw
 jerrylin@mail.ntust.edu.tw
@@ -57,7 +55,6 @@ weicheng@mail.ntust.edu.tw
 ylkuo@mail.ntust.edu.tw
 cchiu@mail.ntust.edu.tw
 shchen@mail.ntust.edu.tw
-
 # ct_0
 leuss@mail.ntust.edu.tw
 myc@mail.ntust.edu.tw
@@ -91,7 +88,6 @@ mikehwang@mail.ntust.edu.tw
 tpchang@mail.ntust.edu.tw
 young@mail.ntust.edu.tw
 chuntaoc@mail.ntust.edu.tw
-
 # ch2_0
 cklee@mail.ntust.edu.tw
 mhho@mail.ntust.edu.tw
@@ -144,7 +140,6 @@ cjl@mail.ntust.edu.tw
 tcliu@mail.ntust.edu.tw
 cyshiau@mail.ntust.edu.tw
 dly@mail.ntust.edu.tw
-
 # mse_0
 ywyen@mail.ntust.edu.tw
 sghu100@gmail.com
@@ -171,7 +166,6 @@ ChiuYWang@mail.ntust.edu.tw
 mltsai@gapps.ntust.edu.tw
 hchiu@mail.ntust.edu.tw
 anewmoon816@mail.ntust.edu.tw
-
 # iatp_0
 cashen@mail.ntust.edu.tw
 dtvo@mail.ntust.edu.tw
@@ -181,7 +175,6 @@ laj871@mail.ntust.edu.tw
 lcchao@mail.ntust.edu.tw
 lichang.hung@mail.ntust.edu.tw
 tyhsu@mail.ntust.edu.tw
-
 # ece_0
 hlchen@mail.ntust.edu.tw
 mblin@mail.ntust.edu.tw
@@ -229,7 +222,6 @@ jsu@mail.ntust.edu.tw
 bridge@mail.ntust.edu.tw
 changth@mail.ntust.edu.tw
 liliwang0827@yahoo.com.tw
-
 # ee_0
 cjwu@mail.ntust.edu.tw
 hcchang@mail.ntust.edu.tw
@@ -281,7 +273,6 @@ YF.Luo@mail.ntust.edu.tw
 ywma@mail.ntust.edu.tw
 chuhuynam@mail.ntust.edu.tw
 yuhsiao@mail.ntust.edu.tw
-
 # csie_0
 smchen@csie.ntust.edu.tw
 smcheng@mail.ntust.edu.tw
@@ -310,7 +301,6 @@ cyuan.yao@csie.ntust.edu.tw
 guhy@mail.ntust.edu.tw
 aism.paul@gmail.com
 dayuan.huang.tw@gmail.com
-
 # eoe_0
 AK80492@mail.ntust.edu.tw
 chern@mail.ntust.edu.tw
@@ -323,7 +313,6 @@ hsi-hsir.chou@mail.ntust.edu.tw
 lck@mail.ntust.edu.tw
 rjwai@mail.ntust.edu.tw
 sllee@mail.ntust.edu.tw
-
 # im_0
 bcjiang@mail.ntust.edu.tw
 chris@mail.ntust.edu.tw
@@ -346,7 +335,6 @@ sweat0430@mail.ntust.edu.tw
 sychou@mail.ntust.edu.tw
 vincent@mail.ntust.edu.tw
 yctsao@mail.ntust.edu.tw
-
 # ba_0
 tomlin@ba.ntust.edu.tw
 wu@ba.ntust.edu.tw
@@ -364,7 +352,6 @@ yyeh@ba.ntust.edu.tw
 cwchen@mail.ntust.edu.tw
 y.chang@mail.ntust.edu.tw
 shlu@mail.ntust.edu.tw
-
 # fn_0
 chunnan@mail.ntust.edu.tw
 cjliang@mail.ntust.edu.tw
