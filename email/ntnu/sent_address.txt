@@ -1061,13 +1061,6 @@ yangming@ntnu.edu.tw
 # vee_0
 simonhsu1705@hotmail.com
 
-# upeoe_0
-jclarke@berkeley.edu
-jmutsai@ntnu.edu.tw
-phyfv001@ntnu.edu.tw 
-ptm106_10355@ntnu.edu.tw
-ptm106_10693@ntnu.edu.tw 
-
 # tecs_0
 054308@mail.naer.edu.tw
 carreralon@gmail.com
@@ -1382,4 +1375,20 @@ ycs@ntnu.edu.tw
 yying@ntnu.edu.tw
 
 # http://www.mgt.ntnu.edu.tw
+
+# http://www.upeoe.ntnu.edu.tw
+cjcheng@ntnu.edu.tw
+csyang@ntnu.edu.tw
+hhhsiao@ntnu.edu.tw
+jclarke@berkeley.edu
+jjchieh@ntnu.edu.tw
+jmutsai@ntnu.edu.tw
+mhlee@ntnu.edu.tw
+nfchiu@ntnu.edu.tw
+nien@ntnu.edu.tw
+phyfv001@ntnu.edu.tw 
+ptm106_10355@ntnu.edu.tw
+ptm106_10693@ntnu.edu.tw 
+shliao@ntnu.edu.tw
+yajulee@ntnu.edu.tw
 
