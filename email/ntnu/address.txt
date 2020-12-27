@@ -1147,7 +1147,6 @@ tangtony60@ntnu.edu.tw
 # politics_0
 cltien@ntnu.edu.tw
 cplin@ntnu.edu.tw
-cyhsuu@ntnu.edu.tw
 fcpan@ntnu.edu.tw
 fsp@ntnu.edu.tw
 hlshao@ntnu.edu.tw
