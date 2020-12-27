@@ -1063,6 +1063,7 @@ pcc@ntnu.edu.tw
 ptm105_9520@ntnu.edu.tw
 quemoei@ntnu.edu.tw
 sunkuohsiang@ntnu.edu.tw
+t24012@ntnu.edu.tw
 yangming@ntnu.edu.tw
 
 # vee_0
