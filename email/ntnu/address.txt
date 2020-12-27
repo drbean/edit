@@ -509,7 +509,6 @@ t73003@ntnu.edu.tw
 t73004@ntnu.edu.tw
 hmtsai@ntnu.edu.tw
 wtfang@ntnu.edu.tw
-g904806@ntnu.edu.tw
 
 # nutrition_0
 t10005@ntnu.edu.tw
