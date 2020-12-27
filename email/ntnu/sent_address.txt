@@ -1012,6 +1012,7 @@ chiapin@ntnu.edu.tw
 chk@ntnu.edu.tw
 chyeh@ntnu.edu.tw
 cy.lin@ntnu.edu.tw
+dai@ntnu.edu.tw
 hjj2005@ntnu.edu.tw
 hsinhan@ntnu.edu.tw
 hwtzeng@ntnu.edu.tw
@@ -1021,8 +1022,10 @@ jacky.baltes@ntnu.edu.tw
 jhsu@ntnu.edu.tw
 jhtsai@ntnu.edu.tw
 jungkao@ntnu.edu.tw
+leuyk@ntnu.edu.tw
 lwkang@ntnu.edu.tw
 scy@ntnu.edu.tw
+t07006@ntnu.edu.tw
 t07026@ntnu.edu.tw
 wywang@ntnu.edu.tw
 
@@ -1291,3 +1294,17 @@ yuwei@ntnu.edu.tw
 danielchu228@gmail.com
 michael.hsih@eurexchange.com
 vwchang@kpmg.com.tw
+
+# http://www.aa.ntnu.edu.tw
+huyannan@ntnu.edu.tw
+cclin@ntnu.edu.tw
+t08009@ntnu.edu.tw
+tcchiang@ntnu.edu.tw
+polly-l@ntnu.edu.tw
+gramchung@ntnu.edu.tw
+changwi@ntnu.edu.tw
+kt9031@ntnu.edu.tw
+osb@ntnu.edu.tw
+phwcyn@ntnu.edu.tw
+hsiehshufei@ntnu.edu.tw
+
