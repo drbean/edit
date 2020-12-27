@@ -1346,3 +1346,5 @@ tsungwu@ntnu.edu.tw
 wingm.feng@ntnu.edu.tw
 ycwu@ntnu.edu.tw
 yongkil.ahn@ntnu.edu.tw
+
+# http://www.gf.ntnu.edu.tw GF-EMBA 國際時尚高階管理碩士在職專班
