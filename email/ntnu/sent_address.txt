@@ -1279,11 +1279,6 @@ tosti@ntnu.edu.tw
 weiching@ntnu.edu.tw
 yuwei@ntnu.edu.tw
 
-# mba_0
-danielchu228@gmail.com
-michael.hsih@eurexchange.com
-vwchang@kpmg.com.tw
-
 # http://www.aa.ntnu.edu.tw
 huyannan@ntnu.edu.tw
 cclin@ntnu.edu.tw
@@ -1360,4 +1355,18 @@ ptm107_11070@ntnu.edu.tw
 sclai@ntnu.edu.tw
 Wojciech.Rybka@ntnu.edu.tw
 yideliu@ntnu.edu.tw
+
+# http://www.mba.ntnu.edu.tw
+cchsiao@ntnu.edu.tw
+chuant@ntnu.edu.tw
+danielchu228@gmail.com
+dwchou@ntnu.edu.tw
+hlchen@ntnu.edu.tw
+huangcw@ntnu.edu.tw
+jeffchen@ntnu.edu.tw
+michael.hsih@eurexchange.com
+sjwang@ntnu.edu.tw
+vwchang@kpmg.com.tw
+ycs@ntnu.edu.tw
+yying@ntnu.edu.tw
 
