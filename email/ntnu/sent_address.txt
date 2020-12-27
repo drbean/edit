@@ -1058,9 +1058,6 @@ sunkuohsiang@ntnu.edu.tw
 t24012@ntnu.edu.tw
 yangming@ntnu.edu.tw
 
-# vee_0
-simonhsu1705@hotmail.com
-
 # tecs_0
 054308@mail.naer.edu.tw
 carreralon@gmail.com
@@ -1391,4 +1388,11 @@ ptm106_10355@ntnu.edu.tw
 ptm106_10693@ntnu.edu.tw 
 shliao@ntnu.edu.tw
 yajulee@ntnu.edu.tw
+
+# http://www.vee.ntnu.edu.tw
+cchsin@ntnu.edu.tw
+hungyh@ntnu.edu.tw
+simonhsu1705@hotmail.com
+tube5711@ntnu.edu.tw
+yflue@ntnu.edu.tw
 
