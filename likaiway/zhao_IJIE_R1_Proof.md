@@ -74,13 +74,13 @@ spot a pavement barrier if illumination is lower than a threshold
 value (Fotios and Uttley, 2018).
 
 In addition to illumination condition, walking speed also has an
-influence on pedestrians\' capability to avoid a barrier on the road.
+influence on pedestrians\' ability to avoid obstacles in their path.
 Pedestrians may not have enough time to adjust their gait when moving
-over a barrier due to a fast walking speed which may lead to tripping
+over a barrier at a fast pace and this may lead to tripping
 and falling. Walking speed upon moving over a barrier on the road
 affects the gait pattern of the walker. The literature has shown that
-flexions of the hip, ankle and knee increase significantly with the
-increasing pace when moving over a barrier (Draganich & Kuo, 2004;
+flexions of the hip, ankle and knee increase significantly with 
+increased pace when moving over a barrier (Draganich & Kuo, 2004;
 Schulz, 2011).
 
 Barrier on the ground is surely undesirable. Berard and Vallis (2006)
