@@ -103,7 +103,7 @@ foot during the crossing step also increased significantly (*p*\<0.0001)
 when the barrier height was raised. Similar results have been reported
 by Pan et al. (2016).
 
-Age and bodily functions can influence the risk of tripping when
+Age and physical condition can influence the risk of tripping when
 crossing a barrier. The literature (Huang et al., 2008; Novak and
 Deshpande, 2014; Ribeiro et al., 2019) has shown that older participants
 have lower center of pressure velocity of the stance foot and lower peak foot velocity
@@ -128,7 +128,7 @@ the shortest distance between the lowest end of the front part of the
 shoe/foot and the floor or a barrier (Khandoker et al., 2007; Schulz,
 2017). Determining the MTC (or MFC) is important in measuring the risk
 of tripping especially for barrier crossing. Schulz (2011) found that
-the MTC not only doubled with the presence of visible barrier, but
+the MTC not only doubled with the presence of a visible barrier, but
 also increased significantly with faster walking speed.
 
 In addition to the kinematic parameters, subjective rating of risk of
