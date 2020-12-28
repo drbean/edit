@@ -103,17 +103,17 @@ foot during the crossing step also increased significantly (*p*\<0.0001)
 when the barrier height was raised. Similar results have been reported
 by Pan et al. (2016).
 
-Age and bodily functions could influence the risk of tripping when
+Age and bodily functions can influence the risk of tripping when
 crossing a barrier. The literature (Huang et al., 2008; Novak and
 Deshpande, 2014; Ribeiro et al., 2019) has shown that older participants
-had lower center of pressure of the stance foot and peak foot velocity
-when the toe was above barrier than the younger ones. Older adults,
-therefore, had higher probability of tripping than their younger
+have lower center of pressure velocity of the stance foot and lower peak foot velocity
+when the toe is above the barrier than younger ones. Older adults,
+therefore, are more likely to trip than their younger
 counterparts. In addition, the literature has found compensatory
 mechanisms of the intact leg in the gait of lower limb amputees
 (Silverman et al., 2008; Harandi et al., 2020). Individuals with
-asymmetric gait pattern on their lower limbs have more difficulty to
-cross barriers on the ground and thus are suffering higher risk of
+asymmetric gait patterns in their lower limbs have more difficulty
+passing over obstacles on the ground and thus are at greater risk of
 tripping.
 
 Trip and fall may occur if a walker does not have sufficient foot
