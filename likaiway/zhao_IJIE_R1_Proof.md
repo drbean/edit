@@ -116,19 +116,19 @@ asymmetric gait patterns in their lower limbs have more difficulty
 passing over obstacles on the ground and thus are at greater risk of
 tripping.
 
-Trip and fall may occur if a walker does not have sufficient foot
-clearance when moving over a barrier. One of the kinematics parameters
-in discussing risk of tripping (RT) is minimum foot clearance (MFC)
+Trips and falls may occur if a walker does not have sufficient foot
+clearance when stepping over a barrier. One of the kinematic parameters
+important in discussing risk of tripping (RT) is minimum foot clearance (MFC)
 (Begg et al., 2007; Benson et al., 2019; Carter et al., 2020; Garman et
-al., 2015; Loverro et al., 2013). It is the minimum space between the
+al., 2015; Loverro et al., 2013). This is the minimum space between the
 lowest end of the foot of the swing leg and the ground or the top of a
 barrier (Winter, 1991). When the minimum space occurs at the toe, it is
 also called the minimum toe clearance (MTC). In other words, the MTC is
-the minimum space between the lowest end of the front part of the
+the shortest distance between the lowest end of the front part of the
 shoe/foot and the floor or a barrier (Khandoker et al., 2007; Schulz,
 2017). Determining the MTC (or MFC) is important in measuring the risk
 of tripping especially for barrier crossing. Schulz (2011) found that
-the MTC were not only doubled by the presence of visible barrier, but
+the MTC not only doubled with the presence of visible barrier, but
 also increased significantly with faster walking speed.
 
 In addition to the kinematic parameters, subjective rating of risk of
