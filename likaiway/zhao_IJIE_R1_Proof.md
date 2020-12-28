@@ -38,21 +38,21 @@ crossing
 Falls are common both in daily life and at work. They have led to
 unintentional injuries globally (Hsieh et al., 2020; Hsu, 2016; Li et
 al., 2019a; Wadhwaniya et.al., 2017) and have caused huge economic
-losses to individuals and our society (Amandus et al., 2012; Ramaswamy &
-Mosher, 2018). The proportion of falls among all types of injury in the
-globe has increased from 23.1% in 1997-2007 to 27.7% in 2007-2017 (James
-et al., 2018). During 2009 to 2018, the proportions of falls at work in
-Taiwan and the United States were between 15.82% and 21.21%, and between
-24.35% and 26.97% among all occupational injuries, respectively (BLS,
-2019; OSHA, 2019). Falls occur because of slip, trip, loss of balance,
-and some other reasons. The literature has shown that tripping and
+losses to individuals and society (Amandus et al., 2012; Ramaswamy &
+Mosher, 2018). The proportion of falls among all types of injury around the
+globe increased from 23.1% in 1997-2007 to 27.7% in 2007-2017 (James
+et al., 2018). During the period 2009 to 2018, the proportions of falls at work in
+Taiwan and the United States rose from 15.82% to 21.21%, and from
+24.35% to 26.97% of all occupational injuries, respectively (BLS,
+2019; OSHA, 2019). Falls occur because of slips, trips and loss of balance,
+among other reasons. The literature has shown that tripping and
 slipping are the main contributors of falls (Bentley & Haslam, 1999;
 Berg et al., 1997). Tripping has been considered one of the main
 precedent events that leads to falling for the elderly. More than a
-third (35% to 47%) of elderly falls occurred because of tripping (Berg
-et al., 1997; Overstall et al., 1977). Thus, studying the mechanism and
-influencing factors of tripping are significant for the safety for both
-the public and the workers.
+third (35% to 47%) of elderly falls occur because of tripping (Berg
+et al., 1997; Overstall et al., 1977). Thus, studying the mechanisms and
+influencing factors in tripping is of significant benefit for the safety of both
+the public and workers.
 
 Previous studies have shown that the factors causing tripping can be
 divided into two aspects: unsafe environments and unsafe behaviors
