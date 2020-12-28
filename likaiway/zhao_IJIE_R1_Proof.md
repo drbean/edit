@@ -83,20 +83,20 @@ flexions of the hip, ankle and knee increase significantly with
 increased pace when moving over a barrier (Draganich & Kuo, 2004;
 Schulz, 2011).
 
-Barrier on the ground is surely undesirable. Berard and Vallis (2006)
-requested their participants to walk with one or two barriers on the
+Obstacles on the ground are surely undesirable. Berard and Vallis (2006)
+requested their subjects to walk over one or two barriers in their
 path. They measured the distance between the toe and the barrier when
-moving over the barrier(s) and found that this distance of the
-two-barrier condition was shorter than that of the one-barrier
-condition. Lowrey et al. (2007) measured the time of the participants
-moving across the barriers. Their results showed that the time to cross
-the second barrier when there were two barriers was longer than the time
+moving over the barrier(s) and found that this distance in the
+two-barrier condition was shorter than that in the one-barrier
+condition. Lowrey et al. (2007) measured the time taken by participants
+to move across barriers. Their results showed that the time to cross
+the second barrier when there were two barriers was longer than that
 to cross only one barrier. For barrier height, Garman et al. (2015)
 found that the probability of tripping was positively correlated with
-barrier height. In other words, high barrier leads to high probability
+barrier height. In other words, high barriers lead to a high probability
 of tripping. Chou and Draganich (1997, 1998) explored the influences of
-barrier height on gait parameters of the trail foot when crossing
-barriers. They found that the flexion angles of the hip and knee
+barrier height on gait parameters of the trailing foot.
+They found that the flexion angles of the hip and knee
 increased significantly (*p*\<0.001) with barrier height when the toe of
 the trailing foot was above the barrier. The stance time of the trailing
 foot during the crossing step also increased significantly (*p*\<0.0001)
