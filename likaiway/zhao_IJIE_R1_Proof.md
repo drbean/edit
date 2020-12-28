@@ -55,22 +55,22 @@ influencing factors in tripping is of significant benefit for the safety of both
 the public and workers.
 
 Previous studies have shown that the factors causing tripping can be
-divided into two aspects: unsafe environments and unsafe behaviors
+divided into two groups: unsafe environments and unsafe behaviors
 (Huang et al., 2013; OSHC, 2018). Poor lighting conditions and improper
-gait pattern when negotiating a barrier are examples of unsafe
-environment and behavior, respectively. Vision, affected by illumination
+gait patterns when negotiating a barrier are examples of unsafe
+environments and behaviors, respectively. Vision, affected by illumination
 condition, has an influence on the stability of gait (Hallemans et al.,
 2010; Logan et al., 2010). Visual information can help pedestrians to
 control their limbs when moving over barriers (Patla & Vickers, 1997;
-Patla & Greig, 2006). A person has a poor vision may not see floor
-condition clearly and hence has a higher probability been tripped. Patla
-and Greig (2006) found that the probability of tripping could be as high
-as 53% when walkers' sight were blocked. Illumination condition is one
-of the environmental factors affecting vision and thus the risk of
-tripping. The literature has indicated that the risk of tripping in the
-dimmed environment was 15.5 times of that in the normal illumination
-condition (Li et al., 2019b). A pedestrian will not be able to visually
-spot a pavement barrier if the illumination is lower than a threshold
+Patla & Greig, 2006). A person with poor vision may not see floor
+conditions clearly and hence has a higher probability of tripping. Patla
+and Greig (2006) found that the probability of tripping could reach as high
+as 53% when walkers' views of floor conditions are blocked. Illumination 
+is an environmental factor affecting vision and thus the risk of
+tripping. The literature has indicated that the risk of tripping in a
+dimmed environment is 15.5 times that under normal illumination
+conditions (Li et al., 2019b). A pedestrian, for example, will not be able to visually
+spot a pavement barrier if illumination is lower than a threshold
 value (Fotios and Uttley, 2018).
 
 In addition to illumination condition, walking speed also has an
