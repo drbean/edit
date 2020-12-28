@@ -3,12 +3,12 @@ a Barrier
 
 **Abstract**
 
-A study was designed to investigate the gait parameters upon crossing a
-barrier and the environmental factors influencing the perceived risk of
+This study was designed to investigate the gait parameters upon crossing a
+barrier and environmental factors influencing the perceived risk of
 tripping. These factors included illumination and barrier conditions.
 Barrier conditions were divided into height, type, and color of the
 barrier. Illumination conditions included normal and dimmed conditions.
-Twelve male participants were recruited. They walked on a walkway and
+Twelve male participants were recruited. They walked on a walkway,
 moving over a barrier. They gave a subjective rating of risk of tripping
 (SRRT) both before and after the walk. A research assistant recorded a
 gait disturbance rating (GDR) based on his observation of the gait of
@@ -19,14 +19,14 @@ barriers were calculated. The results indicated that the SRRT, both
 before and after the walk, was significantly (*p*＜0.0001) higher when
 the barrier height increased. Increased barrier height caused
 significant (*p*\<0.0001) higher GDR. The barrier type (*p*\<0.01) and
-illumination conditions (*p*\<0.001) were significant on the MFC of both
+illumination conditions (*p*\<0.001) had significant effects on the MFC of both
 the leading and the lagging foot. The color (*p*\<0.05) and height
 (*p*\<0.05) of the barrier also influenced the MFC of the lagging foot
 significantly. Step length of the leading foot when crossing the barrier
 was significantly affected by illumination condition (*p*\<0.001) and
 barrier type (*p*\<0.05). The results of the study are helpful in
-understanding the mechanism when moving over barriers on walkways. They
-provide meaningful information in reducing trip and fall accidents.
+understanding the mechanisms brought into play when moving over barriers on walkways. They
+provide meaningful information that will help in reducing trip and fall accidents.
 
 **Keywords**
 
