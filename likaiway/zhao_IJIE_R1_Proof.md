@@ -156,11 +156,11 @@ Twelve healthy male participants without a history of musculoskeletal
 disease joined this study. Their age, body height, and body weight were
 19.8 (±1.8) yrs, 174.3 (±5.2) cm, and 67.2 (±10.0) kg, respectively.
 Their visual acuities were measured using a vision chart (Miao et al.,
-1983). The decimal corrected visual acuities of the left, right of the
-participants were 0.78 (±0.41), 0.70 (±0.39), respectively. Before
+1983). The decimal corrected visual acuities of the left and right eyes of the
+participants were 0.78 (±0.41) and 0.70 (±0.39), respectively. Before
 joining the experiment, the participants were instructed about the
 purposes and procedure of the experiment. They then read and signed an
-informed consent. A local review board for human participant protection
+informed consent form. A local review board for human participant protection
 approved this study (Jen-Ai Hospital, JAH109-46).
 
 2.2 Walkway and Barriers
