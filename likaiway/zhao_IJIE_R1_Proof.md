@@ -50,7 +50,7 @@ Berg et al., 1997). Tripping has been considered one of the main
 precedent events that leads to falling for the elderly. More than a
 third (35% to 47%) of elderly falls occur because of tripping (Berg
 et al., 1997; Overstall et al., 1977). Thus, studying the mechanisms and
-influencing factors in tripping is of significant benefit for the safety of both
+influencing factors in tripping will contribute significantly to efforts to improve the safety of both
 the public and workers.
 
 Previous studies have shown that the factors causing tripping can be
