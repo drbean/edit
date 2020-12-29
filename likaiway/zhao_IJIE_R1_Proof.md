@@ -320,11 +320,11 @@ Figure 7. here
 
 3.2 Foot Clearance
 
-Figure 8 shows the results of the MFC~lead~ under the experimental
+Figure 8 portrays the results of the MFC~lead~ under the experimental
 conditions. The ANOVA results show that the MFC~lead~ was
 significantly affected by the barrier type (*p*\<0.01) and the
 illumination condition (*p*\<0.0001). Posterior comparisons results
-show that the MFC~lead~ of the stick barrier (126.15±44.78 mm) was
+indicate that the MFC~lead~ of the stick barrier (126.15±44.78 mm) was
 significantly (*p*\<0.05) higher than that (115.84±32.70 mm) of the
 board barrier. The MFC~lead~ of the dimmed condition (128.85±40.90 mm)
 was significantly (*p*\<0.05) higher than that (113.10±36.43 mm) of the
@@ -340,7 +340,7 @@ barrier height (*p*\<0.05) and barrier color (*p*\<0.05). The MFC~lag~
 for the stick barrier (132.12±47.24 mm) was significantly (*p*\<0.05)
 higher than that (111.36±30.64 mm) for the board. The MFC~lag~ in the
 dimmed condition (127.72±42.53 mm) was significantly (*p*\<0.05) higher
-than that (115.69±38.74 mm) under normal illumination. The MFC~lag~ for the
+than that (115.69±38.74 mm) for normal illumination. The MFC~lag~ for the
 dark gray barrier (125.45±41.43 mm) was significantly (*p*\<0.05) higher than
 that (117.96±40.47 mm) for the white one. The MFC~lag~ for the 5 cm
 barrier height (127.52±42.59 mm) was significantly (*p*\<0.05) higher
