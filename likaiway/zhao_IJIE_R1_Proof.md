@@ -391,20 +391,20 @@ Table 3 here
 
 4\. Discussion
 
-Barrier height had been considered as an important factor affecting RT
+Barrier height has long been considered an important factor affecting RT
 (Chen et al., 1991; Chou & Draganich, 1998; Garman et al., 2015;
-Kunimune and Okada, 2017; Li et al., 2019b). In this study, all the
-SRRT~b~, SRRT~a~, and GDR increased significantly (*p*\<0.0001) as the
-barrier height increased. This indicated that the higher the barrier,
+Kunimune and Okada, 2017; Li et al., 2019b). And, in this study, all RT measures, namely the
+SRRT~b~, SRRT~a~, and GDR, increased significantly (*p*\<0.0001) as the
+barrier height increased, indicating that the higher the barrier,
 the greater the perceived RT and gait disturbance.
 
-Poor illumination condition is one of the environmental causes of
-tripping and even falling (Huang et al., 2013). In one of the previous
-studies (Li et al., 2019b), approximately a third of the participants
+Poor illumination is one environmental cause of
+tripping and even falling (Huang et al., 2013). Nonetheless, in a previous
+study (Li et al., 2019b) carried out in this laboratory, approximately a third of the participants
 reported NO RISK before they walked in the dimmed condition and more
-than 50% of the participants reported LOW RISK. Similar results were
-found in the current study. The participants determined the SRRT~b~
-primarily based on their visual judgements. The SRRT~a~, on the other
+than 50% of the participants reported LOW RISK under the same condition. Similar results were
+found in the current study. The participants made their SRRT~b~ judgments
+primarily based on their visual evaluation of the walkway in front of them. The SRRT~a~, on the other
 hand, was rated based on their experience of barrier crossing. The only
 significant factor affecting both the SRRT~b~ and SRRT~a~ in the current
 study was barrier height. Illumination, barrier type, and barrier color
