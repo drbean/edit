@@ -147,7 +147,7 @@ provide a more complete picture of gait behaviors in barrier crossing.
 
 2\. Materials and Methods
 
-We conducted a gait experiment in the laboratory where the temperature
+We conducted the gait experiment in a laboratory where the temperature
 and humidity were 19.0 (±4.6)℃ and 59.9 (±9.1)%, respectively.
 
 2.1 Human participants
