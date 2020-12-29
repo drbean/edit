@@ -288,34 +288,34 @@ significance level of α=0.05 was adopted.
 
 3.1 Subjective Ratings
 
-Figure 5 shows the SRRT~b~ statistics under experimental conditions. The
-Kruskal-Wallis test results revealed that the SRRT~b~ were significantly
+Figure 5 shows the SRRT~b~ statistics for the experimental conditions. The
+Kruskal-Wallis test results reveal that the SRRT~b~ were significantly
 affected by barrier heights (*p*\<0.0001). The SRRT~b~ of the 5 cm
 condition (1.15±0.39) was significantly (*p*\<0.05) lower than that of
 the 10 cm condition (1.89±0.56). The latter was significantly
 (*p*\<0.05) lower than the SRRT~b~ of the 15 cm condition (2.48±0.62).
-The illumination condition, barrier type, and barrier color were all
-insignificant on SRRT~b~.
+Illumination, barrier type, and barrier color, however, all
+had an insignificant effect on SRRT~b~.
 
 Figure 5. here
 
-Figure 6 shows the SRRT~a~ results under experimental conditions. The
+Figure 6 shows the SRRT~a~ results for the various experimental conditions. The
 SRRT~a~ was significantly (*p*\<0.0001) affected by barrier height. The
 SRRT~a~ of the 5 cm condition (1.43±0.71) was significantly (*p*\<0.05)
 lower than that of the 10 cm condition (2.05±0.74). The latter was
 significantly (*p*\<0.05) lower than the SRRT~a~ of the 15 cm condition
-(2.68±0.73). Illumination condition, barrier type, and barrier color
-were all insignificant on SRRT~a~.
+(2.68±0.73). Illumination, barrier type, and barrier color, again however,
+all had an insignificant effect on SRRT~a~.
 
 Figure 6. here
 
-Figure 7 shows the GDR statistics under experimental conditions. The
-effects of GDR were significant (*p*\<0.0001) on barrier height. The GDR
+Figure 7 shows the GDR statistics under the various experimental conditions. The
+effect on GDR was significant (*p*\<0.0001) in the case of barrier height. The GDR
 of the 5cm condition (1.76±0.76) was significantly (*p*\<0.05) lower
 than that of the 10 cm condition (2.33±0.63). The latter was
-significantly (*p*\<0.05) lower than that the GDR of the 15 cm condition
+significantly (*p*\<0.05) lower than the GDR of the 15 cm condition
 (2.89±0.66). The effects of illumination, type and color of barrier on
-GDR were all insignificant.
+GDR were all insignificant, however.
 
 Figure 7. here
 
