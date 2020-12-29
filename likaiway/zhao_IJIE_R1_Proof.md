@@ -272,16 +272,16 @@ Figure 4. here
 
 2.6 Data Analysis
 
-Every participant joined trials under 24 experimental conditions (3
+Every participant walked under 24 experimental conditions (3
 barrier heights×2 barrier types×2 barrier colors ×2 illumination
 conditions) and was tested twice under the same experimental condition.
 There were, therefore, a total of 576 trials. Means and standard
-deviation of all the variables were calculated. The Kruskal-Wallis test
-and Wilcoxon rank sum test were performed for all the SRRT and GDR data
-to examine the significance of the variables comprised the experimental
-condition. Analysis of variance (ANOVA) and Duncan's multiple rang test
-were performed MFC and step length data. The SAS^®^ 9.0 (SAS Institute
-Inc., Cary, NC) software was used for statistical analyses. A
+deviations of all the variables were calculated. The Kruskal-Wallis test
+and Wilcoxon rank sum test were performed on all the SRRT and GDR data
+to examine the significance of the variables comprising the experimental
+conditions. Analysis of variance (ANOVA) and Duncan's multiple range test
+were performed on MFC and step length data. The SAS^®^ 9.0 (SAS Institute
+Inc., Cary, NC) software package was used for statistical analysis. A
 significance level of α=0.05 was adopted.
 
 3\. Results
