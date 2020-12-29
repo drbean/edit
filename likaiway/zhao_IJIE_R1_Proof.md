@@ -165,23 +165,23 @@ approved this study (Jen-Ai Hospital, JAH109-46).
 
 2.2 Walkway and Barriers
 
-Selection of walkway and barriers followed the protocol in the
-literature (Li et al., 2019b). A walkway of 6 m long was prepared. The
+Selection of walkway and barriers followed the protocol established in the
+literature (Li et al., 2019b). A walkway 6 m long was prepared. The
 floor of this walkway was covered with dark gray ceramic tiles. Two
-types of barrier were prepared. One was a steel stick (Ø0.8 cm) 80 cm
+types of barrier were tested.  One was a steel stick (Ø0.8 cm) 80 cm
 long. The other was a wooden board with a length of 60 cm and a
-thickness of 1.5 cm. Two pieces of both the sticks and boards were
-prepared. One of them were dark gray which were the same color as the
-floor surface. The others were white. The stick and board of this color
-had a high contrast with the floor surface as compared to those of the
-gray stick and board.
+thickness of 1.5 cm. Two exemplars of both the stick and board were
+prepared. One was a dark gray, the same color as the
+floor surface. The other was white. The high contrast of the white stick and board,
+as compared to the minimal contrast of the
+gray stick and board, made them much more easy to see.
 
 Stick and board barriers with a height of 5, 10, or 15 cm were tested.
 For stick barriers, we placed two stands by the walkway to support the
 stick (see Figure 1). For board barriers, we placed a board on the
 walkway approximately 3.5 m from the beginning of the walkway. Both the
-stick and board barriers were light and were easy to move. The
-participants would not trip and fall even if their feet touched the
+stick and board barriers were light and easily moved. This was done
+so that participants would not trip and fall even if their feet touched the
 barrier.
 
 Figure 1. here
