@@ -355,37 +355,37 @@ Table 1 here
 
 3.3 Step length
 
-Figures 10 shows the results of ST3 under experimental conditions. The
-ANOVA results indicated that ST3 was significantly affected by the
+Figure 10 shows the results for ST3 under the experimental conditions. The
+ANOVA results indicate that ST3 was significantly affected by the
 illumination condition (*p*\<0.001) and barrier type (*p*\<0.05).
 Duncan's multiple range test results showed that ST3 in the normal
 illumination condition (733.33±54.69 mm) was significantly (*p*\<0.05)
-higher than that (713.64±67.46 mm) of the dimmed condition. The ST3 in
+longer than that (713.64±67.46 mm) under the dimmed condition. The ST3 in
 the board barrier condition (728.72±62.73 mm) was significantly
-(*p*\<0.05) higher than that (718.22±61.20 mm) in the stick barrier
+(*p*\<0.05) longer than that (718.22±61.20 mm) in the stick barrier
 condition. Both barrier height and barrier color had no significant
 effects on ST3.
 
 Figure 10. here
 
-The ANOVA results indicated that illumination condition was significant
-on both the ST1 (*p*\<0.01) and ST5 (*p*\<0.01). ST1 in the normal
+The ANOVA results indicate that the illumination condition was significant
+for both ST1 (*p*\<0.01) and ST5 (*p*\<0.01). ST1 for the normal
 illumination condition (674.37±44.48 mm) was significantly (*p*\<0.05)
-higher than that (660.36±66.26 mm) in the dimmed condition. The ST5 in
-the normal illumination condition (669.31±49.70 mm) was significantly
-(*p*\<0.05) higher than that (658.15±49.13 mm) in the dimmed condition.
+longer than that (660.36±66.26 mm) for the dimmed condition. ST5 for
+the normal illumination condition (669.31±49.70 mm) was also significantly
+(*p*\<0.05) longer than that (658.15±49.13 mm) for the dimmed condition.
 The effects of barrier height, type, and color on both ST1 and ST5 were
 not significant (see Table 2).
 
-Table 2
+Table 2 here
 
-The ANOVA results indicated that none of the experimental factors had
-significant effect on both the ST2 and ST4.
+The ANOVA results indicate that none of the experimental factors had
+significant effect on either ST2 or ST4.
 
 Table 3 shows the multiple comparison results for the step lengths
-before and after barrier crossing. The ST3 was significantly (*p*\<0.05)
-longer than all other lengths. The ST2 was shorter (*p*\<0.05) than the
-those of ST1 and ST3.
+before and after barrier crossing. ST3 was significantly (*p*\<0.05)
+longer than all other lengths. ST2 was shorter (*p*\<0.05) than 
+ST1 and ST3.
 
 Table 3 here
 
