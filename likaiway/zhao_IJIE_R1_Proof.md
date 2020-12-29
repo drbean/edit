@@ -189,15 +189,15 @@ Figure 1. here
 2.3 Illumination conditions
 
 The experiment was performed under two illumination conditions: normal
-and dimmed conditions. The normal condition was when all the fluorescent
-lights in the laboratory were turned on. This condition is typical for
+and dimmed. The normal condition, with all the fluorescent
+lights in the laboratory turned on, was a lighting level typical for
 office work in local institutions. The dimmed condition, on the other
-hand, was simulated when all the windows were blocked and all the lights
-were turned off except the red LED lights on the cameras of the motion
+hand, was simulated by blocking all the windows and turning off all the lights,
+except for the red LED lights on the cameras of the motion
 tracking system. The illuminance of six spots near the barrier on the
 floor was measured using an illuminance meter (TES-1336A; TES Electrical
 Electronic Corp., Taiwan). The illuminance for the normal and dimmed
-conditions were 169.4 (±3.7) lx and \<0.01 (±0.0) lx, respectively.
+conditions was 169.4 (±3.7) lx and \<0.01 (±0.0) lx, respectively.
 
 2.4 Motion Tracking System
 
