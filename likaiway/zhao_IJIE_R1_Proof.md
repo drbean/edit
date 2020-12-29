@@ -133,17 +133,17 @@ also increased significantly with faster walking speed.
 
 In addition to the kinematic parameters, subjective rating of risk of
 tripping (SRRT), also called perceived risk of tripping, has been used
-to estimate RT. Li et al. (2019b, 2020) have shown that the SRRT was
-significantly affected by lighting condition and characteristics of
-barrier on a walkway such as type, height, and color. However, they did
-not examine the effects of lighting condition and characteristics of
+to estimate RT. Li et al. (2019b, 2020) have shown that the SRRT is
+significantly affected by lighting condition and barrier characteristics,
+specifically, its type, height, and color. However, they did
+not examine the effects of lighting condition and characteristics of the
 barrier on the MFC. Our hypothesis was that type, height, and color of
 the barrier, and illumination condition were all significant factors
 affecting both the MFC and step length upon barrier crossing. Our
-purposes were to test these hypotheses so as to increase the knowledge
-base of the mechanism of tripping accidents. The SRRT data and step
-length before and after crossing a barrier was also investigated to
-discussed the gait behaviors for barrier crossing.
+purposes in this study were to test these hypotheses so as to increase our knowledge
+of the kinematic mechanisms involved in tripping accidents. SRRT data and step
+length before and after crossing the barrier were also investigated to
+provide a more complete picture of gait behaviors in barrier crossing.
 
 2\. Materials and Methods
 
