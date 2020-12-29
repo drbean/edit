@@ -232,20 +232,20 @@ their ankles and shoes were captured. After the walk, the participants
 rated the risk of tripping again, based on their experience of barrier
 crossing, using the same scale as in the SRRT~b~. This rating was
 recorded as SRRT~a~. A gait disturbance rating (GDR) was recorded by a
-research assistant based on his observation on the gait of the
+research assistant based on his observation of the gait of the
 participants upon barrier crossing using the scale: 1- no disturbance:
-walked smoothly, 2- slight disturbance: walked slow down slightly, 3-
-medium disturbance: walked slow down obviously, 4- serious disturbance:
-stop shortly before the barrier to adjust the gait, and 5- foot-barrier
-contact. Foot-barrier contact implies onset of a tripping.
+walked smoothly, 2- slight disturbance: walked slowing down slightly, 3-
+medium disturbance: walked slowing down markedly, 4- serious disturbance:
+stopped shortly before the barrier to adjust gait, and 5- foot-barrier
+contact. Foot-barrier contact implies the onset of tripping.
 
-In the dimmed condition, the participants, wearing an eye mask, was led
+In the dimmed condition, the participants, wearing an eye mask, were led
 into the laboratory by a research assistant. The participants removed
-the eye mask, followed the same procedure to wear the lab shoe and stood
+the eye mask, followed the same procedure wearing the lab shoes and stood
 at the starting point of the walkway and waited for approximately ten
-minutes for dark adaptation. They then reported their SRRT~b~ after
+minutes for dark adaptation to take place. They then reported their SRRT~b~ after
 observing the pathway. Then, the participants followed the same
-procedure to walk as in the normal illumination condition.
+procedure walking along the walkway as in the normal illumination condition.
 
 The MFC values were calculated using the 3D coordinates of the foot
 markers (see Figure 3). The vertical distances from the toe and heel of
@@ -257,13 +257,13 @@ was termed MFC~lag~.
 
 Figure 3. here
 
-Step length of five steps before and after crossing the barrier were
+The step length of five steps before and after crossing the barrier were
 calculated using the 3D coordinates of the markers on the heel (see
 Figure 3). Step 3 length (ST3) was the distance from the heel of the
-leading foot to the heel of the lagging foot when crossing the barrier
-which occurred when the leading foot has just passed the barrier and the
+leading foot to the heel of the lagging foot when crossing the barrier,
+which occurred when the leading foot had just passed the barrier and the
 lagging foot was still behind. Step 1 (ST1) and 2 (ST2) lengths were the
-step length of two and one step before crossing the barrier,
+step length of two and one steps before crossing the barrier,
 respectively. Step 4 (ST4) and 5 (ST5) lengths were the step length of
 one and two steps after crossing the barrier, respectively (see Figure
 4).
