@@ -405,20 +405,20 @@ reported NO RISK and more
 than 50% of the participants reported LOW RISK before walking in the dimmed condition. Similar results were
 found in the current study. The participants made their SRRT~b~ choices
 primarily on the basis of their visual inspection of the walkway in front of them. The SRRT~a~, on the other
-hand, was rated based on their experience of barrier crossing. The only
+hand, was reached on the basis of the experience crossing the barrier. But, the only
 significant factor affecting both the SRRT~b~ and SRRT~a~ in the current
 study was barrier height. Illumination, barrier type, and barrier color
-were all insignificant. This was inconsistent with the findings in the
-literature (Li et al., 2019b). The reason for this inconsistency might
-be attributed to the use of the motion tracking system in the current
-study. Each camera of this system was accompanied with a red LED light.
-The cameras captured the reflective light of these LEDs on the markers.
-Even though the illuminance on the six spots on the walkway was very low
+were all insignificant. This is inconsistent with the findings in the
+the earlier study (Li et al., 2019b), and is possibly
+attributable to the use of the motion tracking system in the current
+study. Each camera of this system featured a red LED light.
+The cameras worked by capturing the reflections of the LED lights on the markers.
+Even though the illuminance measured on the six spots on the walkway was very low
 (\<0.01 lx), it was still much higher than that (2.7×10^-3^ lx) in the
 previous study (Li et al., 2019b). Therefore, our participants might
-have better visions than those in Li et al. (2019b) and vision-related
+have been able to see more than those in Li et al. (2019b) and vision-related
 factors such as color and type of barrier and illumination became
-insignificant on the SRRT.
+insignificant in determination of the SRRT.
 
 When moving over a barrier, the leading foot was in the front. The
 participants could see the movement of this foot and could have better
