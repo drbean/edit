@@ -320,8 +320,8 @@ Figure 7. here
 
 3.2 Foot Clearance
 
-Figure 8 has the results of the MFC~lead~ under the experimental
-conditions. The ANOVA results show that the MFC~lead~ was
+The behavior of the MFC~lead~ under the experimental conditions is shown in
+Figure 8. The ANOVA results show that the MFC~lead~ was
 significantly affected by the barrier type (*p*\<0.01) and the
 illumination condition (*p*\<0.0001). Posterior comparisons results
 indicate that the MFC~lead~ of the stick barrier (126.15±44.78 mm) was
