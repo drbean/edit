@@ -420,18 +420,18 @@ have been able to see more than those in Li et al. (2019b) and vision-related
 factors such as color and type of barrier and illumination became
 insignificant in determination of the SRRT.
 
-When moving over a barrier, the leading foot was in the front. The
-participants could see the movement of this foot and could have better
-control of this foot to cross the barrier. There was almost no MFC~lead~
-difference among the 5 cm, 10 cm, and 15 cm barrier height conditions.
-These results were consistent with those in Pan et al. (2016) and
+When moving over a barrier, the leading foot is in the front. The
+participants could see the movement of this foot, giving them better
+control of it crossing the barrier. As a result, there was almost no MFC~lead~
+differences between the 5 cm, 10 cm, and 15 cm barrier height conditions.
+These results are consistent with those of Pan et al. (2016) and
 Kunimune and Okada (2017). The participants probably estimated the
-barrier height, and then controlled their leading foot to have a
-constant MFC (approximately 120 mm) which would guarantee safety
-crossing over the barrier. The lagging foot, on the other hand, was
-behind the body. The participants could not see this foot and hence was
-incapable to maintain the same MFC over different barrier height
-conditions. This could explain why the MFC~lag~ was significantly
+barrier height, and then controlled movement of their leading foot to give it the
+constant MFC (approximately 120 mm) required to guarantee safe
+crossing of the barrier. The lagging foot, on the other hand, is
+behind the body. The participants could not see this foot and hence were
+incapable of maintaining the same MFC over different barrier height
+conditions. This is a possible explanation of why the MFC~lag~ was significantly
 (*p*\<0.05) affected by barrier height (see Table 1).
 
 Both the MFC~lead~ and the MFC~lag~ were significantly (*p*\<0.001)
