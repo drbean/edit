@@ -398,7 +398,7 @@ SRRT~b~, SRRT~a~, and GDR, increased significantly (*p*\<0.0001) as the
 barrier height increased, indicating that the higher the barrier,
 the greater the perceived RT and gait disturbance.
 
-Poor illumination is one environmental cause of
+Poor illumination is another environmental cause of
 tripping and even falling (Huang et al., 2013). Nonetheless, in a previous
 study (Li et al., 2019b) carried out in this laboratory, approximately a third of the participants
 reported NO RISK before they walked in the dimmed condition and more
