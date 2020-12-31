@@ -399,12 +399,12 @@ barrier height increased, indicating that the higher the barrier,
 the greater the perceived RT and gait disturbance.
 
 Poor illumination is another environmental cause of
-tripping and even falling (Huang et al., 2013). Nonetheless, in a previous
-study (Li et al., 2019b) carried out in this laboratory, approximately a third of the participants
-reported NO RISK before they walked in the dimmed condition and more
-than 50% of the participants reported LOW RISK under the same condition. Similar results were
-found in the current study. The participants made their SRRT~b~ judgments
-primarily based on their visual evaluation of the walkway in front of them. The SRRT~a~, on the other
+tripping and even falling (Huang et al., 2013). Nonetheless, in an earlier
+study (Li et al., 2019b), approximately a third of the participants
+reported NO RISK and more
+than 50% of the participants reported LOW RISK before walking in the dimmed condition. Similar results were
+found in the current study. The participants made their SRRT~b~ choices
+primarily on the basis of their visual inspection of the walkway in front of them. The SRRT~a~, on the other
 hand, was rated based on their experience of barrier crossing. The only
 significant factor affecting both the SRRT~b~ and SRRT~a~ in the current
 study was barrier height. Illumination, barrier type, and barrier color
