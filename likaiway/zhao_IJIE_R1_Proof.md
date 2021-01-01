@@ -454,13 +454,13 @@ barrier than when the barrier was a board. This finding that barrier
 type affects leg movements upon barrier crossing is consistent
 with that in the earlier study (Li et al., 2019b).
 
-ST3 (723.49±62.14 mm) was significantly (*p*\<0.05) longer than ST2
+As for mean step length, ST3 (723.49±62.14 mm) was significantly (*p*\<0.05) longer than ST2
 (657.08±91.44 mm) and ST4 (663.76±60.66). ST 2 was significantly
-(*p*\<0.05) shorter than those of ST1 (667.36±56.81). Similar results
-have also been reported (Berard & Vallis, 2006). This clearly indicated
+(*p*\<0.05) shorter than ST1 (667.36±56.81). Similar results
+have also been reported by Berard & Vallis, 2006. This clearly indicates
 that the participants reduced their step length one step in front of the
-barrier for preparation to pass the barrier. They increased the step
-length in the next step to guarantee safe crossing of the barrier.
+barrier as they prepared to pass it, before increasing their step
+length in the next step to guarantee safely crossing over it.
 
 The ST3 in the dimmed condition (713.64±67.46 mm) was significantly
 (*p\<*0.0001) shorter than that in the normal lighting condition
