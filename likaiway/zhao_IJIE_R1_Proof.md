@@ -479,21 +479,21 @@ also have started to adjust their gait two steps before crossing the barrier
 especially when the illumination was poor, as is suggested by our ST1
 data for the dimmed condition.
 
-ST3 was not affected by the barrier height. This was consistent with the
+ST3 was not affected by barrier height. This is consistent with
 findings in the literature (Chen et al., 1991; Pan et al., 2016). On the
-other hand, ST3 was significantly influenced by the barrier type
-(*p\<*0.05). The ST3 in the stick condition (718.22±61.20 mm) was
+other hand, ST3 was significantly influenced by barrier type
+(*p\<*0.05). ST3 in the stick condition (718.22±61.20 mm) was
 significantly (*p*\<0.05) shorter than that in the board condition
-(728.72±62.73 mm). The participants adopted conservative gait strategies
-by reducing their step length upon barrier crossing when they
-encountered stick barrier than when the barrier was a board. Such a
-phenomenon was consistent to our outcomes in both MFC~lead~ and
-MFC~lag~. There were a total of 576 trials in our experiment. Only 4
-foot-barrier contacts occurred. Three of these cases occurred in the
-stick condition. These implies that a stick on the walkway was more
-likely to lead to a trip than a board. This was consistent with our
-results of MFC~lead~ and MFC~lag~, and was also consistent with the
-findings in the literature (Li et al., 2019b).
+(728.72±62.73 mm). The participants adopted a conservative gait strategy
+by reducing their step length stepping over the stick barrier, a strategy that they
+did not feel was necessary when the barrier was a board. This
+phenomenon is consistent with the larger MFC~lead~ and
+MFC~lag~ values seen in the stick condition. Of the total 576 trials in our experiment, only 4
+resulted in foot-barrier contacts. Three of those cases occurred in the
+stick condition. This implies that a stick on the walkway is more
+likely to lead to a trip than a board. The consistency with our
+MFC~lead~ and MFC~lag~ results and the consistency with the
+findings in the earlier study (Li et al., 2019b) suggest sticks are harder to negotiate than boards.
 
 This were limitations of this study. First of all, we assumed that the
 friction of the floor was not a significant factor affecting the RT upon
