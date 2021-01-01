@@ -519,10 +519,10 @@ significantly affected by illumination condition and type, height, and
 color of barrier while the MFC of the leading foot was significantly
 affected only by illumination condition and barrier type. This implies
 that participants had better control of their leading foot than their
-lagging foot considering the environmental conditions in our experiment.
+lagging foot given the environmental conditions in our experiment.
 The step length upon barrier crossing was also significantly affected
-only by illumination condition and barrier type. This may imply that the
-participants adjusted the step length upon barrier crossing primary
-because they found changes of those two factors. The findings of this
+only by illumination condition and barrier type. This may suggest that the
+participants adjusted step length upon barrier crossing, regarding it primary
+in the case of changes in these two factors. The findings of this
 study enhance our understanding of human gait upon barrier crossing
-which will be beneficial for the prevention of tripping and falling.
+and will be beneficial for the prevention of tripping and falling.
