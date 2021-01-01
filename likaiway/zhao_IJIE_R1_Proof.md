@@ -495,21 +495,21 @@ likely to lead to a trip than a board. The consistency with our
 MFC~lead~ and MFC~lag~ results and the consistency with the
 findings in the earlier study (Li et al., 2019b) suggest sticks are harder to negotiate than boards.
 
-This were limitations of this study. First of all, we assumed that the
-friction of the floor was not a significant factor affecting the RT upon
+There were limitations to this study. First of all, we assumed that the
+friction of the shoe on the floor was not a significant factor affecting RT upon
 barrier crossing when the shoe-floor interface was slip-resistant. Our
 rubber-soled lab shoes were believed to be slip resistant on the walkway
 even though the friction coefficient between the shoe sole and floor was
 not measured. Future research may be needed to test more combinations of
-shoes and floor material. Secondly, only two types of barriers under
+shoes and floor material. Secondly, only two types of barrier over
 three heights were tested. Many other types of barrier with different
-heights could appear on the walkways both at work and in the public
-sector. Our results cannot be generalized in explaining the RT and MFC
-phenomena beyond our experimental conditions. Studying the effects of
-barrier types and heights, other than those adopted in the current
-study, on the risk of tripping may be interesting topic in the future.
+heights appear on walkways both at work and in public
+spaces. Our results cannot be generalized to explain RT and MFC
+phenomena beyond our experimental conditions. Studying the effects on the risk of tripping of
+barrier types and heights other than those adopted in the current
+study remain interesting topics for future research.
 Finally, we have tested only a young male sample. The effects of gender
-and age group of human participants on the SRRT and MFC could also be
+and age group on the SRRT and MFC could also be
 interesting research topics in the future.
 
 5\. Conclusions
