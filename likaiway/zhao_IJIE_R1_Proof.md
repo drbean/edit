@@ -444,15 +444,15 @@ conditions affected the MFC of both the leading and trailing foot. The
 participants presumably were raising their foot higher when the illumination
 conditions were poor so as to reduce the risk of tripping.
 
-When crossing the barrier, the MFC~lead~ in the stick condition were
-significantly (*p*\<0.05) higher than that in the board barrier
-condition by 10.31 mm, and the MFC~lag~ in the stick barrier condition
-were significantly (*p*\<0.05) higher than that in the board condition
-by 20.76 mm. When the barrier was a stick, the participants tended to
+When crossing the barrier, the MFC~lead~ in the stick barrier condition was
+significantly (*p*\<0.05) higher (10.31 mm higher) than that in the board barrier
+condition. And the MFC~lag~ in the stick condition
+was also significantly (*p*\<0.05) higher than that in the board condition,
+up 20.76 mm. When the barrier was a stick, the participants tended to
 raise both of their leading and lagging feet higher upon crossing the
-barrier than when the barrier was a board. This implies that barrier
-type could affect the leg movements upon barrier crossing was consistent
-with that in the literature (Li et al., 2019b).
+barrier than when the barrier was a board. This finding that barrier
+type affects leg movements upon barrier crossing is consistent
+with that in the earlier study (Li et al., 2019b).
 
 ST3 (723.49±62.14 mm) was significantly (*p*\<0.05) longer than ST2
 (657.08±91.44 mm) and ST4 (663.76±60.66). ST 2 was significantly
