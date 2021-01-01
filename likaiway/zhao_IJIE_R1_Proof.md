@@ -436,13 +436,13 @@ conditions. This is a possible explanation of why the MFC~lag~ was significantly
 
 Both the MFC~lead~ and the MFC~lag~ were significantly (*p*\<0.001)
 affected by the illumination condition. The MFC~lead~ and MFC~lag~ in
-the dimmed condition were significantly higher than those in the normal
-condition by 15.75 mm and 12.03 mm, respectively. This finding was
-consistent with those in the previous studies (Kunimune & Okada, 2017;
-Rodrigues et al., 2009). Kunimune and Okada (2017) found that vision
-condition affected the MFC of both the leading and trailing foot. The
-participants tended to raise their foot higher when the illumination
-condition was poor so as to reduce the probability of tripping.
+the dimmed condition were significantly (15.75 mm and 12.03 mm) higher than in the normal
+condition, respectively. This finding is
+consistent with the studies of Rodrigues et al. (2009) and Kunimune & Okada (2017),
+the latter of which also found that vision
+conditions affected the MFC of both the leading and trailing foot. The
+participants presumably were raising their foot higher when the illumination
+conditions were poor so as to reduce the risk of tripping.
 
 When crossing the barrier, the MFC~lead~ in the stick condition were
 significantly (*p*\<0.05) higher than that in the board barrier
