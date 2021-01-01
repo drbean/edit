@@ -462,22 +462,22 @@ that the participants reduced their step length one step in front of the
 barrier as they prepared to pass it, before increasing their step
 length in the next step to guarantee safely crossing over it.
 
-The ST3 in the dimmed condition (713.64±67.46 mm) was significantly
-(*p\<*0.0001) shorter than that in the normal lighting condition
-(733.33±54.69 mm). This result was consistent with that in Berard and
+The mean ST3 in the dimmed condition (713.64±67.46 mm) was significantly
+(*p\<*0.0001) shorter than that under normal lighting
+(733.33±54.69 mm). This result is also consistent with that of Berard and
 Vallis (2006). They found that participants generally decrease their
-step length when moving across the barrier in poor lighting condition.
-Such a gait is one of the common gait strategies for safe walking. ST1
-was the step lengths two steps before the participants crossed the
-barrier. This step length in the dimmed condition was significantly
-(*p*\<0.01) shorter than that in the normal lighting condition. This was
-consistent with those in Novak and Deshpande (2014) where they found
-vision condition affected the pre-barrier step length significantly. The
-trajectory of the lead foot was planned at least two steps before
+step length when negotiating a barrier in poor lighting conditions.
+Short steps are a common gait strategy adopted when the risk of falling is great. ST1,
+the step length two steps before the participants crossed the
+barrier, was also significantly
+(*p*\<0.01) shorter in the dimmed condition than in the normal lighting condition. This is
+consistent with the finding of Novak and Deshpande (2014) that
+vision conditions affect pre-barrier step length significantly and also with the notion that the
+trajectory of the lead foot is planned at least two steps before
 reaching the barrier (Timmis & Buckley, 2012). Our participants might
-also start to adjust their gait two steps before crossing the barrier
-especially when the illumination was poor. This was confirmed by our ST1
-data especially in the dimmed condition.
+also have started to adjust their gait two steps before crossing the barrier
+especially when the illumination was poor, as is suggested by our ST1
+data for the dimmed condition.
 
 ST3 was not affected by the barrier height. This was consistent with the
 findings in the literature (Chen et al., 1991; Pan et al., 2016). On the
