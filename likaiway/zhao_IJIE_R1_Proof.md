@@ -3,7 +3,7 @@ a Barrier
 
 **Abstract**
 
-This study was designed to investigate the gait parameters upon crossing a
+This study was designed to investigate gait parameters upon crossing a
 barrier and environmental factors influencing the perceived risk of
 tripping. These factors included illumination and barrier conditions.
 Barrier conditions were divided into height, type, and color of the
