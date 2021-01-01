@@ -18,7 +18,7 @@ the step length of the participant before and after crossing the
 barriers were calculated. The results indicated that the SRRT, both
 before and after the walk, was significantly (*p*＜0.0001) higher when
 the barrier height increased. Increased barrier height caused
-significant (*p*\<0.0001) higher GDR. The barrier type (*p*\<0.01) and
+significantly (*p*\<0.0001) higher GDR. The barrier type (*p*\<0.01) and
 illumination conditions (*p*\<0.001) had significant effects on the MFC of both
 the leading and the lagging foot. The color (*p*\<0.05) and height
 (*p*\<0.05) of the barrier also influenced the MFC of the lagging foot
