@@ -15,7 +15,7 @@ gait disturbance rating (GDR) based on his observation of the gait of
 the participant upon barrier crossing. The minimum foot clearance (MFC)
 of both the leading and lagging foot when moving over the barrier, and
 the step length of the participant before and after crossing the
-barriers were calculated. The results indicated that the SRRT, both
+barrier were calculated. The results indicated that the SRRT, both
 before and after the walk, was significantly (*p*＜0.0001) higher when
 the barrier height increased. Increased barrier height caused
 significantly (*p*\<0.0001) higher GDR. The barrier type (*p*\<0.01) and
@@ -246,12 +246,12 @@ minutes for dark adaptation to take place. They then reported their SRRT~b~ afte
 observing the pathway. Then, the participants followed the same
 procedure walking along the walkway as in the normal illumination condition.
 
-The MFC values were calculated using the 3D coordinates of the foot
+The MFC values were measured using the 3D coordinates of the foot
 markers (see Figure 3). The vertical distances from the toe and heel of
 the leading foot to the top of the barrier when crossing the barrier
 were calculated. The minimum of these two values was recorded as the
 MFC~lead~. The vertical distance from the toe of the lagging foot to the
-top of the barrier when crossing the barrier were also calculated and
+top of the barrier when crossing the barrier was also calculated and
 was termed MFC~lag~.
 
 Figure 3. here
@@ -272,7 +272,7 @@ Figure 4. here
 2.6 Data Analysis
 
 Every participant walked under 24 experimental conditions (3
-barrier heights×2 barrier types×2 barrier colors ×2 illumination
+barrier heights × 2 barrier types × 2 barrier colors × 2 illumination
 conditions) and was tested twice under the same experimental condition.
 There were, therefore, a total of 576 trials. Means and standard
 deviations of all the variables were calculated. The Kruskal-Wallis test
@@ -399,7 +399,7 @@ barrier height increased, indicating that the higher the barrier,
 the greater the perceived RT and gait disturbance.
 
 Poor illumination is another environmental cause of
-tripping and even falling (Huang et al., 2013). However, results of this study challenge that generalization. In an earlier
+tripping and even falling (Huang et al., 2013). However, results of this study challenge that generalization. In the earlier
 study (Li et al., 2019b), approximately a third of the participants
 reported NO RISK and more
 than 50% of the participants reported LOW RISK before walking in the dimmed condition. Similar results were
@@ -522,7 +522,7 @@ that participants had better control of their leading foot than their
 lagging foot given the environmental conditions in our experiment.
 The step length upon barrier crossing was also significantly affected
 only by illumination condition and barrier type. This may suggest that the
-participants adjusted step length upon barrier crossing, regarding it primary
+participants adjusted step length upon barrier crossing, regarding it as primary,
 in the case of changes in these two factors. The findings of this
 study enhance our understanding of human gait upon barrier crossing
 and will be beneficial for the prevention of tripping and falling.
