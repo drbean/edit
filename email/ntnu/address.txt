@@ -462,7 +462,6 @@ HHfu@ntnu.edu.tw
 chhou@ntnu.edu.tw
 tlchiang@ntnu.edu.tw
 luyichia@ntnu.edu.tw
-fcliu@ntnu.edu.tw
 
 # csie_0
 berlin@csie.ntnu.edu.tw
