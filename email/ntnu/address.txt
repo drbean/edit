@@ -321,7 +321,6 @@ linfl@math.ntnu.edu.tw
 tsait@math.ntnu.edu.tw
 ptsao@math.ntnu.edu.tw
 ptm107_11045@ntnu.edu.tw
-hyyeh@gate.sinica.edu.tw
 changyh@math.ntnu.edu.tw
 chaowm@math.ntnu.edu.tw
 cyc@math.ntnu.edu.tw
