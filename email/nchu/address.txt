@@ -246,12 +246,12 @@ iming@nchu.edu.tw
 wangchansen@nchu.edu.tw
 hmku@dragon.nchu.edu.tw
 ymcheng@dragon.nchu.edu.tw
-wychiou@dragon.nchu.edu.tw 
+wychiou@dragon.nchu.edu.tw
 cywang@dragon.nchu.edu.tw
 emiyang@dragon.nchu.edu.tw
 tsdeng@dragon.nchu.edu.tw
 agroting@dragon.nchu.edu.tw
-ctchen41@dragon.nchu.edu.tw 
+ctchen41@dragon.nchu.edu.tw
 bjkuo@nchu.edu.tw
 kucst@dragon.nchu.edu.tw
 slou@dragon.nchu.edu.tw
@@ -296,3 +296,21 @@ flfeng@nchu.edu.tw
 bhsheu@nchu.edu.tw
 kclu@nchu.edu.tw
 
+# http://www.pp.nchu.edu.tw/ plant pathology
+ykchen@nchu.edu.tw
+fjjan@nchu.edu.tw
+sdyeh@nchu.edu.tw
+jwhuang@nchu.edu.tw
+mhlee@nchu.edu.tw
+krchung@nchu.edu.tw
+pfchang@nchu.edu.tw
+wenchung@nchu.edu.tw
+kowh@dragon.nchu.edu.tw
+chiyu86@nchu.edu.tw
+janetchen@nchu.edu.tw
+wdeng@nchu.edu.tw
+tphuang@nchu.edu.tw
+clwang@nchu.edu.tw
+cchu9@dragon.nchu.edu.tw
+cfhong@nchu.edu.tw
+lhchen010@nchu.edu.tw
