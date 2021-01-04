@@ -347,7 +347,7 @@ sjlee@dragon.nchu.edu.tw
 hsinchi@dragon.nchu.edu.tw
 jjchen@dragon.nchu.edu.tw
 
-# http://www.as.nchu.edu.tw/ ag sci
+# http://www.as.nchu.edu.tw/ ag sci actually animal sci, not ag
 cfchen@dragon.nchu.edu.tw
 dcliu@dragon.nchu.edu.tw
 syhuang@dragon.nchu.edu.tw
@@ -378,3 +378,26 @@ dfjan@dragon.nchu.edu.tw
 eco@ucs.com.tw
 shih@thu.edu.tw
 hssheen@mail.nchu.edu.tw
+
+# http://soil.nchu.edu.tw/
+trpeng@nchu.edu.tw
+yshen@nchu.edu.tw
+abinitio@dragon.nchu.edu.tw
+kjtseng@dragon.nchu.edu.tw
+ymtzou@dragon.nchu.edu.tw
+yaotung@nchu.edu.tw
+yliu@nchu.edu.tw
+hgchen@dragon.nchu.edu.tw
+chhuang@dragon.nchu.edu.tw
+ftshen@dragon.nchu.edu.tw
+soil.lai@nchu.edu.tw
+yhchuang.68@dragon.nchu.edu.tw
+jtwu@dragon.nchu.edu.tw
+ymhwang@nchu.edu.tw
+pcdhomh@gmail.com
+robert.gillies@usu.edu
+simon.wang@usu.edu
+ccyoung@mail.nchu.edu.tw
+huang@udel.edu
+jhchen1@dragon.nchu.edu.tw
+cctan@nchu.edu.tw
