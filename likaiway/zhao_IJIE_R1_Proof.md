@@ -168,12 +168,12 @@ Selection of walkway and barriers followed the protocol established in the
 literature (Li et al., 2019b). A walkway 6 m long was prepared. The
 floor of this walkway was covered with dark gray ceramic tiles. Two
 types of barrier were tested.  One was a steel stick (Ø0.8 cm) 80 cm
-long. The other was a wooden board with a length of 60 cm and a
-thickness of 1.5 cm. Two exemplars of both the stick and board were
-prepared. One was a dark gray, the same color as the
-floor surface. The other was white. The high contrast of the white stick and board,
+long. The other was a wooden board with a length of 60 cm, a
+thickness of 1.5 cm and a width appropriate to the height of the barrier. Two sticks and six boards were
+prepared. One stick and three boards were a dark gray, the same color as the
+floor surface. The other stick and boards were white. The high contrast of the white stick and boards,
 as compared to the minimal contrast of the
-gray stick and board, made them much more easy to see.
+gray stick and boards, made them much more easy to see.
 
 Stick and board barriers with a height of 5, 10, or 15 cm were tested.
 For stick barriers, we placed two stands by the walkway to support the
