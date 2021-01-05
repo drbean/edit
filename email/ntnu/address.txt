@@ -479,7 +479,6 @@ nien@ntnu.edu.tw
 schen@csie.ntnu.edu.tw
 jgwu@csie.ntnu.edu.tw
 ymyeh@csie.ntnu.edu.tw
-ypc@ntnu.edu.tw
 chianglung.liu@csie.ntnu.edu.tw
 
 # gise_0
