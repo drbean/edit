@@ -1195,7 +1195,6 @@ ptm105_9904@ntnu.edu.tw
 ptm106_10705@ntnu.edu.tw
 ptm106_10706@ntnu.edu.tw
 ptm106_10712@ntnu.edu.tw
-reh301@ntnu.edu.tw
 shyanups@ntnu.edu.tw
 simonhsu@ntnu.edu.tw
 snakems32@ntnu.edu.tw
