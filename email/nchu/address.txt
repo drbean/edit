@@ -1084,3 +1084,5 @@ hchang@dragon.nchu.edu.tw
 ccwu@dragon.nchu.edu.tw
 jawji@vghtc.gov.tw
 
+# http://www.crdet.nchu.edu.tw/
+chencm@dragon.nchu.edu.tw
