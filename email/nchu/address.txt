@@ -631,7 +631,6 @@ kjlin@nchu.edu.tw
 lawchen@nchu.edu.tw
 
 # http://plr.nchu.edu.tw/
-
 ccyu@dragon.nchu.edu.tw
 kttsai@nchu.edu.tw
 tungc01@gmail.com
@@ -653,4 +652,13 @@ hsiehch9@nchu.edu.tw
 hmtu@nchu.edu.tw
 cachiu@nchu.edu.tw
 
+# http://web.nchu.edu.tw/~impa/
+oleander@nchu.edu.tw
+hsiehch9@nchu.edu.tw
+kjungchao@dragon.nchu.edu.tw
+nicksu@dragon.nchu.edu.tw
+takagi827@dragon.nchu.edu.tw
+bruce.yang@nchu.edu.tw
+julychen@dragon.nchu.edu.tw
+talekar29@gmail.com
 
