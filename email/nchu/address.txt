@@ -833,3 +833,14 @@ stchen@phys.nchu.edu.tw
 chj@phys.nchu.edu.tw
 cylin@phys.nchu.edu.tw
 
+# http://www.stat.nchu.edu.tw/
+ktchen@nchu.edu.tw
+cblee@mail.nchu.edu.tw
+tilin@nchu.edu.tw
+wenhan@nchu.edu.tw
+tjshen@nchu.edu.tw
+chlin6@nchu.edu.tw
+honda@nchu.edu.tw
+ylhsu@nchu.edu.tw
+luhung@email.nchu.edu.tw
+
