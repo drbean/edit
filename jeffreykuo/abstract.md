@@ -25,15 +25,15 @@ recommended by this research does obtain the best surface quality.
 Compared with the result of maximizing single-axis jerking, roughness values
 can be reduced by 8.3%.
 
-2\. Surface quality inspection of free-form surface workpieces: Analyze
-the processed surface image by image processing technology, and use the
-frequency of residual traces as features. It is found that a good
+2\. Surface quality inspection of free-form surface workpieces: One can analyze
+the processed surface image with image processing technology, and use the
+frequency of residual traces as a representative feature. It is found that a good
 processing result will have a more obvious peak value on the
-spectrogram, which represents significantly the tool traces can be used
-as a performance indicator. The poorly processed surface images have
+spectrogram, which indicates the tool traces can be used
+as a significantl performance indicator. Poorly processed surface images have
 more side-band frequencies, so that the frequencies on the frequency
-spectrum do not have harmonic frequencies characteristics, which
-represents poor matching between the axes while manufacturing.
+spectrum do not have harmonic frequency characteristics, which
+is a representative feature of poor matching between the axes while manufacturing.
 
 3\. Integrated processing performance prediction system: Based on the
 results of the first two researches, an integrated processing
