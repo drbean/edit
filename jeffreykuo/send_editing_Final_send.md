@@ -11,11 +11,11 @@ improvement in surface
 quality metric inspection technology is the big challenge it now faces.
 
 In this study, the effect of jerks on the performance of five-axis
-synchronous high-speed CNC ball nose end mills on freeform turbine mold
-is discussed. The images of 14 cluster finished workpieces were checked
-against the variable jerk setting values to analyze the surface texture
-features and predict the surface roughness. Finally, a machine learning
-method is integrated together to construct a virtual machining module to
+synchronous high-speed CNC ball nose end mills on a freeform turbine mold
+was investigated. The images of finished workpieces produced by 14 jerk clusters were checked
+against the different jerk setting values to analyze the surface texture
+features and predict the surface roughness. In addition, a machine learning
+method was integrated with the surface feature analysis to construct a virtual machining module to
 act as a performance prediction system, which is merged with the virtual
 machine tool functions, surface texture processor and AI roughness
 prediction processor. Using the geometric information of the workpiece,
