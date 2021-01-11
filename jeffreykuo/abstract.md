@@ -38,7 +38,7 @@ is a representative feature of poor matching between the axes while manufacturin
 3\. An integrated processing performance prediction system: Based on the
 first two results, an integrated processing
 performance prediction system is proposed using machine learning
-support vector machines and neural network architecture. It includes three sets of modules:
+support vector machines and neural network architecture. It includes:
 
 (1) Surface roughness prediction modules, in which surface
 features of the image are processed to predict a surface roughness value, and which
