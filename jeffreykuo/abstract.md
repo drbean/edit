@@ -1,0 +1,73 @@
+Topic: A study of jerk effect for optimal 5-axis manufacturing setting
+and prediction applied on free-form surface quality
+
+This study investigates the best jerk settings in five-axis machining and the influence of jerk settings on the surface quality of machining. Improved surface quality of the workpiece and increased manufacturing speeds are the challenges facing the better manufacture of free-form surface molds.
+
+This study discusses the best setting of jerk in five-axis machining and
+the influence of jerk on the surface quality of machining. To improved
+surface quality of the workpiece and the increased manufacturing speed
+are the challenges during manufactured free-form surface molds. The
+researchers proposed to limit the jerk value for guaranteed a smooth
+motion trajectory, which can avoid suppressing vibration and damage to
+the machine equipment. But this would sacrifice manufacturing speed.
+Therefore, it is necessary to consider the balance between surface
+quality and processing efficiency when selecting the jerk value. In
+addition, there is no objective judgment method for detecting the
+quality of the multi-axis machining surface of the curved surface, and
+there is a lack of pre-evaluation and prediction. It can only be
+adjusted and improved based on experience. In order to solve the
+aforementioned problems, this research proposes the following strategies
+as a response:
+
+1\. The optimal selection strategy for the five-axis jerk value: This
+study takes the servo axis position loop bandwidth as the tracking
+command ability limit, and calculates the jerk value according to the
+path length of each axis, and proposes the best matching five-axis jerk
+value selection strategy. The surface roughness after five-axis
+machining is measured as the metric for surface quality inspection. The
+experimental results prove that the five-axis jerk combination
+recommended by this research can obtain the best surface quality.
+Compared with the result of maximizing single-axis jerking, the value
+can be reduced by 8.3%.
+
+2\. Surface quality inspection of free-form surface workpieces: Analyze
+the processed surface image by image processing technology, and use the
+frequency of residual traces as features. It is found that a good
+processing result will have a more obvious peak value on the
+spectrogram, which represents significantly the tool traces can be used
+as a performance indicator. The poorly processed surface images have
+more side-band frequencies, so that the frequencies on the frequency
+spectrum do not have harmonic frequencies characteristics, which
+represents poor matching between the axes while manufacturing.
+
+3\. Integrated processing performance prediction system: Based on the
+results of the first two researches, an integrated processing
+performance prediction system is proposed by using machine learning
+support vector machines and neural network architecture. It includes (1)
+Surface roughness prediction modules, which are processed by the surface
+feature of the image to predicted the surface roughness value. The
+overall average error of system is 0.272%; (2) The processed surface
+image feature prediction module, which predicts the feature value of the
+processed surface image from the axis jerking parameter and the
+processing path parameters. The six parameters of information
+measurement index included correlation, energy, homogeneity, sum
+entropy, sum variance and information measure of correlation. The
+overall average error is 1.114%, and finally the prediction error result
+of the integrated predition system combining (1) and (2) part have the
+average error as 0.730%; (3) Prediction module for total finishing time.
+The total processing time can also be predicted from the machine jerking
+parameters and processing path parameters. The average error of the 14
+groups is 0.472%.
+
+The strategy for selecting the best jerk parameters proposed by this
+research can be applied to all multi-axis machining machines and
+free-form surface mold processing. This decision-making method will help
+on-site operators to maximize the performance of the machine. It could
+provide automatic machine setting and final quality testing of
+intelligent production without added new detecting equipment. The
+integrated prediction system proposed by this research can provide users
+to evaluate manufacturing performance before performing actual
+operations, and can reduce trial and error testing time when cutting
+parameters are set. It is very suitable for curved surface workpieces
+and small batches and high parameter differences in smart manufacturing
+production application.
