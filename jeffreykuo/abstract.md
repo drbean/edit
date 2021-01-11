@@ -30,26 +30,30 @@ the processed surface image with image processing technology, and use the
 frequency of residual traces as a representative feature. It is found that a good
 processing result will have a more obvious peak value on the
 spectrogram, which indicates the tool traces can be used
-as a eignificant performance indicator. Poorly processed surface images have
+as a significant performance indicator. Poorly processed surface images have
 more side-band frequencies, so that the frequencies on the frequency
 spectrum do not have harmonic frequency characteristics, which
 is a representative feature of poor matching between the axes while manufacturing.
 
-3\. Integrated processing performance prediction system: Based on the
-results of the first two researches, an integrated processing
-performance prediction system is proposed by using machine learning
-support vector machines and neural network architecture. It includes (1)
-Surface roughness prediction modules, which are processed by the surface
-feature of the image to predicted the surface roughness value. The
-overall average error of system is 0.272%; (2) The processed surface
-image feature prediction module, which predicts the feature value of the
-processed surface image from the axis jerking parameter and the
-processing path parameters. The six parameters of information
+3\. An integrated processing performance prediction system: Based on the
+first two results, an integrated processing
+performance prediction system is proposed using machine learning
+support vector machines and neural network architecture. It includes three sets of modules:
+
+(1) Surface roughness prediction modules, in which surface
+features of the image are processed to predict a surface roughness value, and which
+produce an overall average system error of 0.272%;
+
+(2) A processed surface image feature module, which predicts the feature value of the
+processed surface image from the axis jerking parameters and the
+processing path parameters. The six parameters of the information
 measurement index included correlation, energy, homogeneity, sum
-entropy, sum variance and information measure of correlation. The
-overall average error is 1.114%, and finally the prediction error result
-of the integrated predition system combining (1) and (2) part have the
-average error as 0.730%; (3) Prediction module for total finishing time.
+entropy, sum variance and the correlation information measure. The
+overall average error is 1.114% and the prediction error result
+of the integrated prediction system combining (1) and (2) has an
+average error of 0.730%;
+
+(3) A prediction module for total finishing time.
 The total processing time can also be predicted from the machine jerking
 parameters and processing path parameters. The average error of the 14
 groups is 0.472%.
