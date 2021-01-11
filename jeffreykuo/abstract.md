@@ -1,7 +1,7 @@
 Topic: A study of jerk effect for optimal 5-axis manufacturing setting
 and prediction applied on free-form surface quality
 
-This study investigates the best jerk settings in five-axis machining and the influence of jerk settings on the surface quality of machining. Improved surface quality of the workpiece and increased manufacturing speeds are the challenges facing the better manufacture of free-form surface molds.
+This study investigates the best jerk settings in five-axis machining and the influence of jerk settings on the surface quality of machining. Improved surface quality of the workpiece and increased manufacturing speeds are the challenges facing the better manufacture of free-form surface molds, and this study addresses those problems.
 Researchers have proposed limiting jerk values to guarantee smooth
 motion trajectories, which can avoid the need to suppress vibration and damage to
 the machine equipment. But this would sacrifice manufacturing speed.
@@ -9,7 +9,7 @@ Therefore, it is necessary to consider the balance between surface
 quality and processing efficiency when selecting a jerk value. In
 addition, there is no objective judgment method for detecting the
 quality of the multi-axis machining surface of curved surfaces, and
-there is a lack of pre-evaluation and prediction best practices. Jerk values can only be
+best practices for the pre-evaluation and prediction of performance have not been developed. Jerk values can only be
 adjusted and improved based on experience. In order to solve the
 aforementioned problems, this research proposes the following strategies
 as a response:
