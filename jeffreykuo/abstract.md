@@ -30,7 +30,7 @@ the processed surface image with image processing technology, and use the
 frequency of residual traces as a representative feature. It is found that a good
 processing result will have a more obvious peak value on the
 spectrogram, which indicates the tool traces can be used
-as a significantl performance indicator. Poorly processed surface images have
+as a eignificant performance indicator. Poorly processed surface images have
 more side-band frequencies, so that the frequencies on the frequency
 spectrum do not have harmonic frequency characteristics, which
 is a representative feature of poor matching between the axes while manufacturing.
