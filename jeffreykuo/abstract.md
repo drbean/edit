@@ -61,12 +61,12 @@ groups is 0.472%.
 The strategy for selecting the best jerk parameters proposed by this
 research can be applied to all multi-axis machining machines and
 free-form surface mold processing. This decision-making method will help
-on-site operators to maximize the performance of the machine. It could
-provide automatic machine setting and final quality testing of
-intelligent production without added new detecting equipment. The
-integrated prediction system proposed by this research can provide users
-to evaluate manufacturing performance before performing actual
-operations, and can reduce trial and error testing time when cutting
-parameters are set. It is very suitable for curved surface workpieces
-and small batches and high parameter differences in smart manufacturing
-production application.
+on-site operators to maximize the performance of their machines and
+allow automatic machine setting and final quality testing of
+intelligent production systems without the need to add new detecting equipment. The
+integrated prediction system proposed by this research can also provide users
+with the ability to evaluate manufacturing performance before performing actual
+operations, and reduce trial and error testing time when cutting
+parameters are set. It is very suitable for curved surface workpieces,
+small batches and high parameter differences in smart manufacturing
+production applications.
