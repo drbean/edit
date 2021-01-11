@@ -3,10 +3,12 @@
 
 **Abstract**
 
-The contemporary industry has an urgent demand for free form products in
-terms of function and appearance quality, the five-axis high-speed CNC
-machining technology has been developed and further improve the surface
-quality metric inspection technology is a big challenge.
+There is an urgent demand for free form products in industry nowadays because 
+of their superior appearance and the wide variety of functions they 
+perform. Five-axis high-speed CNC
+machining technology has developed to satisfy this demand, but further 
+improvement in surface
+quality metric inspection technology is the big challenge it now faces.
 
 In this study, the effect of jerks on the performance of five-axis
 synchronous high-speed CNC ball nose end mills on freeform turbine mold
