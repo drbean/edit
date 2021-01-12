@@ -84,11 +84,11 @@ surface quality of the result. And, the errors caused by CNC machine motion will
 be projected onto the machined surface, especially important in the machining of
 molds and dies \[15\].
 
-However, measuring the surface quality of a free
-form mold poses a big challenge, even when the jerk setting and its effect is known, because surface
-roughness inspection is an essential quality control process
+Surface roughness inspection is an essential quality control process
 undertaken to ensure that parts are manufactured to a specific requirement
-\[16,17\]. Since the process mechanisms determining surface quality are composed of
+\[16,17\]. However, measuring the surface quality of a free
+form mold poses a big challenge, even when the jerk setting and its effect is known.
+Since the process mechanisms determining surface quality are composed of
 numerous uncontrollable and nonlinear factors, an accurate predictive
 model is needed \[18\]. Using texture analysis techniques,
 texture parameters could provide the data to evaluate surface roughness by means of
