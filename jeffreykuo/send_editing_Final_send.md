@@ -37,15 +37,15 @@ processing, machine learning, jerk, synchronization machining
 **1. Introduction**
 
 There are two main practical problems that engineers face in the
-manufacturing process: to determine the values of the process'
+manufacturing process: to determine the values of the process
 parameters that will yield the desired product quality \[1,2\] and to
 maximize manufacturing system performance using the available resources
-\[3,4\]. With respect to the latter, contemporary industry has entered
+\[3,4\]. With respect to the latter, industry nowadays has entered
 into a phase that focuses on customized, small batches and high
-parametric variance production alongside traditional mass-production.
+parametric variance production, pursued alongside traditional mass-production.
 Therefore, the inspection of the finished product can no longer be
-carried out manually on case-by-case but must be replaced by a simple
-method that is flexible and can be completed quickly.
+carried out individually on a case-by-case basis, but must be replaced by simple
+generalized methods that are flexible and can be completed quickly.
 
 From the product development flow and manufacturing process chain shown
 in Fig. 1, where workpiece geometry can be parametrically deﬁned in
