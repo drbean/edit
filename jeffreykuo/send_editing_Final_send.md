@@ -155,25 +155,23 @@ predict manufacturing system performance (roughness and machining
 time) for various surfaces where cutting parameters are affected by
 axis synchronization due to jerk selection.
 
-**2. Methodology & method**
+**2. Methodology & methods**
 
-**2.1 Analysis of the manufacturing process**
+**2.1 The manufacturing analysis process**
 
-To conduct the manufacturing process analysis, the relationship between
-the input/output and the activity components is shown in Fig. 2. And to
+A diagram depicting the manufacturing analysis process followed in this study and the relationship between
+the input/output and activity components is shown in Fig. 2. To
 overcome the challenge of system development, the process was split into
 two parts:
 
-Part 1：Surface texture feature & roughness prediction. The strategy is
-to get image texture features of the workpiece firstly, and then to
-build-up the surface roughness prediction processor.
+Part 1：Surface texture feature & roughness prediction. The strategy was
+to get image texture features of the workpiece first, and then to
+build a surface roughness prediction processor.
 
 Part 2: Virtual machine tool & surface texture. For wide application,
 the prediction system also developed a virtual machine tool module to
-simulation machine
-
-processing for total machine time and surface texture feature
-prediction.
+simulate machine processing with total machine time and surface texture feature
+prediction as outputs.
 
 ![](media/image2.png){width="5.741666666666666in"
 height="1.7638888888888888in"}
