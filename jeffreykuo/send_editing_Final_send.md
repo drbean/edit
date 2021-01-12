@@ -102,45 +102,45 @@ texture evaluation. Joshi and Patil \[22\] have reviewed recent advances in
 machine vision-based evaluation of surface roughness using texture
 analysis techniques and predictive modeling.
 
-Machine learning has advanced rapidly not only in terms of promising
+Machine learning has advanced rapidly not only in terms of research
 results but also in terms of usability, as it promises to answer many
 new manufacturing challenges \[23,24\]. Some scholars combine these
-newly developed technologies to model and predict the surface roughness
+newly developed technologies to model and predict surface roughness
 \[25\]. Zhu and Brilakis \[26\] developed an artificial neural network
 (ANN) model for analyzing and predicting the relationship between
 cutting conditions and fractal parameters of the corresponding machined
-surface to obtain a specific surface roughness profile geometry.
+surface to obtain specific surface roughness profile geometries.
 Asiltürk and Çunkaş \[27\] used multiple regression and artiﬁcial neural
-network approaches to predict the surface roughness, the conclusion is
-that ANN is a powerful tool in predicting the surface roughness. Patel
+network approaches to predict surface roughness and concluded
+that ANN is a powerful tool with high accuracy compared to multiple regression. Patel
 et al. \[28\] used the gray level co-occurrence matrix (GLCM) to extract
-the graphic texture characteristics of the end milling surface. From the
-experimental results, the author points out using machine learning
-algorithms to extract features from the GLCM had potential industrial
-applications. Morala-Argüello et al. \[29\] proposed a multi-resolution
+graphic texture characteristics of the end milling surface. On the basis of their
+experimental results, the authors suggested using machine learning
+algorithms to extract features from the GLCM has potential industrial
+applications. Morala-Argüello et al. \[29\] proposed the use of a multi-resolution
 method based on surface image processing for visual quality inspection
 and surface roughness identification during turning. The error rate of
-the proposed method is between 2.59% and 4.17%.Özel and Karpat \[30\]
-used neural network modeling to predict the surface roughness and tool
-blade wear during the entire machining time under various cutting
-conditions when completing hard turning. Compared with the regression
-model, it is found that the predictive neural network model can better
-predict the surface roughness within its training range. Zain et al.
-\[31\] proposed an Artificial Neural Network (ANN) model for predicting
-surface roughness performance during processing. Research results show
-that the most influential decision-making variables are cutting speed,
-feed rate and cutting depth. This study also proved that by using
-available experimental data, accurate result values ​​of predictive
+the proposed method was between 2.59% and 4.17%. Özel and Karpat \[30\]
+used neural network modeling to predict surface roughness and tool
+blade wear during the entire machining process under various cutting
+conditions when completing with hard turning. Compared with the regression
+model, they found that the predictive neural network model could better
+predict surface roughness within its training range. Zain et al.
+\[31\] proposed an ANN model for predicting
+surface roughness performance during processing. Their research results showed
+that the most influential decision-making variables were cutting speed,
+feed rate and cutting depth. This study also proved that using
+available experimental data, accurate predictive
 performance metrics can be obtained through a small number of training
-and testing samples. Ramesh et al. \[32\] used SVM to predict the
+and testing sessions. Ramesh et al. \[32\] used Support Vector Machine (SVM) methods to predict the
 surface roughness of end mills on 6061 aluminum. Using feed speed,
 spindle speed, and cutting depth as input to predict surface roughness,
-the model has an error of 8.34%. Kayabaşi and Ertürk \[33\] carried out
-an experimental design based on the four variables of cutting speed,
-feed per tooth, cutting part and cutting width, using three-axis
-vibration signals as input signals, and proposed a probabilistic model
-developed by a real-time surface roughness prediction system, The
-probability model shows an accuracy rate as high as 96.37%
+the model had an error rate of 8.34%. Kayabaşi and Ertürk \[33\], adopting
+an experimental design with the four variables of cutting speed,
+feed per tooth, cutting part and cutting width and using three-axis
+vibration signals as input, developed a probabilistic 
+real-time surface roughness prediction system, with
+an accuracy rate as high as 96.37%
 
 After reviewing the literature, machine learning methods with image
 recognition can successfully build predictive models of surface
