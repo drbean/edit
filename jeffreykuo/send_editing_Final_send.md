@@ -23,12 +23,12 @@ cutting parameters and machine tool parameters as inputs, product
 performance metrics combining surface roughness and machining time can
 be predicted as outputs of the system.
 
-The integrated system can provide users with a way to evaluate
-manufacturing performance before performing actual operations and can
+The integrated system provides users with a way to evaluate
+manufacturing performance before performing actual operations and to
 reduce test time for cutting parameter development. The model is
 suitable for complex surface finishes as well as for the production of
-small batches and high parametric variance. In addition, the partial
-model of image processing and roughness prediction modules can be used
+small batches with high parametric variance. In addition, the partial
+set of image processing and roughness prediction modules can be used
 alone as an effective intelligent surface quality inspection system.
 
 **Keywords**: surface inspection and prediction system, image
