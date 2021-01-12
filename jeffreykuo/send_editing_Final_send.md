@@ -84,21 +84,21 @@ surface quality of the result. And, the errors caused by CNC machine motion will
 be projected onto the machined surface, especially important in the machining of
 molds and dies \[15\].
 
-However, it is a big challenge to measure the surface quality of a free
-form mold, even when the setting and effect of jerk is known. Surface
-roughness inspection is one of the essential quality control processes
-designed to ensure that parts are manufactured to a specific requirement
-\[16,17\]. Since the process mechanism of surface quality is composed of
+However, measuring the surface quality of a free
+form mold poses a big challenge, even when the jerk setting and its effect is known, because surface
+roughness inspection is an essential quality control process
+undertaken to ensure that parts are manufactured to a specific requirement
+\[16,17\]. Since the process mechanisms determining surface quality are composed of
 numerous uncontrollable and nonlinear factors, an accurate predictive
-model is in need \[18\]. Through the texture analysis techniques,
-texture parameters could be used to evaluate surface roughness using
+model is needed \[18\]. Using texture analysis techniques,
+texture parameters could provide the data to evaluate surface roughness by means of
 various predictive modeling methods. With the growing demand for
 industrial automation in the manufacturing sector, machine vision plays
 an important role in quality inspection and process monitoring \[19\].
-Many researchers used image recognition technology to classify the
-surface \[20\]. Cuka et al. \[21\] develop a vision-based end-milling
+Many researchers have used image recognition technology to classify
+surfaces \[20\]. Cuka et al. \[21\] developed a vision-based end-milling
 metal surface roughness evaluation system that could perform surface
-texture evaluation. Joshi and Patil \[22\] reviewed recent advances in
+texture evaluation. Joshi and Patil \[22\] have reviewed recent advances in
 machine vision-based evaluation of surface roughness using texture
 analysis techniques and predictive modeling.
 
