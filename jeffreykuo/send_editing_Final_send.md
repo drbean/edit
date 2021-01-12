@@ -47,9 +47,9 @@ Therefore, the inspection of the finished product can no longer be
 carried out individually on a case-by-case basis, but must be replaced by simple
 generalized methods that are flexible and can be completed quickly.
 
-From the product development flow and manufacturing process chain shown
-in Fig. 1, where workpiece geometry can be parametrically deﬁned in
-CAD/CAM computer code, the tool path can also be generated for given
+As part of the product development flow and manufacturing process chain, as shown
+in Fig. 1, workpiece geometry can be parametrically deﬁned in
+CAD/CAM computer code, and the tool path can also be generated for given
 dimensions of a tool according to the desired sequences of machining.
 The engineer is responsible for selecting tools, feedrates, and speeds
 to generate the tool paths according to the process planning strategy
