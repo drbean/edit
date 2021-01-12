@@ -10,7 +10,7 @@ machining technology has developed to satisfy this demand, but further
 improvement in surface
 quality metric inspection technology is the big challenge it now faces.
 
-In this study, the effects of jerks on the performance of five-axis
+In this study, the effects of jerk on the performance of five-axis
 synchronous high-speed CNC ball nose end mills on a freeform turbine mold
 were investigated. The relationships of characteristics of the images of 14 jerk-cluster finished workpieces with
 the different jerk setting values were established, allowing surface texture
