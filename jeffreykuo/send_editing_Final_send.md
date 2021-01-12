@@ -142,18 +142,18 @@ vibration signals as input, developed a probabilistic
 real-time surface roughness prediction system, with
 an accuracy rate as high as 96.37%
 
-After reviewing the literature, machine learning methods with image
+After reviewing the literature, it can be seen machine learning methods incorporating image
 recognition can successfully build predictive models of surface
-roughness with great practical and be adapted for different
-applications. However, most of the research had focused on plain
-machining techniques, such as turning, milling. In free-form mold
+roughness which are of great practical use and which are adaptable for use in different
+applications. However, most of this research has focused on plain
+machining techniques, such as turning or milling. In free-form mold
 surfaces that are milled by a high speed five-axis machine tool, it is a
-critical issue to measure the roughness of all regions due to the
-complex and various curvature topology characteristics. The purpose of
+critical issue to measure the roughness of all regions due to their
+complex and varied curvature topology characteristics. Thus, the purpose of
 this study is to develop an approach system that could be used to
-predict the manufacturing system performance (roughness and machining
-time) for various surfaces with the cutting parameters affected by the
-axis synchronization due to jerk's selection.
+predict manufacturing system performance (roughness and machining
+time) for various surfaces where cutting parameters are affected by
+axis synchronization due to jerk selection.
 
 **2. Methodology & method**
 
