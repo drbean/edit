@@ -63,25 +63,25 @@ height="1.698086176727909in"}
 Fig 1. Product development flow and manufacturing process chain diagram
 \[7\]
 
-The purpose of free-form surface machining is to perform complex shapes
-to and meet a given level of quality while minimizing machining time,
-particularly in aerospace and automobile industry \[8,9\]. There is
-literature focusing on speed optimization for machining, and in these
-works, the jerk setting has a significant impact on the machining time
+The purpose of free-form surface machining is to perform the cutting of complex shapes
+to a given level of quality and to meet that level of quality while minimizing machining time,
+particularly in the aerospace and automobile industry \[8,9\]. There is
+literature focusing on speed optimization for machining, and there
+it is pointed out that jerk settings have a significant impact on machining time
 as well as the quality of the machining, especially for multi-axis
-machining applications \[10,11\]. Barre et al. \[12\] concluded that the
+machining applications \[10,11\]. Barre et al. \[12\] concluded that
 jerk selection could have a significant effect on vibration amplitude
-and time of movement. Zhang et al. \[13\] mentioned that frequent
+as well as time of movement. Zhang et al. \[13\] noted that frequent
 acceleration and deceleration leads to reduced machining efficiency and
-that acceleration and impact also oscillate, eventually leading to
+the acceleration and impact oscillation that is produced also eventually results in
 severe vibration and poorer surface textures. Tulsyan and Altintas
-\[14\] pointed out while the five-axis CNC machine tool followed the
-sequence tool path command, the driving parts would have velocity,
-acceleration and jerk discontinuities at transition points. These
-discontinuities result would lead to poor surface quality. From these
-studies, the jerk value assigned would have a relationship with the
-surface quality. Therefore, the error caused by CNC machine motion will
-be projected onto the machined surface, especially in the machining of
+\[14\] pointed out while the five-axis CNC machine tool follows the
+sequence tool path command, the driving parts have velocity,
+acceleration and jerk discontinuities at transition points, and these
+discontinuities lead to poor surface quality. From these
+studies, it can be seen the jerk values assigned to a job have a relationship with the
+surface quality of the result. And, the errors caused by CNC machine motion will
+be projected onto the machined surface, especially important in the machining of
 molds and dies \[15\].
 
 However, it is a big challenge to measure the surface quality of a free
