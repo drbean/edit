@@ -185,7 +185,7 @@ Fig. 2(b) Manufacturing Process Flow Diagram of Part 2
 
 **2.2 Prediction kernel function development**
 
-Machine learning and statistics analysis methods were introduced to
+Machine learning and statistical analysis methods were introduced to
 establish modules with non-linear kernel functions in the manufacturing
 process diagram (Fig 2).
 
