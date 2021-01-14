@@ -186,18 +186,18 @@ Fig. 2(b) Manufacturing Process Flow Diagram of Part 2
 **2.2 Prediction kernel function development**
 
 Machine learning and statistical analysis methods were introduced to
-establish modules with non-linear kernel functions in the manufacturing
+build modules with non-linear kernel functions, as seen in the manufacturing
 process diagram (Fig 2).
 
 \(1\) Artificial Neural Network (ANN) architecture \[31,34\]
 
 Compared with traditional complex modeling techniques, neural network
-systems provide another way for analyzing data through training. This
+systems provide a more advanced way to analyze data through training. A
 neural network architecture is often used in prediction, control, system
-identification, model building, medicine, and computer vision.
+identification, model building, medicine, and computer vision systems.
 Artificial neural networks use nonlinear functions as learning kernels,
-with the weighted output of multiple neurons feeding into more layers.
-These multi-layer networks are connected in sequence to increase the
+with the weighted output of multiple neurons feeding into further layers.
+The multi-layer networks are connected in sequence to increase
 learning accuracy. An example of a single layer neuron architecture is
 shown in Fig. 3:
 
@@ -205,7 +205,7 @@ shown in Fig. 3:
 height="1.3257699037620299in"}![](media/image5.png){width="2.213542213473316in"
 height="0.41095253718285213in"}
 
-Fig .3 A single layer of neuron \[35\]
+Fig .3 A single neuron layer \[35\]
 
 Each neuron received total input from the sum of the previous layers as
 
@@ -223,7 +223,7 @@ nonlinear systems. In this study, we use these principles to establish
 the textural features of the surface pattern obtained from the input of
 the cutting conditions and also to estimate the surface profile,
 established from texture features. In addition to these model outputs,
-the actual machining time can also be used in such a way that a
+the actual machining time can also be modeled in the same way so that a
 predictive model of the time is obtained after training of the input
 machining conditions and parameters.
 
