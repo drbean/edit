@@ -157,9 +157,9 @@ axis synchronization due to jerk selection.
 
 **2. Methodology & methods**
 
-**2.1 The manufacturing analysis process**
+**2.1 The manufacturing process analysis**
 
-A diagram depicting the manufacturing analysis process followed in this study and the relationship between
+A diagram depicting the organization of the study's manufacturing process analysis and the relationship between
 the input/output and activity components is shown in Fig. 2. To
 overcome the challenge of system development, the process was split into
 two parts:
