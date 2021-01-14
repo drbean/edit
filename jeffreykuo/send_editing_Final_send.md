@@ -60,7 +60,7 @@ produce precise movement between the workpiece and tool \[6,7\].
 ![](media/image1.png){width="5.328125546806649in"
 height="1.698086176727909in"}
 
-Fig 1. Product development flow and manufacturing process chain diagram
+Fig. 1 Product development flow and manufacturing process chain diagram
 \[7\]
 
 The purpose of free-form surface machining is to perform the cutting of complex shapes
@@ -187,7 +187,7 @@ Fig. 2(b) Manufacturing Process Flow Diagram of Part 2
 
 Machine learning and statistical analysis methods were introduced to
 build modules with non-linear kernel functions, as seen in the manufacturing
-process diagram (Fig 2).
+process diagram (Fig. 2).
 
 \(1\) Artificial Neural Network (ANN) architecture \[31,34\]
 
@@ -205,7 +205,7 @@ shown in Fig. 3:
 height="1.3257699037620299in"}![](media/image5.png){width="2.213542213473316in"
 height="0.41095253718285213in"}
 
-Fig .3 A single neuron layer \[35\]
+Fig. 3 A single neuron layer \[35\]
 
 Each neuron received total input from the sum of the previous layers as
 
@@ -257,7 +257,7 @@ to be observed:
 \(1\) Because the tool used for cutting is a ball-end mill tool, the surface traces it
 leaves may be characterized by symmetry. If the surface shows
 more symmetric traces, it indicates this combination of parameters is suitable.
-Fig.4 reproduces some images in zone1 where this phenomenon could be observed.
+Fig. 4 reproduces some images in zone1 where this phenomenon could be observed.
 
 +----------------------------------+----------------------------------+
 | ![](media/image9.p               | ![](media/image9.p               |
@@ -275,7 +275,7 @@ Fig.4 reproduces some images in zone1 where this phenomenon could be observed.
 | roughness                        | roughness                        |
 +----------------------------------+----------------------------------+
 
-Fig .4 Some surface image with heat-map result in zone1
+Fig. 4 Some surface image with heat-map result in zone1
 
 \(2\) When the cutting effect has obvious and uniform light and dark
 distribution, it means that the tool is processing on a good match. If
@@ -299,7 +299,7 @@ are some images in zone 2 could observe this phenomenon.
 | roughness                        | roughness                        |
 +----------------------------------+----------------------------------+
 
-Fig .5 Some surface image with heat-map result in zone2
+Fig. 5 Some surface image with heat-map result in zone2
 
 > \(3\) Another phenomenon of poor matching is the appearance of
 > continuous long streaks. When processing curved workpieces, the tool
@@ -326,7 +326,7 @@ Fig .5 Some surface image with heat-map result in zone2
 | roughness                        | roughness                        |
 +----------------------------------+----------------------------------+
 
-Fig .6 Some surface image with heat-map result in zone3 and zone 4
+Fig. 6 Some surface image with heat-map result in zone3 and zone 4
 
 For more clearly to classify these image, the gray level would an
 important factor to distinguish the features. Therefore, the color model
@@ -564,7 +564,7 @@ samples. The result of the validation test is shown in Table 5.
 ![](media/image45.png){width="4.4533409886264215in"
 height="2.1302088801399823in"}
 
-Fig.10 The image texture prediction model structure
+Fig. 10 The image texture prediction model structure
 
 Table 5 The image texture prediction model result
 
