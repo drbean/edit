@@ -245,31 +245,33 @@ final results and obtain useful analysis results. A 56-layer
 ResNet architecture convolutional neural network (CNN) developed
 in Python v3 on Google colaboratory was used to train and
 classify different images in four workspace regions with a classification accuracy
-of 93.35%. In review, a tool leaves markings on the surface after machining,
+of 93.35%.
+
+In review, a tool leaves markings on the surface after machining,
 the relevant feature of which is a texture composed of scallops and cusps, which 
 is experienced as surface roughness. And if a cutting parameter is inappropriately set, it can
 lead to unsynchronized machining and poor surfaces. Visualizing 
 results with Grad-CAM and heatmaps allows some distinctive features
 to be observed:
 
-\(1\) Because the tool used for cutting is a ball-end mill tool, this
-tool is characterized by symmetry. If the surface traces after cutting
-have more symmetric traces, this combination of parameters is suitable.
-Fig.4 are some images in zone1 could observe this phenomenon.
+\(1\) Because the tool used for cutting is a ball-end mill tool, the surface traces it
+leaves may be characterized by symmetry. If the surface shows
+more symmetric traces, it indicates this combination of parameters is suitable.
+Fig.4 reproduces some images in zone1 where this phenomenon could be observed.
 
 +----------------------------------+----------------------------------+
 | ![](media/image9.p               | ![](media/image9.p               |
 | ng){width="2.6569444444444446in" | ng){width="2.5705129046369204in" |
 | height="1.3331080489938758in"}   | height="1.3005752405949256in"}   |
 |                                  |                                  |
-| \(a\) A simple with 2.180 μm     | \(b\) A simple with 2.399μm      |
+| \(a\) A sample with 2.180 μm     | \(b\) A sample with 2.399μm      |
 | roughness                        | roughness                        |
 +==================================+==================================+
 | ![](media/image10.               | ![](media/image10.p              |
 | png){width="2.608974190726159in" | ng){width="2.5897430008748907in" |
 | height="1.3027088801399824in"}   | height="1.2971719160104986in"}   |
 |                                  |                                  |
-| \(c\) A simple with 2.317 μm     | \(d\) A simple with 2.333μm      |
+| \(c\) A sample with 2.317 μm     | \(d\) A sample with 2.333μm      |
 | roughness                        | roughness                        |
 +----------------------------------+----------------------------------+
 
