@@ -245,12 +245,12 @@ final results and obtain useful analysis results. A 56-layer
 ResNet architecture convolutional neural network (CNN) developed
 in Python v3 on Google colaboratory was used to train and
 classify different images in four workspace regions with a classification accuracy
-of 93.35%. In explanation, a tool leaves markings on the surface after machining,
-which is the features composed by scallops and cusps textures and would
-be related to surface roughness. If the parameter is unmatched, it would
-lead to non-synchronization machining and have worse surface. From the
-Grad-Cam and heat-map result, it could have some distinctive feature
-could be observed:
+of 93.35%. In review, a tool leaves markings on the surface after machining,
+the relevant feature of which is a texture composed of scallops and cusps, which 
+is experienced as surface roughness. And if a cutting parameter is inappropriately set, it can
+lead to unsynchronized machining and poor surfaces. Visualizing 
+results with Grad-CAM and heatmaps allows some distinctive features
+to be observed:
 
 \(1\) Because the tool used for cutting is a ball-end mill tool, this
 tool is characterized by symmetry. If the surface traces after cutting
