@@ -3,7 +3,7 @@
 
 **Abstract**
 
-There is an urgent demand for free form products in industry nowadays because 
+There is an urgent demand for free form products in industry at the present time because 
 of their superior appearance and the wide variety of functions they 
 perform. Five-axis high-speed CNC
 machining technology has developed to satisfy this demand, but further 
@@ -13,7 +13,7 @@ quality metric inspection technology is the big challenge it now faces.
 In this study, the effects of jerk on the performance of five-axis
 synchronous high-speed CNC ball nose end mills on a freeform turbine mold
 were investigated. The relationships of characteristics of the images of 14 jerk-cluster finished workpieces with
-the different jerk setting values were established, allowing surface texture
+different jerk setting values were established, allowing surface texture
 features to be analyzed and surface roughness predicted. In addition, machine learning
 methods were integrated with the surface feature analysis to construct a virtual machining module that
 acts as a performance prediction system, merged with the virtual
