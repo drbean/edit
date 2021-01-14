@@ -229,23 +229,23 @@ machining conditions and parameters.
 
 \(2\) The image processing module
 
-The image processing method would be used to extract the characteristics
+The purpose of the image processing module is to extract the characteristics
 of the workpiece surface and establish the relationship between image
-characteristics and surface roughness. To analysis the detailed
-information and the texture inside of images, GLCM has been used to
-quantitatively evaluate textural parameters. The definition of GLCM has
-described in \[36\]. The cutting mechanism would be left tool marks
-(scallops and cusps) on the surface \[37\], these marks with varying
-height level could be the most significant source of information for
-texture analysis. From the basic optic principle, the bright areas
-correspond to the light reflected from geometric shapes, and could be
-represented as the surface roughness pattern or features. In order to
-obtain detailed classification, we can use deep learning to observe the
-final results and obtain useful analysis results. A 56 layers with
-ResNet architecture convolutional neural network (CNN) which developed
-in Python v3 on Google collaboratory has been used to train and
-classified different images in four regions and the classified accuracy
-is 93.35%. The tool would left marks on the surface after machining,
+characteristics and surface roughness. To analyze the detailed
+information and the texture provided by images, a Gray-Level Co-Occurrence Matrix (GLCM) was used to
+quantitatively evaluate textural parameters. The definition of GLCM is
+described in \[36\]. The cutting mechanism leaves tool marks
+(scallops and cusps) on the workpiece surface \[37\], and these marks, of varying
+heights, are perhaps the most significant source of information for
+texture analysis. From basic optic principles, the bright areas
+correspond to light reflected from the geometric shapes,
+representing surface roughness patterns or features. In order to
+allow detailed classification, we used deep learning to observe the
+final results and obtain useful analysis results. A 56-layer
+ResNet architecture convolutional neural network (CNN) developed
+in Python v3 on Google colaboratory was used to train and
+classify different images in four workspace regions with a classification accuracy
+of 93.35%. In explanation, a tool leaves markings on the surface after machining,
 which is the features composed by scallops and cusps textures and would
 be related to surface roughness. If the parameter is unmatched, it would
 lead to non-synchronization machining and have worse surface. From the
