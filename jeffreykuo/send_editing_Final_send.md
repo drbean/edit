@@ -224,7 +224,7 @@ the textural features of the surface pattern obtained from the input of
 the cutting conditions and also to estimate the surface profile,
 established from texture features. In addition to these model outputs,
 the actual machining time can also be modeled in the same way so that a
-predictive model of the time is obtained after training of the input
+predictive model of the time taken is obtained after training of the input
 machining conditions and parameters.
 
 \(2\) The image processing module
