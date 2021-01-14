@@ -48,7 +48,7 @@ carried out individually on a case-by-case basis, but must be replaced by simple
 generalized methods that are flexible and can be completed quickly.
 
 As part of the product development flow and manufacturing process chain, as shown
-in Fig. 1, workpiece geometry can be parametrically deﬁned in
+in Fig. 1, workpiece geometry can be parametrically defined in
 CAD/CAM computer code, and the tool path can also be generated for given
 dimensions of a tool according to the desired sequences of machining.
 The engineer is responsible for selecting tools, feedrates, and speeds
@@ -110,7 +110,7 @@ newly developed technologies to model and predict surface roughness
 (ANN) model for analyzing and predicting the relationship between
 cutting conditions and fractal parameters of the corresponding machined
 surface to obtain specific surface roughness profile geometries.
-Asiltürk and Çunkaş \[27\] used multiple regression and artiﬁcial neural
+Asiltürk and Çunkaş \[27\] used multiple regression and artificial neural
 network approaches to predict surface roughness and concluded
 that ANN is a powerful tool with high accuracy compared to multiple regression. Patel
 et al. \[28\] used the gray level co-occurrence matrix (GLCM) to extract
@@ -164,7 +164,7 @@ the input/output and activity components is shown in Fig. 2. To
 overcome the challenge of system development, the process was split into
 two parts:
 
-Part 1：Surface texture feature & roughness prediction. The strategy was
+Part 1: Surface texture feature & roughness prediction. The strategy was
 to get image texture features of the workpiece first, and then to
 build a surface roughness prediction processor.
 
@@ -742,7 +742,7 @@ prediction systems
 | Researcher  |             | a           |             |             |
 |             | (Material)  | rchitecture |             |             |
 +=============+=============+=============+=============+=============+
-| Xie\[41\],  | Turning     | SVM+PSO     | Spindle     | 4.86％      |
+| Xie\[41\],  | Turning     | SVM+PSO     | Spindle     | 4.86%       |
 | 2018        |             |             | speed,      |             |
 |             |             |             | Cutting     |             |
 |             |             |             | depth,      |             |
