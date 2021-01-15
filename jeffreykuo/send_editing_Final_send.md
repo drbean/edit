@@ -508,11 +508,11 @@ height="2.4444444444444446in"}
 Fig. 8 The SVM classified results
 
 Convolutional Neural Networks (CNN) \[40\] are very useful in the
-classification and recognition of images. As a result of CNN\'s
+classification and recognition of images. As a result of the present CNN
 classification, Table 4 shows that there are indeed unique features in
 the images that can be used as a basis for classification.
 
-Table 4 The CNN result
+Table 4 The CNN results
 
   ---------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                    Cluster_5 in zone 1                                                                                                                                                                Cluster_14 in zone 1                                                                                                                                                               Cluster_5 in zone 2
