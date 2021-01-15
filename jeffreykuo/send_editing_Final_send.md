@@ -556,17 +556,17 @@ shown in Fig. 9.
 
 Fig. 9 Some examples of machining surface images
 
-The parameters and architecture were shown in Fig. 10. A total of 2016
-surface image samples from 14 molds have been used as training data and
-504 samples used as a validation test, each jerk setting cluster has 45
-samples. The result of the validation test is shown in Table 5.
+The parameters and architecture of the model are shown in Fig. 10. A total of 2016
+surface image samples from 14 molds were used as training data and
+504 samples used as a validation test. Each jerk setting cluster had 45
+samples. The results of the validation test are shown in Table 5.
 
 ![](media/image45.png){width="4.4533409886264215in"
 height="2.1302088801399823in"}
 
 Fig. 10 The image texture prediction model structure
 
-Table 5 The image texture prediction model result
+Table 5 The image texture prediction model results
 
   ------------------------------------ -------------------
   Output result                        Predict error (%)
