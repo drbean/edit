@@ -335,7 +335,7 @@ for the combination of six textural features
 selected for study.
 
 To get texture information, let be the th entry in a GLCM having
-*N~x~* columns and *N~y~* rows. *Ng* stands for the level of pixel. The
+*N~x~* columns and *N~y~* rows. *Ng* stands for the number of levels of pixel. The
 mean and standard deviations for the row and columns of the matrix are
 shown below as Eq. (2) and (3):
 
