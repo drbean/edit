@@ -328,16 +328,16 @@ Fig. 5 Some surface images with heat-map results in zone2
 
 Fig. 6 Some surface images with heat-map results in zone3 and zone 4
 
-For more clearly to classify these image, the gray level would an
-important factor to distinguish the features. Therefore, the color model
-used is the HSV model since it provides the value of brightness as input
-as opposed to grayscale, with a combination of six textural features to
-be selected for inspecting.
+To more clearly classify these images, the gray level would be an important factor
+in a module distinguishing the above features. Therefore, the color model
+adopted is the HSV model, not grayscale, since it provides a value for brightness, and it is used as input to the module,
+together with a combination of six other textural features
+selected for inspection.
 
-To get the texture information, let be the th entry in the GLCM have
-*N~x~* columns and *N~y~* rows. *Ng* stand for the levels of pixel. The
+To get texture information, let be the th entry in a GLCM having
+*N~x~* columns and *N~y~* rows. *Ng* stands for the level of pixel. The
 mean and standard deviations for the row and columns of the matrix are
-shown below on Eq. (2) and (3):
+shown below as Eq. (2) and (3):
 
   ----- -------
   ~,~   \(2\)
