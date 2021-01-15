@@ -388,20 +388,20 @@ as the input to the roughness prediction processor.
 
 **3.1 Experiment equipment and device**
 
-The purpose of this experiment is to evaluate the concept described in
-section 2.2, that is, to develop a prediction model. A single turbine
-vane mold shown in Fig. 7(a) is used for demonstration, which was
-machining, testing, and verified in a 5-axis synchronous ball-end
+The purpose of this experiment was to evaluate the concept described in
+section 2.2, that is, the development of a prediction model. A single turbine
+vane mold shown in Fig. 7(a) was used for demonstration purposes. It was
+machined, tested, and verified by means of 5-axis synchronous ball-end
 milling. To compare the effect of jerk setting for each axis on the
 roughness of the machined surface, four areas, marked as zone No. 1 to
-4, were selected for the study. The 5-axis tool machine shown in Fig.
-7(b) is a UX300 with Heidenhain controller (iTNC 530) made by Quasar. An
-area scan camera has been selected for capturing the surface image. The
+4, were selected for study. The 5-axis tool machine shown in Fig.
+7(b) was a UX300 with Heidenhain controller (iTNC 530) made by Quasar. An
+area scan camera was selected for capturing the surface image. The
 equipment used for this experimental test is listed in Table 1. The feed
-rate and spindle speed are set to a constant of 7,000 mm/min and 11,500
-rpm respectively. The shape of the cutting tool is assumed to be
-constant during experimentation. The virtual model, image processing and
-machine learning development environment is under the Matlab 2018b.
+rate and spindle speed were set to a constant of 7,000 mm/min and 11,500
+rpm respectively. The shape of the cutting tool was assumed to be
+constant during experimentation. Work on the virtual model, image processing and
+machine learning development environment took place under Matlab 2018b.
 
 +-------------------------------------------+-------------------------+
 | ![](media/image31.png){width="3.0in"      | ![](media/image32.jpeg) |
