@@ -483,7 +483,7 @@ Table 3 Mold information -- average axis path length
 
 **3.3 Virtual model development**
 
-Virtual model development, combining machine learning and
+The virtual machining model development, combining machine learning and
 image processing, consisted of three parts:
 
 \(a\) Image texture prediction model,
