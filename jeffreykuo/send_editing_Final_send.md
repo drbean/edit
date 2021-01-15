@@ -633,18 +633,18 @@ Fig. 11 The roughness prediction model structure
 **(c) Machining time estimation model**
 
 For the machining time estimate, the model used the total tool path
-length instead of separating the path length in each zone. The total
-path length data can be calculated from CAM. Additionally, the output is
-a single metric for machining time. The parameters and neural net
+length instead of the separate path length in each zone. The total
+path length data could be calculated from CAM. Additionally, the output was
+the single metric of machining time. The parameters and neural net
 architecture are shown in Fig. 12. The actual and estimated machining
-times are shown in Table 7 with an average error of -0.472%.
+times are shown in Table 7 and there was an average error of -0.472%.
 
 ![](media/image47.png){width="4.213542213473316in"
 height="2.061136264216973in"}
 
 Fig. 12 The machining time estimation model structure
 
-> Table 7 Machining time estimated model result
+> Table 7 Machining time estimate model results
 
   ------------- -------------------- ------------------- -----------
   Cluster No.   Predicted time (s)   Measured time (s)   Error (%)
@@ -664,14 +664,14 @@ Fig. 12 The machining time estimation model structure
                                                          
   ------------- -------------------- ------------------- -----------
 
-**3.4 Summary and discussions**
+**3.4 Summary and discussion**
 
 The results of this experiment show:
 
-1\. The cutting mechanism leaves tool marks (scallops and cusps). The
-surface texture of the workpiece can truly represent the parameter
-changes of the machining process, typically the effect of the jerk
-setting value. According to SVM and CNN results, the six selected
+1\. The cutting mechanism leaves tool marks (scallops and cusps), and the
+resulting surface texture of the workpiece is a faithful representation of the parameter
+changes of the machining process, typically the effect of changes to jerk
+setting values. According to SVM and CNN results, the six selected
 texture features would be significant characteristics of the image.
 
 2\. The training data included four different curvature zones, which
