@@ -580,7 +580,7 @@ Table 5 The image texture prediction model results
 
 **(b) Roughness prediction model**
 
-To get the final roughness value, the six features from GLCM were used
+To get the final roughness values, the six features from the GLCM were used
 as inputs. 2016 samples were used as training data and 504 samples were
 used in validation. The parameters and neural net architecture are shown
 in Fig. 11, while Table 6 summarizes the measured and predicted values
