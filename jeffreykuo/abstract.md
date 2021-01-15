@@ -48,7 +48,7 @@ produce an overall average system error of 0.272%;
 processed surface image from the axis jerking parameters and the
 processing path parameters. The six parameters of the information
 measurement index included correlation, energy, homogeneity, sum
-entropy, sum variance and the correlation information measure. The
+entropy, sum variance and information measure of correlation. The
 overall average error is 1.114% and the prediction error result
 of the integrated prediction system combining (1) and (2) has an
 average error of 0.730%;
