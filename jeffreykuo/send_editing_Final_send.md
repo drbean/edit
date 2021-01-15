@@ -344,8 +344,8 @@ shown below as Eq. (2) and (3):
   ~,~   \(3\)
   ----- -------
 
-Following are six features as defined in Eq.(4) to (9). These surface
-texture features contain the unique machining characteristics and used
+Following are the six features, defined in Eq.(4) to (9). These surface
+texture features contain unique machining characteristics and are used
 as the input to the roughness prediction processor.
 
 \(a\) Correlation \[36,38\]:
