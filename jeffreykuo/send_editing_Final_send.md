@@ -251,7 +251,7 @@ In review, a tool leaves markings on the surface after machining,
 the relevant feature of which is a texture composed of scallops and cusps, which 
 is experienced as surface roughness. And if a cutting parameter is inappropriately set, it can
 lead to unsynchronized machining and poor surfaces. Visualizing 
-results with Grad-CAM and heatmaps allows some distinctive features
+results with Grad-CAM and heat-maps allows some distinctive features
 to be observed:
 
 \(1\) Because the tool used for cutting is a ball-end mill tool, the surface traces it
@@ -275,58 +275,58 @@ Fig. 4 reproduces some images in zone1 where this phenomenon could be observed.
 | roughness                        | roughness                        |
 +----------------------------------+----------------------------------+
 
-Fig. 4 Some surface image with heat-map result in zone1
+Fig. 4 Some surface images with heat-map results in zone1
 
-\(2\) When the cutting effect has obvious and uniform light and dark
-distribution, it means that the tool is processing on a good match. If
+\(2\) When the surface trace has obvious and uniform light and dark
+distributions, it means that the tool is processing on a good match. If
 the axial match is not good, the residual traces of the tool will appear
-asymmetrical, or it will not be able to maintain a uniform state. Fig. 5
-are some images in zone 2 could observe this phenomenon.
+asymmetrical, or will not be able to maintain a uniform state. Fig. 5
+shows some images in zone 2 where this phenomenon could be observed.
 
 +----------------------------------+----------------------------------+
 | ![](media/image11.p              | ![](media/image11.               |
 | ng){width="2.5247801837270343in" | png){width="2.492959317585302in" |
 | height="1.2678947944007in"}      | height="1.2618055555555556in"}   |
 |                                  |                                  |
-| \(a\) A simple with 2.137 μm     | \(b\) A simple with 2.445μm      |
+| \(a\) A sample with 2.137 μm     | \(b\) A sample with 2.445μm      |
 | roughness                        | roughness                        |
 +==================================+==================================+
 | ![](media/image12.               | ![](media/image12.               |
 | png){width="2.569996719160105in" | png){width="2.505932852143482in" |
 | height="1.2840277777777778in"}   | height="1.2662926509186352in"}   |
 |                                  |                                  |
-| \(c\) A simple with 2.317μm      | \(d\) A simple with 2.333μm      |
+| \(c\) A sample with 2.317μm      | \(d\) A sample with 2.333μm      |
 | roughness                        | roughness                        |
 +----------------------------------+----------------------------------+
 
-Fig. 5 Some surface image with heat-map result in zone2
+Fig. 5 Some surface images with heat-map results in zone2
 
-> \(3\) Another phenomenon of poor matching is the appearance of
-> continuous long streaks. When processing curved workpieces, the tool
+> \(3\) Another phenomenon characteristic of poor matching is the lack of
+> long continuous streaks. When processing curved workpieces, the tool
 > will maintain a fixed angle with the surface tangent, so the trace
-> will be discontinuous in the area where the curvature changes. When
+> will be discontinuous in areas where the curvature changes. When
 > the shaft is not well matched, the tool cannot maintain a fixed angle
-> with the cutting table and will offset, which makes the tool too deep
-> to produce continuous marks. Fig. 6 could observe this phenomenon. The
-> red rectangle are shows where the connected line of quiescent points
+> with the cutting table and will offset, which means the tool will be too deep
+> to produce a continuous trace. Fig. 6 shows an example of this phenomenon. The
+> red rectangle indicates where a connected line of quiescent points appears.
 
 +----------------------------------+----------------------------------+
 | ![](media/image13.p              | ![](media/image13.p              |
 | ng){width="2.6217957130358704in" | ng){width="2.5705129046369204in" |
 | height="1.2963593613298339in"}   | height="1.2662871828521436in"}   |
 |                                  |                                  |
-| \(a\) A simple with 2.193 μm     | \(b\) A simple with 2.393 μm     |
+| \(a\) A sample with 2.193 μm     | \(b\) A sample with 2.393 μm     |
 | roughness                        | roughness                        |
 +==================================+==================================+
 | ![](media/image14.p              | ![](media/image14.               |
 | ng){width="2.7048392388451443in" | png){width="2.672222222222222in" |
 | height="1.336111111111111in"}    | height="1.336097987751531in"}    |
 |                                  |                                  |
-| \(c\) A simple with 2.313 μm     | \(d\) A simple with 2.360 μm     |
+| \(c\) A sample with 2.313 μm     | \(d\) A sample with 2.360 μm     |
 | roughness                        | roughness                        |
 +----------------------------------+----------------------------------+
 
-Fig. 6 Some surface image with heat-map result in zone3 and zone 4
+Fig. 6 Some surface images with heat-map results in zone3 and zone 4
 
 For more clearly to classify these image, the gray level would an
 important factor to distinguish the features. Therefore, the color model
