@@ -508,8 +508,8 @@ height="2.4444444444444446in"}
 Fig. 8 The SVM classified results
 
 Convolutional Neural Networks (CNN) \[40\] are very useful in the
-classification and recognition of images. As a result of the present CNN
-classification, Table 4 shows that there are indeed unique features in
+classification and recognition of images. The results of the CNN
+classification of the present study, as seen in Table 4, show that there are indeed unique features in
 the images that can be used as a basis for classification.
 
 Table 4 The CNN results
@@ -521,15 +521,15 @@ Table 4 The CNN results
   Feature2         ![](media/image39.png){width="1.078740157480315in" height="1.0826771653543308in"}                                                                                                  ![](media/image40.png){width="1.0826771653543308in" height="1.0826771653543308in"}                                                                                                 ![](media/image41.png){width="1.0748031496062993in" height="1.0826771653543308in"}
   ---------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Compared with the results of CNN and SVM, which means the machining
-characteristics will leave typical marks on the surface, these texture
-features could be identified as a surface result after each jerk cluster
-operated. Using the six textural features in this study is sufficient to
-demonstrate the classified ability.
+Combining the results of CNN and SVM, which show machining
+characteristics will leave typifying marks on surfaces, texture
+features could be identified as surface results after machining with each jerk cluster.
+Using the six textural features in this study was sufficient to
+demonstrate classification ability.
 
 **(a) Image texture prediction model**
 
-In this study, based on industry operation, a commercial controller was
+In this study, based on typical industrial practices, a commercial controller was
 used, and one parameter group setting for the 5-axis at once during the
 machining. 14 geometrically identical blade molds were used with 14 jerk
 setting clusters (Table 2) and manufactured for further inspection. From
