@@ -416,7 +416,7 @@ Fig. 7 The experiment mold and 5-axis tool machine
 Table 1 The equipment of the experiment
 
   ------------------------------- ---------------------------------------- ---------------------- -----------------------
-  Machine                         UX300 (Quasar) with 5 axes( X,Y,Z,A,C)   Controller             iTNC 530 (Heidenhain)
+  Machine                         UX300 (Quasar) with 5 axes (X,Y,Z,A,C)   Controller             iTNC 530 (Heidenhain)
   Rapid Traverse X/Y/Z (mm/min)   36,000/36,000/32,000                     Max. Speed A/C (rpm)   9,000/9,000
   Spindle Speed (rpm)             12,000                                   Tool type              Ball-end mill
   Mold type                       single turbine vane                      Mold material          6061 aluminum alloy
