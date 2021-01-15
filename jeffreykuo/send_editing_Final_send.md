@@ -530,17 +530,17 @@ demonstrate classification ability.
 **(a) Image texture prediction model**
 
 In this study, based on typical industrial practices, a commercial controller was
-used, and one parameter group setting for the 5-axis at once during the
-machining. 14 geometrically identical blade molds were used with 14 jerk
-setting clusters (Table 2) and manufactured for further inspection. From
-research \[7\], the path length is known to affect the machining
-performance. Without loss general, the mold has been separated into four
-zones (Fig. 4(a)) with varying curvature contour and path lengths (Table
-3) were be considered as all input parameters. Therefore the input
-parameters for the workpiece manufacture include jerk values of each
-axis, the average path length of each zone average, cutting tool feed
-rate, spindle rotation speed of tool, and output of the six image
-textures from image processing. An example of these surface images is
+used, and one parameter group setting for the five axes together during the
+machining of each mold was adopted. 14 geometrically identical blade molds were manufactured with 14 jerk
+setting clusters (Table 2) and subjected to inspection. From
+research \[7\], it is known that the path length affects machining
+performance. Without loss of generality, the mold was separated into four
+zones (Fig. 4(a)) with varying curvature contours, and path lengths (Table
+3) were be considered as input parameters. Therefore the input
+parameters for the workpiece manufacture included jerk values of each
+axis, the average path length of each zone, cutting tool feed
+rate, and spindle rotation speed of tool. The output parameters were the six image
+textures from image processing. Some examples of surface images are
 shown in Fig. 9.
 
 +----------------------+----------------------+----------------------+
@@ -554,7 +554,7 @@ shown in Fig. 9.
 |     > image          |     > image-1        |     > images-2       |
 +----------------------+----------------------+----------------------+
 
-Fig. 9 Some example of machining surface image
+Fig. 9 Some examples of machining surface images
 
 The parameters and architecture were shown in Fig. 10. A total of 2016
 surface image samples from 14 molds have been used as training data and
