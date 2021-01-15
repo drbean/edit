@@ -523,7 +523,7 @@ Table 4 The CNN results
 
 Combining the results of CNN and SVM, which show machining
 characteristics will leave typifying marks on surfaces, texture
-features could be identified as surface results after machining with each jerk cluster.
+features could be identified through surface results after machining with each jerk cluster.
 Using the six textural features in this study was sufficient to
 demonstrate classification ability.
 
