@@ -426,15 +426,15 @@ Table 1 The equipment of the experiment
 
 **3.2 Data prepared**
 
-Since the maximum jerk values set of each axis do not correspond to the
-best surface quality, it needs to be balanced with other axis
-performance. For comparison, 14 clusters with different jerk settings,
-shown in Table 2, have been applied for the machining of the mold. The
-molds information, from CAM, is represented as the distance between
+Since setting the jerk values on the five axes to the maximum jerk value for each individual axis does not correspond to the
+best surface quality, settings on each axis need to be balanced with those on other axes for best
+performance. For comparison purposes, 14 clusters each with different jerk settings,
+shown in Table 2, were applied to the machining of the mold. Information about the
+mold dimensions, from CAM, is represented as the distance between
 every two set-points, which is the tool path segment. The average path
-length of each axis is listed in Table 3.
+length on each axis is listed in Table 3.
 
-> Table 2 The jerk values setting cluster
+> Table 2 The jerk value setting clusters
 
 +---------+-----------+-----------+-----------+------------+------------+
 | Cluster | X-axis    | Y-axis    | Z-axis    | A-axis     | C-axis     |
@@ -470,7 +470,7 @@ length of each axis is listed in Table 3.
 |         |           |           |           |            |            |
 +---------+-----------+-----------+-----------+------------+------------+
 
-Table 3 Mold information -- axis average path length
+Table 3 Mold information -- average axis path length
 
   -------------- -------- -------- -------- --------
   Item           Zone 1   Zone 2   Zone 3   Zone 4
