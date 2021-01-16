@@ -671,43 +671,43 @@ The results of this experiment show:
 1\. The cutting mechanism leaves tool marks (scallops and cusps), and the
 resulting surface texture of the workpiece is a faithful representation of the parameter
 changes of the machining process, typically the effect of changes to jerk
-setting values. According to SVM and CNN results, the six selected
-texture features would be significant characteristics of the image.
+setting values. The SVM and CNN results show the six selected
+texture features are significant characteristics of the image.
 
-2\. The training data included four different curvature zones, which
-could be simulated as a practical case that included various contour
-surfaces. This approach system could predict the surface roughness with
+2\. The training data included four different curvature zones, 
+simulating a typical workpiece that includes various contour
+surfaces. The system was able to predict the surface roughness for
 14 groups of jerk settings in all zones. The image texture
-characteristics of the workpiece surface can be predicted from the input
-including the information about the workpiece, dynamic parameters of the
-machine, and cutting conditions. Surface roughness can be estimated from
+characteristics of the workpiece surface could be predicted from the input
+that included the information about the workpiece, dynamic parameters of the
+machine, and cutting conditions. Surface roughness could be estimated from
 the texture characteristics of the workpiece surface. Also, the
-processing time required can be estimated from the input processing
-conditions. The final average estimated performances are only 0.272% and
--0.472% error rate for the roughness and machining time especially.
+processing time required could be estimated from the input processing
+conditions. The final average estimated performances produced only 0.272% and
+-0.472% error rates for roughness and machining time, respectively.
 
-3\. To summarize the function of this study, an integrated system for
-manufacturing performance prediction would be proposed as shown in Fig
-10. The real high-speed 5-axis machining system (in Fig 2) can be
+3\. To summarize the achievements of this study, an integrated system for
+manufacturing performance prediction is available, as shown in Fig
+10. A real high-speed 5-axis machining system (in Fig 2) can be
 replaced with a virtual machine tool module. We have successfully
 demonstrated the integrated prediction system with the input: workpiece
-information, cutting parameters and machine tool parameter, as this
+information, cutting parameters and machine tool parameters, as an
 experiment. And the output: predicted roughness, compared with the
-measured data were shown in Table 8. The predicted machining time and
-actual values were the same as in Table 7. An additional branch of the
-system is the roughness prediction module combined with surface texture
-processor can be used as an independent module for surface quality
-inspection system while surface images of a workpiece are available.
+measured data shows only minimal error (in Table 8). The predicted machining time and
+the actual values were only minimally different (see Table 7). A separate branch of the
+system, the roughness prediction module combined with surface texture
+processor, can be used as an independent module for surface quality
+inspection when surface images of a workpiece are available.
 
-4\. Additionally, it can be observed from CNN\'s feature map analysis
+4\. Additionally, it can be observed from the CNN feature map analysis
 that different jerk value settings can produce different higher-level
-patterns deeper in the network. As shown in the pictures in Table 4, the
-same area of concern will have different features, with variations that
-represent the jerk indeed giving rise to different textural features.
-Equivalent jerk settings will have similar feature images, proving again
+patterns deeper in the network. As seen in the pictures in Table 4, the
+same area of concern will exhibit different features with different jerk settings, showing
+that jerk does indeed give rise to different textural features.
+Equivalent jerk settings will produce similar feature images, proving again
 that jerk is an important parameter that affects surface texture during
-synchronous machining. The results of this study and the comparison with
-other literatures on the surface roughness prediction system were listed
+synchronous machining. The results of this study and comparisons with
+other research on surface roughness prediction systems are listed
 in Table 9.
 
 ![](media/image48.png){width="5.741666666666666in"
@@ -831,19 +831,19 @@ prediction systems
 
 **4. Conclusion**
 
-Surface images of scallops and cusps captured from the 14 clusters
-workpieces caused by the different jerk affect in 5-axis synchronization
-machining have been studied. Image processing technology and machine
-learning are used to evaluate the manufacturing performance (roughness
+Surface images of scallops and cusps observed on 14 
+workpieces caused by different jerk settings in 5-axis synchronization
+machining have been captured and studied. Image processing technology and machine
+learning are used to evaluate manufacturing performance (roughness
 and machining time).
 
-An integrated system constituted with virtual machine tool module, image
-processing module and roughness prediction module has been developed.
-This system has been demonstrated good pre-assessment and quality
-inspection ability. It can provide users with the best choice of
-parameter adjustment, processing time estimation and to estimate the
-quality of the surface before real machining. It also can provide users
-to consider the balance requirements between the processing time and the
-need for surface quality in the industry application.
+An integrated system, constituting a virtual machine tool module, image
+processing module and roughness prediction module, has been developed.
+This system has demonstrated good pre-assessment and quality
+inspection ability. It gives users the ability to choose the best 
+parameter settings, and to estimate processing time and the
+quality of the surface before real machining. It also can help users
+balance the requirement for fast processing times and the
+need for surface quality in industrial applications.
 
 # 
