@@ -16,7 +16,7 @@ were investigated. The relationships of characteristics of the images of 14 jerk
 different jerk setting values were established, allowing surface texture
 features to be analyzed and surface roughness predicted. In addition, machine learning
 methods were integrated with the surface feature analysis to construct a virtual machining module that
-acts as a performance prediction system, merged with the virtual
+acts as a performance prediction system, merging the virtual
 machine tool functions, surface texture processor and AI roughness
 prediction processor. Using the geometric information of the workpiece,
 cutting parameters and machine tool parameters as inputs, product
