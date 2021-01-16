@@ -260,15 +260,15 @@ more symmetric traces, it indicates this combination of parameters is suitable.
 Fig. 4 reproduces some images in zone1 where this phenomenon could be observed.
 
 +----------------------------------+----------------------------------+
-| ![](media/image9.p               | ![](media/image9.p               |
-| ng){width="2.6569444444444446in" | ng){width="2.5705129046369204in" |
+| ![](media/image9.png             | ![](media/image9.png             |
+|   ){width="2.6569444444444446in" |   ){width="2.5705129046369204in" |
 | height="1.3331080489938758in"}   | height="1.3005752405949256in"}   |
 |                                  |                                  |
 | \(a\) A sample with 2.180 μm     | \(b\) A sample with 2.399μm      |
 | roughness                        | roughness                        |
 +==================================+==================================+
-| ![](media/image10.               | ![](media/image10.p              |
-| png){width="2.608974190726159in" | ng){width="2.5897430008748907in" |
+| ![](media/image10.png            | ![](media/image10.png            |
+|    ){width="2.608974190726159in" |   ){width="2.5897430008748907in" |
 | height="1.3027088801399824in"}   | height="1.2971719160104986in"}   |
 |                                  |                                  |
 | \(c\) A sample with 2.317 μm     | \(d\) A sample with 2.333μm      |
@@ -284,15 +284,15 @@ asymmetrical, or will not be able to maintain a uniform state. Fig. 5
 shows some images in zone 2 where this phenomenon could be observed.
 
 +----------------------------------+----------------------------------+
-| ![](media/image11.p              | ![](media/image11.               |
-| ng){width="2.5247801837270343in" | png){width="2.492959317585302in" |
+| ![](media/image11.png            | ![](media/image11.png            |
+|   ){width="2.5247801837270343in" |    ){width="2.492959317585302in" |
 | height="1.2678947944007in"}      | height="1.2618055555555556in"}   |
 |                                  |                                  |
 | \(a\) A sample with 2.137 μm     | \(b\) A sample with 2.445μm      |
 | roughness                        | roughness                        |
 +==================================+==================================+
-| ![](media/image12.               | ![](media/image12.               |
-| png){width="2.569996719160105in" | png){width="2.505932852143482in" |
+| ![](media/image12.png            | ![](media/image12.png            |
+|    ){width="2.569996719160105in" |    ){width="2.505932852143482in" |
 | height="1.2840277777777778in"}   | height="1.2662926509186352in"}   |
 |                                  |                                  |
 | \(c\) A sample with 2.317μm      | \(d\) A sample with 2.333μm      |
@@ -311,15 +311,15 @@ Fig. 5 Some surface images with heat-map results in zone2
 > red rectangle indicates where a connected line of quiescent points appears.
 
 +----------------------------------+----------------------------------+
-| ![](media/image13.p              | ![](media/image13.p              |
-| ng){width="2.6217957130358704in" | ng){width="2.5705129046369204in" |
+| ![](media/image13.png            | ![](media/image13.png            |
+|   ){width="2.6217957130358704in" |   ){width="2.5705129046369204in" |
 | height="1.2963593613298339in"}   | height="1.2662871828521436in"}   |
 |                                  |                                  |
 | \(a\) A sample with 2.193 μm     | \(b\) A sample with 2.393 μm     |
 | roughness                        | roughness                        |
 +==================================+==================================+
-| ![](media/image14.p              | ![](media/image14.               |
-| ng){width="2.7048392388451443in" | png){width="2.672222222222222in" |
+| ![](media/image14.png            | ![](media/image14.png            |
+|   ){width="2.7048392388451443in" |    ){width="2.672222222222222in" |
 | height="1.336111111111111in"}    | height="1.336097987751531in"}    |
 |                                  |                                  |
 | \(c\) A sample with 2.313 μm     | \(d\) A sample with 2.360 μm     |
@@ -543,16 +543,16 @@ rate, and spindle rotation speed of tool. The output parameters were the six ima
 textures from image processing. Some examples of surface images are
 shown in Fig. 9.
 
-+----------------------+----------------------+----------------------+
-| ![](media/i          | > ![](media/i        | > ![](media/i        |
-| mage42.png){width="1 | mage43.png){width="1 | mage44.png){width="1 |
-| .2846041119860017in" | .2183486439195101in" | .2140518372703413in" |
-| height="1.           | > height="1.         | > height="1.         |
-| 3235312773403325in"} | 2183486439195101in"} | 2075590551181103in"} |
-|                      |                      |                      |
-| (a) Original surface | (b) Training data    | (c) Training data    |
-|     > image          |     > image-1        |     > images-2       |
-+----------------------+----------------------+----------------------+
++----------------------+------------------------+------------------------+
+| ![](media/image42.png| > ![](media/image43.png| > ![](media/image44.png|
+|           ){width="1 |           ){width="1   |           ){width="1   |
+| .2846041119860017in" | .2183486439195101in"   | .2140518372703413in"   |
+| height="1.           | > height="1.           | > height="1.           |
+| 3235312773403325in"} | 2183486439195101in"}   | 2075590551181103in"}   |
+|                      |                        |                        |
+| (a) Original surface | (b) Training data      | (c) Training data      |
+|     > image          |     > image-1          |     > images-2         |
++----------------------+------------------------+------------------------+
 
 Fig. 9 Some examples of machining surface images
 
