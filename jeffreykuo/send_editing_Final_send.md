@@ -426,8 +426,8 @@ Table 1 The equipment of the experiment
 
 **3.2 Data prepared**
 
-Since setting the jerk value on each of the five axes to the maximum jerk value for that axis does not yield the
-best surface quality, settings on each axis need to be balanced with those on other axes for best
+Since setting the jerk value on each of the five axes to the optimal jerk value for that particular axis does not yield the
+best surface quality overall, settings on each axis need to be balanced with those on other axes for best
 performance. For comparison purposes, 14 clusters each with different jerk settings,
 shown in Table 2, were applied to the machining of the mold. Information about the
 mold dimensions, from CAM, is represented as the distance between
