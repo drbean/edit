@@ -792,8 +792,8 @@ prediction systems
 | P           | Turning     | Linear      | Dis         | 0.358%      |
 | atel\[46\], |             | regression  | similarity, |             |
 | 2020        | (low        | analysis    | Energy      |             |
-|             | carbons     |             | Entropy,    |             |
-|             | steel)      |             | H           |             |
+|             | carbon      |             | Entropy,    |             |
+|             | steels)     |             | H           |             |
 |             |             |             | omogeneity, |             |
 |             |             |             | Maximum     |             |
 |             |             |             | p           |             |
