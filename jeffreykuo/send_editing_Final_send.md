@@ -535,8 +535,8 @@ machining of each mold was adopted. 14 geometrically identical blade molds were 
 setting clusters (Table 2) and subjected to inspection. From
 research \[7\], it is known that the path length affects machining
 performance. Without loss of generality, the mold was separated into four
-zones (Fig. 4(a)) with varying curvature contours, and path lengths (Table
-3) were be considered as input parameters. Therefore the input
+zones (Fig. 4(a)) with varying curvature contours and path lengths (Table
+3), which were to be considered as input parameters. Therefore the input
 parameters for the workpiece manufacture included jerk values of each
 axis, the average path length of each zone, cutting tool feed
 rate, and spindle rotation speed of tool. The output parameters were the six image
