@@ -584,7 +584,7 @@ To get the final roughness values, the six features from the GLCM were used
 as inputs. 2016 samples were used as training data and 504 samples were
 used in validation. The parameters and neural net architecture are shown
 in Fig. 11, while Table 6 summarizes the measured and predicted values
-of Zone 1. The average prediction error is only 0.272%.
+of Zone 1-4. The average prediction error is only 0.272%.
 
 ![](media/image46.png){width="5.084866579177603in"
 height="2.432292213473316in"}
