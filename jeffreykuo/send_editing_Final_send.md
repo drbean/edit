@@ -150,7 +150,7 @@ machining techniques, such as turning or milling. In free-form mold
 surfaces that are milled by a high speed five-axis machine tool, it is a
 critical issue to measure the roughness of all regions due to their
 complex and varied curvature topology characteristics. Thus, the purpose of
-this study is to develop an approach system that could be used to
+this study is to develop an approach that could be used to
 predict manufacturing system performance (roughness and machining
 time) for various surfaces where cutting parameters are affected by
 axis synchronization due to jerk selection.
