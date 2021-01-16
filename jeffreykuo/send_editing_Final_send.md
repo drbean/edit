@@ -395,7 +395,7 @@ machined, tested, and verified by means of 5-axis synchronous ball-end
 milling. To compare the effect of jerk setting for each axis on the
 roughness of the machined surface, four areas, marked as zone No. 1 to
 4, were selected for study. The 5-axis tool machine shown in Fig.
-7(b) was a UX300 with Heidenhain controller (iTNC 530) made by Quasar. An
+7(b) was a UX300 with Heidenhain controller (iTNC 530) made by Quaser. An
 area scan camera was selected for capturing the surface image. The
 equipment used for this experimental test is listed in Table 1. The feed
 rate and spindle speed were set to a constant of 7,000 mm/min and 11,500
@@ -416,7 +416,7 @@ Fig. 7 The experiment mold and 5-axis tool machine
 Table 1 The equipment of the experiment
 
   ------------------------------- ---------------------------------------- ---------------------- -----------------------
-  Machine                         UX300 (Quasar) with 5 axes (X,Y,Z,A,C)   Controller             iTNC 530 (Heidenhain)
+  Machine                         UX300 (Quaser) with 5 axes (X,Y,Z,A,C)   Controller             iTNC 530 (Heidenhain)
   Rapid Traverse X/Y/Z (mm/min)   36,000/36,000/32,000                     Max. Speed A/C (rpm)   9,000/9,000
   Spindle Speed (rpm)             12,000                                   Tool type              Ball-end mill
   Mold type                       single turbine vane                      Mold material          6061 aluminum alloy
