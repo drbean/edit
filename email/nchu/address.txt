@@ -1384,4 +1384,16 @@ ytchen2@pu.edu.tw
 woody.liao@ucr.edu
 hc336@drexel.edu
 
+# http://itm.nchu.edu.tw/index.php
+jylai@nchu.edu.tw
+arborfish@dragon.nchu.edu.tw
+rdwang@nchu.edu.tw
+bruceho@nchu.edu.tw
+arthurwu@nchu.edu.tw
+pfsum@nchu.edu.tw
+eschang@dragon.nchu.edu.tw
+mhchen@nchu.edu.tw
+ffcheng.ec@dragon.nchu.edu.tw
+YC.Ho@dragon.nchu.edu.tw
+tjlu@dragon.nchu.edu.tw
 
