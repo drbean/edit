@@ -1575,3 +1575,7 @@ chij@nchu.edu.tw
 chiidong@phys.sinica.edu.tw
 scwu@mail.ndl.org.tw
 cykung@nchu.edu.tw
+
+# http://www.twisc.nchu.edu.tw/twisc@nchu/
+smli@cse.nsysu.edu.tw
+wchong@fcu.edu.tw
