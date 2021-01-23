@@ -1,0 +1,1046 @@
+**Modeling and Performance analysis of Fresnel concentrator solar
+photovoltaic thermal energy system integrated with nanofluid spectral
+splitter**
+
+**Warga Chegeno Meraje:** <seyfmk2@gmail.com>
+
+**Chung-Feng Jeffrey Kuo :** <jeffreykuo@mail.ntust.edu.tw>
+
+> **Abstract**
+
+In this study, the design and numerical analysis of a concentrated
+photovoltaic thermal system integrated with spectral splitting nanofluid
+have been done in a one-dimension. The nanofluid\'s spectral
+transmittance with different loading concentrations of ZnO nanoparticles
+in the full spectrum was measured experimentally and applied as a
+splitter in the model system developed. The solar irradiation was
+properly concentrated using linear 1300 mm by 70 mm Fresnel lens to a
+series of seven 20 mm outer diameter and 16mm inner diameter of
+nanofluid flowing tubes to obtain a large beam of spectrum transmitted
+to the PV and the rest absorbed and converted to thermal energy. The
+photo energy conversion dependency on the specific sample solution\'s
+thermophysical properties and the environmental parameters and
+properties of the solar cell was investigated. The nanofluid with a 50
+ppm concentration ratio shows transmitting of the spectrum closer to the
+photovoltaic band. The temperature profile, power output, and
+performance of the hybrid concentrated photovoltaic thermal system for
+different loading concentration of ZnO nanoparticles were computed.
+Since the photovoltaic module is detached from the filtering channel and
+integrated with the heat exchange pipe, the surface temperature is by
+far lower than the nanofluid and output water temperature. The combined
+efficiency of the system under the solar irradiance in a typical day
+reaches a maximum value of 50.35%, 65.2%, 72.70%, 74.7%, and 85% for ZnO
+nanofluid of concentration ratio 20 ppm, 50 ppm, 95 ppm, 200 ppm, and
+500 ppm, respectively.
+
+**Keywords:** Concentrated Photovoltaic thermal, modeling, nanofluid,
+spectral splitting, solar energy, System efficiency
+
+1.  **Introduction**
+
+Solar energy is an encouraging renewable energy source that can reduce
+fossil fuel dependency and meet energy demands. It can be collected and
+utilized by many techniques like photosynthesis, solar thermal and
+photovoltaic technologies. The technologies identified to convert solar
+energy into a useful form of energy are solar cells, solar thermal
+collectors, concentrated solar power and concentrated
+photovoltaic/thermal system (CPV/T) [1-3](#_ENREF_1)\[\].
+Photovoltaic/thermal (PV/T) collectors are promising solar
+technology which are capable of cogenerating useful thermal energy and
+electricity from the same aperture area. This system has played a
+pivotal part in the transition towards energy sustainability and
+provides more energy over the conventional photovoltaic cell
+[4](#_ENREF_4)[5](#_ENREF_5)\[, \]. Concentrating a large area of
+sunlight to focus on a small beam on solar energy technologies, using
+optical concentrators, allows for more incident irradiation and,
+therefore, more output power per unit area. The concentration of
+sunlight in photovoltaic cells (PV) and the consequent replacement of
+expensive PV area with cheap concentrating mirrors or lenses can reduce
+the cost of solar electricity [6](#_ENREF_6)[7](#_ENREF_7)\[, \].
+
+Spectral energy at or near the band-gap of semiconductor is utilized by
+PV cells for photoelectrical energy conversion, but remaining photon
+energy will be converted to thermal energy. This leaves PV cells
+heating, which will further reduce the power production efficiency of PV
+cells [8](#_ENREF_8)[9](#_ENREF_9)\[, \]. The increase in solar
+radiation flux in CPV/T systems also leads to the increase of CPV/T
+system temperature which may lead to a high and precarious junction
+temperature unless the heat is used for an intended purpose or
+dissipated to the environment in time. When the PV cells\' operating
+temperature is increased, photo energy conversion efficiency will be
+decreased, and the PV cell material may be damaged[10](#_ENREF_10)\[\].
+One mechanism to solve this problem, spectral splitting CPV/T is used:
+the photon energy available for PV cells is utilized by PV cells, and
+the rest photon is engaged in thermal power [11-15](#_ENREF_11)\[\].
+Nanofluid-based spectral splitting using low volume fraction of
+nanoparticles has become drastically popular for CPV/T applications due
+to the shift in the optical properties inexpensively. The loading of
+nanoparticles as the optical filters for CPV/T systems will decrease the
+transmittance, leading to a decrease in the short circuit current and
+lower electrical conversion efficiencies. Still, these powerfully
+absorbing nanofluids produce higher photothermal conversion
+efficiencies. The overall efficiency of the CPV/T system is dependent on
+the volume fraction of the nanoparticle [16-18](#_ENREF_16)\[\]. 
+
+Nanofluids are typically employed for energy conversion efficiency
+enhancement since they exhibit high heat-transfer capabilities and
+optical properties [19](#_ENREF_19)\[\]. It is important to find one
+kind of low cost nanofluid that can be applied to nanofluid-based
+spectral splitting CPV/T system [8](#_ENREF_8)\[\].
+
+As stated above, several methods are proposed in the literature to
+improve CPV/T system performance; employing a PV cooling system, using
+appropriate concentrators, and applying spectral filters are popular.
+
+We select ZnO nanoparticles to prepare nanofluid for spectral splitting
+CPV/T system due to its high thermal conductivity and low cost
+[20](#_ENREF_20)\[\]. In this study, we design and investigate the
+integration of concentrating solar irradiation to achieve higher
+incident light on the system, PV cooling, and spectral splitting for the
+requirement of using full spectrum in an optimum area. The general
+objective of the study was to design an efficient concentrated hybrid
+photovoltaic thermal energy system. We designed a model and investigated
+the energy conversion performance for specific physical properties of a
+system. The study will help build green energy demand for household,
+industries and enterprises as an alternative solar electrical and
+thermal conversion mechanism. It also contributes to promoting proper
+green energy harvesting design by multiple uses of space and developing
+the technology towards practical application.
+
+2.   **Methodology**
+
+We propose a CPV/T which converts full spectrum incident sunlight to
+both electricity and thermal energy. It will be an immediate solution to
+use the entire solar spectrum for electricity in PV band and thermal
+energy from the heat waste and radiation out of the PV band to higher
+temperature water heating. The concentrated system contains a Fresnel
+lens, PV cell, nanofluid flowing in glass tubes, and heat exchanger
+attached to both PV cell and coil immersed in the water tank as shown
+Fig.1. Incident sunlight is firstly concentrated by the Fresnel lens.
+The concentrated sunlight focused on the nanofluid flowing in quartz
+tubes. The photons which can be converted most efficiently by the PV are
+transmitted to the PV module. The Low-energy photons, which cannot be
+converted by the PV, and high-energy photons, which would be converted
+inefficiently, are absorbed and converted to the thermal energy. The
+electrical energy converted by the PV will be recorded directly. The
+heat pipe attached to the PV module is used as waste thermal energy
+collector. This energy is extracted by fluid flowing in the pipe which
+will be directed to the heat exchange water tank. The outlet water
+temperature from the pipe attached to the PV module will be the inlet
+water temperature for the water tank inlet water temperature. Finally,
+the tank\'s outlet water temperature is determined to calculate the
+actual thermal energy collected from the full spectrum collected by the
+CPV/T system. When the system is operating, water first flows through
+the heat exchanger attached to the PV module. Then flows to heat
+exchange water tank to be further heated to a higher temperature.
+
+One dimensional numerical model is established for simulation to
+determine the temperature, electrical, thermal power, and performance of
+the whole system. The Fresnel lens\'s geometry, spectral splitting
+nanofluid tubes, heat exchangers, and PV orientation are designed to
+obtain the optimal system performance. The nanofluid\'s optical
+properties are experimentally measured and used as input to the model to
+determine the absorption and transmission of radiation in the spectral
+splitting of the CPV/T system. The system is designed in which the
+visible light could be transmitted, light with low and high wavelength
+spectrum could be absorbed by the nanofluid. Zinc oxide nanofluid is
+prepared using a two-step method with water and ethylene glycol (EG)
+with a 50%:50% ratio. 1 mg, 2.5 mg, 4.75 mg, 10 mg and 25 mg of nano
+powder ZnO is poured into a 50 ml of water-glycol solution and
+ultrasonically stirred for 30 minutes. Then the samples are represented
+by letter A, B, C, D, E and F where A is simply solution of water and
+EG, B (20 ppm), C (50 ppm), D (95 ppm), E (200 ppm) and F (500 ppm).
+
+3.  **Model description**
+
+The proposed CPV/T system is composed of a linear Fresnel lens, a side
+by side channel of seven quartz tubes for nanofluid flow, a silicon PV
+module, a heat exchange pipe attached to the PV, and an aluminum plate
+as shown in Figs. 1 and 2. A linear Fresnel lens made of
+polymethyl-methacrylate with dimension 760x1300x5 mm is used to
+concentrate the light rays to the upper surface of the nanofluid flowing
+tubes. Seven quartz tubes with an inner diameter of 16 mm and an outer
+diameter of 20 mm and 760mm I n length is used for spectral splitting
+nanofluid flowing. The nanofluid is used as spectral filtering and as an
+intermediate thermal energy exchange.
+
+The incident concentrated light from the Fresnel lens is striking on the
+top half surface area of the tubes. This implies that the effective
+light exposure surface area of the filtering channel is about 0.167
+m^2^, and the concentration ratio is 5.916. Four monocrystalline silicon
+photovoltaic modules each 190x380x35 mm with cell efficiency 21.5% and
+10 w power at standard test condition (1000 w/m^2^ solar radiation
+intensity, 25 $℃\ $environmental temperature and air mass 1.5). The
+effective area of the PV module is 0.288 m^2^, and the geometric
+concentration ratio is 3.43. The nanofluid absorbs spectral radiation
+out of the solar cell and flows into a heat exchange water tank through
+a copper coil. It releases thermal energy while flowing in the coil
+immersed by the insulated water tank. The thermal power and thermal
+efficiency of the system will be determined by using the outlet and
+inlet temperature of water from the water tank heat exchanger. The
+nanofluid will be finally collected by nanofluid tank completing the
+cycle for next day spectral filtering.
+
+Fig. 1. Schematic representation of the proposed CPVT system.
+
+The homogeneity of the photons on the CPV module, dimensional
+specification of the model elements, and the optimal distance between
+the filtering and PV module was studied by Tracepro. The lumped thermal
+capacitance method was applied for the energy equation in each layer of
+the subsystem to determine the power collected and the overall
+performance of the whole system
+
+![](media/image1.png){width="6.495833333333334in"
+height="2.848611111111111in"}
+
+Fig. 2. 3D diagram of the CPV/T model.
+
+4.  **Mathematical modeling**
+
+A model was formulated to evaluate the spectral splitting CPV/T system.
+The model analysis was performed by applying energy balance equations
+for the concentrator, spectral filtering, PV module layers, and the heat
+exchangers. Then it is possible to predict the temperature, the
+electrical and thermal powers, and the electrical and thermal
+efficiencies of the CPV/T. The amount of solar radiations intercepting
+the PV module\'s surface is a function of the geometric concentration
+ratio *CR,* the intensity *I* of the direct normal irradiation and
+optical efficiency of the Fresnel lens, and the transmittance of the
+nanofluid flowing and the surface area * *of PV module. 
+
+###  Assumptions to simplify the CPV/T model system in this study are:
+
+1)  One dimensional uniform temperature distribution of the system is
+    applied due to the small area of protective aluminum frame attached
+    to the Fresnel lens, the filtering tube channel and the PV module
+    [21](#_ENREF_21)[22](#_ENREF_22)\[, \].
+
+2)  The nanofluid and water inlet temperature to the exchange attached
+    to the PV module was taken equal to the ambient temperature.
+
+3)  Reflection of sunlight is ignored since we used a Fresnel lens,
+    quartz tube, and glass with high transmittance [23](#_ENREF_23)\[\].
+
+4)  The thermophysical properties of the model elements are independent
+    of temperature [24](#_ENREF_24)\[\].
+
+5)  The nanofluid flow is turbulent, uniform, and incompressible
+    [25](#_ENREF_25)\[\].
+
+6)  Heat loss is ignored due to the insulation material
+    [22](#_ENREF_22)\[\].
+
+The power coming to the system through the Fresnel lens is
+[26](#_ENREF_26)[27](#_ENREF_27)\[, \].
+
+$$Q_{\text{inc}} = A_{F}\int_{\lambda_{i}}^{\lambda_{f}}{I\left( \lambda \right)d\lambda\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (1\ )}$$
+
+where *I* is the spectral solar radiation intensity with air mass 1.5,
+$\lambda$ is the wavelength, and $A_{F}$ is surface area of the Fresnel
+lens. The total amount of power incident to
+the [nano](https://www.sciencedirect.com/topics/engineering/beam-splitter)fluid
+splitter can be calculated by Eq. (2)
+[27](#_ENREF_27)[28](#_ENREF_28)\[, \].
+
+$$Q_{\text{in}} = {\text{CR}_{\text{Tc}}\text{\ A}}_{\text{TC}}\int_{\lambda_{i}}^{\lambda_{f}}{I(\lambda)\tau_{F}\left( \lambda \right)}d\lambda\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (2)$$
+
+where $\text{CR}_{\text{Tc}}$ and $A_{\text{TC}}$ are the concentration
+ratio and the effective surface area of nanofluid splitter tubes, and
+$\tau_{F}\text{\ \ }$the transmittance of the Fresnel concentrator. More
+than 99% of the surface solar flux is contained in the spectral region
+between 300 nm initial wavelength and 2500 nm final wavelength, hence
+the solar radiation energy apart from this band can be ignored
+[27-29](#_ENREF_27)\[\]. Transparent quartz tubes have been used for the
+nanofluid flowing to reduce optical loss. This energy is equal to the
+thermal energy absorbed by the nanofluid, the transmitted energy to the
+PV module and the energy loss.
+
+The power absorbed by the nanofluid is
+[27](#_ENREF_27)[29](#_ENREF_29)\[, \].
+
+$$Q_{\text{ab}} = \text{CR}_{\text{TC}}A_{\text{TC}}\int_{300}^{2500}{I\left( \lambda \right)\eta_{\text{opc}}}\tau_{\text{Tc}}(\lambda)\alpha_{\text{nf}}\left( \lambda \right)d\lambda\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (3)$$
+
+where $\eta_{\text{opc}}\ $is the optical efficiency of the
+concentrator, $\tau_{\text{Tc}}\left( \lambda \right)\ $is the
+transmittance of the tube, and $\alpha_{\text{nf}}$ is the absorbance of
+the nano fluid at wave length of λ, respectively. Solar radiation
+absorbed by the nanofluid is equal to the thermal energy transferred to
+the water while the nanofluid is flowing inside the coil and the energy
+lost. The insulation layer exchanges the heat by conduction with the
+heat exchanger and by convection with the ambient air.
+
+The power transmitted from the nanofluid filtering tube channel to the
+PV module integrated to heat pipe sub system is [27-29](#_ENREF_27)\[\]:
+
+$$Q_{\text{pv}} = \text{CR}_{\text{pv}}A_{\text{pv}}\int_{300}^{2500}{I(\lambda)\eta_{\text{opc}}\tau_{\text{Tc}}^{2}}(\lambda)\tau_{\text{nf}}(\lambda)d\lambda\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (4)$$
+
+where $\text{CR}_{\text{pv}}$ and $A_{\text{pv}}$ are the geometrical
+concentration ratio and area of the PV surface, and$\ \tau_{\text{nf}}$
+are the transmittance of the nanofluid, respectively. Parts of the solar
+energy transmitted to the PV module is equal to the sum of the produced
+electric power, the heat dissipated to the ambient through convection
+and radiation and the thermal energy conducted to the heat exchanger
+attached to the PV. The outflowing water from the heat exchange attached
+to the PV module will be connected to the heat exchange water tank for
+further heating. According to the radiation transfer model, the spectral
+reflectivity, absorptivity and transmittance of the nanofluid filter
+depend on the wavelength of the incident light and the incidence angle.
+Therefore the power in each layer is affected by the optical property of
+the material selected and the geometry.
+
+As is shown in Fig. 3, the present system is composed of the linear
+Fresnel lens, the spectral splitter, PV module, heat pipe water channel
+on the back of PV cells, the water tank heat exchange. When the sunlight
+converged by the Fresnel lens goes through the quartz tube filled with
+nanofluids, a portion of solar energy is absorbed and converted into
+heat by the nanofluids, meanwhile the rest transmitted to the PV
+modules. The nanofluid in the tube is not only the spectral splitting
+filter, but also the medium for absorbing and transporting heat from the
+energy receiver.
+
+The electrical power converted can be calculated by
+[27](#_ENREF_27)[30](#_ENREF_30)\[, \]:
+
+$$P_{\text{ele}} = J_{\text{sc}}V_{\text{oc}}\text{FF\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }\left( 5 \right)$$
+
+where $V_{\text{oc}},$ FF and, $J_{\text{sc}}$ are open circuit voltage,
+fill factor and the short-circuit current of the PV given by
+[31](#_ENREF_31)\[\]:
+
+$J_{\text{sc}} = \text{CR}_{\text{pv}}A_{\text{pv}}\int_{300}^{2500}{I\left( \lambda \right)\eta_{\text{op}}}\tau_{\text{Tc}}^{2}(\lambda)S(\lambda)\tau_{\text{nf}}\left( \lambda \right)d\lambda\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (6$)
+
+where $S(\lambda)$ is the optical response of the silicon solar cell
+[32](#_ENREF_32)\[\]. The open-circuit voltage can be calculated by the
+equation Eq. (7).
+
+$$V_{\text{oc}} = \frac{A^{'}k_{B}T_{\text{pv}}}{e}\ln\left( \frac{{\text{CR}_{\text{pv}}\text{\ J}}_{\text{sc}}}{J_{o}} + 1 \right)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (7)$$
+
+where A′ and $T_{\text{pv}}\ $are the ideality factor and surface
+temperature of solar cell, $k_{B}$ the Boltzmann constant, e is
+elementary charge, and $J_{o}$ is the dark saturation current density,
+which is given by [33](#_ENREF_33)[34](#_ENREF_34)\[, \]:
+
+$$J_{o} = K^{'}T_{\text{pv}}^{\frac{3}{n}}\exp^{\frac{{- E}_{g}}{bk_{B}T_{\text{pv}}}}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (8)$$
+
+where $K^{'}$ is the empirical parameter. The filling factor is
+calculated using:
+
+$$FF = \frac{V_{m}}{V_{\text{oc}}}\left( 1 - \frac{\exp\left( \frac{eV_{m}}{k_{B}T_{\text{pv}}} \right) - 1}{\exp\left( \frac{eV_{\text{oc}}}{k_{B}T_{\text{pv}}} \right) - 1} \right)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (9)$$
+
+where, $V_{m}$ is voltage at maximum power point of I - V curve given
+by:
+
+$V_{m} = k \times V_{\text{oc\ }}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (10)$
+
+where k is the empirical parameter of the solar cell.
+
+The electrical efficiency of the CPV/T system is calculated by
+
+$$\eta_{\text{el}} = \frac{J_{\text{sc}}V_{\text{oc}}\text{FF}}{Q_{\text{inc}}}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (11)$$
+
+The short current of the PV module is used to calculate its
+corresponding open circuit voltage and fill factor based on the reported
+PV model [34](#_ENREF_34)\[\]. Finally, the electrical power output can
+be achieved through multiplying the current by open circuit voltage and
+fill factor.
+
+The thermal power output from the system collected by the exchange
+integrated with the PV module, nanofluid, and the water tank can be
+determined by;
+
+$$Q_{\text{th}} = {\dot{m}}_{w}c_{p,w}\left( T_{w,out} - T_{\text{inl}} \right)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (12)$$
+
+where ${\dot{m}}_{w}\ $and$\ c_{p,w}$ are the mass flow rate and the
+specific heat capacity of water and $T_{w,out}$ and $T_{\text{inl}}$ are
+the outlet and inlet water temperature.
+
+Then thermal efficiency of the system is given by:
+
+$$\text{\ η}_{\text{th}} = \frac{Q_{\text{th}}}{Q_{\text{inc}}}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (13)$$
+
+The overall efficiency of the system will be calculated by Eq. (14)
+[35](#_ENREF_35)\[\].
+
+$$\eta_{\text{tot}} = \eta_{\text{el}} + \eta_{\text{th}}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (14)$$
+
+The merit function of the CPV/T system will be calculated by Eq. (15)
+considering a 3:1 worth factor ($w_{f}$) of electricity to thermal
+energy to determine if the selected liquid would effectively convert
+sunlight into usable energy, as compared to the electrical power output
+of an unfiltered solar cell.
+
+$$MF = \ \frac{{w_{f}\text{\ P}}_{\text{el}}\left( \text{filtered} \right) + P_{\text{th}}}{w_{f}P_{\text{el}}(unfiltered)}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (15)$$
+
+5.  **Energy balance equation of the dynamic model**
+
+### Applying the electrical equivalent circuit of the heat transfer in each layer of the CPV/T system and the setup of the differential equations is summarized as follows. The thermal resistance network circuit of the CPV/T model system is presented in Fig. 3.
+
+The thermal capacitance is defined by Eq. (16) [36](#_ENREF_36)\[\]
+
+$$C = \rho A\delta c\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (16)$$
+
+where $\rho$ is the density, A is area, $\text{δ\ }$is the thickness,
+and c is the specific heat capacity of the circuit element in the model.
+
+Energy equation of each sub system
+
+(1) The Fresnel lens layer
+
+$$\text{\ C}_{F}\frac{\text{dT}_{F}}{\text{dt}} = \frac{1}{R_{cov,F}}\left( T_{a} - T_{F} \right) + \frac{1}{R_{ra,sky\ }}\left( T_{\text{sky}} - T_{F} \right) + \frac{1}{R_{ra,Tc\ }}\left( T_{\text{Tc}} - T_{F} \right) + \alpha_{F}A_{F}Q_{\text{inc}}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (17)$$
+
+where $\text{\ C}_{F}$, $T_{F}$ $\alpha_{F},\ $and $A_{F}\ $are the
+thermal capacitance, temperature, absorptivity, and surface area of
+Fresnel lens, respectively; $Q_{\text{inc}}$ is the incoming solar
+radiation striking the top surface area of Fresnel lens; $R_{cov,F}$ is
+the convective thermal resistance between the Fresnel lens and the
+ambient; $R_{ra,sky\ }\text{and\ }R_{ra,Tc\ }$are the heat radiative
+resistance between Fresnel lens and the sky surface, and between the
+Fresnel lens and the filtering tube channel, respectively; $T_{a}$ and
+$T_{\text{sky}}$ are the ambient and sky temperature, respectively.
+$R_{cov,F}$, $R_{ra,sky}$, and $R_{ra,Tc\ }$ are given by Eqs. (18),
+(21), and (22), respectively [29](#_ENREF_29)[37](#_ENREF_37)\[, \].
+
+$$R_{cov,F} = \frac{1}{h_{cov,F}A_{F}}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (18)\ \ \ $$
+
+where $\text{\ A}_{F}\ $is the surface area of the Fresnel lens,
+$h_{cov,F}\ $is the convective heat transfer coefficient between Fresnel
+lens and ambient air defined by [24](#_ENREF_24)\[\]:
+
+$h_{cov,F} = {2.8 + 3u}_{w}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (19)$
+
+where $u_{w}$ is the speed of wind, which was 2.6 m/s on the experiment
+day. The sky temperature $T_{\text{sky\ }}$is given by
+[38](#_ENREF_38)\[\].
+
+${T_{\text{sky}} = 0.0552T}_{a}^{1.5}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (20)$
+
+where $T_{a}$ is the ambient temperature.
+
+Fig. 3. The heat transfer mechanism and the corresponding electrical
+circuit model of the CPVT system.
+
+The radiative thermal resistance between the concentrator and the sky
+and filtering channel surface and top glass layer of PV module are given
+by equation below.
+
+$$R_{ra,sky\ } = \varepsilon_{F}\sigma\left( T_{F}^{2} + T_{\text{sky}}^{2} \right)\left( T_{F} + T_{\text{sky}} \right)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (21)$$
+
+$$R_{ra,Tc\ } = \varepsilon_{F}\sigma\left( T_{g}^{2} + T_{\text{Tc}}^{2} \right)\left( T_{g} + T_{\text{Tc}} \right)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (22)$$
+
+where $\varepsilon_{F}$ emissivity of the Frensel lens 0.9, $\sigma$
+Stefan Boltzman constant which is
+
+5.67 x 10^-8^$\ $w/m^2^.K^4^.
+
+(2) The spectral splitting nanofluid tube channel layer
+
+$C_{\text{Tc}}\frac{\text{dT}_{\text{Tc}}}{\text{dt}} = \frac{1}{R_{ra,F,TC}}\left( T_{F} - T_{\text{Tc}} \right) + \frac{1}{R_{ra,Tc,g}}\left( T_{g} - T_{\text{Tc}} \right) + \frac{1}{R_{cov,Tc,mnf}}\left( T_{\text{mnf}} - T_{\text{Tc}} \right)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (23)$
+
+where $C_{\text{Tc}}$ and $T_{\text{Tc}}$ are thermal capacitance and
+temperature of the filtering tube channel, respectively; $R_{ra,F,TC}$
+and $R_{ra,Tc,g}\ $are the radiative thermal resistance between the
+Fresnel lens and filtering tube channel and filtering tube channel and
+the top glass layer of the PV module given by Eqs. (24) and (25),
+respectively;$\ R_{cov,Tc,mnf}$ is convective thermal resistance between
+filtering channel and nanofluid given by Eq. (27).
+
+$R_{ra,F,Tc\ } = \varepsilon_{F}\sigma\left( T_{F}^{2} + T_{\text{Tc}}^{2} \right)\left( T_{\text{Tc}} + T_{F} \right)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (24$)
+
+$$R_{ra,Tc,g} = \varepsilon_{\text{Tc}}\sigma\left( T_{\text{Tc}}^{2} + T_{g}^{2} \right)\left( T_{\text{Tc}} + T_{g} \right)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (25)$$
+
+The emissivity of the glass used in the study is 0.95 and $R_{cov,Tc}$
+the convective thermal resistance between the filtering channel and the
+nanofluid is determined by:
+
+$R_{cov,Tc,mnf} = \frac{1}{h_{cov,Tc}A}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (26)$
+
+$$h_{cov,Tc,mnf} = \frac{\text{Nu}_{\text{nf}}k_{\text{nf}}}{D_{i}}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (27)$$
+
+where $k_{\text{nf}}$ is the thermal conductivity of the nanofluid and
+$D_{i}$ is the inner diameter of the tube ,  *Nu~nf~* is the Nusselt
+number which can be calculated by using Eq. (28) [38](#_ENREF_38)\[\].
+
+$$Nu = P_{r}^{0.1039}(1.0257\varphi + 1.1397\text{Re}^{0.205} + 0.788\varphi\text{Re}^{0.205} + 1.2069\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (28)$$
+
+where φ is the particle concentration, $p_{r}$ and $\text{Re}$ are the
+prandtl number and Reynolds number calculated by Eqs. (30) and (31)
+[39](#_ENREF_39)\[\].
+
+$$p_{r} = \frac{{\mu_{\text{nf}}c}_{p,nf}}{k_{\text{nf}}}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (29)$$
+
+$Re = \frac{\rho_{\text{nf}}uD_{i}}{\mu_{\text{nf}}}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (30)$
+where $u$ is the velocity, $\mu_{\text{nf}}$ is dynamic viscosity of the
+fluid. Since the nanoparticles used in this study are spherical with a
+diameter of about 5.3 nm and the volumetric fraction ratio less than 4%
+the dynamic viscosity of the nanofluid can be determined by Eq. (31)
+[40](#_ENREF_40)\[\]:
+
+$$\mu_{\text{nf}} = \mu_{\text{bf}}(1 + 2.5\varphi + 6.5\varphi^{2})\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (31)$$
+
+where $\mu_{\text{bf}}$ is the viscosity of the base fluid, which is
+determined by [41](#_ENREF_41)\[\]:
+
+$$\mu_{\text{bf}} = \frac{\varphi_{1}\rho_{1} + \varphi_{2}\rho_{2}}{\varphi_{1}\frac{\rho_{1}}{\mu_{1}} + \varphi_{2}\frac{\rho_{2}}{\mu_{2}}}\text{\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }\left( 32 \right)$$
+
+where $\text{\ φ}_{1}\text{\ and\ }\varphi_{2}$ are volume
+concentration, $\rho_{1}$ and $\rho_{2}\ $are density, $\mu_{1}\ $and
+$\mu_{2}$ are dynamic viscosity of water and EG.
+
+The specific thermal capacitance and density of the nanofluid are given
+by Eqs. (33) and (33) [40](#_ENREF_40)\[\]:
+
+$c_{p,nf} = \frac{\text{φc}_{p,np}\rho_{\text{np}} + (1 - \varphi)c_{p,bf}\rho_{\text{bf}}}{\rho_{\text{nf}}}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (33)$
+
+where $\varphi$ is concentration ratio of the specific sample solution,
+$c_{p,np}$and $\rho_{\text{np}}$ are specific thermal capacitance and
+density of the nanoparticle, $c_{p,bf}$ and$\ \rho_{\text{bf}}$ are
+specific thermal capacitance and density of the base fluid,
+respectively. The density of the base fluid can be calculated by:
+
+$$\rho_{\text{nf}} = \varphi\rho_{\text{np}} + (1 - \varphi)\rho_{\text{bf}}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (34)$$
+
+Considering the Maxwell expression for the spherical nanoparticles the
+thermal conductivity of the nanofluid is given by
+[23](#_ENREF_23)[42](#_ENREF_42)\[, \]:
+
+$$k_{\text{nf} =}\frac{k_{\text{np}} + {2k}_{\text{bf}} - 2\varphi(k_{\text{bf}} - k_{\text{np}})}{k_{\text{np}} + {2k}_{\text{bf}} + \varphi(k_{\text{bf}} - k_{\text{np}})}k_{\text{bf}}\text{\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }\text{\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }\ (35)$$
+
+(3) The nanofluid inside the filter channel layer
+
+$$C_{\text{nf}}\frac{\text{dT}_{\text{mnf}}}{\text{dt}} = Q_{\text{ab}} - c_{p,nf}{\dot{m}}_{\text{nf}}(T_{o,nf} - T_{i,nf}) + \frac{1}{R_{cov,Tc}}\left( T_{\text{Tc}} - T_{\text{mnf}} \right)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (36)$$
+
+where $C_{\text{nf}}$, $T_{\text{mnf}}$and $c_{p,nf}$ are thermal
+capacitance, temperature, and specific heat capacity of nanofluid,
+respectively; $Q_{\text{ab}}\ $is the power absorbed by the nanofluid;
+${\dot{m}}_{\text{nf}}$ is the nanofluid mass flow rate which is 0.0016
+kg/s; $T_{o,nf}$ and $T_{i,nf}$ are the outlet and inlet temperature of
+the nanofluid in which the inlet temperature is assumed to be equal to
+the environment.
+
+(4) The top glass layer of the PV module
+
+$$C_{g}\frac{dT_{g}}{\text{dt}} = {\alpha_{g}\tau_{g}Q}_{\text{pv}} + \frac{1}{R_{ra,Tc,g}}\left( T_{\text{Tc}} - T_{g} \right) + \frac{1}{R_{con,pv,g}}\left( T_{\text{pv}} - T_{g} \right)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (37)$$
+
+where, $C_{g}$, $T_{g},\ \alpha_{g}$, and $\tau_{g}$ are the thermal
+capacitance, temperature, absorptivity, and transmittance of top glass
+layer of the PV module; $Q_{\text{pv}}$ is the power transmitted to the
+top surface of the PV module; $R_{ra,Tc,g}\ $and $R_{con,pv,g}\ $are
+radiative thermal resistance between the filtering tube channels and top
+glass layer of the PV module and conductive thermal resistance between
+PV and top glass layer, respectively.
+
+$$\text{\ R}_{ra,Tc,g\ } = \varepsilon_{T}\sigma(T_{g}^{2} + T_{\text{Tc}}^{2})(T_{\text{Tc}} + T_{g})\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (38)$$
+
+Using the conduction heat transfer coefficient between two neighboring
+component layers m and n can be expressed by Eq. (39)
+[43](#_ENREF_43)[44](#_ENREF_44)\[, \].
+
+$$h_{con,m \rightarrow n} = \frac{1}{\frac{\delta_{m}}{k_{m}} + \frac{\delta_{n}}{k_{n}}}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (39)$$
+
+where $\delta_{m}$ and $\delta_{\text{n\ }}$are the thickness of the
+layer *m* and *n* and $k_{m}\ $and $k_{n}$ are the thermal conductivity
+of the respective layers. The conductive thermal resistance between the
+glass and the PV layer is given by [24](#_ENREF_24)[45](#_ENREF_45)\[,
+\]:
+
+$$R_{cond,g,pv} = \frac{1}{h_{con,g,pv}\text{\ A}_{g,pv}}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (40)$$
+
+where $h_{con,g,pv}\ $and $\text{\ A}_{g,pv}$ are the heat conductive
+coefficient and contact area between the glass and PV module.
+
+(5) For PV module layer
+
+$C_{\text{pv}}\frac{dT_{\text{pv}}}{\text{dt}} = \alpha_{\text{pv}}Q_{\text{pv}} - P_{\text{ele}} + \frac{1}{R_{con,pv,g}}\left( T_{g} - T_{\text{pv}} \right) + \frac{1}{R_{con,t,pv}}\left( T_{t} - T_{\text{pv}} \right)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (41)$
+where$\ C_{\text{pv}}$, $T_{\text{pv}},$ and $\alpha_{\text{pv}}$ are
+thermal capacitance, temperature and absorbance of the PV module,
+respectively; *P~ele~* is the electric power output by the PV module;
+$R_{con,pv,g}\ $and $R_{con,t,pv}$ are conductive thermal resistance
+between the PV and top glass layer and TPT and PV layer.
+
+(6) For TPT (Tedlar Polyester Tedlar) layer
+
+$$C_{t}\frac{dT_{t}}{\text{dt}} = \frac{1}{R_{con,pv,t}}\left( T_{\text{pv}} - T_{t} \right) + \frac{1}{R_{con,t,co}}\left( T_{\text{co}} - T_{t} \right) + \frac{1}{R_{con,t,in}}\left( T_{\text{in}} - T_{t} \right)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (42)$$
+
+where $C_{t}$ and $T_{t}$ are the thermal capacitance and temperature of
+the TPT layer; $R_{con,pv,t}$ is the conductive thermal resistance
+between the PV layer and TPT layer; $R_{con,t,co}$ is the conductive
+thermal resistance between TPT layer and conducting pipe; $R_{con,t,in}$
+is the conductive thermal resistance between TPT and insulator. The
+thermal resistance between these elements can be calculated by using
+Eqs. (43) and (44) [46](#_ENREF_46)\[\]:
+
+$R_{con,t,co} = \frac{1}{A_{t,co}h_{con,t,co}}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (43)$
+
+where $h_{con,t,co}$ is the heat conductive transfer coefficient and
+$A_{t,co}$ is the contact area between the TPT and tube conductor.
+
+$$R_{con,t,in} = \frac{1}{A_{t,in}h_{con,t,in}}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (44)\ $$
+
+where $A_{t,in}$ and $h_{con,t,in}$ are the contact area between the TPT
+and insulator and heat conductive transfer coefficient. The contact area
+between the TPT and the tube is the product of the thickness of the TPT
+layer and length of the tube.
+
+$$A_{t,co} = {n(\delta}_{t}l)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (45)$$
+
+where n, $\delta_{t}$, and $l$ are the number, thickness, and length of
+the pipe integrated with the PV. The conductive heat transfer
+coefficient between the TPT and the conducting tube is determined by:
+
+$$h_{con,t,co} = \frac{2k_{t}}{x_{t}}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (46)$$
+
+where $x_{t}$ is dependent on the tube spacing *w* and outer diameter of
+the tube $D_{o}$
+
+$x_{t} = \frac{w - D_{o}}{4}$
+$\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (47)$
+
+The conductive heat transfer coefficient between the TPT and the
+insulator is calculated by:
+
+$$h_{con,t,in} = \frac{2k_{\text{in}}}{\delta_{\text{in}}}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (48)$$
+
+where $k_{\text{in}}\ $and $\delta_{\text{in}}$ are the thermal
+conductivity and thickness of the insulator. The contact area between
+the TPT and insulator is given by:
+
+$$A_{t,in} = A\left( \frac{w - D_{o}}{w} \right)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (49)$$
+
+where A is the area of TPT and w is the tube spacing.
+
+(7) The heat collecting pipe integrated with the PV module layer
+
+$$C_{\text{co}}\frac{dT_{\text{co}}}{\text{dt}} = \frac{1}{R_{con,t,co}}\left( T_{t} - T_{\text{co}} \right) + \frac{1}{R_{con,in,co}}\left( T_{\text{in}} - T_{\text{co}} \right) + \frac{1}{R_{cov,co,w}}\left( T_{\text{mw}} - T_{\text{co}} \right)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (50)$$
+
+where $C_{\text{co}}$ and $T_{\text{co}}$ are the thermal capacitance
+and temperature of conducting pipe, respectively; $R_{con,t,co}$ is
+conductive thermal resistance between the TPT and the conducting tube,
+$R_{con,in,co}$ is the conductive thermal resistance between the
+insulator and the conducting tube, $R_{conv,co,w}$ is the convective
+thermal resistance between the conducting tube and water flowing inside
+the tube.
+
+The convective thermal resistance between the tube and the water will be
+determined by:
+
+$$R_{cov,co,w} = \frac{1}{h_{w}\text{πD}_{\text{co}}L}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (51)$$
+
+where $D_{\text{co}}$ and $L$ are outer diameter and length of the tube,
+respectively; $h_{w}\ $is the convective heat transfer coefficient which
+can be determined by Eq. (52) [47](#_ENREF_47)\[\].
+
+$h_{w} = \text{Nu}_{w}\frac{k_{w}}{D_{i}}$
+$\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (52)$
+
+where $\text{Nu}_{w}\ $is Nusselt number, $k_{w}$ is the thermal
+conductivity of water, $D_{i}$ is the hydraulic diameter which is inner
+diameter of tube. The contact area of the tube with insulator is
+
+$A_{in,co} = (\frac{\pi}{2} + 1)D_{o}L$
+$\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (53)$
+
+For the insulator layer with thickness is much larger than the outer
+diameter of tube
+
+$h_{con,in,t}\ \text{and}\ h_{con,co,in}\text{\ \ }$can be found from
+above expression Eqs. (44), (45), and (48).
+
+(8) Insulating material layer
+
+$$C_{\text{in}}\frac{dT_{\text{in}}}{\text{dt}} = \frac{1}{R_{con,co,in}}\left( T_{\text{co}} - T_{\text{in}} \right) + \frac{1}{R_{con,t,in}}\left( T_{t} - T_{\text{in}} \right) + \frac{1}{R_{cov,a,in}}\left( T_{a} - T_{\text{in}} \right)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (54)$$
+
+where $C_{\text{in}}$ is thermal capacitance, $T_{\text{in}}$ is
+temperature of the insulator; $R_{con,co,in}\ $is the conductive thermal
+resistance between the conducting tube and insulator; $R_{con,t,in}$ is
+the conductive thermal resistance between the TPT and insulator;
+$R_{cov,a,in}$ is the convective thermal resistance between the
+insulator and the environment.
+
+(9) The water flowing inside the pipe integrated with the PV module
+    layer
+
+$C_{w}\frac{dT_{\text{mw}}}{\text{dt}} = \frac{1}{R_{cov,co,w}}\left( T_{\text{co}} - T_{\text{mw}} \right) - \dot{m}c_{w}\left( T_{w,out} - T_{w,inl} \right)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (55)$
+
+where $C_{w},\ T_{\text{mw}}$, $\dot{m}$ ${\text{and\ }c}_{w}$, are the
+thermal capacitance, temperature, mass flow rate and specific heat
+capacitance of the water flowing inside the pipe; $T_{w,out}\ $and
+$T_{w,inl}$ are the outlet and inlet temperature of water;
+$R_{conv,co,w}$ is the convective thermal resistance between the
+conducting tube and water, which can be calculated by using Eq. (51).
+The mass flow rate of the water inside the pipe integrated with the PV
+module was adjusted to be 0.00166 kg/s and the inlet temperature of the
+water will be equal to the room temperature. The temperature of the
+water in the tube is the average of the inlet and outlet temperature of
+water in the tube.
+
+(10) The nanofluid flowing in the coil and immersed inside the water
+     > heater tank layer
+
+$$C_{\text{nf}}\frac{\text{dT}_{\text{mn}}}{\text{dt}} = \frac{1}{R_{cov,nf,w}}\left( T_{w} - T_{\text{mn}} \right) - {\dot{m}}_{\text{nf}}c_{\text{nf}}\left( T_{o,nf} - T_{in,nf} \right)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (56)$$
+
+where $C_{\text{nf}}$, $T_{\text{mn}}$, ${\dot{m}}_{\text{nf}}$, and
+$c_{\text{nf}}$ are the thermal capacitance, temperature, mass flow
+rate, $T_{o,nf}$ and $T_{in,nf}\ $are the outlet and inlet temperature
+of the nanofluid; specific heat capacity of the nanofluid flowing in the
+coil immersed in the heat exchange water tank; and $R_{cov,nf,w}$ is the
+convective thermal resistance between the nanofluid and the water in the
+water tank, which can be calculated by:
+
+$R_{conv,\ nf,w} = \frac{1}{h_{conv,nf,w,}A_{w}}$
+$\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (57)$
+
+where $A_{w}$ is the heat transfer area between the coil and the water
+in the tank, $h_{cov,nf,w}$ is convective thermal resistance between the
+nanofluid and water in the heat exchange tank. Neglecting the thermal
+resistance of the wall of the coil since it is very thin $h_{cov,nf,w}$
+can be determined by [24](#_ENREF_24)[47](#_ENREF_47)\[, \]:
+
+$$h_{conv,nf,w} = {(\frac{D_{t,o}}{D_{t,i}h_{cov,w,t}} + \frac{1}{h_{cov,nf,t}})}^{- 1}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (58)$$
+
+where $D_{t,o}$ and $D_{t,i}$ are outer and inner diameter of the coil,
+$h_{conv,w,t}\ $is the convective heat transfer coefficient between the
+water in the water tank and the wall of the coil, which can be described
+by [47](#_ENREF_47)\[\]; $h_{cov,nf,t}\ $is the convective thermal
+resistance between the nanofluid and wall of the coil.
+
+$$h_{cov,w,t} = 3.66\frac{k_{w}}{D_{t,i}}f_{w,t}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (59)$$
+
+where $k_{w}$ is the thermal conductivity of water, $D_{t,i}\ $is the
+inner diameter of the coil, and $f_{w,t}$ is the correction coefficient
+of the bend effect given by:
+
+$$f_{w,t} = 1 + 10.3{(\frac{D_{t,i}}{R_{t}})}^{3}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (60)$$
+
+where $R_{t}$ is the curvature radius of the spiral tube.
+
+$$h_{conv,t,nf} = 1.02\frac{k_{\text{nf}}}{D_{t,o}}\left( \frac{g\alpha\mathrm{\Delta}t{c_{p,nf}D}_{t,o}^{3}}{\mu_{\text{nf}}k_{\text{nf}}} \right)^{0.148}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (61)$$
+
+where $\alpha$ is volume expansion coefficient, which
+$\ is\ 2.95 \times 10^{- 3}$/K, g acceleration due to gravity, which is
+9.8 m/s^2^, $\mu_{\text{nf}}\ ,\ k_{\text{nf}},c_{p,nf}$, and $D_{t,o}$
+are dynamic viscosity, thermal conductivity, and specific heat capacity
+of the nanofluid, $D_{t,o}$ is the outer diameter of the coil.
+
+(11) The water tank layer
+
+$$\text{\ C}_{w}\frac{\text{dT}_{w}}{\text{dt}} = \frac{1}{R_{cov,nf,w}}\left( T_{w} - T_{\text{mn}} \right)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (63)$$
+
+where $\text{\ C}_{w}$ and $\text{\ T}_{w}$ are the thermal capacitance
+and temperature of the water in the heat exchange tank, and
+$R_{cov,nf,w}$ is the convective thermal resistance between the
+nanofluid and water in the heat exchange tank.
+
+The parameters used in the simulation of our modeled system are shown in
+Table 1. Some of the parameters are based on measurement specific to the
+model system; some are taken from literature, and others are properties
+of the materials used.
+
+Table 1
+
+Parameters used in the model
+
+> Fig. 4. Flowchart of CPV/T computation
+
+6.  **Results and discussion**
+
+    1.  Energy allocation
+
+ZnO nanofluid was prepared by a two-step method within five different
+concentrations. The spectral transmittance has been measured using a
+V-670 spectrophotometer at wavelength ranges of 300--2500 nm with an
+interval of 5 nm. The sample solutions and the spectral transmittance
+are presented in Fig. 5 below. The nanofluid highly absorbs the short
+and long wavelength range of radiation. These ranges of a wavelength of
+a photon are out of the PV electrical energy conversion band. The high
+concentration of nanofluid spectral filtering is the high absorbance,
+and the low concentration is the high transmittance of spectrums.
+Therefore, there should be an optimum concentration of nanofluid for the
+intended requirement of thermal and electrical energy. It was obtained
+that the 50 ppm nanofluid solution transmits the spectrum closer to the
+silicon solar cell band gap. So it is preferable to generate optimum
+amounts of both electrical and thermal energy.
+
++----------------------------------+----------------------------------+
+| ![](media/image2.                | ![](media/image3.                |
+| png){width="2.949580052493438in" | emf){width="3.319327427821522in" |
+| height="1.6890758967629047in"}   | height="2.3781517935258094in"}   |
+|                                  |                                  |
+| \(a\)                            |                                  |
++==================================+==================================+
+|                                  | \(b\)                            |
++----------------------------------+----------------------------------+
+
+Fig. 5. The nanofluid solution and spectral transmittance of the
+nanofluid solution: (a) Nanofluid sample solution (b) the spectral
+transmittance of the sample.
+
+The photo energy conversion depends on the thermophysical properties of
+the specific sample solution prepared and the environmental parameters
+and properties of the solar cell. Therefore we determined the important
+parameters specific to our sample from the base materials. The major
+findings from the experimental and model parameters are summarized in
+Table 2 and Fig. 6. Then we applied to the model developed to analyze
+the power output and system performance of our model.
+
+Table 2
+
+Theormophysical parameters of the nanofluid determined based on the
+sample used are presented below.
+
++----+-------+-------+-------+-------+-------+-------+-------+
+| No | S     | Visc  | De    | Spe   | Pr    | Re    | Nu    |
+|    | ample | osity | nsity | cific | andtl | (x1   |       |
+|    |       |       |       | heat  | No    | 0^4^) |       |
+|    |       | (Pa.s | (kg/  | cap   |       |       |       |
+|    |       | x10   | m^3^) | acity | \-    |       |       |
+|    |       | ^-3^) |       |       |       |       |       |
+|    |       |       |       | (J/   |       |       |       |
+|    |       |       |       | kg.K) |       |       |       |
++====+=======+=======+=======+=======+=======+=======+=======+
+| 1  | 0     | 2     | 10    | 3     | 18.   | 6.6   | 16.   |
+|    |       | .0100 | 55.10 | 324.9 | 20647 | 95012 | 66335 |
++----+-------+-------+-------+-------+-------+-------+-------+
+| 2  | 20    | 2     | 10    | 33    | 18.   | 6.6   | 16.   |
+|    | ppm   | .0098 | 55.19 | 24.55 | 20548 | 95091 | 66342 |
++----+-------+-------+-------+-------+-------+-------+-------+
+|    |       |       |       |       |       |       |       |
++----+-------+-------+-------+-------+-------+-------+-------+
+|    |       |       |       |       |       |       |       |
++----+-------+-------+-------+-------+-------+-------+-------+
+|    |       |       |       |       |       |       |       |
++----+-------+-------+-------+-------+-------+-------+-------+
+|    |       |       |       |       |       |       |       |
++----+-------+-------+-------+-------+-------+-------+-------+
+
+Fig. 6 shows the thermal conductivity of the nanofluid solution
+calculated by using equation 35. It has been demonstrated that the
+thermal conductivity of the fluid is improved as more ZnO nanoparticles
+are loaded into the solution. The increase in thermal conductivity of
+the nanofluid enhances the heat transfer rate in the heat exchange water
+tank. In this study, the heat transfer rate was high for a 500 ppm
+particle loaded sample.
+
+[\[CHART\]]{.chart}
+
+Fig. 6. Thermal conductivity of the sample solution
+
+The input local direct solar irradiation on August 19, 2020 (Taiwan,
+Taipei) is presented in Fig. 7. The solar radiation intensity increases
+to a maximum value of 842.96 w/m^2^ at noon and then reduces to 9.98
+w/m^2^. The model analysis was carried out using this solar radiation
+intensity with the specified sun concentration of the filtering channel
+and PV surface. The ray tracing and distribution on the tubes\' upper
+surface and CPV/T are presented in Fig.7 b.
+
++-----------------------------------------------------------------+---+
+| [\[CHART\]]{.chart}                                             |   |
++=================================================================+===+
+| > a\) b)                                                        |   |
++-----------------------------------------------------------------+---+
+| Fig. 7. Hourly variation of solar irradiance in the typical day |   |
+| August 19/2020 and ray distribution on the model: (a) Solar     |   |
+| irradiance in the typical day (b) ray distribution on the model |   |
++-----------------------------------------------------------------+---+
+
+Applying Eqs. (1) and (2) the power collected by the concentrator and
+the amount of irradiative power on the top surface of the spectral
+filtering tube channel was determined by MATLAB. The solar spectral
+irradiance on Fresnel lens and spectral response of the PV are presented
+in Fig. 8. Using the optical data for the nanoparticles\' different
+loading concentrations, we numerically found the power absorbed by the
+nanofluid, power transmitted to the PV module integrated with the heat
+exchange, and the short circuit current density. The least energy
+absorbed was observed at the base fluid and the highest at the 500ppm
+loading ratio sample. As shown in Fig. 9 b, the power absorbed by the
+nanofluid is increased as the concentration increased. The power
+absorbed by the base fluid and nanofluid with the highest concentration
+ratio was 163.97 w/m^2^ and 676.13 w/m^2^, respectively. This implies
+that the spectral solar insolation on the surface of the module will
+decrease. The value was 575.97 w/m^2^ for base fluid and 89.63 w/m^2^
+for the most concentrated nanofluid. This allocated power was used as
+input to the mathematical model to find the temperature profiles, power
+output, and performance of the CPV/T system.
+
+![](media/image5.emf){width="4.226890857392826in"
+height="3.1665168416447944in"}
+
+Fig. 8. The solar spectral irradiance on Fresnel lens and spectral
+response of the PV [30](#_ENREF_30)\[\].
+
++-----------------------------------------------+---------------------+
+| ![](m                                         | [\[CHART\]]{.chart} |
+| edia/image6.emf){width="3.0735968941382326in" |                     |
+| height="2.302817147856518in"}                 |                     |
++===============================================+=====================+
+| \(a\)                                         | > \(b\)             |
++-----------------------------------------------+---------------------+
+
+Fig. 9. Solar irradiation utilization on the concentrated system: (a)
+The spectral distribution on the surface of PV module (b) Daily power
+allocation for the different concentration ratio of the sample
+
+2.  Temperature profile
+
+The hourly varying temperature of each subsystem in the model was
+computed for different concentration of nanofluid and presented in Fig.
+10. As previously published articles, our study indicates that the
+nanofluid\'s working temperature is increased proportionally to the
+concentration of nanoparticles. Since the PV module is detached from the
+filtering channel and integrated with the heat exchange pipe, the
+surface temperature is by far lower than the nanofluid temperature. The
+subsystem\'s surface or bulk temperature in the model affects the
+consecutive layers\' temperature due to radiation, conduction, or
+convective heat transfer. The result shows a smaller rise in the
+nanofluid's temperature for using base fluid and nanofluid with a low
+concentration ratio leaving the heat exchange-coupled PV module
+temperature higher. This is due to a large amount of photon energy
+striking on the PV surface, and the heat pipe properly absorbs the waste
+heat energy. It is also found that the hourly varying surface
+temperature of the PV module is under the nanofluid flowing in the
+filter channel and heat exchange water tank for the base fluid and
+various nanoparticle loading concentration ratios. The output water
+temperature heated by the pipe attached to the PV and heat exchange
+water tank is increased as the concentration is increased. The maximum
+output water temperature computed was at 14:00, and the value was 313.74
+K, 315.90 K, 324.13 K, 332.56 K, 333.42 K, and 350.68 K for samples A,
+B, C, D, and F, respectively.
+
+  --------------------------------------------------------------------------------- ---------------------------------------------------------------------------------
+  ![](media/image7.emf){width="3.445378390201225in" height="2.580129046369204in"}   ![](media/image8.emf){width="3.394958442694663in" height="2.542374234470691in"}
+  a\) Temperature variation of A                                                    b\) Temperature variation of B
+  --------------------------------------------------------------------------------- ---------------------------------------------------------------------------------
+
+  ![](media/image9.emf){width="3.4957983377077864in" height="2.61788823272091in"}      ![](media/image10.emf){width="3.231771653543307in" height="2.420168416447944in"}
+  ------------------------------------------------------------------------------------ -----------------------------------------------------------------------------------
+  c\) Temperature variation for C                                                      d\) Temperature variation for D
+  ![](media/image11.emf){width="3.3277307524059494in" height="2.4920286526684166in"}   ![](media/image12.emf){width="3.2521008311461066in" height="2.435392607174103in"}
+  e\) Temperature variation of E                                                       f\) Temperature variation of F
+
+Fig. 10. The temperature of each sub system in the model
+
+3.  Power output
+
+We numerically determined the system\'s electrical and thermal power
+output based on the proposed optical, electrical, and thermal models.
+The hourly varying electrical power output and short current density of
+the model are presented in figure 11. The highest power output and short
+circuit current was obtained for the base fluid, and the smallest value
+was for the 500 ppm sample solution. The result clearly shows the
+increase in loading concentration of nanoparticle decreases the
+electrical power output and short circuit. The peak value of electric
+power for the sample A , B, C, D, E, and F are 183.81 w/m^2^, 167.14
+w/m^2^, 129.57 w/m^2^, 108.34 w/m^2^, 106.67 w/m^2^ , 29.47 w/m^2^,
+respectively.
+
+  [\[CHART\]]{.chart}   [\[CHART\]]{.chart}
+  --------------------- ---------------------
+  \(a\)                 \(b\)
+
+Fig. 11. The hourly varying electrical power output and the short
+current density of the CPV/T system: (a) The electrical power output (b)
+The short current density
+
+The hourly varying thermal power output of the model is presented by
+Fig. 12. As discussed previously, the nanofluid in the filter channel
+absorbs parts of the spectrum and then outflows into the coil immersed
+by a water tank heat exchange, which is the source of thermal power. The
+more nanoparticles\' concentration is the more absorption of the
+spectrum, which directly contributes to the increases in thermal power
+output.
+
+[\[CHART\]]{.chart}
+
+Fig. 12. The hourly varying thermal power output of the system
+
+4.  Energy conversion performance
+
+The energy conversion efficiency of our model system is presented in
+Fig.13. The result shows the time variation of thermal efficiency and
+almost stable electrical energy efficiency of the system. The electrical
+efficiency of CPV/T module without nanoparticle was 19.5%. This
+photoelectrical conversion efficiency of the CPV/T module was decreased
+to 18.75%, 14.53%, 12.15% 11.96%, and 3.30% for the 20 ppm, 50 ppm, 95
+ppm, 200 ppm and 500 ppm concentration ratio sample solution. The
+decrease in electrical efficiency is mainly caused by solar insolation
+reductions on the CPV module\'s surface. The absorbed photon by the
+concentrated solution contributes to enhancing thermal efficiency that
+compensates for photoelectrical efficiency reduction. The maximum
+overall efficiency of the system computed was 46.83%, 50.35% , 65.21 %,
+72.27 %, 74.69%, and 85.27% for samples A, B, C, D, E, and F,
+respectively.
+
+The usefulness of the model\'s energy conversion was analyzed by merit
+function and found that the value is increased from 1.076 to 1.184 to
+sample A to F, respectively. This shows that the nanofluid filter
+effectively converts the absorbed light to useful energy.
+
++----------------------------------+--------------------------------+
+| [\[CHART\]]{.chart}              | [\[CHART\]]{.chart}            |
++==================================+================================+
+| a)  Efficiency of A (base fluid) | b)  Efficiency of B(φ 20ppm)   |
++----------------------------------+--------------------------------+
+| [\[CHART\]]{.chart}              | [\[CHART\]]{.chart}            |
++----------------------------------+--------------------------------+
+| c)  Efficiency of C (φ 50ppm)    | d)  Efficiency of D(φ 95ppm)   |
++----------------------------------+--------------------------------+
+| [\[CHART\]]{.chart}              | [\[CHART\]]{.chart}            |
++----------------------------------+--------------------------------+
+| e)  Efficiency of E (φ 200ppm)   | f)  Efficiency of F (φ 500ppm) |
++----------------------------------+--------------------------------+
+
+Fig. 13. The photon energy conversion efficiency of the model system.
+
+7.  **Conclusions**
+
+We designed a linear Fresnel lens-based CPV/T system collecting enormous
+light beams into a worthwhile nanofluid filtering and PV module
+integrated with heat exchange pipe. The sequentially configured
+filtering tubes without a gap that intense light is striking the top
+surface contributes for intended amounts of power to be transmitted or
+absorbed for the required forms of energy conversion. In this study, we
+investigated the photon energy conversion depending on the specific
+sample solution\'s thermophysical properties and the environmental
+parameters and properties of the solar cell. The nanofluid prepared
+optical properties were measured by UV-VIS spectrometer, and light ray
+distribution study and local solar irradiation information were
+performed by Tracepro. These parameters were applied to the model
+developed to analyze the model\'s power output and system performance
+and energy benefit examine. The major findings are summarized below.
+
+-   The light beam focused on sequentially arranged filtering tubes of
+    the optimum diameter without a gap using a Fresnel lens combined
+    with a PV module integrated with a heat exchange can be employed to
+    a resourceful photo energy conversion. This is one novelty of our
+    study that light ray moves equal distance while propagating inside
+    the tubes and distribute uniformly, but many other researchers, as
+    far as our understanding, were conducted by other forms of a
+    channel.
+
+-   Using the optical data for the nanoparticles\' different loading
+    concentrations, we numerically found the power absorbed by the
+    nanofluid and power transmitted to the PV module integrated with the
+    heat exchange. The addition of 50:50% water-ethylene glycols as a
+    base fluid will filter out 19.58% of the total solar irradiation on
+    the CPV/T system. It was also found that the nanofluid solution with
+    concentration ratio 20 ppm, 50 ppm, 95 ppm, 200 ppm, 500 ppm will
+    filter 22.94%, 42.43%, 50.59%, 52.08%, and 80.75% of spectrum,
+    respectively.
+
+-   We numerically determined the elements\' temperature profile in the
+    model system and found that the filtering tubes and nanofluid
+    temperature were found the highest values. The peak temperature of
+    the nanofluid is by far higher than the PV module's peak temperature
+    for sample A to F, and the temperature of the water in the tank
+    rises peak value at 14:00 with value 313.73 K, 314.19 K , 324.12 K
+    332.56 K, 333.42 K, and 350.68 K, respectively.
+
+-   The combined efficiency of the system under the solar irradiance in
+    a typical day with a geometrical concentration ratio of 5.8
+    filtering channel and 3.43 PV/T systems reaches a maximum value of
+    50.35%, 65.2%, 72.70%, 74.7%, and 85% for ZnO nanofluid of
+    concentration ratio 20 ppm, 50 ppm, 95 ppm, 200 ppm, and 500 ppm,
+    respectively.
+
+-   The usefulness of the model\'s energy conversion was analyzed by
+    merit function and found that the value is increasing from 1.076 to
+    1.184 to sample A to F, respectively.
