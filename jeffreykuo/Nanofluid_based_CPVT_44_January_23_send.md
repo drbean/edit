@@ -190,7 +190,7 @@ capacitance method was applied for the energy equation in each layer of
 the subsystem to determine the power collected and the overall
 performance of the whole system
 
-![](media/image1.png){width="6.495833333333334in"
+![](media\image1.png){width="6.495833333333334in"
 height="2.848611111111111in"}
 
 Fig. 2. 3D diagram of the CPV/T model.
@@ -761,7 +761,7 @@ silicon solar cell band gap. So it is preferable to generate optimum
 amounts of both electrical and thermal energy.
 
 +----------------------------------+----------------------------------+
-| ![](media/image2.                | ![](media/image3.                |
+| ![](media\image2.                | ![](media\image3.                |
 | png){width="2.949580052493438in" | emf){width="3.319327427821522in" |
 | height="1.6890758967629047in"}   | height="2.3781517935258094in"}   |
 |                                  |                                  |
@@ -861,7 +861,7 @@ for the most concentrated nanofluid. This allocated power was used as
 input to the mathematical model to find the temperature profiles, power
 output, and performance of the CPV/T system.
 
-![](media/image5.emf){width="4.226890857392826in"
+![](media\image5.emf){width="4.226890857392826in"
 height="3.1665168416447944in"}
 
 Fig. 8. The solar spectral irradiance on Fresnel lens and spectral
@@ -869,7 +869,7 @@ response of the PV [30](#_ENREF_30)\[\].
 
 +-----------------------------------------------+---------------------+
 | ![](m                                         | [\[CHART\]]{.chart} |
-| edia/image6.emf){width="3.0735968941382326in" |                     |
+| edia\image6.emf){width="3.0735968941382326in" |                     |
 | height="2.302817147856518in"}                 |                     |
 +===============================================+=====================+
 | \(a\)                                         | > \(b\)             |
@@ -906,14 +906,14 @@ K, 315.90 K, 324.13 K, 332.56 K, 333.42 K, and 350.68 K for samples A,
 B, C, D, and F, respectively.
 
   --------------------------------------------------------------------------------- ---------------------------------------------------------------------------------
-  ![](media/image7.emf){width="3.445378390201225in" height="2.580129046369204in"}   ![](media/image8.emf){width="3.394958442694663in" height="2.542374234470691in"}
+  ![](media\image7.emf){width="3.445378390201225in" height="2.580129046369204in"}   ![](media\image8.emf){width="3.394958442694663in" height="2.542374234470691in"}
   a\) Temperature variation of A                                                    b\) Temperature variation of B
   --------------------------------------------------------------------------------- ---------------------------------------------------------------------------------
 
-  ![](media/image9.emf){width="3.4957983377077864in" height="2.61788823272091in"}      ![](media/image10.emf){width="3.231771653543307in" height="2.420168416447944in"}
+  ![](media\image9.emf){width="3.4957983377077864in" height="2.61788823272091in"}      ![](media\image10.emf){width="3.231771653543307in" height="2.420168416447944in"}
   ------------------------------------------------------------------------------------ -----------------------------------------------------------------------------------
   c\) Temperature variation for C                                                      d\) Temperature variation for D
-  ![](media/image11.emf){width="3.3277307524059494in" height="2.4920286526684166in"}   ![](media/image12.emf){width="3.2521008311461066in" height="2.435392607174103in"}
+  ![](media\image11.emf){width="3.3277307524059494in" height="2.4920286526684166in"}   ![](media\image12.emf){width="3.2521008311461066in" height="2.435392607174103in"}
   e\) Temperature variation of E                                                       f\) Temperature variation of F
 
 Fig. 10. The temperature of each sub system in the model
