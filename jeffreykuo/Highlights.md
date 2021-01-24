@@ -3,18 +3,18 @@
 -   A concentrated photovoltaic thermal model system with nanofluid
     spectral splitting was developed.
 
--   50 ppm concentration ratio of ZnO nanofluid integrated with a
+-   A 50-ppm ZnO nanofluid integrated with a
     well-designed model system is identified in providing 65.2 % overall
     energy conversion efficiency.
 
--   Nanofluid based spectral splitting was employed in effective
-    utilization of solar radiation intensity to a photovoltaic thermal
+-   Nanofluid-based spectral splitting was employed in effective
+    utilization of solar radiation intensity by a photovoltaic thermal
     system.
 
--   The numerical analysis of nanofluid based optical filtration
-    photovoltaic thermal system has been done.
+-   Numerical analysis of the nanofluid-based optical filtration
+    photovoltaic thermal system was carried out.
 
--   It has been shown that the CPV/T system electrical energy conversion
+-   It is shown that the CPV/T system electrical energy conversion
     was closer to quantum efficiency.
 
 **Novelty**
