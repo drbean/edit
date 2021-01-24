@@ -31,7 +31,7 @@ system focusing solar radiation into a spectral filtering nanofluid
 of proposed concentration and generating an intended energy of interest with a system
 efficiency of up to 85 %.
 
-**Why should the Journal publish the paper**
+**Why should the Journal publish the paper?**
 
 The study could be published to transfer the knowledge we have achieved of
 effective light beam focusing, energy allocation, optimum extent of travel
