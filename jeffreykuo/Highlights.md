@@ -4,7 +4,7 @@
     spectral splitting was developed.
 
 -   A 50-ppm ZnO nanofluid integrated with a
-    well-designed model system is identified in providing 65.2 % overall
+    well-designed model system is identified as providing 65.2 % overall
     energy conversion efficiency.
 
 -   Nanofluid-based spectral splitting was employed in effective
