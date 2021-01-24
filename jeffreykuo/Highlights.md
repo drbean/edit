@@ -15,25 +15,25 @@
     photovoltaic thermal system was carried out.
 
 -   It is shown that the CPV/T system electrical energy conversion
-    was closer to quantum efficiency.
+    is close to quantum efficiency.
 
 **Novelty**
 
-Light beam focused by Fresnel lens to ZnO nanofluid flowing in
-sequentially arranged filtering tubes of optimum diameter employed and
-obtained energy conversion up to the quantum efficiency and overall
-performance more than 50.35%.
+A light beam focused by a Fresnel lens on a ZnO nanofluid flowing in
+sequentially arranged filtering tubes of optimum diameter
+obtained energy conversion up to quantum efficiency and overall
+performance of more than 50.35%.
 
--   **Why do you think the paper is important?**
+**Why do you think the paper is important?**
 
-The paper is important in designing an efficient energy conversion
-system by focusing the sun into a proposed spectral filtering nanofluid
-concentration and generating intended energy of interest with a system
+The paper is important for its design of an efficient energy conversion
+system focusing solar radiation into a spectral filtering nanofluid
+of proposed concentration and generating an intended energy of interest with a system
 efficiency of up to 85 %.
 
--   **Why the Journal publish**
+**Why should the Journal publish the paper**
 
-The study could be published to transfer knowledge we studied for
-effective light beam focusing, allocation, traveling of optimum distance
-and uniform distribution, and thermophysical properties of the sample
+The study could be published to transfer the knowledge we have achieved of
+effective light beam focusing, energy allocation, optimum extent of travel
+of the light rays, their uniform distribution, and the thermophysical properties of the sample
 used in the model.
