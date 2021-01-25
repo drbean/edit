@@ -1,4 +1,4 @@
-**Modeling and Performance analysis of Fresnel concentrator solar
+**Modeling and Performance analysis of a Fresnel concentrator solar
 photovoltaic thermal energy system integrated with nanofluid spectral
 splitter**
 
@@ -8,29 +8,29 @@ splitter**
 
 > **Abstract**
 
-In this study, the design and numerical analysis of a concentrated
-photovoltaic thermal system integrated with spectral splitting nanofluid
-have been done in a one-dimension. The nanofluid\'s spectral
+In this study, the design and one-dimensional numerical analysis of a concentrated
+photovoltaic thermal system incorporating a spectral-splitting nanofluid
+was carried out. The nanofluid\'s spectral
 transmittance with different loading concentrations of ZnO nanoparticles
-in the full spectrum was measured experimentally and applied as a
-splitter in the model system developed. The solar irradiation was
-properly concentrated using linear 1300 mm by 70 mm Fresnel lens to a
-series of seven 20 mm outer diameter and 16mm inner diameter of
-nanofluid flowing tubes to obtain a large beam of spectrum transmitted
-to the PV and the rest absorbed and converted to thermal energy. The
+over the full spectrum was measured experimentally, and a
+model system using the nanofluid as a splitter developed. Solar irradiation was
+appropriately concentrated using a linear 1300-mm-by-70-mm Fresnel lens on a
+series of seven 20-mm-outer-diameter and 16mm-inner-diameter 
+tubes through which the nanofluid flowed, allowing a large beam of limited spectra to be transmitted
+to the PV below, with the rest absorbed and converted to thermal energy. The
 photo energy conversion dependency on the specific sample solution\'s
-thermophysical properties and the environmental parameters and
-properties of the solar cell was investigated. The nanofluid with a 50
-ppm concentration ratio shows transmitting of the spectrum closer to the
+thermophysical properties, and on environmental parameters and
+properties of the solar cell was investigated. A nanofluid with a 50
+ppm concentration ratio achieved transmission of spectra closest to the
 photovoltaic band. The temperature profile, power output, and
 performance of the hybrid concentrated photovoltaic thermal system for
-different loading concentration of ZnO nanoparticles were computed.
-Since the photovoltaic module is detached from the filtering channel and
-integrated with the heat exchange pipe, the surface temperature is by
+different loading concentrations of ZnO nanoparticles were computed.
+Since the photovoltaic module was detached from the filtering channel and
+integrated with the heat exchange pipe, its surface temperature was 
 far lower than the nanofluid and output water temperature. The combined
-efficiency of the system under the solar irradiance in a typical day
-reaches a maximum value of 50.35%, 65.2%, 72.70%, 74.7%, and 85% for ZnO
-nanofluid of concentration ratio 20 ppm, 50 ppm, 95 ppm, 200 ppm, and
+efficiency of the system under the solar irradiance on a typical day
+reached a maximum value of 50.35%, 65.2%, 72.70%, 74.7%, and 85% for ZnO
+nanofluids with concentration ratios of 20 ppm, 50 ppm, 95 ppm, 200 ppm, and
 500 ppm, respectively.
 
 **Keywords:** Concentrated Photovoltaic thermal, modeling, nanofluid,
