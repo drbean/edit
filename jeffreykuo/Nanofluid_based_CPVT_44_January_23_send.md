@@ -82,30 +82,31 @@ absorbing nanofluids produce higher photothermal conversion
 efficiencies. The overall efficiency of the CPV/T system is dependent on
 the volume fraction of nanoparticles chosen [16-18](#_ENREF_16)\[\]. 
 
-Nanofluids are typically employed for energy conversion efficiency
+Nanofluids, thus, are typically employed for energy conversion efficiency
 enhancement since they exhibit high heat-transfer capabilities and
-optical properties [19](#_ENREF_19)\[\]. It is important to find one
-kind of low cost nanofluid that can be applied to nanofluid-based
-spectral splitting CPV/T system [8](#_ENREF_8)\[\].
+optical properties [19](#_ENREF_19)\[\]. But, it is important to find one
+best kind of low cost nanofluid that can be applied to nanofluid-based
+spectral splitting CPV/T systems [8](#_ENREF_8)\[\].
 
 As stated above, several methods are proposed in the literature to
 improve CPV/T system performance; employing a PV cooling system, using
 appropriate concentrators, and applying spectral filters are popular.
+Nanofluids offer a solution embodying all these characteristics.
 
-We select ZnO nanoparticles to prepare nanofluid for spectral splitting
+We selected ZnO nanoparticles to prepare a nanofluid for a spectral splitting
 CPV/T system due to its high thermal conductivity and low cost
-[20](#_ENREF_20)\[\]. In this study, we design and investigate the
-integration of concentrating solar irradiation to achieve higher
-incident light on the system, PV cooling, and spectral splitting for the
-requirement of using full spectrum in an optimum area. The general
+[20](#_ENREF_20)\[\]. In the study, we designed and investigated the
+integration of concentrated solar irradiation, to achieve higher
+incident light on the system, with PV cooling and with spectral splitting, to
+use the full spectrum in an optimum way. The general
 objective of the study was to design an efficient concentrated hybrid
-photovoltaic thermal energy system. We designed a model and investigated
-the energy conversion performance for specific physical properties of a
-system. The study will help build green energy demand for household,
-industries and enterprises as an alternative solar electrical and
-thermal conversion mechanism. It also contributes to promoting proper
-green energy harvesting design by multiple uses of space and developing
-the technology towards practical application.
+photovoltaic thermal energy system. We also developed a model and investigated
+the energy conversion performance for the specific physical properties of the
+system. The study will help satisfy the green energy needs of households,
+industry and enterprises as an alternative solar electrical and
+thermal conversion technology. It also contributes to promoting proper
+green energy harvesting design with multi-purpose use of space and to developing
+technology with practical applications.
 
 2.   **Methodology**
 
