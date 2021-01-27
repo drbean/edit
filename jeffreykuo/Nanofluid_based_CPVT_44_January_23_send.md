@@ -38,25 +38,25 @@ spectral splitting, solar energy, System efficiency
 
 1.  **Introduction**
 
-Solar energy is an encouraging renewable energy source that can reduce
-fossil fuel dependency and meet energy demands. It can be collected and
-utilized by many techniques like photosynthesis, solar thermal and
-photovoltaic technologies. The technologies identified to convert solar
-energy into a useful form of energy are solar cells, solar thermal
-collectors, concentrated solar power and concentrated
-photovoltaic/thermal system (CPV/T) [1-3](#_ENREF_1)\[\].
-Photovoltaic/thermal (PV/T) collectors are promising solar
-technology which are capable of cogenerating useful thermal energy and
-electricity from the same aperture area. This system has played a
-pivotal part in the transition towards energy sustainability and
-provides more energy over the conventional photovoltaic cell
-[4](#_ENREF_4)[5](#_ENREF_5)\[, \]. Concentrating a large area of
-sunlight to focus on a small beam on solar energy technologies, using
-optical concentrators, allows for more incident irradiation and,
-therefore, more output power per unit area. The concentration of
-sunlight in photovoltaic cells (PV) and the consequent replacement of
-expensive PV area with cheap concentrating mirrors or lenses can reduce
-the cost of solar electricity [6](#_ENREF_6)[7](#_ENREF_7)\[, \].
+Solar energy is a welcome renewable energy source that can reduce 
+fossil fuel dependency and meet energy needs. It can be collected and 
+utilized by means of many processes, like  photosynthesis, solar 
+thermal conversion and the photovoltaic effect. The technologies 
+identified to convert solar energy into a useful form of energy are 
+solar cells, solar thermal collectors, concentrated solar power and 
+concentrated photovoltaic/thermal systems [1-3](#_ENREF_1)\[\].
+Photovoltaic/thermal (PV/T) collectors are a promising solar technology 
+which is capable of cogenerating useful thermal energy and electricity 
+from the same aperture area. These systems have played a pivotal role 
+in the transition towards energy sustainability, providing more energy 
+than the conventional photovoltaic cell [4](#_ENREF_4)[5](#_ENREF_5)\[, \].
+Concentrating a large 
+area of sunlight to focus a small beam on a solar energy process, using 
+optical concentrators, allows for more incident irradiation and, 
+therefore, more output power per unit area. The concentration of 
+sunlight on photovoltaic cells (PV) and the consequent replacement of 
+expensive PV panel arrays with cheap concentrating mirrors or lenses 
+can reduce the cost of solar electricity [6](#_ENREF_6)[7](#_ENREF_7)\[, \].
 
 Spectral energy at or near the band-gap of semiconductor is utilized by
 PV cells for photoelectrical energy conversion, but remaining photon
