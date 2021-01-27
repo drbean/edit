@@ -110,47 +110,50 @@ technology with practical applications.
 
 2.   **Methodology**
 
-We propose a CPV/T which converts full spectrum incident sunlight to
-both electricity and thermal energy. It will be an immediate solution to
-use the entire solar spectrum for electricity in PV band and thermal
-energy from the heat waste and radiation out of the PV band to higher
-temperature water heating. The concentrated system contains a Fresnel
+We propose a CPV/T which converts full-spectrum incident sunlight to
+both electricity and thermal energy. It constitutes an immediate solution to
+using the entire solar spectrum for electricity in the PV band and for thermal
+energy from the heat waste and radiation outside the PV band, for 
+purposes of higher
+temperature water heating. The concentrating system contains a Fresnel
 lens, PV cell, nanofluid flowing in glass tubes, and heat exchanger
-attached to both PV cell and coil immersed in the water tank as shown
-Fig.1. Incident sunlight is firstly concentrated by the Fresnel lens.
-The concentrated sunlight focused on the nanofluid flowing in quartz
+attached to both the PV cell and a coil immersed in a water tank as shown
+in Fig.1. Incident sunlight is firstly concentrated by the Fresnel lens.
+The concentrated sunlight focuses on the nanofluid flowing in quartz
 tubes. The photons which can be converted most efficiently by the PV are
-transmitted to the PV module. The Low-energy photons, which cannot be
+transmitted to the PV module. The low-energy photons, which cannot be
 converted by the PV, and high-energy photons, which would be converted
-inefficiently, are absorbed and converted to the thermal energy. The
-electrical energy converted by the PV will be recorded directly. The
+inefficiently, are absorbed and converted to thermal energy. The
+electrical energy converted by the PV is recorded directly. The
 heat pipe attached to the PV module is used as waste thermal energy
 collector. This energy is extracted by fluid flowing in the pipe which
-will be directed to the heat exchange water tank. The outlet water
-temperature from the pipe attached to the PV module will be the inlet
-water temperature for the water tank inlet water temperature. Finally,
+is directed to the heat exchange water tank. The outlet water
+temperature from the pipe attached to the PV module is the inlet
+water temperature for the water tank. Finally,
 the tank\'s outlet water temperature is determined to calculate the
-actual thermal energy collected from the full spectrum collected by the
+actual thermal energy derived from the full spectrum collected by the
 CPV/T system. When the system is operating, water first flows through
-the heat exchanger attached to the PV module. Then flows to heat
+the heat exchanger attached to the PV module, and then flows to the heat
 exchange water tank to be further heated to a higher temperature.
 
-One dimensional numerical model is established for simulation to
-determine the temperature, electrical, thermal power, and performance of
+A one-dimensional numerical model was developed for simulation purposes to
+determine the temperature, electrical output, thermal power, and performance of
 the whole system. The Fresnel lens\'s geometry, spectral splitting
-nanofluid tubes, heat exchangers, and PV orientation are designed to
+nanofluid tubes, heat exchangers, and PV orientation were designed to
 obtain the optimal system performance. The nanofluid\'s optical
-properties are experimentally measured and used as input to the model to
+properties were experimentally measured and used as input to the model to
 determine the absorption and transmission of radiation in the spectral
-splitting of the CPV/T system. The system is designed in which the
-visible light could be transmitted, light with low and high wavelength
-spectrum could be absorbed by the nanofluid. Zinc oxide nanofluid is
+splitting of the CPV/T system. The system was designed in such a way 
+that the
+visible light could be transmitted and light in the low and high wavelength
+spectrum could be absorbed by the nanofluid. The zinc oxide nanofluid 
+was
 prepared using a two-step method with water and ethylene glycol (EG)
-with a 50%:50% ratio. 1 mg, 2.5 mg, 4.75 mg, 10 mg and 25 mg of nano
-powder ZnO is poured into a 50 ml of water-glycol solution and
-ultrasonically stirred for 30 minutes. Then the samples are represented
-by letter A, B, C, D, E and F where A is simply solution of water and
-EG, B (20 ppm), C (50 ppm), D (95 ppm), E (200 ppm) and F (500 ppm).
+in a 50%:50% ratio. 1 mg, 2.5 mg, 4.75 mg, 10 mg and 25 mg of nano
+powder ZnO were poured into a 50-ml water-glycol solution and
+ultrasonically stirred for 30 minutes. In the following, the samples are represented
+by the letters A, B, C, D, E and F where A is simply a solution of water and
+EG, that is, A (0 ppm) and B (20 ppm), C (50 ppm), D (95 ppm), E (200 ppm) and F (500 ppm).
 
 3.  **Model description**
 
