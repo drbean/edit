@@ -158,32 +158,32 @@ EG, that is, A (0 ppm) and B (20 ppm), C (50 ppm), D (95 ppm), E (200 ppm) and F
 3.  **Model description**
 
 The proposed CPV/T system is composed of a linear Fresnel lens, a side
-by side channel of seven quartz tubes for nanofluid flow, a silicon PV
+by side channel of seven quartz tubes through which the nanofluid flows, a silicon PV
 module, a heat exchange pipe attached to the PV, and an aluminum plate
 as shown in Figs. 1 and 2. A linear Fresnel lens made of
-polymethyl-methacrylate with dimension 760x1300x5 mm is used to
-concentrate the light rays to the upper surface of the nanofluid flowing
-tubes. Seven quartz tubes with an inner diameter of 16 mm and an outer
-diameter of 20 mm and 760mm I n length is used for spectral splitting
-nanofluid flowing. The nanofluid is used as spectral filtering and as an
+polymethyl-methacrylate with dimensions 760x1300x5 mm is used to
+concentrate the light rays on the upper surface of the nanofluid flowing
+through the tubes. Seven quartz tubes with an inner diameter of 16 mm and an outer
+diameter of 20 mm and 760mm in length are used for spectral splitting
+nanofluid flowing. The nanofluid is used for both spectral filtering and as an
 intermediate thermal energy exchange.
 
-The incident concentrated light from the Fresnel lens is striking on the
-top half surface area of the tubes. This implies that the effective
+The incident concentrated light from the Fresnel lens strikes the
+top surface area of the tubes. This implies that the effective
 light exposure surface area of the filtering channel is about 0.167
 m^2^, and the concentration ratio is 5.916. Four monocrystalline silicon
-photovoltaic modules each 190x380x35 mm with cell efficiency 21.5% and
-10 w power at standard test condition (1000 w/m^2^ solar radiation
+photovoltaic modules each 190x380x35 mm in size, with cell efficiency 21.5% and
+10 w power at standard test conditions (1000 w/m^2^ solar radiation
 intensity, 25 $℃\ $environmental temperature and air mass 1.5). The
 effective area of the PV module is 0.288 m^2^, and the geometric
 concentration ratio is 3.43. The nanofluid absorbs spectral radiation
-out of the solar cell and flows into a heat exchange water tank through
-a copper coil. It releases thermal energy while flowing in the coil
-immersed by the insulated water tank. The thermal power and thermal
-efficiency of the system will be determined by using the outlet and
+out of the solar cell and flows into the heat exchange water tank through
+the copper coil. It releases thermal energy while flowing in the coil
+immersed in the insulated water tank. The thermal power and thermal
+efficiency of the system are determined by using the outlet and
 inlet temperature of water from the water tank heat exchanger. The
-nanofluid will be finally collected by nanofluid tank completing the
-cycle for next day spectral filtering.
+nanofluid is finally collected in a nanofluid tank completing the
+cycle for spectral filtering next day.
 
 Fig. 1. Schematic representation of the proposed CPVT system.
 
