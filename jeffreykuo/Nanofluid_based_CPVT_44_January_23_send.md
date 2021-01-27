@@ -187,12 +187,12 @@ cycle for spectral filtering next day.
 
 Fig. 1. Schematic representation of the proposed CPVT system.
 
-The homogeneity of the photons on the CPV module, dimensional
+The homogeneity of the photons impinging on the CPV module, dimensional
 specification of the model elements, and the optimal distance between
-the filtering and PV module was studied by Tracepro. The lumped thermal
-capacitance method was applied for the energy equation in each layer of
+the filtering and PV module was studied using Tracepro. The lumped thermal
+capacitance method was applied for the energy equations in each layer of
 the subsystem to determine the power collected and the overall
-performance of the whole system
+performance of the whole system.
 
 ![](media\image1.png){width="6.495833333333334in"
 height="2.848611111111111in"}
@@ -204,18 +204,18 @@ Fig. 2. 3D diagram of the CPV/T model.
 A model was formulated to evaluate the spectral splitting CPV/T system.
 The model analysis was performed by applying energy balance equations
 for the concentrator, spectral filtering, PV module layers, and the heat
-exchangers. Then it is possible to predict the temperature, the
+exchangers. With these, it was possible to predict the temperature, the
 electrical and thermal powers, and the electrical and thermal
-efficiencies of the CPV/T. The amount of solar radiations intercepting
+efficiencies of the CPV/T. The amount of solar radiation reaching
 the PV module\'s surface is a function of the geometric concentration
 ratio *CR,* the intensity *I* of the direct normal irradiation and
-optical efficiency of the Fresnel lens, and the transmittance of the
-nanofluid flowing and the surface area * *of PV module. 
+optical efficiency of the Fresnel lens, the transmittance of the
+nanofluid flow and the surface area * *of the PV module. 
 
 ###  Assumptions to simplify the CPV/T model system in this study are:
 
 1)  One dimensional uniform temperature distribution of the system is
-    applied due to the small area of protective aluminum frame attached
+    assumed due to the small area of the protective aluminum frame attached
     to the Fresnel lens, the filtering tube channel and the PV module
     [21](#_ENREF_21)[22](#_ENREF_22)\[, \].
 
@@ -249,13 +249,14 @@ splitter can be calculated by Eq. (2)
 $$Q_{\text{in}} = {\text{CR}_{\text{Tc}}\text{\ A}}_{\text{TC}}\int_{\lambda_{i}}^{\lambda_{f}}{I(\lambda)\tau_{F}\left( \lambda \right)}d\lambda\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (2)$$
 
 where $\text{CR}_{\text{Tc}}$ and $A_{\text{TC}}$ are the concentration
-ratio and the effective surface area of nanofluid splitter tubes, and
+ratio and the effective surface area of the nanofluid splitter tubes, and
 $\tau_{F}\text{\ \ }$the transmittance of the Fresnel concentrator. More
 than 99% of the surface solar flux is contained in the spectral region
 between 300 nm initial wavelength and 2500 nm final wavelength, hence
-the solar radiation energy apart from this band can be ignored
-[27-29](#_ENREF_27)\[\]. Transparent quartz tubes have been used for the
-nanofluid flowing to reduce optical loss. This energy is equal to the
+solar radiation energy apart from this band can be ignored
+[27-29](#_ENREF_27)\[\]. Transparent quartz tubes were used for 
+transport of the
+nanofluid to reduce optical loss. This energy is equal to the
 thermal energy absorbed by the nanofluid, the transmitted energy to the
 PV module and the energy loss.
 
@@ -267,7 +268,7 @@ $$Q_{\text{ab}} = \text{CR}_{\text{TC}}A_{\text{TC}}\int_{300}^{2500}{I\left( \l
 where $\eta_{\text{opc}}\ $is the optical efficiency of the
 concentrator, $\tau_{\text{Tc}}\left( \lambda \right)\ $is the
 transmittance of the tube, and $\alpha_{\text{nf}}$ is the absorbance of
-the nano fluid at wave length of λ, respectively. Solar radiation
+the nano fluid at wave length, λ, respectively. Solar radiation
 absorbed by the nanofluid is equal to the thermal energy transferred to
 the water while the nanofluid is flowing inside the coil and the energy
 lost. The insulation layer exchanges the heat by conduction with the
