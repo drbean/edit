@@ -59,28 +59,28 @@ expensive PV panel arrays with cheap concentrating mirrors or lenses
 can reduce the cost of solar electricity [6](#_ENREF_6)[7](#_ENREF_7)\[, \].
 
 Spectral energy at or near the band-gap of semiconductor is utilized by
-PV cells for photoelectrical energy conversion, but remaining photon
-energy will be converted to thermal energy. This leaves PV cells
-heating, which will further reduce the power production efficiency of PV
-cells [8](#_ENREF_8)[9](#_ENREF_9)\[, \]. The increase in solar
+PV cells for photoelectrical energy conversion, but the remaining photon
+energy is converted to thermal energy. This results in PV cell
+heating, which reduces their power production efficiency 
+[8](#_ENREF_8)[9](#_ENREF_9)\[, \]. An increase in solar
 radiation flux in CPV/T systems also leads to the increase of CPV/T
 system temperature which may lead to a high and precarious junction
 temperature unless the heat is used for an intended purpose or
 dissipated to the environment in time. When the PV cells\' operating
-temperature is increased, photo energy conversion efficiency will be
-decreased, and the PV cell material may be damaged[10](#_ENREF_10)\[\].
-One mechanism to solve this problem, spectral splitting CPV/T is used:
-the photon energy available for PV cells is utilized by PV cells, and
-the rest photon is engaged in thermal power [11-15](#_ENREF_11)\[\].
-Nanofluid-based spectral splitting using low volume fraction of
-nanoparticles has become drastically popular for CPV/T applications due
-to the shift in the optical properties inexpensively. The loading of
-nanoparticles as the optical filters for CPV/T systems will decrease the
+temperature is increased, not only is photo energy conversion efficiency 
+decreased, but the PV cell material may also be damaged[10](#_ENREF_10)\[\].
+One mechanism to solve this problem is spectral splitting:
+the photon energy usable by PV cells is utilized by the PV cells, and
+the remaining photons are engaged in thermal power generation [11-15](#_ENREF_11)\[\].
+Nanofluid-based spectral splitting using low volume fractions of
+nanoparticles has become increasingly more popular for CPV/T applications due
+to the shift in the optical properties, inexpensively obtained. The loading of
+nanoparticles as optical filters for CPV/T systems will decrease 
 transmittance, leading to a decrease in the short circuit current and
 lower electrical conversion efficiencies. Still, these powerfully
 absorbing nanofluids produce higher photothermal conversion
 efficiencies. The overall efficiency of the CPV/T system is dependent on
-the volume fraction of the nanoparticle [16-18](#_ENREF_16)\[\]. 
+the volume fraction of nanoparticles chosen [16-18](#_ENREF_16)\[\]. 
 
 Nanofluids are typically employed for energy conversion efficiency
 enhancement since they exhibit high heat-transfer capabilities and
