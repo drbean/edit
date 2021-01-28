@@ -562,15 +562,15 @@ respectively; *P~ele~* is the electric power output by the PV module;
 and $R_{con,pv,g}\ $and $R_{con,t,pv}$ are the conductive thermal resistance
 between the PV and top glass layer and TPT and PV layer, respectively.
 
-(6) For TPT (Tedlar Polyester Tedlar) layer
+(6) The TPT (Tedlar Polyester Tedlar) layer
 
 $$C_{t}\frac{dT_{t}}{\text{dt}} = \frac{1}{R_{con,pv,t}}\left( T_{\text{pv}} - T_{t} \right) + \frac{1}{R_{con,t,co}}\left( T_{\text{co}} - T_{t} \right) + \frac{1}{R_{con,t,in}}\left( T_{\text{in}} - T_{t} \right)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (42)$$
 
 where $C_{t}$ and $T_{t}$ are the thermal capacitance and temperature of
-the TPT layer; $R_{con,pv,t}$ is the conductive thermal resistance
+the TPT layer, respectively; $R_{con,pv,t}$ is the conductive thermal resistance
 between the PV layer and TPT layer; $R_{con,t,co}$ is the conductive
-thermal resistance between TPT layer and conducting pipe; $R_{con,t,in}$
-is the conductive thermal resistance between TPT and insulator. The
+thermal resistance between TPT layer and conducting pipe; and $R_{con,t,in}$
+is the conductive thermal resistance between the TPT and insulator. The
 thermal resistance between these elements can be calculated by using
 Eqs. (43) and (44) [46](#_ENREF_46)\[\]:
 
@@ -582,19 +582,19 @@ $A_{t,co}$ is the contact area between the TPT and tube conductor.
 $$R_{con,t,in} = \frac{1}{A_{t,in}h_{con,t,in}}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (44)\ $$
 
 where $A_{t,in}$ and $h_{con,t,in}$ are the contact area between the TPT
-and insulator and heat conductive transfer coefficient. The contact area
+and insulator and the heat conductive transfer coefficient, respectively. The contact area
 between the TPT and the tube is the product of the thickness of the TPT
 layer and length of the tube.
 
 $$A_{t,co} = {n(\delta}_{t}l)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (45)$$
 
 where n, $\delta_{t}$, and $l$ are the number, thickness, and length of
-the pipe integrated with the PV. The conductive heat transfer
+the pipe integrated with the PV, respectively. The conductive heat transfer
 coefficient between the TPT and the conducting tube is determined by:
 
 $$h_{con,t,co} = \frac{2k_{t}}{x_{t}}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (46)$$
 
-where $x_{t}$ is dependent on the tube spacing *w* and outer diameter of
+where $x_{t}$ is dependent on the tube spacing *w* and the outer diameter of
 the tube $D_{o}$
 
 $x_{t} = \frac{w - D_{o}}{4}$
@@ -606,7 +606,7 @@ insulator is calculated by:
 $$h_{con,t,in} = \frac{2k_{\text{in}}}{\delta_{\text{in}}}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (48)$$
 
 where $k_{\text{in}}\ $and $\delta_{\text{in}}$ are the thermal
-conductivity and thickness of the insulator. The contact area between
+conductivity and thickness of the insulator, respectively. The contact area between
 the TPT and insulator is given by:
 
 $$A_{t,in} = A\left( \frac{w - D_{o}}{w} \right)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (49)$$
@@ -618,37 +618,37 @@ where A is the area of TPT and w is the tube spacing.
 $$C_{\text{co}}\frac{dT_{\text{co}}}{\text{dt}} = \frac{1}{R_{con,t,co}}\left( T_{t} - T_{\text{co}} \right) + \frac{1}{R_{con,in,co}}\left( T_{\text{in}} - T_{\text{co}} \right) + \frac{1}{R_{cov,co,w}}\left( T_{\text{mw}} - T_{\text{co}} \right)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (50)$$
 
 where $C_{\text{co}}$ and $T_{\text{co}}$ are the thermal capacitance
-and temperature of conducting pipe, respectively; $R_{con,t,co}$ is
-conductive thermal resistance between the TPT and the conducting tube,
+and temperature of the conducting pipe, respectively; $R_{con,t,co}$ is
+the conductive thermal resistance between the TPT and the conducting tube,
 $R_{con,in,co}$ is the conductive thermal resistance between the
-insulator and the conducting tube, $R_{conv,co,w}$ is the convective
+insulator and the conducting tube, and $R_{conv,co,w}$ is the convective
 thermal resistance between the conducting tube and water flowing inside
 the tube.
 
-The convective thermal resistance between the tube and the water will be
+The convective thermal resistance between the tube and the water is
 determined by:
 
 $$R_{cov,co,w} = \frac{1}{h_{w}\text{πD}_{\text{co}}L}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (51)$$
 
-where $D_{\text{co}}$ and $L$ are outer diameter and length of the tube,
-respectively; $h_{w}\ $is the convective heat transfer coefficient which
+where $D_{\text{co}}$ and $L$ are the outer diameter and length of the tube,
+respectively; and $h_{w}\ $is the convective heat transfer coefficient, which
 can be determined by Eq. (52) [47](#_ENREF_47)\[\].
 
 $h_{w} = \text{Nu}_{w}\frac{k_{w}}{D_{i}}$
 $\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (52)$
 
-where $\text{Nu}_{w}\ $is Nusselt number, $k_{w}$ is the thermal
-conductivity of water, $D_{i}$ is the hydraulic diameter which is inner
-diameter of tube. The contact area of the tube with insulator is
+where $\text{Nu}_{w}\ $is the Nusselt number, $k_{w}$ is the thermal
+conductivity of water, and $D_{i}$ is the hydraulic diameter, which is the inner
+diameter of tube. The contact area of the tube with the insulator is
 
 $A_{in,co} = (\frac{\pi}{2} + 1)D_{o}L$
 $\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (53)$
 
-For the insulator layer with thickness is much larger than the outer
-diameter of tube
+For the insulator layer with a thickness much larger than the outer
+diameter of the tube,
 
 $h_{con,in,t}\ \text{and}\ h_{con,co,in}\text{\ \ }$can be found from
-above expression Eqs. (44), (45), and (48).
+Eqs. (44), (45), and (48) above.
 
 (8) Insulating material layer
 
