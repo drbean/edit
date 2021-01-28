@@ -514,30 +514,30 @@ $$k_{\text{nf} =}\frac{k_{\text{np}} + {2k}_{\text{bf}} - 2\varphi(k_{\text{bf}}
 
 $$C_{\text{nf}}\frac{\text{dT}_{\text{mnf}}}{\text{dt}} = Q_{\text{ab}} - c_{p,nf}{\dot{m}}_{\text{nf}}(T_{o,nf} - T_{i,nf}) + \frac{1}{R_{cov,Tc}}\left( T_{\text{Tc}} - T_{\text{mnf}} \right)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (36)$$
 
-where $C_{\text{nf}}$, $T_{\text{mnf}}$and $c_{p,nf}$ are thermal
-capacitance, temperature, and specific heat capacity of nanofluid,
+where $C_{\text{nf}}$, $T_{\text{mnf}}$and $c_{p,nf}$ are the thermal
+capacitance, temperature, and specific heat capacity of the nanofluid,
 respectively; $Q_{\text{ab}}\ $is the power absorbed by the nanofluid;
-${\dot{m}}_{\text{nf}}$ is the nanofluid mass flow rate which is 0.0016
-kg/s; $T_{o,nf}$ and $T_{i,nf}$ are the outlet and inlet temperature of
-the nanofluid in which the inlet temperature is assumed to be equal to
-the environment.
+${\dot{m}}_{\text{nf}}$ is the nanofluid mass flow rate, which is 0.0016
+kg/s; and $T_{o,nf}$ and $T_{i,nf}$ are the outlet and inlet temperature of
+the nanofluid, respectively, with the inlet temperature assumed to be equal to
+that of the environment.
 
 (4) The top glass layer of the PV module
 
 $$C_{g}\frac{dT_{g}}{\text{dt}} = {\alpha_{g}\tau_{g}Q}_{\text{pv}} + \frac{1}{R_{ra,Tc,g}}\left( T_{\text{Tc}} - T_{g} \right) + \frac{1}{R_{con,pv,g}}\left( T_{\text{pv}} - T_{g} \right)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (37)$$
 
 where, $C_{g}$, $T_{g},\ \alpha_{g}$, and $\tau_{g}$ are the thermal
-capacitance, temperature, absorptivity, and transmittance of top glass
+capacitance, temperature, absorptivity, and transmittance of the top glass
 layer of the PV module; $Q_{\text{pv}}$ is the power transmitted to the
 top surface of the PV module; $R_{ra,Tc,g}\ $and $R_{con,pv,g}\ $are
-radiative thermal resistance between the filtering tube channels and top
+the radiative thermal resistance between the filtering tube channels and top
 glass layer of the PV module and conductive thermal resistance between
 PV and top glass layer, respectively.
 
 $$\text{\ R}_{ra,Tc,g\ } = \varepsilon_{T}\sigma(T_{g}^{2} + T_{\text{Tc}}^{2})(T_{\text{Tc}} + T_{g})\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (38)$$
 
 Using the conduction heat transfer coefficient between two neighboring
-component layers m and n can be expressed by Eq. (39)
+component layers, m and n can be expressed by Eq. (39)
 [43](#_ENREF_43)[44](#_ENREF_44)\[, \].
 
 $$h_{con,m \rightarrow n} = \frac{1}{\frac{\delta_{m}}{k_{m}} + \frac{\delta_{n}}{k_{n}}}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (39)$$
@@ -553,14 +553,14 @@ $$R_{cond,g,pv} = \frac{1}{h_{con,g,pv}\text{\ A}_{g,pv}}\ \ \ \ \ \ \ \ \ \ \ \
 where $h_{con,g,pv}\ $and $\text{\ A}_{g,pv}$ are the heat conductive
 coefficient and contact area between the glass and PV module.
 
-(5) For PV module layer
+(5) The PV module layer
 
 $C_{\text{pv}}\frac{dT_{\text{pv}}}{\text{dt}} = \alpha_{\text{pv}}Q_{\text{pv}} - P_{\text{ele}} + \frac{1}{R_{con,pv,g}}\left( T_{g} - T_{\text{pv}} \right) + \frac{1}{R_{con,t,pv}}\left( T_{t} - T_{\text{pv}} \right)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (41)$
 where$\ C_{\text{pv}}$, $T_{\text{pv}},$ and $\alpha_{\text{pv}}$ are
-thermal capacitance, temperature and absorbance of the PV module,
+the thermal capacitance, temperature and absorbance of the PV module,
 respectively; *P~ele~* is the electric power output by the PV module;
-$R_{con,pv,g}\ $and $R_{con,t,pv}$ are conductive thermal resistance
-between the PV and top glass layer and TPT and PV layer.
+and $R_{con,pv,g}\ $and $R_{con,t,pv}$ are the conductive thermal resistance
+between the PV and top glass layer and TPT and PV layer, respectively.
 
 (6) For TPT (Tedlar Polyester Tedlar) layer
 
