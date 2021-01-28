@@ -308,8 +308,8 @@ The electrical power converted can be calculated by
 
 $$P_{\text{ele}} = J_{\text{sc}}V_{\text{oc}}\text{FF\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }\left( 5 \right)$$
 
-where $V_{\text{oc}},$ FF and, $J_{\text{sc}}$ are open circuit voltage,
-fill factor and the short-circuit current of the PV given by
+where $V_{\text{oc}},$ FF and, $J_{\text{sc}}$ are the open circuit voltage,
+fill factor and short-circuit current of the PV given by
 [31](#_ENREF_31)\[\]:
 
 $J_{\text{sc}} = \text{CR}_{\text{pv}}A_{\text{pv}}\int_{300}^{2500}{I\left( \lambda \right)\eta_{\text{op}}}\tau_{\text{Tc}}^{2}(\lambda)S(\lambda)\tau_{\text{nf}}\left( \lambda \right)d\lambda\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (6$)
@@ -321,8 +321,8 @@ equation Eq. (7).
 $$V_{\text{oc}} = \frac{A^{'}k_{B}T_{\text{pv}}}{e}\ln\left( \frac{{\text{CR}_{\text{pv}}\text{\ J}}_{\text{sc}}}{J_{o}} + 1 \right)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (7)$$
 
 where A′ and $T_{\text{pv}}\ $are the ideality factor and surface
-temperature of solar cell, $k_{B}$ the Boltzmann constant, e is
-elementary charge, and $J_{o}$ is the dark saturation current density,
+temperature of solar cell, respectively, $k_{B}$ the Boltzmann constant, e the
+elementary charge, and $J_{o}$ the dark saturation current density,
 which is given by [33](#_ENREF_33)[34](#_ENREF_34)\[, \]:
 
 $$J_{o} = K^{'}T_{\text{pv}}^{\frac{3}{n}}\exp^{\frac{{- E}_{g}}{bk_{B}T_{\text{pv}}}}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (8)$$
@@ -332,7 +332,7 @@ calculated using:
 
 $$FF = \frac{V_{m}}{V_{\text{oc}}}\left( 1 - \frac{\exp\left( \frac{eV_{m}}{k_{B}T_{\text{pv}}} \right) - 1}{\exp\left( \frac{eV_{\text{oc}}}{k_{B}T_{\text{pv}}} \right) - 1} \right)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (9)$$
 
-where, $V_{m}$ is voltage at maximum power point of I - V curve given
+where, $V_{m}$ is the voltage at the maximum power point of the I - V curve given
 by:
 
 $V_{m} = k \times V_{\text{oc\ }}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (10)$
@@ -346,7 +346,7 @@ $$\eta_{\text{el}} = \frac{J_{\text{sc}}V_{\text{oc}}\text{FF}}{Q_{\text{inc}}}\
 The short current of the PV module is used to calculate its
 corresponding open circuit voltage and fill factor based on the reported
 PV model [34](#_ENREF_34)\[\]. Finally, the electrical power output can
-be achieved through multiplying the current by open circuit voltage and
+be obtained through multiplying the current by the open circuit voltage and
 fill factor.
 
 The thermal power output from the system collected by the exchange
@@ -368,8 +368,8 @@ The overall efficiency of the system will be calculated by Eq. (14)
 
 $$\eta_{\text{tot}} = \eta_{\text{el}} + \eta_{\text{th}}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (14)$$
 
-The merit function of the CPV/T system will be calculated by Eq. (15)
-considering a 3:1 worth factor ($w_{f}$) of electricity to thermal
+The merit function of the CPV/T system is calculated by Eq. (15)
+using as a standard a 3:1 worth factor ($w_{f}$) of electricity to thermal
 energy to determine if the selected liquid would effectively convert
 sunlight into usable energy, as compared to the electrical power output
 of an unfiltered solar cell.
@@ -384,8 +384,8 @@ The thermal capacitance is defined by Eq. (16) [36](#_ENREF_36)\[\]
 
 $$C = \rho A\delta c\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (16)$$
 
-where $\rho$ is the density, A is area, $\text{δ\ }$is the thickness,
-and c is the specific heat capacity of the circuit element in the model.
+where $\rho$ is the density, A the area, $\text{δ\ }$ the thickness,
+and c the specific heat capacity of the circuit element in the model.
 
 Energy equation of each sub system
 
@@ -395,12 +395,12 @@ $$\text{\ C}_{F}\frac{\text{dT}_{F}}{\text{dt}} = \frac{1}{R_{cov,F}}\left( T_{a
 
 where $\text{\ C}_{F}$, $T_{F}$ $\alpha_{F},\ $and $A_{F}\ $are the
 thermal capacitance, temperature, absorptivity, and surface area of
-Fresnel lens, respectively; $Q_{\text{inc}}$ is the incoming solar
+the Fresnel lens, respectively; $Q_{\text{inc}}$ is the incoming solar
 radiation striking the top surface area of Fresnel lens; $R_{cov,F}$ is
 the convective thermal resistance between the Fresnel lens and the
-ambient; $R_{ra,sky\ }\text{and\ }R_{ra,Tc\ }$are the heat radiative
+ambient air; $R_{ra,sky\ }\text{and\ }R_{ra,Tc\ }$are the heat radiative
 resistance between Fresnel lens and the sky surface, and between the
-Fresnel lens and the filtering tube channel, respectively; $T_{a}$ and
+Fresnel lens and the filtering tube channel, respectively; and $T_{a}$ and
 $T_{\text{sky}}$ are the ambient and sky temperature, respectively.
 $R_{cov,F}$, $R_{ra,sky}$, and $R_{ra,Tc\ }$ are given by Eqs. (18),
 (21), and (22), respectively [29](#_ENREF_29)[37](#_ENREF_37)\[, \].
@@ -413,8 +413,8 @@ lens and ambient air defined by [24](#_ENREF_24)\[\]:
 
 $h_{cov,F} = {2.8 + 3u}_{w}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (19)$
 
-where $u_{w}$ is the speed of wind, which was 2.6 m/s on the experiment
-day. The sky temperature $T_{\text{sky\ }}$is given by
+where $u_{w}$ is the wind speed, which was 2.6 m/s on the
+day of the experiment. The sky temperature $T_{\text{sky\ }}$is given by
 [38](#_ENREF_38)\[\].
 
 ${T_{\text{sky}} = 0.0552T}_{a}^{1.5}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (20)$
@@ -425,8 +425,8 @@ Fig. 3. The heat transfer mechanism and the corresponding electrical
 circuit model of the CPVT system.
 
 The radiative thermal resistance between the concentrator and the sky
-and filtering channel surface and top glass layer of PV module are given
-by equation below.
+and filtering channel surface and top glass layer of the PV module are given
+by the equation below.
 
 $$R_{ra,sky\ } = \varepsilon_{F}\sigma\left( T_{F}^{2} + T_{\text{sky}}^{2} \right)\left( T_{F} + T_{\text{sky}} \right)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (21)$$
 
