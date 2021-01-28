@@ -650,15 +650,15 @@ diameter of the tube,
 $h_{con,in,t}\ \text{and}\ h_{con,co,in}\text{\ \ }$can be found from
 Eqs. (44), (45), and (48) above.
 
-(8) Insulating material layer
+(8) The insulating material layer
 
 $$C_{\text{in}}\frac{dT_{\text{in}}}{\text{dt}} = \frac{1}{R_{con,co,in}}\left( T_{\text{co}} - T_{\text{in}} \right) + \frac{1}{R_{con,t,in}}\left( T_{t} - T_{\text{in}} \right) + \frac{1}{R_{cov,a,in}}\left( T_{a} - T_{\text{in}} \right)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (54)$$
 
-where $C_{\text{in}}$ is thermal capacitance, $T_{\text{in}}$ is
-temperature of the insulator; $R_{con,co,in}\ $is the conductive thermal
+where $C_{\text{in}}$ is the thermal capacitance and $T_{\text{in}}$ is
+the temperature of the insulator; $R_{con,co,in}\ $is the conductive thermal
 resistance between the conducting tube and insulator; $R_{con,t,in}$ is
 the conductive thermal resistance between the TPT and insulator;
-$R_{cov,a,in}$ is the convective thermal resistance between the
+and $R_{cov,a,in}$ is the convective thermal resistance between the
 insulator and the environment.
 
 (9) The water flowing inside the pipe integrated with the PV module
