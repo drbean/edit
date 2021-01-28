@@ -432,8 +432,8 @@ $$R_{ra,sky\ } = \varepsilon_{F}\sigma\left( T_{F}^{2} + T_{\text{sky}}^{2} \rig
 
 $$R_{ra,Tc\ } = \varepsilon_{F}\sigma\left( T_{g}^{2} + T_{\text{Tc}}^{2} \right)\left( T_{g} + T_{\text{Tc}} \right)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (22)$$
 
-where $\varepsilon_{F}$ emissivity of the Frensel lens 0.9, $\sigma$
-Stefan Boltzman constant which is
+where $\varepsilon_{F}$ is the emissivity of the Frensel lens, 0.9, and $\sigma$
+the Stefan-Boltzman constant, which is
 
 5.67 x 10^-8^$\ $w/m^2^.K^4^.
 
@@ -441,13 +441,13 @@ Stefan Boltzman constant which is
 
 $C_{\text{Tc}}\frac{\text{dT}_{\text{Tc}}}{\text{dt}} = \frac{1}{R_{ra,F,TC}}\left( T_{F} - T_{\text{Tc}} \right) + \frac{1}{R_{ra,Tc,g}}\left( T_{g} - T_{\text{Tc}} \right) + \frac{1}{R_{cov,Tc,mnf}}\left( T_{\text{mnf}} - T_{\text{Tc}} \right)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (23)$
 
-where $C_{\text{Tc}}$ and $T_{\text{Tc}}$ are thermal capacitance and
+where $C_{\text{Tc}}$ and $T_{\text{Tc}}$ are the thermal capacitance and
 temperature of the filtering tube channel, respectively; $R_{ra,F,TC}$
 and $R_{ra,Tc,g}\ $are the radiative thermal resistance between the
-Fresnel lens and filtering tube channel and filtering tube channel and
-the top glass layer of the PV module given by Eqs. (24) and (25),
-respectively;$\ R_{cov,Tc,mnf}$ is convective thermal resistance between
-filtering channel and nanofluid given by Eq. (27).
+Fresnel lens and filtering tube channel and between the filtering tube channel and
+the top glass layer of the PV module, given by Eqs. (24) and (25),
+respectively; and $\ R_{cov,Tc,mnf}$ is the convective thermal resistance between
+filtering channel and nanofluid, given by Eq. (27).
 
 $R_{ra,F,Tc\ } = \varepsilon_{F}\sigma\left( T_{F}^{2} + T_{\text{Tc}}^{2} \right)\left( T_{\text{Tc}} + T_{F} \right)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (24$)
 
@@ -468,15 +468,15 @@ number which can be calculated by using Eq. (28) [38](#_ENREF_38)\[\].
 $$Nu = P_{r}^{0.1039}(1.0257\varphi + 1.1397\text{Re}^{0.205} + 0.788\varphi\text{Re}^{0.205} + 1.2069\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (28)$$
 
 where φ is the particle concentration, $p_{r}$ and $\text{Re}$ are the
-prandtl number and Reynolds number calculated by Eqs. (30) and (31)
+Prandtl number and Reynolds number calculated by Eqs. (30) and (31)
 [39](#_ENREF_39)\[\].
 
 $$p_{r} = \frac{{\mu_{\text{nf}}c}_{p,nf}}{k_{\text{nf}}}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (29)$$
 
 $Re = \frac{\rho_{\text{nf}}uD_{i}}{\mu_{\text{nf}}}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (30)$
-where $u$ is the velocity, $\mu_{\text{nf}}$ is dynamic viscosity of the
+where $u$ is the velocity, $\mu_{\text{nf}}$ the dynamic viscosity of the
 fluid. Since the nanoparticles used in this study are spherical with a
-diameter of about 5.3 nm and the volumetric fraction ratio less than 4%
+diameter of about 5.3 nm and volumetric fraction ratio less than 4%
 the dynamic viscosity of the nanofluid can be determined by Eq. (31)
 [40](#_ENREF_40)\[\]:
 
@@ -487,24 +487,24 @@ determined by [41](#_ENREF_41)\[\]:
 
 $$\mu_{\text{bf}} = \frac{\varphi_{1}\rho_{1} + \varphi_{2}\rho_{2}}{\varphi_{1}\frac{\rho_{1}}{\mu_{1}} + \varphi_{2}\frac{\rho_{2}}{\mu_{2}}}\text{\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }\left( 32 \right)$$
 
-where $\text{\ φ}_{1}\text{\ and\ }\varphi_{2}$ are volume
-concentration, $\rho_{1}$ and $\rho_{2}\ $are density, $\mu_{1}\ $and
-$\mu_{2}$ are dynamic viscosity of water and EG.
+where $\text{\ φ}_{1}\text{\ and\ }\varphi_{2}$ are the volume
+concentrations, $\rho_{1}$ and $\rho_{2}\ $ the densities, and $\mu_{1}\ $and
+$\mu_{2}$ the dynamic viscosities of water and EG, respectively.
 
 The specific thermal capacitance and density of the nanofluid are given
 by Eqs. (33) and (33) [40](#_ENREF_40)\[\]:
 
 $c_{p,nf} = \frac{\text{φc}_{p,np}\rho_{\text{np}} + (1 - \varphi)c_{p,bf}\rho_{\text{bf}}}{\rho_{\text{nf}}}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (33)$
 
-where $\varphi$ is concentration ratio of the specific sample solution,
-$c_{p,np}$and $\rho_{\text{np}}$ are specific thermal capacitance and
-density of the nanoparticle, $c_{p,bf}$ and$\ \rho_{\text{bf}}$ are
+where $\varphi$ is the concentration ratio of the specific sample solution,
+$c_{p,np}$and $\rho_{\text{np}}$ the specific thermal capacitance and
+density of the nanoparticle, and $c_{p,bf}$ and$\ \rho_{\text{bf}}$ the
 specific thermal capacitance and density of the base fluid,
 respectively. The density of the base fluid can be calculated by:
 
 $$\rho_{\text{nf}} = \varphi\rho_{\text{np}} + (1 - \varphi)\rho_{\text{bf}}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (34)$$
 
-Considering the Maxwell expression for the spherical nanoparticles the
+Using the Maxwell expression for the spherical nanoparticles, the
 thermal conductivity of the nanofluid is given by
 [23](#_ENREF_23)[42](#_ENREF_42)\[, \]:
 
