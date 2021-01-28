@@ -275,31 +275,31 @@ lost. The insulation layer exchanges the heat by conduction with the
 heat exchanger and by convection with the ambient air.
 
 The power transmitted from the nanofluid filtering tube channel to the
-PV module integrated to heat pipe sub system is [27-29](#_ENREF_27)\[\]:
+PV module integrated with the heat pipe sub system is [27-29](#_ENREF_27)\[\]:
 
 $$Q_{\text{pv}} = \text{CR}_{\text{pv}}A_{\text{pv}}\int_{300}^{2500}{I(\lambda)\eta_{\text{opc}}\tau_{\text{Tc}}^{2}}(\lambda)\tau_{\text{nf}}(\lambda)d\lambda\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (4)$$
 
 where $\text{CR}_{\text{pv}}$ and $A_{\text{pv}}$ are the geometrical
-concentration ratio and area of the PV surface, and$\ \tau_{\text{nf}}$
-are the transmittance of the nanofluid, respectively. Parts of the solar
+concentration ratio and area of the PV surface, respectively, and$\ \tau_{\text{nf}}$
+is the transmittance of the nanofluid. Total solar
 energy transmitted to the PV module is equal to the sum of the produced
-electric power, the heat dissipated to the ambient through convection
+electric power, the heat dissipated to the ambient air through convection
 and radiation and the thermal energy conducted to the heat exchanger
-attached to the PV. The outflowing water from the heat exchange attached
-to the PV module will be connected to the heat exchange water tank for
+attached to the PV, the three forms of energy into which it is transferred. The outflowing water from the heat exchange attached
+to the PV module is connected to the heat exchange water tank for
 further heating. According to the radiation transfer model, the spectral
 reflectivity, absorptivity and transmittance of the nanofluid filter
 depend on the wavelength of the incident light and the incidence angle.
 Therefore the power in each layer is affected by the optical property of
-the material selected and the geometry.
+the material selected and its geometry.
 
 As is shown in Fig. 3, the present system is composed of the linear
 Fresnel lens, the spectral splitter, PV module, heat pipe water channel
-on the back of PV cells, the water tank heat exchange. When the sunlight
-converged by the Fresnel lens goes through the quartz tube filled with
-nanofluids, a portion of solar energy is absorbed and converted into
-heat by the nanofluids, meanwhile the rest transmitted to the PV
-modules. The nanofluid in the tube is not only the spectral splitting
+on the back of the PV cells, the water tank heat exchange. When the sunlight
+converged by the Fresnel lens passes through the quartz tube filled with
+nanofluid, a portion of the solar energy is absorbed and converted into
+heat by the nanofluid, while the rest is transmitted to the PV
+module. The nanofluid in the tube is not only the spectral splitting
 filter, but also the medium for absorbing and transporting heat from the
 energy receiver.
 
