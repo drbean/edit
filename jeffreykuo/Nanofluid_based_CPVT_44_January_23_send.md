@@ -750,19 +750,19 @@ Parameters used in the model
 
     1.  Energy allocation
 
-ZnO nanofluid was prepared by a two-step method within five different
-concentrations. The spectral transmittance has been measured using a
-V-670 spectrophotometer at wavelength ranges of 300--2500 nm with an
-interval of 5 nm. The sample solutions and the spectral transmittance
-are presented in Fig. 5 below. The nanofluid highly absorbs the short
-and long wavelength range of radiation. These ranges of a wavelength of
-a photon are out of the PV electrical energy conversion band. The high
-concentration of nanofluid spectral filtering is the high absorbance,
-and the low concentration is the high transmittance of spectrums.
-Therefore, there should be an optimum concentration of nanofluid for the
-intended requirement of thermal and electrical energy. It was obtained
-that the 50 ppm nanofluid solution transmits the spectrum closer to the
-silicon solar cell band gap. So it is preferable to generate optimum
+The specification transmittance of ZnO nanofluid with five different
+concentrations was measured using a
+V-670 spectrophotometer for different wavelengths ranging from 300--2500 nm at
+intervals of 5 nm. The sample solutions and the spectral transmittance measurements
+are presented in Fig. 5 below. The nanofluid highly absorbed the short-
+and long-wavelength radiation. Photons at these wavelength ranges are
+outside the usable PV electrical energy conversion band. The high
+concentration of nanofluid spectral filtering resulted in high absorbance,
+and the low concentration resulted in high transmittance of the spectra.
+Therefore, at some point between these two extremes, there lies an optimum concentration of nanofluid for the
+intended requirement that thermal and electrical energy be generated. The results obtained
+show that the 50 ppm nanofluid solution transmits the spectra that best allow photons to excite electrons
+across the silicon solar cell band gap. So this concentration is preferable to generate optimum
 amounts of both electrical and thermal energy.
 
 +----------------------------------+----------------------------------+
