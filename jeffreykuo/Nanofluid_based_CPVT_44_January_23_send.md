@@ -882,7 +882,7 @@ response of the PV [30](#_ENREF_30)\[\].
 
 Fig. 9. Solar irradiation utilization by the concentrated system: (a)
 The spectral distribution on the PV module surface (b) Daily power
-allocation for the different concentration ratio of the sample
+allocation for the different concentration samples
 
 2.  Temperature profile
 
