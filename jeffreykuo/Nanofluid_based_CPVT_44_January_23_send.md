@@ -830,11 +830,11 @@ particle-loaded sample.
 Fig. 6. Thermal conductivity of the sample solution
 
 The input local direct solar irradiation on August 19, 2020 (Taiwan,
-Taipei) is presented in Fig. 7. The solar radiation intensity increases
-to a maximum value of 842.96 w/m^2^ at noon and then reduces to 9.98
-w/m^2^. The model analysis was carried out using this solar radiation
-intensity with the specified sun concentration of the filtering channel
-and PV surface. The ray tracing and distribution on the tubes\' upper
+Taipei) is presented in Fig. 7. The solar radiation intensity increased
+to a maximum value of 842.96 w/m^2^ at noon and then dropped to 9.98
+w/m^2^. The model analysis was carried out using these solar radiation
+intensity figures with the specified solar concentration of the filtering channel
+on the PV surface. Ray tracing and distribution on the tubes\' upper
 surface and CPV/T are presented in Fig.7 b.
 
 +-----------------------------------------------------------------+---+
@@ -842,9 +842,9 @@ surface and CPV/T are presented in Fig.7 b.
 +=================================================================+===+
 | > a\) b)                                                        |   |
 +-----------------------------------------------------------------+---+
-| Fig. 7. Hourly variation of solar irradiance in the typical day |   |
-| August 19/2020 and ray distribution on the model: (a) Solar     |   |
-| irradiance in the typical day (b) ray distribution on the model |   |
+| Fig. 7. Hourly variation of solar irradiance on the typical day,|   |
+| August 19/2020 and ray distribution on the module: (a) Solar    |   |
+| irradiance in the typical day (b) ray distribution on the module|   |
 +-----------------------------------------------------------------+---+
 
 Applying Eqs. (1) and (2) the power collected by the concentrator and
