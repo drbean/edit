@@ -847,21 +847,21 @@ surface and CPV/T are presented in Fig.7 b.
 | irradiance in the typical day (b) ray distribution on the module|   |
 +-----------------------------------------------------------------+---+
 
-Applying Eqs. (1) and (2) the power collected by the concentrator and
-the amount of irradiative power on the top surface of the spectral
-filtering tube channel was determined by MATLAB. The solar spectral
-irradiance on Fresnel lens and spectral response of the PV are presented
+Applying Eqs. (1) and (2), the power collected by the concentrator and
+the amount of irradiative power reaching the top surface of the spectral
+filtering tube channel was determined using MATLAB. The solar spectral
+irradiance on the Fresnel lens and spectral response of the PV are presented
 in Fig. 8. Using the optical data for the nanoparticles\' different
 loading concentrations, we numerically found the power absorbed by the
 nanofluid, power transmitted to the PV module integrated with the heat
-exchange, and the short circuit current density. The least energy
-absorbed was observed at the base fluid and the highest at the 500ppm
-loading ratio sample. As shown in Fig. 9 b, the power absorbed by the
-nanofluid is increased as the concentration increased. The power
+exchanger, and the short circuit current density. The least energy
+absorbed was observed with the base fluid and the highest reached with the 500-ppm
+sample. As shown in Fig. 9 b, the power absorbed by the
+nanofluid increased as the concentration increased. The power
 absorbed by the base fluid and nanofluid with the highest concentration
 ratio was 163.97 w/m^2^ and 676.13 w/m^2^, respectively. This implies
-that the spectral solar insolation on the surface of the module will
-decrease. The value was 575.97 w/m^2^ for base fluid and 89.63 w/m^2^
+that the spectral solar insolation on the surface of the PV module will have
+decreased. That value was 575.97 w/m^2^ for the base fluid and 89.63 w/m^2^
 for the most concentrated nanofluid. This allocated power was used as
 input to the mathematical model to find the temperature profiles, power
 output, and performance of the CPV/T system.
@@ -869,7 +869,7 @@ output, and performance of the CPV/T system.
 ![](media\image5.emf){width="4.226890857392826in"
 height="3.1665168416447944in"}
 
-Fig. 8. The solar spectral irradiance on Fresnel lens and spectral
+Fig. 8. The solar spectral irradiance on the Fresnel lens and spectral
 response of the PV [30](#_ENREF_30)\[\].
 
 +-----------------------------------------------+---------------------+
@@ -880,8 +880,8 @@ response of the PV [30](#_ENREF_30)\[\].
 | \(a\)                                         | > \(b\)             |
 +-----------------------------------------------+---------------------+
 
-Fig. 9. Solar irradiation utilization on the concentrated system: (a)
-The spectral distribution on the surface of PV module (b) Daily power
+Fig. 9. Solar irradiation utilization by the concentrated system: (a)
+The spectral distribution on the PV module surface (b) Daily power
 allocation for the different concentration ratio of the sample
 
 2.  Temperature profile
