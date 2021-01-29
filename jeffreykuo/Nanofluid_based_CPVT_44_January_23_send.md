@@ -775,22 +775,22 @@ amounts of both electrical and thermal energy.
 |                                  | \(b\)                            |
 +----------------------------------+----------------------------------+
 
-Fig. 5. The nanofluid solution and spectral transmittance of the
-nanofluid solution: (a) Nanofluid sample solution (b) the spectral
-transmittance of the sample.
+Fig. 5. The nanofluid solution samples and their spectral transmittance:
+(a) Nanofluid sample solutions (b) the spectral
+transmittance of the samples.
 
-The photo energy conversion depends on the thermophysical properties of
-the specific sample solution prepared and the environmental parameters
-and properties of the solar cell. Therefore we determined the important
-parameters specific to our sample from the base materials. The major
-findings from the experimental and model parameters are summarized in
-Table 2 and Fig. 6. Then we applied to the model developed to analyze
-the power output and system performance of our model.
+The photo energy conversion obtained with each sample solution depends on the thermophysical properties of
+the specific solution and its ZnO concentration, and on environmental parameters
+and the properties of the solar cell. To investigate this conversion, we determined important
+parameters specific to our samples using our theoretical base. The major
+findings using the parameters of the experiment and the model are summarized in
+Table 2 and Fig. 6. Then we apply the model we developed to analyze
+power output and system performance.
 
 Table 2
 
 Theormophysical parameters of the nanofluid determined based on the
-sample used are presented below.
+samples used are presented below.
 
 +----+-------+-------+-------+-------+-------+-------+-------+
 | No | S     | Visc  | De    | Spe   | Pr    | Re    | Nu    |
@@ -818,12 +818,12 @@ sample used are presented below.
 +----+-------+-------+-------+-------+-------+-------+-------+
 
 Fig. 6 shows the thermal conductivity of the nanofluid solution
-calculated by using equation 35. It has been demonstrated that the
-thermal conductivity of the fluid is improved as more ZnO nanoparticles
+calculated using equation 35. It demonstrates that the
+thermal conductivity of the fluid improves as more ZnO nanoparticles
 are loaded into the solution. The increase in thermal conductivity of
 the nanofluid enhances the heat transfer rate in the heat exchange water
-tank. In this study, the heat transfer rate was high for a 500 ppm
-particle loaded sample.
+tank. In this study, the heat transfer rate was highest for a 500-ppm
+particle-loaded sample.
 
 [\[CHART\]]{.chart}
 
