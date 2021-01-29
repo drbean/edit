@@ -887,12 +887,12 @@ allocation for the different concentration samples
 2.  Temperature profile
 
 The hourly varying temperature of each subsystem in the model was
-computed for different concentration of nanofluid and presented in Fig.
-10. As previously published articles, our study indicates that the
+computed for the different nanofluid concentrations and is presented in Fig.
+10. As in previously published research, our study indicates that the
 nanofluid\'s working temperature is increased proportionally to the
 concentration of nanoparticles. Since the PV module is detached from the
 filtering channel and integrated with the heat exchange pipe, the
-surface temperature is by far lower than the nanofluid temperature. The
+PV surface temperature is by far lower than the nanofluid temperature. The
 subsystem\'s surface or bulk temperature in the model affects the
 consecutive layers\' temperature due to radiation, conduction, or
 convective heat transfer. The result shows a smaller rise in the
