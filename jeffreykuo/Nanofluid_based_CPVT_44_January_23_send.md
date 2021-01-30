@@ -174,16 +174,16 @@ light exposure surface area of the filtering channel is about 0.167
 m^2^, and the concentration ratio is 5.916. Four monocrystalline silicon
 photovoltaic modules each 190x380x35 mm in size, with cell efficiency 21.5% and
 10 w power at standard test conditions (1000 w/m^2^ solar radiation
-intensity, 25 $℃\ $environmental temperature and air mass 1.5). The
+intensity, 25 $℃\ $environmental temperature and air mass 1.5) are placed under the tubes. The
 effective area of the PV module is 0.288 m^2^, and the geometric
 concentration ratio is 3.43. The nanofluid absorbs spectral radiation
-out of the solar cell and flows into the heat exchange water tank through
-the copper coil. It releases thermal energy while flowing in the coil
+out of the solar cell and flows into a heat exchange water tank, passing through
+a copper coil. It releases thermal energy while flowing in the coil
 immersed in the insulated water tank. The thermal power and thermal
 efficiency of the system are determined by using the outlet and
 inlet temperature of water from the water tank heat exchanger. The
 nanofluid is finally collected in a nanofluid tank completing the
-cycle for spectral filtering next day.
+cycle, ready for spectral filtering next day.
 
 Fig. 1. Schematic representation of the proposed CPVT system.
 
