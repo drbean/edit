@@ -165,7 +165,7 @@ polymethyl-methacrylate with dimensions 760x1300x5 mm is used to
 concentrate the light rays on the upper surface of the nanofluid flowing
 through the tubes. Seven quartz tubes with an inner diameter of 16 mm and an outer
 diameter of 20 mm and 760mm in length are used for spectral splitting
-nanofluid flowing. The nanofluid is used for both spectral filtering and as an
+nanofluid flow. The nanofluid is used for both spectral filtering and as an
 intermediate thermal energy exchange.
 
 The incident concentrated light from the Fresnel lens strikes the
