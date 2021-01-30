@@ -376,7 +376,7 @@ of an unfiltered solar cell.
 
 $$MF = \ \frac{{w_{f}\text{\ P}}_{\text{el}}\left( \text{filtered} \right) + P_{\text{th}}}{w_{f}P_{\text{el}}(unfiltered)}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (15)$$
 
-5.  **Energy balance equation of the dynamic model**
+5.  **Energy balance equations of the dynamic model**
 
 ### Applying the electrical equivalent circuit of the heat transfer in each layer of the CPV/T system and the setup of the differential equations is summarized as follows. The thermal resistance network circuit of the CPV/T model system is presented in Fig. 3.
 
@@ -396,11 +396,11 @@ $$\text{\ C}_{F}\frac{\text{dT}_{F}}{\text{dt}} = \frac{1}{R_{cov,F}}\left( T_{a
 where $\text{\ C}_{F}$, $T_{F}$ $\alpha_{F},\ $and $A_{F}\ $are the
 thermal capacitance, temperature, absorptivity, and surface area of
 the Fresnel lens, respectively; $Q_{\text{inc}}$ is the incoming solar
-radiation striking the top surface area of Fresnel lens; $R_{cov,F}$ is
-the convective thermal resistance between the Fresnel lens and the
+radiation striking the top surface area of the Fresnel lens; $R_{cov,F}$ is
+the convective thermal resistance between the Fresnel lens and 
 ambient air; $R_{ra,sky\ }\text{and\ }R_{ra,Tc\ }$are the heat radiative
-resistance between Fresnel lens and the sky surface, and between the
-Fresnel lens and the filtering tube channel, respectively; and $T_{a}$ and
+resistance between the Fresnel lens and sky surface, and between the
+Fresnel lens and filtering tube channel, respectively; and $T_{a}$ and
 $T_{\text{sky}}$ are the ambient and sky temperature, respectively.
 $R_{cov,F}$, $R_{ra,sky}$, and $R_{ra,Tc\ }$ are given by Eqs. (18),
 (21), and (22), respectively [29](#_ENREF_29)[37](#_ENREF_37)\[, \].
