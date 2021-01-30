@@ -827,14 +827,14 @@ particle-loaded sample.
 
 [\[CHART\]]{.chart}
 
-Fig. 6. Thermal conductivity of the sample solution
+Fig. 6. Thermal conductivity of the sample solutions
 
 The input local direct solar irradiation on August 19, 2020 (Taiwan,
 Taipei) is presented in Fig. 7. The solar radiation intensity increased
 to a maximum value of 842.96 w/m^2^ at noon and then dropped to 9.98
 w/m^2^. The model analysis was carried out using these solar radiation
-intensity figures with the specified solar concentration of the filtering channel
-on the PV surface. Ray tracing and distribution on the tubes\' upper
+intensity figures with the specified solar concentration on the filtering channel
+and the PV surface. Ray tracing and distribution on the tubes\' upper
 surface and CPV/T are presented in Fig.7 b.
 
 +-----------------------------------------------------------------+---+
@@ -855,12 +855,12 @@ in Fig. 8. Using the optical data for the nanoparticles\' different
 loading concentrations, we numerically found the power absorbed by the
 nanofluid, power transmitted to the PV module integrated with the heat
 exchanger, and the short circuit current density. The least energy
-absorbed was observed with the base fluid and the highest reached with the 500-ppm
+absorbed was observed with the base fluid and the most with the 500-ppm
 sample. As shown in Fig. 9 b, the power absorbed by the
 nanofluid increased as the concentration increased. The power
 absorbed by the base fluid and nanofluid with the highest concentration
-ratio was 163.97 w/m^2^ and 676.13 w/m^2^, respectively. This implies
-that the spectral solar insolation on the surface of the PV module will have
+ratio was 163.97 w/m^2^ and 676.13 w/m^2^, respectively. This means
+that the spectral solar insolation on the surface of the PV module
 decreased. That value was 575.97 w/m^2^ for the base fluid and 89.63 w/m^2^
 for the most concentrated nanofluid. This allocated power was used as
 input to the mathematical model to find the temperature profiles, power
@@ -889,17 +889,17 @@ allocation for the different concentration samples
 The hourly varying temperature of each subsystem in the model was
 computed for the different nanofluid concentrations and is presented in Fig.
 10. As in previously published research, our study indicates that the
-nanofluid\'s working temperature is increased proportionally to the
-concentration of nanoparticles. Since the PV module is detached from the
-filtering channel and integrated with the heat exchange pipe, the
-PV surface temperature is by far lower than the nanofluid temperature. The
+nanofluid\'s working temperature increases proportionally to the
+increase in the concentration of nanoparticles. Since the PV module is detached from the
+filtering channel and integrated with the heat exchange pipe, its
+surface temperature is much lower than the nanofluid temperature. Each
 subsystem\'s surface or bulk temperature in the model affects the
-consecutive layers\' temperature due to radiation, conduction, or
-convective heat transfer. The result shows a smaller rise in the
-nanofluid's temperature for using base fluid and nanofluid with a low
-concentration ratio leaving the heat exchange-coupled PV module
-temperature higher. This is due to a large amount of photon energy
-striking on the PV surface, and the heat pipe properly absorbs the waste
+following layers\' temperatures due to radiation, conduction, or
+convective heat transfer. In the case of the base fluid or a nanofluid with a low
+concentration ratio, our results show a smaller rise in the
+nanofluid's temperature leaves large amounts of energy free to raise the heat exchange-coupled PV module
+temperature higher. In other words, a large amount of photon energy
+strikes the PV surface, but the heat pipe properly absorbs the waste
 heat energy. It is also found that the hourly varying surface
 temperature of the PV module is under the nanofluid flowing in the
 filter channel and heat exchange water tank for the base fluid and
