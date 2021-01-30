@@ -474,9 +474,9 @@ Prandtl number and Reynolds number calculated by Eqs. (30) and (31), respectivel
 $$p_{r} = \frac{{\mu_{\text{nf}}c}_{p,nf}}{k_{\text{nf}}}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (29)$$
 
 $Re = \frac{\rho_{\text{nf}}uD_{i}}{\mu_{\text{nf}}}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (30)$
-where $u$ is the velocity, $\mu_{\text{nf}}$ the dynamic viscosity of the
+where $u$ is the velocity, and $\mu_{\text{nf}}$ the dynamic viscosity of the
 fluid. Since the nanoparticles used in this study are spherical with a
-diameter of about 5.3 nm and volumetric fraction ratio less than 4%
+diameter of about 5.3 nm and volumetric fraction ratio less than 4%,
 the dynamic viscosity of the nanofluid can be determined by Eq. (31)
 [40](#_ENREF_40)\[\]:
 
