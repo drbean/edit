@@ -537,21 +537,21 @@ PV and top glass layer, respectively.
 $$\text{\ R}_{ra,Tc,g\ } = \varepsilon_{T}\sigma(T_{g}^{2} + T_{\text{Tc}}^{2})(T_{\text{Tc}} + T_{g})\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (38)$$
 
 Using the conduction heat transfer coefficient between two neighboring
-component layers, m and n can be expressed by Eq. (39)
+component layers, m and n, which can be expressed by Eq. (39)
 [43](#_ENREF_43)[44](#_ENREF_44)\[, \].
 
 $$h_{con,m \rightarrow n} = \frac{1}{\frac{\delta_{m}}{k_{m}} + \frac{\delta_{n}}{k_{n}}}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (39)$$
 
 where $\delta_{m}$ and $\delta_{\text{n\ }}$are the thickness of the
 layer *m* and *n* and $k_{m}\ $and $k_{n}$ are the thermal conductivity
-of the respective layers. The conductive thermal resistance between the
+of the respective layers, the conductive thermal resistance between the
 glass and the PV layer is given by [24](#_ENREF_24)[45](#_ENREF_45)\[,
 \]:
 
 $$R_{cond,g,pv} = \frac{1}{h_{con,g,pv}\text{\ A}_{g,pv}}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (40)$$
 
 where $h_{con,g,pv}\ $and $\text{\ A}_{g,pv}$ are the heat conductive
-coefficient and contact area between the glass and PV module.
+coefficient and contact area between the glass and PV module, respectively.
 
 (5) The PV module layer
 
