@@ -433,7 +433,7 @@ $$R_{ra,sky\ } = \varepsilon_{F}\sigma\left( T_{F}^{2} + T_{\text{sky}}^{2} \rig
 $$R_{ra,Tc\ } = \varepsilon_{F}\sigma\left( T_{g}^{2} + T_{\text{Tc}}^{2} \right)\left( T_{g} + T_{\text{Tc}} \right)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (22)$$
 
 where $\varepsilon_{F}$ is the emissivity of the Frensel lens, 0.9, and $\sigma$
-the Stefan-Boltzman constant, which is
+the Stefan-Boltzmann constant, which is
 
 5.67 x 10^-8^$\ $w/m^2^.K^4^.
 
