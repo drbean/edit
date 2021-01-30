@@ -669,12 +669,12 @@ $C_{w}\frac{dT_{\text{mw}}}{\text{dt}} = \frac{1}{R_{cov,co,w}}\left( T_{\text{c
 where $C_{w},\ T_{\text{mw}}$, $\dot{m}$ ${\text{and\ }c}_{w}$, are the
 thermal capacitance, temperature, mass flow rate and specific heat
 capacitance of the water flowing inside the pipe; $T_{w,out}\ $and
-$T_{w,inl}$ are the outlet and inlet temperature of water, respectively;
+$T_{w,inl}$ are the outlet and inlet temperature of the water, respectively;
 and $R_{conv,co,w}$ is the convective thermal resistance between the
-conducting tube and water, which can be calculated by using Eq. (51).
+conducting tube and water, which can be calculated using Eq. (51).
 The mass flow rate of the water inside the pipe integrated with the PV
-module was adjusted to be 0.00166 kg/s and the inlet temperature of the
-water would be equal to the room temperature. The temperature of the
+module was set to 0.00166 kg/s and the inlet temperature of the
+water was taken to be equal to the ambient temperature. The temperature of the
 water in the tube is the average of the inlet and outlet temperature of
 water in the tube.
 
