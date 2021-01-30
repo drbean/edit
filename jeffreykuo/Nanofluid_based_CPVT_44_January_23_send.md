@@ -757,8 +757,8 @@ intervals of 5 nm. The sample solutions and the spectral transmittance measureme
 are presented in Fig. 5 below. The nanofluid highly absorbed the short-
 and long-wavelength radiation. Photons at these wavelength ranges are
 outside the usable PV electrical energy conversion band. The high
-concentration of nanofluid spectral filtering resulted in high absorbance,
-and the low concentration resulted in high transmittance of the spectra.
+concentration of nanofluid spectral filtering results in high absorbance,
+and the low concentration results in high transmittance of the spectra.
 Therefore, at some point between these two extremes, there lies an optimum concentration of nanofluid for the
 intended requirement that maximal thermal and electrical energy be generated. The results obtained
 show that the 50 ppm nanofluid solution transmits the spectra that best allow photons to excite electrons
@@ -790,7 +790,7 @@ power output and system performance.
 Table 2
 
 Theormophysical parameters of the nanofluid determined based on the
-samples used are presented below.
+samples used
 
 +----+-------+-------+-------+-------+-------+-------+-------+
 | No | S     | Visc  | De    | Spe   | Pr    | Re    | Nu    |
