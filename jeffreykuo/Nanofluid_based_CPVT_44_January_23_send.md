@@ -13,21 +13,21 @@ photovoltaic thermal system incorporating a spectral-splitting nanofluid
 was carried out. The nanofluid\'s spectral
 transmittance with different loading concentrations of ZnO nanoparticles
 over the full spectrum was measured experimentally, and a
-model system using the nanofluid as a splitter developed. Solar irradiation was
-appropriately concentrated using a linear 1300-mm-by-70-mm Fresnel lens on a
+model system using the nanofluid as a splitter developed. The design posited solar irradiation being
+appropriately concentrated by a linear 1300-mm-by-70-mm Fresnel lens on a
 series of seven 20-mm-outer-diameter and 16mm-inner-diameter 
 tubes through which the nanofluid flowed, allowing a large beam of limited spectra to be transmitted
 to the PV below, with the rest absorbed and converted to thermal energy. The
 photo energy conversion dependency on the specific sample solution\'s
 thermophysical properties, and on environmental parameters and
 properties of the solar cell was investigated. A nanofluid with a 50
-ppm concentration ratio achieved transmission of spectra closest to the
-photovoltaic band. The temperature profile, power output, and
+ppm concentration ratio achieved transmission of spectra closest to those most useful by the
+photovoltaic band-gap. The temperature profile, power output, and
 performance of the hybrid concentrated photovoltaic thermal system for
 different loading concentrations of ZnO nanoparticles were computed.
 Since the photovoltaic module was detached from the filtering channel and
 integrated with the heat exchange pipe, its surface temperature was 
-far lower than the nanofluid and output water temperature. The combined
+much lower than the nanofluid and output water temperature. The combined
 efficiency of the system under the solar irradiance on a typical day
 reached a maximum value of 50.35%, 65.2%, 72.70%, 74.7%, and 85% for ZnO
 nanofluids with concentration ratios of 20 ppm, 50 ppm, 95 ppm, 200 ppm, and
