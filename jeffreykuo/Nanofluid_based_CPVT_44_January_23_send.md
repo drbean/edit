@@ -426,7 +426,7 @@ circuit model of the CPVT system.
 
 The radiative thermal resistance between the concentrator and the sky
 and the filtering channel surface and top glass layer of the PV module are given
-by the following two equations.
+by the two equations below.
 
 $$R_{ra,sky\ } = \varepsilon_{F}\sigma\left( T_{F}^{2} + T_{\text{sky}}^{2} \right)\left( T_{F} + T_{\text{sky}} \right)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (21)$$
 
