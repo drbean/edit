@@ -268,7 +268,7 @@ $$Q_{\text{ab}} = \text{CR}_{\text{TC}}A_{\text{TC}}\int_{300}^{2500}{I\left( \l
 where $\eta_{\text{opc}}\ $is the optical efficiency of the
 concentrator, $\tau_{\text{Tc}}\left( \lambda \right)\ $is the
 transmittance of the tube, and $\alpha_{\text{nf}}$ is the absorbance of
-the nano fluid at wave length, λ, respectively. Solar radiation
+the nano fluid at wave length, λ. Solar radiation
 absorbed by the nanofluid is equal to the thermal energy transferred to
 the water while the nanofluid is flowing inside the coil and the energy
 lost. The insulation layer exchanges the heat by conduction with the
@@ -294,9 +294,9 @@ Therefore the power in each layer is affected by the optical property of
 the material selected and its geometry.
 
 As is shown in Fig. 3, the present system is composed of the linear
-Fresnel lens, the spectral splitter, PV module, heat pipe water channel
-on the back of the PV cells, the water tank heat exchange. When the sunlight
-converged by the Fresnel lens passes through the quartz tube filled with
+Fresnel lens, spectral splitter, PV module, heat pipe water channel
+on the back of the PV cells, and water tank heat exchange. When the sunlight
+converged by the Fresnel lens passes through the quartz tubes filled with
 nanofluid, a portion of the solar energy is absorbed and converted into
 heat by the nanofluid, while the rest is transmitted to the PV
 module. The nanofluid in the tube is not only the spectral splitting
@@ -315,7 +315,7 @@ fill factor and short-circuit current of the PV given by
 $J_{\text{sc}} = \text{CR}_{\text{pv}}A_{\text{pv}}\int_{300}^{2500}{I\left( \lambda \right)\eta_{\text{op}}}\tau_{\text{Tc}}^{2}(\lambda)S(\lambda)\tau_{\text{nf}}\left( \lambda \right)d\lambda\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (6$)
 
 where $S(\lambda)$ is the optical response of the silicon solar cell
-[32](#_ENREF_32)\[\]. The open-circuit voltage can be calculated by the
+[32](#_ENREF_32)\[\]. The open-circuit voltage can be calculated by 
 equation Eq. (7).
 
 $$V_{\text{oc}} = \frac{A^{'}k_{B}T_{\text{pv}}}{e}\ln\left( \frac{{\text{CR}_{\text{pv}}\text{\ J}}_{\text{sc}}}{J_{o}} + 1 \right)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (7)$$
