@@ -733,7 +733,7 @@ $$\text{\ C}_{w}\frac{\text{dT}_{w}}{\text{dt}} = \frac{1}{R_{cov,nf,w}}\left( T
 where $\text{\ C}_{w}$ and $\text{\ T}_{w}$ are the thermal capacitance
 and temperature of the water in the heat exchange tank, and
 $R_{cov,nf,w}$ is the convective thermal resistance between the
-nanofluid and water in the heat exchange tank.
+nanofluid and water in the tank.
 
 The parameters used in the simulation of our modeled system are shown in
 Table 1. Some of the parameters are based on measurement specific to the
