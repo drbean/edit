@@ -736,8 +736,8 @@ $R_{cov,nf,w}$ is the convective thermal resistance between the
 nanofluid and water in the tank.
 
 The parameters used in the simulation of our modeled system are shown in
-Table 1. Some of the parameters are based on measurement specific to the
-model system; some are taken from literature, and others are properties
+Table 1. Some of the parameters are based on measurements specific to the
+model system; some are taken from the literature, and others are properties
 of the materials used.
 
 Table 1
