@@ -387,7 +387,7 @@ $$C = \rho A\delta c\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 
 where $\rho$ is the density, A the area, $\text{δ\ }$ the thickness,
 and c the specific heat capacity of the circuit element in the model.
 
-Energy equation of each sub system
+Energy equations of each sub system
 
 (1) The Fresnel lens layer
 
