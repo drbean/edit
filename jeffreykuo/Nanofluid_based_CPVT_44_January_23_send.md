@@ -526,7 +526,7 @@ that of the environment.
 
 $$C_{g}\frac{dT_{g}}{\text{dt}} = {\alpha_{g}\tau_{g}Q}_{\text{pv}} + \frac{1}{R_{ra,Tc,g}}\left( T_{\text{Tc}} - T_{g} \right) + \frac{1}{R_{con,pv,g}}\left( T_{\text{pv}} - T_{g} \right)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (37)$$
 
-where, $C_{g}$, $T_{g},\ \alpha_{g}$, and $\tau_{g}$ are the thermal
+where $C_{g}$, $T_{g},\ \alpha_{g}$, and $\tau_{g}$ are the thermal
 capacitance, temperature, absorptivity, and transmittance of the top glass
 layer of the PV module; $Q_{\text{pv}}$ is the power transmitted to the
 top surface of the PV module; $R_{ra,Tc,g}\ $and $R_{con,pv,g}\ $are
