@@ -685,9 +685,9 @@ $$C_{\text{nf}}\frac{\text{dT}_{\text{mn}}}{\text{dt}} = \frac{1}{R_{cov,nf,w}}\
 
 where $C_{\text{nf}}$, $T_{\text{mn}}$, ${\dot{m}}_{\text{nf}}$, and
 $c_{\text{nf}}$ are the thermal capacitance, temperature, mass flow
-rate, $T_{o,nf}$ and $T_{in,nf}\ $are the outlet and inlet temperature
-of the nanofluid; specific heat capacity of the nanofluid flowing in the
-coil immersed in the heat exchange water tank; and $R_{cov,nf,w}$ is the
+rate, and specific heat capacity of the nanofluid flowing in the
+coil immersed in the heat exchange water tank; $T_{o,nf}$ and $T_{in,nf}\ $are the outlet and inlet temperature
+of the nanofluid, respectively; and $R_{cov,nf,w}$ is the
 convective thermal resistance between the nanofluid and the water in the
 water tank, which can be calculated by:
 
@@ -695,17 +695,17 @@ $R_{conv,\ nf,w} = \frac{1}{h_{conv,nf,w,}A_{w}}$
 $\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (57)$
 
 where $A_{w}$ is the heat transfer area between the coil and the water
-in the tank, $h_{cov,nf,w}$ is convective thermal resistance between the
-nanofluid and water in the heat exchange tank. Neglecting the thermal
-resistance of the wall of the coil since it is very thin $h_{cov,nf,w}$
+in the heat exchange tank, and $h_{cov,nf,w}$ is the convective thermal resistance between the
+nanofluid and water in the tank. Neglecting the thermal
+resistance of the wall of the coil since it is very thin, $h_{cov,nf,w}$
 can be determined by [24](#_ENREF_24)[47](#_ENREF_47)\[, \]:
 
 $$h_{conv,nf,w} = {(\frac{D_{t,o}}{D_{t,i}h_{cov,w,t}} + \frac{1}{h_{cov,nf,t}})}^{- 1}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (58)$$
 
-where $D_{t,o}$ and $D_{t,i}$ are outer and inner diameter of the coil,
+where $D_{t,o}$ and $D_{t,i}$ are the outer and inner diameter of the coil, respectively;
 $h_{conv,w,t}\ $is the convective heat transfer coefficient between the
 water in the water tank and the wall of the coil, which can be described
-by [47](#_ENREF_47)\[\]; $h_{cov,nf,t}\ $is the convective thermal
+by [47](#_ENREF_47)\[\]; and $h_{cov,nf,t}\ $is the convective thermal
 resistance between the nanofluid and wall of the coil.
 
 $$h_{cov,w,t} = 3.66\frac{k_{w}}{D_{t,i}}f_{w,t}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (59)$$
