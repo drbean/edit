@@ -625,7 +625,7 @@ insulator and the conducting tube, and $R_{conv,co,w}$ is the convective
 thermal resistance between the conducting tube and water flowing inside
 the tube.
 
-The convective thermal resistance between the tube and the water is
+The convective thermal resistance between the tube and the water will be
 determined by:
 
 $$R_{cov,co,w} = \frac{1}{h_{w}\text{πD}_{\text{co}}L}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (51)$$
@@ -639,7 +639,7 @@ $\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
 
 where $\text{Nu}_{w}\ $is the Nusselt number, $k_{w}$ is the thermal
 conductivity of water, and $D_{i}$ is the hydraulic diameter, which is the inner
-diameter of tube. The contact area of the tube with the insulator is
+diameter of the tube. The contact area of the tube with the insulator is
 
 $A_{in,co} = (\frac{\pi}{2} + 1)D_{o}L$
 $\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (53)$
