@@ -327,7 +327,7 @@ which is given by [33](#_ENREF_33)[34](#_ENREF_34)\[, \]:
 
 $$J_{o} = K^{'}T_{\text{pv}}^{\frac{3}{n}}\exp^{\frac{{- E}_{g}}{bk_{B}T_{\text{pv}}}}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (8)$$
 
-where $K^{'}$ is the empirical parameter. The filling factor is
+where $K^{'}$ is an empirical parameter. The filling factor is
 calculated using:
 
 $$FF = \frac{V_{m}}{V_{\text{oc}}}\left( 1 - \frac{\exp\left( \frac{eV_{m}}{k_{B}T_{\text{pv}}} \right) - 1}{\exp\left( \frac{eV_{\text{oc}}}{k_{B}T_{\text{pv}}} \right) - 1} \right)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (9)$$
@@ -337,7 +337,7 @@ by:
 
 $V_{m} = k \times V_{\text{oc\ }}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (10)$
 
-where k is the empirical parameter of the solar cell.
+where k is an empirical parameter of the solar cell.
 
 The electrical efficiency of the CPV/T system is calculated by
 
