@@ -447,13 +447,13 @@ and $R_{ra,Tc,g}\ $are the radiative thermal resistance between the
 Fresnel lens and filtering tube channel and between the filtering tube channel and
 the top glass layer of the PV module, given by Eqs. (24) and (25),
 respectively; and $\ R_{cov,Tc,mnf}$ is the convective thermal resistance between
-filtering channel and nanofluid, given by Eq. (27).
+the filtering channel and nanofluid, given by Eq. (27).
 
 $R_{ra,F,Tc\ } = \varepsilon_{F}\sigma\left( T_{F}^{2} + T_{\text{Tc}}^{2} \right)\left( T_{\text{Tc}} + T_{F} \right)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (24$)
 
 $$R_{ra,Tc,g} = \varepsilon_{\text{Tc}}\sigma\left( T_{\text{Tc}}^{2} + T_{g}^{2} \right)\left( T_{\text{Tc}} + T_{g} \right)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (25)$$
 
-The emissivity of the glass used in the study is 0.95 and $R_{cov,Tc}$
+The emissivity of the glass used in the study is 0.95 and $R_{cov,Tc}$,
 the convective thermal resistance between the filtering channel and the
 nanofluid is determined by:
 
@@ -463,7 +463,7 @@ $$h_{cov,Tc,mnf} = \frac{\text{Nu}_{\text{nf}}k_{\text{nf}}}{D_{i}}\ \ \ \ \ \ \
 
 where $k_{\text{nf}}$ is the thermal conductivity of the nanofluid and
 $D_{i}$ is the inner diameter of the tube ,  *Nu~nf~* is the Nusselt
-number which can be calculated by using Eq. (28) [38](#_ENREF_38)\[\].
+number which can be calculated using Eq. (28) [38](#_ENREF_38)\[\].
 
 $$Nu = P_{r}^{0.1039}(1.0257\varphi + 1.1397\text{Re}^{0.205} + 0.788\varphi\text{Re}^{0.205} + 1.2069\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (28)$$
 
