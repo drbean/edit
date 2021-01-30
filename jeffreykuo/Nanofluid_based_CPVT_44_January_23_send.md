@@ -892,23 +892,23 @@ computed for the different nanofluid concentrations and is presented in Fig.
 nanofluid\'s working temperature increases proportionally to the
 increase in the concentration of nanoparticles. Since the PV module is detached from the
 filtering channel and integrated with the heat exchange pipe, its
-surface temperature is much lower than the nanofluid temperature. Each
+surface temperature is much lower than the nanofluid temperature, even in the case of low-concentration samples. Each
 subsystem\'s surface or bulk temperature in the model affects the
 following layers\' temperatures due to radiation, conduction, or
 convective heat transfer. In the case of the base fluid or a nanofluid with a low
 concentration ratio, our results show a smaller rise in the
-nanofluid's temperature leaves large amounts of energy free to raise the heat exchange-coupled PV module
-temperature higher. In other words, a large amount of photon energy
-strikes the PV surface, but the heat pipe properly absorbs the waste
-heat energy. It is also found that the hourly varying surface
-temperature of the PV module is under the nanofluid flowing in the
+nanofluid's temperature is accompanied by higher heat exchange-coupled PV module
+temperatures. This is due to the lesser absorption of energy by the filtering channel, leaving large amounts of energy free to 
+strike the PV surface. But the heat pipe properly absorbs the waste
+heat energy. So, it is also found that the hourly varying surface
+temperature of the PV module is consistently less than that of the nanofluid flowing through the
 filter channel and heat exchange water tank for the base fluid and
-various nanoparticle loading concentration ratios. The output water
-temperature heated by the pipe attached to the PV and heat exchange
-water tank is increased as the concentration is increased. The maximum
-output water temperature computed was at 14:00, and the value was 313.74
+other nanoparticle loading concentration ratios. The output 
+temperature of the water heated by the pipe attached to the PV and the heat exchange
+water tank increased as the concentration increased. The maximum
+output water temperature computed was at 14:00, and its value was 313.74
 K, 315.90 K, 324.13 K, 332.56 K, 333.42 K, and 350.68 K for samples A,
-B, C, D, and F, respectively.
+B, C, D, E, and F, respectively.
 
   --------------------------------------------------------------------------------- ---------------------------------------------------------------------------------
   ![](media\image7.emf){width="3.445378390201225in" height="2.580129046369204in"}   ![](media\image8.emf){width="3.394958442694663in" height="2.542374234470691in"}
@@ -921,7 +921,7 @@ B, C, D, and F, respectively.
   ![](media\image11.emf){width="3.3277307524059494in" height="2.4920286526684166in"}   ![](media\image12.emf){width="3.2521008311461066in" height="2.435392607174103in"}
   e\) Temperature variation of E                                                       f\) Temperature variation of F
 
-Fig. 10. The temperature of each sub system in the model
+Fig. 10. The temperature of each sub system in the model for the different concentrations.
 
 3.  Power output
 
