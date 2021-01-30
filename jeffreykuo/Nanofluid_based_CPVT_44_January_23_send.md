@@ -203,7 +203,7 @@ Fig. 2. 3D diagram of the CPV/T model.
 
 A model was formulated to evaluate the spectral splitting CPV/T system.
 The model analysis was performed by applying energy balance equations
-for the concentrator, spectral filtering, PV module layers, and the heat
+for the concentrator, spectral filtering, PV module layers, and heat
 exchangers. With these, it was possible to predict the temperature, the
 electrical and thermal powers, and the electrical and thermal
 efficiencies of the CPV/T. The amount of solar radiation reaching
