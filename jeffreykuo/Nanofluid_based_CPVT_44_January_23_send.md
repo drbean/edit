@@ -997,20 +997,20 @@ Fig. 13. The photon energy conversion efficiency of the model system
 
 7.  **Conclusions**
 
-We designed a linear Fresnel lens-based CPV/T system collecting enormous
-light beams into a worthwhile nanofluid filtering and PV module
-integrated with heat exchange pipe. The sequentially configured
-filtering tubes without a gap that intense light is striking the top
-surface contributes for intended amounts of power to be transmitted or
-absorbed for the required forms of energy conversion. In this study, we
-investigated the photon energy conversion depending on the specific
-sample solution\'s thermophysical properties and the environmental
-parameters and properties of the solar cell. The nanofluid prepared
+We designed a linear Fresnel lens-based CPV/T system collecting an extremely wide
+light beam into an effective nanofluid filtering and PV module system
+integrated with a heat exchange pipe. The 
+filtering tubes arranged in rows without a gap allow intense light striking the top
+surface to be transmitted or absorbed, contributing intended amounts of power to 
+the required form of either photoelectrical or thermal energy conversion. In the study, we
+investigated the photon energy conversion\'s dependence on the specific
+sample solution\'s thermophysical properties and on environmental
+parameters and the properties of the solar cell. The prepared nanofluid\'s
 optical properties were measured by UV-VIS spectrometer, and light ray
-distribution study and local solar irradiation information were
-performed by Tracepro. These parameters were applied to the model
-developed to analyze the model\'s power output and system performance
-and energy benefit examine. The major findings are summarized below.
+distribution and local solar irradiation information were
+obtained with Tracepro. These parameters were applied to the developed model
+to analyze the model\'s power output, system performance
+and energy benefits. The major findings are summarized below.
 
 -   The light beam focused on sequentially arranged filtering tubes of
     the optimum diameter without a gap using a Fresnel lens combined
