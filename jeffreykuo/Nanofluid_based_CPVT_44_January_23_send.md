@@ -240,7 +240,7 @@ The power coming to the system through the Fresnel lens is
 $$Q_{\text{inc}} = A_{F}\int_{\lambda_{i}}^{\lambda_{f}}{I\left( \lambda \right)d\lambda\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (1\ )}$$
 
 where *I* is the spectral solar radiation intensity with air mass 1.5,
-$\lambda$ is the wavelength, and $A_{F}$ is surface area of the Fresnel
+$\lambda$ is the wavelength, and $A_{F}$ is the surface area of the Fresnel
 lens. The total amount of power incident to
 the [nano](https://www.sciencedirect.com/topics/engineering/beam-splitter)fluid
 splitter can be calculated by Eq. (2)
@@ -254,9 +254,9 @@ $\tau_{F}\text{\ \ }$the transmittance of the Fresnel concentrator. More
 than 99% of the surface solar flux is contained in the spectral region
 between 300 nm initial wavelength and 2500 nm final wavelength, hence
 solar radiation energy apart from this band can be ignored
-[27-29](#_ENREF_27)\[\]. Transparent quartz tubes were used for 
+[27-29](#_ENREF_27)\[\]. Transparent quartz tubes are used for 
 transport of the
-nanofluid to reduce optical loss. This energy is equal to the
+nanofluid to reduce optical loss. This solar energy is equal to the
 thermal energy absorbed by the nanofluid, the transmitted energy to the
 PV module and the energy loss.
 
