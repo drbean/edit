@@ -321,7 +321,7 @@ equation Eq. (7).
 $$V_{\text{oc}} = \frac{A^{'}k_{B}T_{\text{pv}}}{e}\ln\left( \frac{{\text{CR}_{\text{pv}}\text{\ J}}_{\text{sc}}}{J_{o}} + 1 \right)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (7)$$
 
 where A′ and $T_{\text{pv}}\ $are the ideality factor and surface
-temperature of solar cell, respectively, $k_{B}$ the Boltzmann constant, e the
+temperature of the solar cell, respectively, $k_{B}$ the Boltzmann constant, e the
 elementary charge, and $J_{o}$ the dark saturation current density,
 which is given by [33](#_ENREF_33)[34](#_ENREF_34)\[, \]:
 
