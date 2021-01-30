@@ -332,7 +332,7 @@ calculated using:
 
 $$FF = \frac{V_{m}}{V_{\text{oc}}}\left( 1 - \frac{\exp\left( \frac{eV_{m}}{k_{B}T_{\text{pv}}} \right) - 1}{\exp\left( \frac{eV_{\text{oc}}}{k_{B}T_{\text{pv}}} \right) - 1} \right)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (9)$$
 
-where, $V_{m}$ is the voltage at the maximum power point of the I - V curve given
+where $V_{m}$ is the voltage at the maximum power point of the I - V curve given
 by:
 
 $V_{m} = k \times V_{\text{oc\ }}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (10)$
@@ -350,7 +350,7 @@ be obtained through multiplying the current by the open circuit voltage and
 fill factor.
 
 The thermal power output from the system collected by the exchange
-integrated with the PV module, nanofluid, and the water tank can be
+integrated with the PV module, nanofluid, and water tank can be
 determined by;
 
 $$Q_{\text{th}} = {\dot{m}}_{w}c_{p,w}\left( T_{w,out} - T_{\text{inl}} \right)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (12)$$
