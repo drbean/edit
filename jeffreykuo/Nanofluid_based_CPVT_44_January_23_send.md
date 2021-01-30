@@ -492,7 +492,7 @@ concentrations, $\rho_{1}$ and $\rho_{2}\ $ the densities, and $\mu_{1}\ $and
 $\mu_{2}$ the dynamic viscosities of water and EG, respectively.
 
 The specific thermal capacitance and density of the nanofluid are given
-by Eqs. (33) and (33) [40](#_ENREF_40)\[\]:
+by Eq. (33) [40](#_ENREF_40)\[\]:
 
 $c_{p,nf} = \frac{\text{φc}_{p,np}\rho_{\text{np}} + (1 - \varphi)c_{p,bf}\rho_{\text{bf}}}{\rho_{\text{nf}}}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (33)$
 
