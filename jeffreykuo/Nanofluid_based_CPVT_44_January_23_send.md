@@ -407,8 +407,8 @@ $R_{cov,F}$, $R_{ra,sky}$, and $R_{ra,Tc\ }$ are given by Eqs. (18),
 
 $$R_{cov,F} = \frac{1}{h_{cov,F}A_{F}}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (18)\ \ \ $$
 
-where $\text{\ A}_{F}\ $is the surface area of the Fresnel lens,
-$h_{cov,F}\ $is the convective heat transfer coefficient between Fresnel
+where $\text{\ A}_{F}\ $is the surface area of the Fresnel lens, and
+$h_{cov,F}\ $is the convective heat transfer coefficient between the Fresnel
 lens and ambient air defined by [24](#_ENREF_24)\[\]:
 
 $h_{cov,F} = {2.8 + 3u}_{w}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (19)$
