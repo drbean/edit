@@ -784,7 +784,7 @@ the specific solution and its ZnO concentration, and on environmental parameters
 and the properties of the solar cell. To investigate this conversion, we determined important
 parameters specific to our samples using our theoretical base. The major
 findings using the parameters of the experiment and the model are summarized in
-Table 2 and Fig. 6. Then we apply the model we developed to analyze
+Table 2 and Fig. 6. Then we applied the model we developed to analyze
 power output and system performance.
 
 Table 2
