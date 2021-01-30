@@ -462,8 +462,8 @@ $R_{cov,Tc,mnf} = \frac{1}{h_{cov,Tc}A}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
 $$h_{cov,Tc,mnf} = \frac{\text{Nu}_{\text{nf}}k_{\text{nf}}}{D_{i}}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (27)$$
 
 where $k_{\text{nf}}$ is the thermal conductivity of the nanofluid and
-$D_{i}$ is the inner diameter of the tube ,  *Nu~nf~* is the Nusselt
-number which can be calculated using Eq. (28) [38](#_ENREF_38)\[\].
+$D_{i}$ is the inner diameter of the tube.  *Nu~nf~* is the Nusselt
+number, which can be calculated using Eq. (28) [38](#_ENREF_38)\[\].
 
 $$Nu = P_{r}^{0.1039}(1.0257\varphi + 1.1397\text{Re}^{0.205} + 0.788\varphi\text{Re}^{0.205} + 1.2069\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (28)$$
 
