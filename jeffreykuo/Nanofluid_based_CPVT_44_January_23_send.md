@@ -357,9 +357,9 @@ $$Q_{\text{th}} = {\dot{m}}_{w}c_{p,w}\left( T_{w,out} - T_{\text{inl}} \right)\
 
 where ${\dot{m}}_{w}\ $and$\ c_{p,w}$ are the mass flow rate and the
 specific heat capacity of water and $T_{w,out}$ and $T_{\text{inl}}$ are
-the outlet and inlet water temperature.
+the outlet and inlet water temperature, respectively.
 
-Then thermal efficiency of the system is given by:
+The thermal efficiency of the system is given by:
 
 $$\text{\ η}_{\text{th}} = \frac{Q_{\text{th}}}{Q_{\text{inc}}}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (13)$$
 
