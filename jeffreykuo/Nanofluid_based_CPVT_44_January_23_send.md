@@ -960,23 +960,23 @@ Fig. 12. The hourly varying thermal power output of the system
 4.  Energy conversion performance
 
 The energy conversion efficiency of our model system is presented in
-Fig.13. The result shows the time variation of thermal efficiency and
-almost stable electrical energy efficiency of the system. The electrical
-efficiency of CPV/T module without nanoparticle was 19.5%. This
-photoelectrical conversion efficiency of the CPV/T module was decreased
+Fig.13. The results show extensive time variation in thermal efficiency and
+the almost stable electrical energy efficiency of the system. The electrical
+efficiency of the CPV/T module without nanoparticles was 19.5%. This
+photoelectrical conversion efficiency of the CPV/T module decreased
 to 18.75%, 14.53%, 12.15% 11.96%, and 3.30% for the 20 ppm, 50 ppm, 95
-ppm, 200 ppm and 500 ppm concentration ratio sample solution. The
+ppm, 200 ppm and 500 ppm concentration ratio sample solutions, respectively. The
 decrease in electrical efficiency is mainly caused by solar insolation
-reductions on the CPV module\'s surface. The absorbed photon by the
-concentrated solution contributes to enhancing thermal efficiency that
-compensates for photoelectrical efficiency reduction. The maximum
+reductions on the CPV module\'s surface. The photons absorbed by the
+concentrated solutions contribute to an enhancement of thermal efficiency that
+compensates for the photoelectrical efficiency reduction. The maximum
 overall efficiency of the system computed was 46.83%, 50.35% , 65.21 %,
 72.27 %, 74.69%, and 85.27% for samples A, B, C, D, E, and F,
 respectively.
 
-The usefulness of the model\'s energy conversion was analyzed by merit
-function and found that the value is increased from 1.076 to 1.184 to
-sample A to F, respectively. This shows that the nanofluid filter
+The usefulness of the model\'s energy conversion was analyzed with the merit
+function and was found to increase in value from 1.076 to 1.184, over the
+samples A to F, respectively. This shows that the nanofluid filter
 effectively converts the absorbed light to useful energy.
 
 +----------------------------------+--------------------------------+
@@ -993,7 +993,7 @@ effectively converts the absorbed light to useful energy.
 | e)  Efficiency of E (φ 200ppm)   | f)  Efficiency of F (φ 500ppm) |
 +----------------------------------+--------------------------------+
 
-Fig. 13. The photon energy conversion efficiency of the model system.
+Fig. 13. The photon energy conversion efficiency of the model system
 
 7.  **Conclusions**
 
