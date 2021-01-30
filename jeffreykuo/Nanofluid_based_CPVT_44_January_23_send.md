@@ -930,10 +930,10 @@ output based on the proposed optical, electrical, and thermal models.
 The hourly varying electrical power output and short current density of
 the model are presented in figure 11. The highest power output and short
 circuit current was obtained for the base fluid, and the smallest value
-was for the 500 ppm sample solution. The result clearly shows the
-increase in loading concentration of nanoparticle decreases the
-electrical power output and short circuit. The peak value of electric
-power for the sample A , B, C, D, E, and F are 183.81 w/m^2^, 167.14
+was for the 500 ppm sample solution. The result clearly shows that the
+increase in loading concentration of nanoparticles decreases the
+electrical power output and short circuit current. The peak value of electric
+power for the samples A , B, C, D, E, and F are 183.81 w/m^2^, 167.14
 w/m^2^, 129.57 w/m^2^, 108.34 w/m^2^, 106.67 w/m^2^ , 29.47 w/m^2^,
 respectively.
 
@@ -945,11 +945,11 @@ Fig. 11. The hourly varying electrical power output and the short
 current density of the CPV/T system: (a) The electrical power output (b)
 The short current density
 
-The hourly varying thermal power output of the model is presented by
-Fig. 12. As discussed previously, the nanofluid in the filter channel
-absorbs parts of the spectrum and then outflows into the coil immersed
-by a water tank heat exchange, which is the source of thermal power. The
-more nanoparticles\' concentration is the more absorption of the
+The hourly varying thermal power output of the model is presented in
+Fig. 12. As discussed above, the nanofluid in the filter channel
+absorbs energy from parts of the spectrum and then outflows into the coil immersed
+in a heat exchange water tank, which is the source of thermal power. The
+greater the nanoparticles\' concentration, the more absorption of energy from the
 spectrum, which directly contributes to the increases in thermal power
 output.
 
