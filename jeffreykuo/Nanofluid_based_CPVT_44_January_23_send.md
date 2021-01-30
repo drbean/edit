@@ -569,9 +569,9 @@ $$C_{t}\frac{dT_{t}}{\text{dt}} = \frac{1}{R_{con,pv,t}}\left( T_{\text{pv}} - T
 where $C_{t}$ and $T_{t}$ are the thermal capacitance and temperature of
 the TPT layer, respectively; $R_{con,pv,t}$ is the conductive thermal resistance
 between the PV layer and TPT layer; $R_{con,t,co}$ is the conductive
-thermal resistance between TPT layer and conducting pipe; and $R_{con,t,in}$
+thermal resistance between the TPT layer and conducting pipe; and $R_{con,t,in}$
 is the conductive thermal resistance between the TPT and insulator. The
-thermal resistance between these elements can be calculated by using
+thermal resistance between these elements can be calculated using
 Eqs. (43) and (44) [46](#_ENREF_46)\[\]:
 
 $R_{con,t,co} = \frac{1}{A_{t,co}h_{con,t,co}}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (43)$
@@ -589,7 +589,7 @@ layer and length of the tube.
 $$A_{t,co} = {n(\delta}_{t}l)\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (45)$$
 
 where n, $\delta_{t}$, and $l$ are the number, thickness, and length of
-the pipe integrated with the PV, respectively. The conductive heat transfer
+the pipe(s) integrated with the PV, respectively. The conductive heat transfer
 coefficient between the TPT and the conducting tube is determined by:
 
 $$h_{con,t,co} = \frac{2k_{t}}{x_{t}}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (46)$$
