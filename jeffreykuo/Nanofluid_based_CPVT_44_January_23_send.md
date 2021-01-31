@@ -949,7 +949,7 @@ The hourly varying thermal power output of the model is presented in
 Fig. 12. As discussed above, the nanofluid in the filter channel
 absorbs energy from parts of the spectrum and then outflows into the coil immersed
 in a heat exchange water tank, which is the source of thermal power. The
-greater the nanoparticles\' concentration, the more absorption of energy from the
+greater the nanoparticles\' concentration, the more the absorption of energy from the
 spectrum, which directly contributes to the increases in thermal power
 output.
 
