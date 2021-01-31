@@ -933,7 +933,7 @@ circuit current was obtained for the base fluid, and the smallest value
 was for the 500 ppm sample solution. The result clearly shows that the
 increase in loading concentration of nanoparticles decreases the
 electrical power output and short circuit current. The peak value of electric
-power for the samples A , B, C, D, E, and F are 183.81 w/m^2^, 167.14
+power for the samples A, B, C, D, E, and F are 183.81 w/m^2^, 167.14
 w/m^2^, 129.57 w/m^2^, 108.34 w/m^2^, 106.67 w/m^2^ , 29.47 w/m^2^,
 respectively.
 
