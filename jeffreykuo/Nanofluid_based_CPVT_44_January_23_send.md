@@ -782,7 +782,7 @@ transmittance of the samples.
 The photo energy conversion obtained with each sample solution depends on the thermophysical properties of
 the specific solution and its ZnO concentration, and on environmental parameters
 and the properties of the solar cell. To investigate this conversion, we determined important
-parameters specific to our samples using our theoretical base. The major
+parameters specific to our samples from their base materials. The major
 findings using the parameters of the experiment and the model are summarized in
 Table 2 and Fig. 6. Then we applied the model we developed to analyze
 power output and system performance.
