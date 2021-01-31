@@ -116,8 +116,8 @@ using the entire solar spectrum for electricity in the PV band and for thermal
 energy from the heat waste and radiation outside the PV band, for 
 purposes of higher
 temperature water heating. The concentrating system contains a Fresnel
-lens, PV cell, nanofluid flowing in glass tubes, and heat exchanger
-attached to both the PV cell and a coil immersed in a water tank as shown
+lens, PV cell, nanofluid flowing in glass tubes, and heat exchangers
+attached to the PV cell and in the form of a coil immersed in a water tank as shown
 in Fig.1. Incident sunlight is firstly concentrated by the Fresnel lens.
 The concentrated sunlight focuses on the nanofluid flowing in quartz
 tubes. The photons which can be converted most efficiently by the PV are
