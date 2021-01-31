@@ -58,7 +58,7 @@ sunlight on photovoltaic cells (PV) and the consequent replacement of
 expensive PV panel arrays with cheap concentrating mirrors or lenses 
 can reduce the cost of solar electricity [6](#_ENREF_6)[7](#_ENREF_7)\[, \].
 
-Spectral energy at or near the band-gap of semiconductor is utilized by
+Spectral energy at or near the band-gap of the semiconductor is utilized by
 PV cells for photoelectrical energy conversion, but the remaining photon
 energy is converted to thermal energy. This results in PV cell
 heating, which reduces their power production efficiency 
