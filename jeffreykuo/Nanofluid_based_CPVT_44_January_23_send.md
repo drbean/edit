@@ -849,7 +849,7 @@ surface and CPV/T are presented in Fig.7 b.
 
 Applying Eqs. (1) and (2), the power collected by the concentrator and
 the amount of irradiative power reaching the top surface of the spectral
-filtering tube channel was determined using MATLAB. The solar spectral
+filtering tube channel were determined using MATLAB. The solar spectral
 irradiance on the Fresnel lens and spectral response of the PV are presented
 in Fig. 8. Using the optical data for the nanoparticles\' different
 loading concentrations, we numerically found the power absorbed by the
