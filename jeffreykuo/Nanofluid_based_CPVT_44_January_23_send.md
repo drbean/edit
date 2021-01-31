@@ -1021,31 +1021,31 @@ and energy benefits. The major findings are summarized below.
     far as it is our understanding, have used other forms of 
     channel.
 
--   Using the optical data for the nanoparticles\' different loading
-    concentrations, we numerically found the power absorbed by the
-    nanofluid and power transmitted to the PV module integrated with the
-    heat exchange. The addition of 50:50% water-ethylene glycols as a
+-   Using optical data for the different loading
+    concentrations of nanoparticles, we numerically found the power absorbed by the
+    nanofluid and the power transmitted to the PV module integrated with the
+    heat exchange. The use of a 50:50% water-ethylene glycol solution as a
     base fluid will filter out 19.58% of the total solar irradiation on
     the CPV/T system. It was also found that the nanofluid solution with
-    concentration ratio 20 ppm, 50 ppm, 95 ppm, 200 ppm, 500 ppm will
-    filter 22.94%, 42.43%, 50.59%, 52.08%, and 80.75% of spectrum,
+    concentration ratios of 20 ppm, 50 ppm, 95 ppm, 200 ppm, and 500 ppm will
+    filter 22.94%, 42.43%, 50.59%, 52.08%, and 80.75% of the spectrum,
     respectively.
 
--   We numerically determined the elements\' temperature profile in the
+-   We numerically determined the temperature profiles of the elements of the
     model system and found that the filtering tubes and nanofluid
-    temperature were found the highest values. The peak temperature of
-    the nanofluid is by far higher than the PV module's peak temperature
-    for sample A to F, and the temperature of the water in the tank
-    rises peak value at 14:00 with value 313.73 K, 314.19 K , 324.12 K
+    have the highest values. The peak temperature of
+    the nanofluid is higher, by far, than the PV module's peak temperature
+    for all samples A to F, and the temperature of the water in the tank
+    rises to a peak value at 14:00 of 313.73 K, 314.19 K , 324.12 K
     332.56 K, 333.42 K, and 350.68 K, respectively.
 
--   The combined efficiency of the system under the solar irradiance in
+-   The combined efficiency of the system under the solar irradiance of
     a typical day with a geometrical concentration ratio of 5.8
-    filtering channel and 3.43 PV/T systems reaches a maximum value of
-    50.35%, 65.2%, 72.70%, 74.7%, and 85% for ZnO nanofluid of
-    concentration ratio 20 ppm, 50 ppm, 95 ppm, 200 ppm, and 500 ppm,
+    at the filtering channel and 3.43 at the PV module reaches a maximum value of
+    50.35%, 65.2%, 72.70%, 74.7%, and 85% for a ZnO nanofluid of
+    concentration ratios 20 ppm, 50 ppm, 95 ppm, 200 ppm, and 500 ppm,
     respectively.
 
 -   The usefulness of the model\'s energy conversion was analyzed by
-    merit function and found that the value is increasing from 1.076 to
-    1.184 to sample A to F, respectively.
+    merit function and was found to increase in value from 1.076 to
+    1.184, over the samples A to F, respectively.
