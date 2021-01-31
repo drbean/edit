@@ -176,8 +176,8 @@ photovoltaic modules each 190x380x35 mm in size, with cell efficiency 21.5% and
 10 w power at standard test conditions (1000 w/m^2^ solar radiation
 intensity, 25 $℃\ $environmental temperature and air mass 1.5) are placed under the tubes. The
 effective area of the PV module is 0.288 m^2^, and the geometric
-concentration ratio is 3.43. The nanofluid absorbs spectral radiation
-out of the solar cell and flows into a heat exchange water tank, passing through
+concentration ratio is 3.43. The nanofluid absorbs spectral radiation,
+preventing it from reaching the solar cell, before flowing into a heat exchange water tank and passing through
 a copper coil. It releases thermal energy while flowing in the coil
 immersed in the insulated water tank. The thermal power and thermal
 efficiency of the system are determined by using the outlet and
