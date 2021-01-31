@@ -766,8 +766,8 @@ across the silicon solar cell band gap. So this concentration is preferable to g
 amounts of both electrical and thermal energy.
 
 +----------------------------------+----------------------------------+
-| ![](media\image2.                | ![](media\image3.                |
-| png){width="2.949580052493438in" | emf){width="3.319327427821522in" |
+| ![](media\image2.png             | ![](media\image3.emf             |
+|    ){width="2.949580052493438in" |    ){width="3.319327427821522in" |
 | height="1.6890758967629047in"}   | height="2.3781517935258094in"}   |
 |                                  |                                  |
 | \(a\)                            |                                  |
@@ -873,8 +873,8 @@ Fig. 8. The solar spectral irradiance on the Fresnel lens and spectral
 response of the PV [30](#_ENREF_30)\[\].
 
 +-----------------------------------------------+---------------------+
-| ![](m                                         | [\[CHART\]]{.chart} |
-| edia\image6.emf){width="3.0735968941382326in" |                     |
+| ![](media\image6.emf                          | [\[CHART\]]{.chart} |
+|                ){width="3.0735968941382326in" |                     |
 | height="2.302817147856518in"}                 |                     |
 +===============================================+=====================+
 | \(a\)                                         | > \(b\)             |
