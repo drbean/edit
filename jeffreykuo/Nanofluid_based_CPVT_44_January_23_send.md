@@ -254,8 +254,7 @@ $\tau_{F}\text{\ \ }$the transmittance of the Fresnel concentrator. More
 than 99% of the surface solar flux is contained in the spectral region
 between 300 nm initial wavelength and 2500 nm final wavelength, hence
 solar radiation energy apart from this band can be ignored
-[27-29](#_ENREF_27)\[\]. Transparent quartz tubes are used for 
-transport of the
+[27-29](#_ENREF_27)\[\]. Transparent quartz tubes are used to hold the
 nanofluid to reduce optical loss. This solar energy is equal to the
 thermal energy absorbed by the nanofluid, the transmitted energy to the
 PV module and the energy loss.
