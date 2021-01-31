@@ -267,7 +267,7 @@ $$Q_{\text{ab}} = \text{CR}_{\text{TC}}A_{\text{TC}}\int_{300}^{2500}{I\left( \l
 where $\eta_{\text{opc}}\ $is the optical efficiency of the
 concentrator, $\tau_{\text{Tc}}\left( \lambda \right)\ $is the
 transmittance of the tube, and $\alpha_{\text{nf}}$ is the absorbance of
-the nano fluid at wave length, λ. Solar radiation
+the nanofluid at wave length, λ. Solar radiation
 absorbed by the nanofluid is equal to the thermal energy transferred to
 the water while the nanofluid is flowing inside the coil and the energy
 lost. The insulation layer exchanges the heat by conduction with the
