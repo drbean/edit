@@ -1012,13 +1012,13 @@ obtained with Tracepro. These parameters were applied to the developed model
 to analyze the model\'s power output, system performance
 and energy benefits. The major findings are summarized below.
 
--   The light beam focused on sequentially arranged filtering tubes of
-    the optimum diameter without a gap using a Fresnel lens combined
-    with a PV module integrated with a heat exchange can be employed to
-    a resourceful photo energy conversion. This is one novelty of our
-    study that light ray moves equal distance while propagating inside
-    the tubes and distribute uniformly, but many other researchers, as
-    far as our understanding, were conducted by other forms of a
+-   A light beam focused by a Fresnel lens on sequentially-arranged filtering tubes of
+    the optimum diameter without a gap, together 
+    with a PV module to which a heat exchanger is attached, can be employed as
+    a resourceful photo energy conversion system. It is one novelty of our
+    study that the light rays travel equal distances while propagating inside
+    the tubes and distribute uniformly. Many other researchers, as
+    far as it is our understanding, have used other forms of 
     channel.
 
 -   Using the optical data for the nanoparticles\' different loading
