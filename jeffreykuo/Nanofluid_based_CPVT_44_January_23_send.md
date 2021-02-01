@@ -761,7 +761,7 @@ and the low concentration results in high transmittance of the spectra.
 Therefore, at some point between these two extremes, there lies an optimum concentration of nanofluid for the
 intended requirement that maximal thermal and electrical energy be generated. The results obtained
 show that the 50 ppm nanofluid solution transmits the spectra that best allow photons to excite electrons
-across the silicon solar cell band gap. So this concentration is preferable to generate optimum
+across the silicon solar cell band gap. So this concentration is to be preferred as it generates optimum
 amounts of both electrical and thermal energy.
 
 +----------------------------------+----------------------------------+
