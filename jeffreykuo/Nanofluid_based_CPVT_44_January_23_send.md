@@ -720,7 +720,7 @@ where $R_{t}$ is the curvature radius of the spiral tube.
 $$h_{conv,t,nf} = 1.02\frac{k_{\text{nf}}}{D_{t,o}}\left( \frac{g\alpha\mathrm{\Delta}t{c_{p,nf}D}_{t,o}^{3}}{\mu_{\text{nf}}k_{\text{nf}}} \right)^{0.148}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (61)$$
 
 where $\alpha$ is the volume expansion coefficient, which
-$\ is\ 2.95 \times 10^{- 3}$/K, g acceleration due to gravity, which is
+$\ is\ 2.95 \times 10^{- 3}$/K, g the acceleration due to gravity, which is
 9.8 m/s^2^, $\mu_{\text{nf}}\ ,\ k_{\text{nf}}, and c_{p,nf}$, 
 the dynamic viscosity, thermal conductivity, and specific heat capacity
 of the nanofluid, and $D_{t,o}$ the outer diameter of the coil, respectively.
