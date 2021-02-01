@@ -528,10 +528,10 @@ $$C_{g}\frac{dT_{g}}{\text{dt}} = {\alpha_{g}\tau_{g}Q}_{\text{pv}} + \frac{1}{R
 where $C_{g}$, $T_{g},\ \alpha_{g}$, and $\tau_{g}$ are the thermal
 capacitance, temperature, absorptivity, and transmittance of the top glass
 layer of the PV module; $Q_{\text{pv}}$ is the power transmitted to the
-top surface of the PV module; $R_{ra,Tc,g}\ $and $R_{con,pv,g}\ $are
+top surface of the PV module; and $R_{ra,Tc,g}\ $and $R_{con,pv,g}\ $are
 the radiative thermal resistance between the filtering tube channels and top
-glass layer of the PV module and conductive thermal resistance between
-PV and top glass layer, respectively.
+glass layer of the PV module and the conductive thermal resistance between
+the PV and top glass layer, respectively.
 
 $$\text{\ R}_{ra,Tc,g\ } = \varepsilon_{T}\sigma(T_{g}^{2} + T_{\text{Tc}}^{2})(T_{\text{Tc}} + T_{g})\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (38)$$
 
