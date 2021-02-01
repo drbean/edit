@@ -542,7 +542,7 @@ component layers, m and n, which can be expressed by Eq. (39)
 $$h_{con,m \rightarrow n} = \frac{1}{\frac{\delta_{m}}{k_{m}} + \frac{\delta_{n}}{k_{n}}}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (39)$$
 
 where $\delta_{m}$ and $\delta_{\text{n\ }}$are the thickness of the
-layer *m* and *n* and $k_{m}\ $and $k_{n}$ are the thermal conductivity
+layers *m* and *n* and $k_{m}\ $and $k_{n}$ are the thermal conductivity
 of the respective layers, the conductive thermal resistance between the
 glass and the PV layer is given by [24](#_ENREF_24)[45](#_ENREF_45)\[,
 \]:
@@ -672,7 +672,7 @@ $T_{w,inl}$ are the outlet and inlet temperature of the water, respectively;
 and $R_{conv,co,w}$ is the convective thermal resistance between the
 conducting tube and water, which can be calculated using Eq. (51).
 The mass flow rate of the water inside the pipe integrated with the PV
-module was set to 0.00166 kg/s and the inlet temperature of the
+module was adjusted to 0.00166 kg/s and the inlet temperature of the
 water was taken to be equal to the ambient temperature. The temperature of the
 water in the tube is the average of the inlet and outlet temperature of
 water in the tube.
