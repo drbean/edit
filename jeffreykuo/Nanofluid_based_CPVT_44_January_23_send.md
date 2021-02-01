@@ -467,7 +467,7 @@ number, which can be calculated using Eq. (28) [38](#_ENREF_38)\[\].
 $$Nu = P_{r}^{0.1039}(1.0257\varphi + 1.1397\text{Re}^{0.205} + 0.788\varphi\text{Re}^{0.205} + 1.2069\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (28)$$
 
 where φ is the particle concentration, and $p_{r}$ and $\text{Re}$ are the
-Prandtl number and Reynolds number calculated by Eqs. (30) and (31), respectively
+Prandtl number and Reynolds number calculated by Eqs. (29) and (30), respectively
 [39](#_ENREF_39)\[\].
 
 $$p_{r} = \frac{{\mu_{\text{nf}}c}_{p,nf}}{k_{\text{nf}}}\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (29)$$
