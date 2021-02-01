@@ -843,7 +843,7 @@ surface and CPV/T are presented in Fig.7 b.
 +-----------------------------------------------------------------+---+
 | Fig. 7. Hourly variation of solar irradiance on the typical day,|   |
 | August 19/2020 and ray distribution on the module: (a) Solar    |   |
-| irradiance in the typical day (b) ray distribution on the module|   |
+| irradiance on the typical day (b) ray distribution on the module|   |
 +-----------------------------------------------------------------+---+
 
 Applying Eqs. (1) and (2), the power collected by the concentrator and
