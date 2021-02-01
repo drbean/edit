@@ -749,7 +749,7 @@ Parameters used in the model
 
     1.  Energy allocation
 
-The specification transmittance of ZnO nanofluid with five different
+The spectral transmittance of ZnO nanofluid with five different
 concentrations was measured using a
 V-670 spectrophotometer for different wavelengths ranging from 300--2500 nm at
 intervals of 5 nm. The sample solutions and the spectral transmittance measurements
