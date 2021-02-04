@@ -57,23 +57,23 @@ their higher thermal conductivity and electrical resistivity compared
 with other ceramic-based fillers, making them a suitable filler for thermal
 dissipation materials.^10-12^
 
-Some researches were conducted to investigate the performance of
-silicone rubber/boron nitride composite. Kemaloglu et al. ^13^ conducted
-research to investigate the properties of thermally conductive micro-
+Research has been conducted to investigate the performance of
+silicone rubber/boron nitride composites. Kemaloglu et al. ^13^ studied
+the properties of thermally conductive micro-
 and nanosize BN reinforced silicone rubber composites. The addition of
 BN to the silicone rubber decreased the tensile strength and the strain
-at break of the composites regardless of BN types due to poor
-interfacial interaction, wherein the nanosize filler showed better
-performance than microsize. The hardness of composites with nanosize
-filler increased higher than microsize. The thermal conductivity of
-micro-size composite showed a higher value than nanosize, probably due
-to lower aspect ratio in nanosize BN filler. Ha et al.^14^ also tried to
-enhance the thermal conductivity of PDMS with incorporated of BN as
-thermally conductive filler. The thermal conductivity of PDMS composite
+at break of the composites regardless of BN type due to poor
+interfacial interaction, while the nanosize filler showed better
+performance than the microsize. The hardness of the composites with the nanosize
+filler also increased more than with the microsize. The thermal conductivity of
+the microsize composite was higher than the nanosize, probably due
+to the lower aspect ratio of the nanosize filler. Ha et al.^14^ also attempted to
+enhance the thermal conductivity of PDMS, incorporating BN as
+a thermally conductive filler. The thermal conductivity of the PDMS composite
 increased from 0.2219 W m^-1^ K^-1^ to 1.5971 W m^-1^ K^-1^ with the
-addition of 100 phr of BN filler, led to approximately 700% thermal
-conductivity enhancement of the composites. The tensile strength of
-composite also increased from 0.418 MPa to 2.827 MPa with an addition of
+addition of 100 phr of BN filler, for an approximately 700% thermal
+conductivity enhancement. The tensile strength of
+the composite also increased from 0.418 MPa to 2.827 MPa with the addition of
 100 phr of filler but the elongation increased 19% to 37.3 % at 50 phr
 on addition of 50 phr, after that decreased from 37.3% to 30.0% on
 addition of 100 phr. Shi et al.^15^ improved the elongation of
