@@ -108,15 +108,15 @@ strength and Young's modulus of the BNNS/BNF/PDMS composite also increased from 
 MPa, respectively. The breakdown strength
 of the BNNS composite rose from 16.8 MV m^-1^ to 21.8 MV m^-1^ for the same loading, indicating good insulation properties.
 
-Liang et al.^20^ conducted study about hybridization of reduced graphene
+Liang et al.^20^ conducted a study of the hybridization of reduced graphene
 oxide (RGO) with MQ silicone resin to enhance the thermal conductivity
-and mechanical performance of silicone rubber composite. They obtained
+and mechanical performance of the silicone rubber composite. They obtained
 improvement of shore A hardness, tensile strength and elongation at
-break as 254%, 528% and 327% with 20% weight of RGO/MQ fillers, compared
-with neat silicone rubber. The thermal conductivity enhanced
-significantly from 0.27 W m^-1^ K^-1^ to 0.51 W m^-1^ K^-1^ with
-addition of 25% weight of RGO/MQ fillers ascompared to same weight of
-RGO filler only. Kuo et al.^21^ use of heatsinks combined with
+break of 254%, 528% and 327% with 20% by-weight additions of RGO/MQ filler, compared
+with neat silicone rubber, respectively. Thermal conductivity for the RGO/MQ filler was 
+significantly higher than for the RGO filler at 0.51 W m^-1^ K^-1^ for the former for a 25% addition by weight, as compared with the 0.27 W m^-1^ K^-1^ 
+for the latter for the same concentration.
+Kuo et al.^21^'s use of heatsinks combined with
 elastomeric thermal pads is a solution for heat dissipation. Silicone
 rubber composites exhibit excellent thermal conductivity with the
 incorporation of boron nitride (BN) as a filler. TEOS was doped onto to
