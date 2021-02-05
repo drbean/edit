@@ -102,8 +102,8 @@ filler and more defects being formed. Fang et al.^19^ combined BN foam
 the thermal, mechanical and dielectric properties of the composites. They
 obtained thermal conductivity increases for the BNNS/PDMS composite from 0.21 W m^-1^ K^-1^ for
 neat PDMS to 0.36 W m^-1^ K^-1^ for a 10% addition by weight of BNNS
-and for the BNNS/BNF/PDMS one to 0.56 W m^-1^ K^-1^ for the same percentage addition of BNNS/BNF, indicating an
-enhancement of thermal conductivity. The tensile
+and for the BNNS/BNF/PDMS one to 0.56 W m^-1^ K^-1^ for the same percentage addition of BNNS/BNF, both
+enhancements of thermal conductivity. The tensile
 strength and Young's modulus of the BNNS/BNF/PDMS composite also increased from 1.41 MPa to 1.65 MPa and from 0.99 MPa to 1.32
 MPa, respectively. The breakdown strength
 of the BNNS composite rose from 16.8 MV m^-1^ to 21.8 MV m^-1^ for the same loading, indicating good insulation properties.
