@@ -74,9 +74,9 @@ increased from 0.2219 W m^-1^ K^-1^ to 1.5971 W m^-1^ K^-1^ with the
 addition of 100 phr of BN filler, for an approximately 700% thermal
 conductivity enhancement. The tensile strength of
 the composite also increased from 0.418 MPa to 2.827 MPa with the addition of
-100 phr of filler but the elongation increased 19% to 37.3 % at 50 phr
-on addition of 50 phr, after that decreased from 37.3% to 30.0% on
-addition of 100 phr. Shi et al.^15^ improved the elongation of
+100 phr of filler. Elongation increased 19% to 37.3% 
+on addition of 50 phr, but for the addition of 100 phr, it only increased to 30.0%, 7.3% less than the figure for the 
+addition of 50 phr. Shi et al.^15^ improved the elongation of
 poly(L-lactide) (PLLA) with the addition of MQ resin without sacrificing
 their tensile strength. MQ resins can dissolve well in PDMS, make it
 possible as a universal modifier for silicone elastomers. Robinson et
