@@ -159,7 +159,7 @@ solution to obtaining high thermally conductive rubber without sacrificing
 flexibility. Silicone resin modified with some functional group to
 enhance the reinforcing effect of the silicone rubber/*h*-BN composite would appear to be the way ahead.
 
-Boron nitride (BN) consist of boron (B) and nitrogen (N) atoms,
+Boron nitride (BN) consists of boron (B) and nitrogen (N) atoms,
 covalently bonded in a honeycomb configuration, as a layered structure.
 The most investigated structure is *c*-BN and *h*-BN. The *c*-BN has
 sp^3^ atomic bonding, while the *h*-BN has characteristic sp^2^ atomic
@@ -170,19 +170,19 @@ parallel and perpendicular to a basal plane, constant wide band gap
 ranging from 5.5 to 6.4 eV, superior anti-oxidative and structural
 stabilities, chemical inertness, non toxicity and environmental safety,
 high thermal conductivity (600 Wm^-1^K^-1^ for the in-plane direction,
-30Wm^-1^K^-1^ for out-of-plane direction) and superior thermal expansion
+30Wm^-1^K^-1^ for the out-of-plane direction) and a superior thermal expansion
 coefficient, as well as superior mechanical properties.^10-12^ These
-characteristics render *h*-BN as an excellent filler in thermally
-conductive while electrically insulating composites. Despite these
-exceptional properties and potential application, the practical
+characteristics render *h*-BN as an excellent material for fillers in thermally
+conductive and, at the same time, electrically insulating composites. Despite these
+exceptional properties and potential for widespread application, the practical
 applications of *h*-BN are highly restricted by their high surface
-energy and a strong tendency to agglomerate, causing an issue on
+energy and a strong tendency to agglomerate, causing problems with
 dispersion and interfacial quality.^10^ These two factors are well known
-as the most critical to the properties and functionalities of polymer
-composites.
+as the most critical as far as the properties and functionalities of polymer
+composites are concerned.
 
-In recent years, sol-gel material has been widely applied to improve
-mechanical properties and thermal stability of composite materials.^27^
+In recent years, sol-gel materials have been widely applied to improve
+the mechanical properties and thermal stability of silicone rubber and other composites.^27^
 As a sol-gel material, silicone resin is useful as reinforcing fillers
 in some applications because of their silica content and particle-like
 physical structure. Silicone resins often called MQ resins, are
