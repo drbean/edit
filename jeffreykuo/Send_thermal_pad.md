@@ -78,36 +78,35 @@ the composite also increased from 0.418 MPa to 2.827 MPa with the addition of
 on addition of 50 phr, but for the addition of 100 phr, it only increased to 30.0%, 7.3% less than the figure for the 
 addition of 50 phr. Shi et al.^15^ improved the elongation of
 poly(L-lactide) (PLLA) with the addition of MQ resin without sacrificing
-their tensile strength. MQ resins can dissolve well in PDMS, make it
+its tensile strength. MQ resins dissolve well in PDMS, making their use
 possible as a universal modifier for silicone elastomers. Robinson et
 al.^16^ investigated the influence of BN on the network structure and
-properties of PDMS composite materials. The tensile modulus of composite
-increased from 0.16 MPa to 8.53 MPa on 0.5 of BN filler weight fraction
-and thermal conductivity increased up to 0.84 W m^-1^ K^-1^.Chen et
+properties of PDMS composite materials. The tensile modulus of the composites
+increased from 0.16 MPa to 8.53 MPa on a 0.5 BN filler weight fraction
+and thermal conductivity increased up to 0.84 W m^-1^ K^-1^. Chen et
 al.^17^ investigated the influence of MQ resins on the performance of
-PDMS composites with nano-silica sol. They obtained the extradinary
-enhancement of elongation at break propertyn round 10 times and tensile
-property also increased with the addition of MQ resin. Gu et al.^18^
-successfully synthesize the polymethyl-vinyl siloxane rubber (VMQ)
+PDMS composites with nano-silica sol. They obtained an extradinary
+enhancement of elongation at break of around 10 times and other tensile
+properties also increased with the addition of MQ resin. Gu et al.^18^
+successfully synthesized the polymethyl-vinyl siloxane rubber (VMQ)
 composite with *h*-BN to obtain high thermally conductive rubber. They
-give strongly argue that the addition of *h*-BN filler would increase
-the thermal conductivity of composites increased from 0.179 W m^-1^
-K^-1^ of neat VMQ rubber to 1.110 W m^-1^ K^-1^ on addition of 40% of
-weight filler which is 6 times larger than neat VMQ rubber and tensile
-strength increased from 0.28 MPa to 3.31 MPa with addition of 20% of
-weight filler but then decreased from 3.31MPa to 1.75 Mpa on 40%
-addition.This phenomenon was due to incomplete dispersion of *h*-BN
-fillers and more defects were formed. Fang et al.^19^ combined BN foam
-(BNF) with BN nanosheets (BNNS) on PDMS and investigated its effect on
-the thermal, mechanical and dielectric properties of composites. They
-obtained the thermal conductivity increased from 0.21 W m^-1^ K^-1^ of
-neat PDMS to 0.36 W m^-1^ K^-1^ for 10% weight of BNNS/PDMS composite
-and to 0.56 W m^-1^ K^-1^ for 10% weight of BNNS/BNF/PDMS, indicating
-enhancement of thermal conductivity with BN filler addition,the tensile
-strength from1.41 MPa to 1.65 MPa and Young's modulus 0.99 MPa to 1.32
-MPa on 10% weight addition of BNNS/BNF/PDMS.The breakdown strength
-increased from 16.8 MV m^-1^ to 21.8 MV m^-1^ with increasing BNNS
-loading from 0 to 10% weight, resulting in good insulation property.
+presented a strong argument for their use, showing that the addition of *h*-BN filler to such composites increased
+their thermal conductivity from 0.179 W m^-1^
+K^-1^ for neat VMQ rubber to 1.110 W m^-1^ K^-1^ on addition of 40%
+weight filler, a figure which is 6 times larger than that for neat VMQ rubber. Tensile
+strength also increased from 0.28 MPa to 3.31 MPa with the addition of 20% 
+filler by weight but then decreased from 3.31MPa to 1.75 Mpa for the
+addition of 40%. This phenomenon was due to the incomplete dispersion of *h*-BN
+filler and more defects being formed. Fang et al.^19^ combined BN foam
+(BNF) and BN nanosheets (BNNS) with PDMS and investigated their effect on
+the thermal, mechanical and dielectric properties of the composites. They
+obtained thermal conductivity increases for the BNNS/PDMS composite from 0.21 W m^-1^ K^-1^ for
+neat PDMS to 0.36 W m^-1^ K^-1^ for a 10% addition by weight of BNNS
+and for the BNNS/BNF/PDMS one to 0.56 W m^-1^ K^-1^ for the same percentage addition of BNNS/BNF, indicating an
+enhancement of thermal conductivity. The tensile
+strength and Young's modulus of the BNNS/BNF/PDMS composite also increased from 1.41 MPa to 1.65 MPa and from 0.99 MPa to 1.32
+MPa, respectively. The breakdown strength
+of the BNNS composite rose from 16.8 MV m^-1^ to 21.8 MV m^-1^ for the same loading, indicating good insulation properties.
 
 Liang et al.^20^ conducted study about hybridization of reduced graphene
 oxide (RGO) with MQ silicone resin to enhance the thermal conductivity
