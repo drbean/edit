@@ -146,18 +146,18 @@ nitride nano-sheets (BNNSs). As the free radical polymerization reaction
 time increased, the interlayer distance of BNNSs lengthened to 0.35 nm,
 while the thickness of the h-BN sheets decreased.
 
-Elastic Thermal pads can propose good thermal conductivity without the
-difficulty associated with thermal grease, managing of these materials
-is more accessible than thermal grease. Elastomeric thermal pads, is a
-logical extension of thermal grease: cured conductive paste in form of a
-pad. Elastomeric thermal pads can be compressible to within 25% of their
-total thickness to conform surface irregularities, compete with
-flowability of thermal grease ^24^. Flashback of the main issue on poor
-flexibility of silicone rubber composites with an inorganic particle,
-the existence of silicone resin may become a promising and attractive
-solution to obtain high thermally conductive rubber without sacrificing
-the flexibility. Silicone resin modified with some functional group to
-enhance the reinforcing effect on the silicone rubber/*h*-BN composites.
+Elastic thermal pads can provide good thermal conductivity without the
+difficulty associated with thermal grease, as managing these materials
+is easier than thermal grease. Elastomeric thermal pads are themselves a
+logical extension of thermal grease: cured conductive paste in the form of a
+pad, compressible to within 25% of their
+total thickness to conform to irregular surfaces, and competing with
+the flowability of their semi-fluid rival ^24^. Solving the main issue of the poor
+flexibility of silicone rubber composites with an inorganic particle promises to make
+the existence of silicone resin an attractive
+solution to obtaining high thermally conductive rubber without sacrificing
+flexibility. Silicone resin modified with some functional group to
+enhance the reinforcing effect of the silicone rubber/*h*-BN composite would appear to be the way ahead.
 
 Boron nitride (BN) consist of boron (B) and nitrogen (N) atoms,
 covalently bonded in a honeycomb configuration, as a layered structure.
