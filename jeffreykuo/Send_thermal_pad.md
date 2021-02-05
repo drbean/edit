@@ -67,7 +67,7 @@ interfacial interaction, while the nanosize filler showed better
 performance than the microsize. The hardness of the composites with the nanosize
 filler also increased more than with the microsize. The thermal conductivity of
 the microsize composite was higher than the nanosize, probably due
-to the lower aspect ratio of the nanosize filler. Ha et al.^14^ also attempted to
+to the lower aspect ratio of the nanosize filler. Ha et al.^14^ also worked to
 enhance the thermal conductivity of PDMS, incorporating BN as
 a thermally conductive filler. The thermal conductivity of the PDMS composite
 increased from 0.2219 W m^-1^ K^-1^ to 1.5971 W m^-1^ K^-1^ with the
