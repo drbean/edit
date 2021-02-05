@@ -117,9 +117,9 @@ with neat silicone rubber, respectively. Thermal conductivity for the RGO/MQ fil
 significantly higher than for the RGO filler at 0.51 W m^-1^ K^-1^ for the former for a 25% addition by weight, as compared with the 0.27 W m^-1^ K^-1^ 
 for the latter for the same concentration.
 Kuo et al.^21^'s use of heatsinks combined with
-elastomeric thermal pads is a solution for heat dissipation. Silicone
-rubber composites exhibit excellent thermal conductivity with the
-incorporation of boron nitride (BN) as a filler. TEOS was doped onto to
+elastomeric thermal pads is a general solution for heat dissipation. Silicone
+rubber composites in such pads exhibit excellent thermal conductivity with the
+incorporation of boron nitride (BN) as a filler. In the study, TEOS was doped onto
 the surface of hydroxyl-functionalized BN using a simple sol--gel
 process for surface modification. The thermal conductivity and surface
 modification of the composites improved 16.52% on BN filler addition up
@@ -127,24 +127,24 @@ to 45 wt%. The addition of TEOS not only improved the filler dispersion
 in the composite system but also reduced the interfacial mismatch
 between the BN and silicone rubber. The tensile strength and hardness
 increased on addition of the BN filler, but elongation at the break
-decreased with high filler loadings. Kuo et al.^22^ synthesized the
+decreased with high filler loadings. Kuo et al.^22^ synthesized similar
 silicone thermal pads using the Taguchi method and concluded that the
 optimum experimental combination was BNNSs with lamella thickness
 (B~24~), a BNNS loading level of 20wt%, and an Al~2~O~3~ loading level
 of 60 wt%. The thermal conductivity, tensile strength and Shore hardness
-of the silicone thermal pads were 5.25 W/mK, 7.55 kg/cm^2^ and 65.2
-(Shore A) which prepared by thermosetting. The thermal conductivity and
-tensile strength were higher than that of commercially available
-silicone thermal pads by 34.48% and 20.26%, respectively. The control
+of the silicone thermal pads, which were prepared by thermosetting, were 5.25 W/mK, 7.55 kg/cm^2^ and 65.2
+(Shore A), respectively. Their thermal conductivity and
+tensile strength were 34.48% and 20.26% higher than those of commercially available
+silicone thermal pads, respectively. A controlling
 factor influencing the thermal conductivity and tensile strength of
-silicone thermal pads was the BNNS loading level, with contribution
+the silicone thermal pads was the BNNS loading level, with contribution
 degrees of 34.66% and 50.13%, respectively. Kuo et al.^23^ synthesized
-the nano-size filler as a thermally conductive filler for a silicone
+a nano-size particle as a thermally conductive filler for a silicone
 thermal pad (STP) by exfoliating hexagonal-boron nitride (h-BN) with the
 chemical exfoliation-free radical polymerization method to produce boron
 nitride nano-sheets (BNNSs). As the free radical polymerization reaction
 time increased, the interlayer distance of BNNSs lengthened to 0.35 nm,
-while the thickness of h-BN sheets decreased.
+while the thickness of the h-BN sheets decreased.
 
 Elastic Thermal pads can propose good thermal conductivity without the
 difficulty associated with thermal grease, managing of these materials
