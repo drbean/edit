@@ -294,7 +294,7 @@ pads
 
 ## Characterization
 
-The chemical structure analysis of the silicone resins was carried out by
+The chemical structure analysis of the silicone resins was carried out by means of 
 Fourier Transform Infrared (FTIR) spectroscopy using an FTS-1000
 Infrared Spectrometer (Bio-Rad Digilab) in the frequency range of
 4000-600 cm^-1^ in transmittance mode. Specimens were prepared using
@@ -345,19 +345,19 @@ an ASTM D257 resistivity meter.
 
 ### **Chemical structure analysis**
 
-Silicone resins were successfully synthesized using
-hydrolysis-polycondensation method. Chemical structure analysis using
-FTIR was performed to validate the synthesis result. The FTIR results
-for Vi-MQT and Al-MQT were shown in Figure 3., and Figure 4.,
-respectively. The broad peak at 3124 cm^-1^ indicates hydroxyl group
-from residual silanol bond (Si-OH) that prove the hydrolysis has
-occurred in the reaction. ^35^ The peak at 2962 and 2902 cm^-1^ indicate
-of asymmetric and symmetric stretching methyl group. ^36^ The peak at
-1402 cm^-1^ is representative of the unsaturated methyl group on MQ
+Silicone resins were successfully synthesized using 
+hydrolysis-polycondensation. Chemical structure analysis using
+FTIR was performed to validate the synthesis results. The FTIR results
+for Vi-MQT and Al-MQT are shown in Figure 3., and Figure 4.,
+respectively. The broad peak at 3124 cm^-1^ indicates a hydroxyl group
+from a residual silanol bond (Si-OH) that proves that hydrolysis 
+occurred in the reaction. ^35^ The peaks at 2962 and 2902 cm^-1^ indicate
+asymmetric and symmetric stretching of the methyl group. ^36^ The peak at
+1402 cm^-1^ is representative of the unsaturated methyl group of the MQ
 resin structure.^35^ The sharp peak at 1086 cm^-1^ indicates Si-O-Si
-symmetric stretching in cyclic structures ^36^ represented as Q unit in
-resin, and peaks at 1256, 845 and 756 cm^-1^ are indicated as methyl
-group from silanol that represents of M unit.^37,38^
+symmetric stretching in cyclic structures ^36^ represented as the Q unit in
+the resin. The peaks at 1256, 845 and 756 cm^-1^ are indicative of the methyl
+group from silanol that represents the M unit.^37,38^
 
 ![](media\image6.jpeg){width="5.994022309711286in"
 height="2.6979166666666665in"}
