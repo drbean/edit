@@ -172,8 +172,8 @@ stabilities, chemical inertness, non toxicity and environmental safety,
 high thermal conductivity (600 Wm^-1^K^-1^ for the in-plane direction,
 30Wm^-1^K^-1^ for the out-of-plane direction) and a superior thermal expansion
 coefficient, as well as superior mechanical properties.^10-12^ These
-characteristics render *h*-BN as an excellent material for fillers in thermally
-conductive and, at the same time, electrically insulating composites. Despite these
+characteristics render *h*-BN as an excellent material for fillers in composites that are thermally
+conductive but also electrically insulating. Despite these
 exceptional properties and potential for widespread application, the practical
 applications of *h*-BN are highly restricted by their high surface
 energy and a strong tendency to agglomerate, causing problems with
@@ -183,17 +183,17 @@ composites are concerned.
 
 In recent years, sol-gel materials have been widely applied to improve
 the mechanical properties and thermal stability of silicone rubber and other composites.^27^
-As a sol-gel material, silicone resin is useful as reinforcing fillers
-in some applications because of their silica content and particle-like
-physical structure. Silicone resins often called MQ resins, are
-tridimensional highly branched silicon-based macromolecules consisted of
+As a sol-gel material, silicone resin is useful as a reinforcing constituent
+in some applications because of its silica content and particle-like
+physical structure. Silicone resins types often called MQ resins are
+tridimensional highly branched silicon-based macromolecules consisting of
 different functional siloxane units.^27-29^ Introducing various
-functional groups on the chemical structure being used to provide some
-specific purposes. MQ resins immediately dissolve in a hydrocarbon
+functional groups in the chemical structure is used to provide some
+specific functionality. MQ resins immediately dissolve in a hydrocarbon
 solvent and in PDMS. This key feature makes it possible to use them
 widely in compositions with PDMS as reinforcing additives and fillers,
-curing catalyst and crosslinking agents of composite materials. It can
-be argued that MQ resins are an almost universal modifier for silicone
+and curing catalysts and crosslinking agents developing composite materials. It has 
+been argued that MQ resins are an almost universally-applicable modifier for silicone
 polymers that improve the properties of all formulations. ^27^
 
 In this study, silicon resins were synthesized by using sol-gel method
