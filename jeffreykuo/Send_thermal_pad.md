@@ -749,7 +749,7 @@ large amount of heat \[46\]. Addition of flame retardant material can
 enhance its flame resistance. *h*-BN can be introduced into silicone
 rubber to enhance its flame resistance property. Based on the result,
 satisfying flame resistance of silicone rubber can be achieved with the
-addition of more than 80 phr of the *h*-BN particle. Addition of silicon
+addition of more than 80 phr of the *h*-BN particle. Addition of silicone
 resin did not give significant influence to flame retardancy property.
 
 Table 9. Results of flame retardancy test of silicone rubber composites.
