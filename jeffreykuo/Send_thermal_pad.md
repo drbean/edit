@@ -318,7 +318,7 @@ solvent, is calculated as: ^33,34^
 where *w~dry~* is the weight of the dry rubber, *ρ~rubber~* is the rubber density,
 *w~absorbed~* is the weight of solvent absorbed by the sample and *ρ~solvent~*
 is solvent density. The thermal stability of the silicone rubber composite was
-determined by thermogravimetry analysis (TGA Q500, TA Instrument) in
+determined by thermogravimetry analysis (TGA Q500, TA Instruments) in
 the range of 30 to 650^o^C with a heating rate of 10^o^C min^-1^ under
 nitrogen flow at 40 mL min^-1^. The heat resistance of the material
 (T~heat-resistance\ index~) ^18^ can be determined using the equation:
