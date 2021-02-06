@@ -259,7 +259,7 @@ temperature, the mixture was separated from the organic solution and
 washed repeatedly with a NaHCO~3~ solution until pH reached 6. Then, the
 mixture was dissolved in toluene and evaporated at 150^o^C for 24 h to
 remove the solvent and unreacted monomer. Details of the synthesis
-process are shown in Figure 1., and the experimental details are shown
+process are shown in Figure 1., and experimental details are shown
 in Table 2.
 
 ![](media\image1.png){width="5.118110236220472in"
