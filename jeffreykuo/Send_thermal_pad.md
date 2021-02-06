@@ -196,13 +196,13 @@ and curing catalysts and crosslinking agents developing composite materials. It 
 been argued that MQ resins are an almost universally-applicable modifier for silicone
 polymers that improve the properties of all formulations. ^27^
 
-In this study, silicon resins were synthesized by using sol-gel method
-to modify the silicone rubber reinforced *h*-BN filler composites and
-investigate the influence of silicone resins addition on physical,
+In this study, silicone resins were synthesized using the sol-gel process
+and different forms of silicone rubber reinforced *h*-BN filler composite created
+to investigate the influence of silicone resin additions on the physical,
 mechanical, thermal stability, density, volatile content and flame
-resistance properties of silicone rubber/*h*-BN composites. By using
-above properties, New silicone rubber as elastic thermal pads
-performance can be evaluated.
+resistance properties of the silicone rubber/*h*-BN composites. Comparing
+these properties, the performance of new silicone rubbers as elastic thermal pads
+can be evaluated.
 
 **Table 1**. Target value of this research
 
