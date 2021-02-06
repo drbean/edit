@@ -275,21 +275,21 @@ h-BN**
 
 The elastomeric thermal pads were formed with the thermoforming process,
 as shown in Figure 2. The silicone resin was dissolved in toluene with a
-weight ratio of resin: toluene is 10:1 before mixed with silicone
-rubber. The mixing process was performed under mechanical stirring with
-1000 rpm for 3 min and held for 1 hour for the homogeneous mixture,
-then, the *h*-BN particle was incorporated into the mixture. After
+weight ratio of resin to toluene of 10:1 before mixing with silicone
+rubber. The mixing process took the form of mechanical stirring at
+1000 rpm for 3 min and holding for 1 hour to ensure a homogeneous mixture.
+Then, the *h*-BN particles were incorporated into the mixture. After the
 mixing process, the mixture was placed in a stainless steel mold and
-compression-molded at 90^o^C at pressure 1500 psi for 30 min in an
+compression-molded at 90^o^C at a pressure of 1500 psi for 30 min in an
 electrically heated hot-press machine (Taiwan: GF-50, You Found
 Hydrolics Industrial Co. Ltd.). After the hot-press process, the
-specimen was put on a drying oven at 150^o^C for 6 h. Detail
-experimental conditions were listed in Table 3.
+specimen was put in a drying oven at 150^o^C for 6 h. Detailed
+experimental conditions are listed in Table 3.
 
 ![](media\image2.png){width="6.024305555555555in"
 height="2.0985695538057745in"}
 
-Figure 2. Schematic route of the thermoforming process to form thermal
+Figure 2. Schematic route of the thermoforming of thermal
 pads
 
 ## Characterization
