@@ -294,54 +294,52 @@ pads
 
 ## Characterization
 
-The chemical structure analysis of silicone resins was characterized by
+The chemical structure analysis of the silicone resins was carried out by
 Fourier Transform Infrared (FTIR) spectroscopy using an FTS-1000
 Infrared Spectrometer (Bio-Rad Digilab) in the frequency range of
-4000-600 cm^-1^ in transmittance mode. Specimen was prepared using
-potassium bromide (KBr) pellet method using weight ration of resin:KBr
-is 1:20. The molecular weight analysis of silicone resins was determined
-bu ACQUITY Advanced Polymer Chromatography (APC, Waters Co.Ltd.) using
+4000-600 cm^-1^ in transmittance mode. Specimens were prepared using
+the potassium bromide (KBr) pellet method with a weight ratio of resin to KBr
+of 1:20. The molecular weight analysis of the silicone resins was determined
+by ACQUITY Advanced Polymer Chromatography (APC, Waters Co.Ltd.) using
 tetrahydrofuran as an eluent and polystryrene as standard. Crosslink
-density (*V~e~*) was calculated based on ASTM D6814 standard. The
+density (*V~e~*) was calculated based on the ASTM D6814 standard. The
 Flory-Rehner equation for crosslink density: ^32^
 
 > \(1\)
 
-Where *V~e~* is effective number of chains in a real network per unit
-volume, *X~l~* is polymer-solvent interation parameter (0.845), *V~l~*
-is molecular volume of solvent (106.54X10^-3^ L mol^-1^) and *V~r~* is
-volume fraction of polymer in a swollen network in equilibrium with pure
-solvent. *V~r~* is volume fraction of polymer in a swollen network in
-equilibrium with pure solvent is calculated as: ^33,34^
+Where *V~e~* is the effective number of chains in a real network per unit
+volume, *X~l~* is the polymer-solvent interation parameter (0.845), *V~l~*
+is the molecular volume of the solvent (106.54X10^-3^ L mol^-1^) and *V~r~* is
+the volume fraction of polymer in a swollen network in equilibrium with pure
+solvent, is calculated as: ^33,34^
 
 > \(2\)
 
-where *w~dry~* is weight of dry rubber, *ρ~rubber~* is rubber density,
-*w~absorbed~* is weight of solvent absorbed by sample and *ρ~solvent~*
-is solvent density.Thermal stability of silicone rubber composite was
-performed with thermogravimetry analysis (TGA Q500, TA Instrument) in
+where *w~dry~* is the weight of the dry rubber, *ρ~rubber~* is the rubber density,
+*w~absorbed~* is the weight of solvent absorbed by the sample and *ρ~solvent~*
+is solvent density. The thermal stability of the silicone rubber composite was
+determined by thermogravimetry analysis (TGA Q500, TA Instrument) in
 the range of 30 to 650^o^C with a heating rate of 10^o^C min^-1^ under
-nitrogen flow at 40 mL min^-1^.Heat resistance of material
-(T~heat-resistance\ index~) ^18^ can be determined using equation as
-follows:
+nitrogen flow at 40 mL min^-1^. The heat resistance of the material
+(T~heat-resistance\ index~) ^18^ can be determined using the equation:
 
 > \(3\)
 
-Thermal conductivity was performed with thermal conductivity analyzer
-(Hot Disk TPS 2500S) using transient plane source method, followed ISO
-22007-2 standard. The mechanical properties were determined using a
+Thermal conductivity was tested with a thermal conductivity analyzer
+(Hot Disk TPS 2500S) using the transient plane source method, and following the ISO
+22007-2 standard. The pads' mechanical properties were determined using a
 universal tensile tester (Chun Yen Testing Machines, CY-6040A) with
-weight loading of 500 kg and cross-head speed of 10 mm min^-1^, under
+weight loading of 500 kg and cross-head speed of 10 mm min^-1^, under the
 ASTM D412 standard. The hardness was measured with a hardness tester
-durometer, shore A type (Teclock, GS-709). The morphology of silicone
-resin and fractography of silicone rubber composite were observed using
+durometer, shore A type (Teclock, GS-709). The morphology of the silicone
+resin and fractography of the silicone rubber composite were observed using
 scanning electron microscopy (SEM, JEOL JSM-6930LV). The samples were
-platinum coated to enhance its conductivity with an auto fine coater
-(JEOL JFC-1300) for 80 seconds. The density of composite was determined
-using ASTM D792 standard. The mass loss and volatile content was
-determined using ASTM E595 standard. The flame resistance was determined
-using UL-94 standard. The resistivity of composite was measured using
-resistivity meter based on ASTM D257.
+platinum coated to enhance their conductivity with an auto fine coater
+(JEOL JFC-1300) for 80 seconds. The density of the composite was determined
+using the ASTM D792 standard. The mass loss and volatile content were
+determined using the ASTM E595 standard. The flame resistance was determined
+using the UL-94 standard. The resistivity of the composite was measured using
+an ASTM D257 resistivity meter.
 
 **Results and Discussion**
 
