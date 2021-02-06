@@ -265,12 +265,12 @@ in Table 2.
 ![](media\image1.png){width="5.118110236220472in"
 height="2.1669936570428696in"}
 
-Figure 1. Schematic route of the hydrolysis-polycondensation method for
-silicone resin synthesis
+Figure 1. Schematic route of the hydrolysis-polycondensation of
+silicone resins
 
 Table 2. Components and their quantities in the silicone resin synthesis
 
-**Preparations of elastomeric thermal pads from silicon resins and
+**Preparations of elastomeric thermal pads from silicone resins and
 h-BN**
 
 The elastomeric thermal pads were formed with the thermoforming process,
