@@ -204,7 +204,7 @@ resistance properties of the silicone rubber/*h*-BN composites. Comparing
 these properties, the performance of new silicone rubbers as elastic thermal pads
 can be evaluated.
 
-**Table 1**. Target value of this research
+**Table 1**. Target values of this research
 
   Property                               Standard     Target Value
   -------------------------------------- ------------ --------------
@@ -217,12 +217,12 @@ can be evaluated.
   Flame resistance                       UL 94        V-0
   Volume Resistivity (Ω cm)              ASTM D 257   \> 10^10^
 
-# **Material and method**
+# **Materials and methods**
 
 ## Materials
 
-I used the following chemicals to synthesize the silicone resins-hBN
-composite; Tetraethoxysilane (TEOS, 98%, Acros Organic Co.Ltd.,
+We used the following chemicals to synthesize the silicone resins-hBN
+composites; Tetraethoxysilane (TEOS, 98%, Acros Organic Co.Ltd.,
 Germany), Trimethylchlorosilane (TMCS, 98%, Acros Organic Co.Ltd.,
 Germany), Aluminum ethoxide (ATE, \>98% Tokyo Chemical Industry Co.,
 Japan), Vinyltrimethoxylsilane (VTMS, OFS-6300, Ya-Hu-Chi Industrial
@@ -245,32 +245,32 @@ thermal pad.
 
 **Preparation of silicone resins**
 
-The silicone resins were synthesized using a hydrolysis-polycondensation
+The silicone resins were synthesized using the hydrolysis-polycondensation
 method. TMCS was used as M unit, TEOS was used as a Q unit, and VTMS and
-ATE were used as T unit. The \[M\]/\[Q+T\] molar ratio that used is 0.8,
-based on a previous study. ^30,31^ The concentration of T unit was
-varied to 1, 3 and 5 % of TEOS weight. The synthesis of MQ resin was as
-follows, a mixture of TMCS and toluene was added into the three-necked
+ATE were used as T unit. The \[M\]/\[Q+T\] molar ratio of 0.8 that was used was
+based on a previous study. ^30,31^ The concentration of the T unit 
+varied between 1, 3 and 5% of TEOS weight. The synthesis of MQ resin proceeded as
+follows: a mixture of TMCS and toluene was added into a three-necked
 flask and the temperature was held constant at 30^o^C. An appropriate
 amount of deionized water was added to the mixture for 10 min and then
 heated up to 70^o^C. An amount of TEOS, VTMS and/or ATE were dripped (90
 min) into the flask and held for 2 hr. After cooling to room
 temperature, the mixture was separated from the organic solution and
-washed repeatedly with the NaHCO~3~ solution until pH at 6. Then, the
+washed repeatedly with a NaHCO~3~ solution until pH reached 6. Then, the
 mixture was dissolved in toluene and evaporated at 150^o^C for 24 h to
-remove the solvent and unreacted monomer. Detail of the synthesis
-process was shown in Figure 1., and the experimental details were shown
-in Table 2
+remove the solvent and unreacted monomer. Details of the synthesis
+process are shown in Figure 1., and the experimental details are shown
+in Table 2.
 
 ![](media\image1.png){width="5.118110236220472in"
 height="2.1669936570428696in"}
 
-Figure 1. Schematic route of a hydrolysis-polycondensation method for
-silicone resin synthesis.
+Figure 1. Schematic route of the hydrolysis-polycondensation method for
+silicone resin synthesis
 
-Table 2. Components and its quantities in the silicone resins synthesis.
+Table 2. Components and their quantities in the silicone resin synthesis
 
-**Preparations of elastomeric thermal pads from silicon Resins and
+**Preparations of elastomeric thermal pads from silicon resins and
 h-BN**
 
 The elastomeric thermal pads were formed with the thermoforming process,
