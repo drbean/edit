@@ -532,13 +532,13 @@ addition of (a) Vi-MQT resin and (b) Al-MQT in N~2~ atmosphere.
 
 ### **Mechanical properties analysis**
 
-The effect of addition MQ resin on mechanical properties of silicone
+The effect of adding MQ resin on the mechanical properties of silicone
 rubber and silicone rubber/*h*-BN composite is shown in Figure 10. From
-the results, it can be seen that addition of MQ resin in both of
-silicone rubber and its composites significantly changed the mechanical
-properties. Addition of MQ resin in silicone rubber reduced the tensile
-strength and hardness but improved the elongation at break properties.
-^43^ The tensile strength reduced from 2.099 MPa to 0.856 MPa on 30 phr
+the results, it can be seen that the presence of MQ resin in both
+silicone rubber and its composites significantly changes their mechanical
+properties. Addition of MQ resin in silicone rubber reduces tensile
+strength and hardness but improves the elongation at break properties.
+^43^ In this experiment, the tensile strength was reduced from 2.099 MPa to 0.856 MPa on 30 phr
 of MQ resin addition.
 
 Incorporation of an *h*-BN particle in silicone rubber also reduced the
