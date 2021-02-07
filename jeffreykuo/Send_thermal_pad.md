@@ -458,30 +458,30 @@ resin addition.
 
 ### **Thermal stability analysis**
 
-Figure 8, showed the effect of MQ resin addition on thermal stability of
-silicone rubber and the important characteristic thermal degradation
-data were listed in Table 7. Increasing addition of MQ resin would
-decrease the characteristic thermal degradation of silicone rubber. The
+Figure 8, shows the effects of MQ resin addition on the thermal stability of
+the silicone rubber. The important characteristic thermal degradation
+data are listed in Table 7. Increasing addition of MQ resin 
+decreased the characteristic thermal degradation of the silicone rubber. The
 initial characteristic temperatures at 5% of weight loss decreased from
 428.22^o^C for neat silicone rubber to 281.02^o^C for the addition of MQ
 resin up to 30 phr. However, at 30% of weight loss, the characteristic
 temperature of weight loss increased from 526.29^o^C for neat silicone
-rubber to 596.54^o^C for the addition of 20 phr and then slight
-decreased to 581.08^o^C for further addition (MQ-30). Temperature at
-450-650^o^C is degradation of backbone structure region.^36,41,42^ In
-silicone rubber/*h*-BN composite system, the addition of *h*-BN in
-silicone rubber slightly increase its initial characteristic thermal
-degradation. However, with the addition of MQ resin in all composition,
+rubber to 596.54^o^C for the addition of 20 phr and then slightly
+decreased to 581.08^o^C for the addition of 30 phr (MQ-30). It is to be noted that temperatures in the
+450-650^o^C range result in degradation of the backbone structure region.^36,41,42^ In
+the silicone rubber/*h*-BN composite system, the addition of *h*-BN to
+neat silicone rubber slightly increased its initial characteristic thermal
+degradation. However, with the addition of MQ resin in all concentrations,
 the thermal stability of the composite decreased. The initial
-characteristic degradation temperature at neat silicone rubber/*h*-BN
-composite is 429.56^o^C then decreased to 383.02, 329.31 and 294.12^o^C
-for addition of MQ resin from 10 until 30 phr. Temperature of maximum
-degradation rate increased with addition of MQ resin, from 507.85^o^C to
-588.00, 584.24 and 572.94^o^C with addition of MQ resin from 10 to 30
-phr, respectively. From the results, it can be concluded addition of MQ
-resin decreased thermal stability of silicone rubber/*h*-BN composite.
+characteristic degradation temperature of the neat silicone rubber/*h*-BN
+composite was 429.56^o^C, but this figure then decreased to 383.02, 329.31 and 294.12^o^C
+for the addition of MQ resin from 10 to 30 phr. On the other hand, the temperature of maximum
+degradation rate increased with the addition of MQ resin, from 507.85^o^C to
+588.00, 584.24 and 572.94^o^C with the addition of MQ resin from 10 to 30
+phr, respectively. From the results, it can be concluded the addition of MQ
+resin decreased thermal stability of the silicone rubber/*h*-BN composite.
 Moreover, the residual yields of composites decreased with the addition
-of MQ resin to 38.39%, which were far lower than neat composite
+of MQ resin to 38.39%, a figure which is far lower than that for the neat composite
 (64.75%).^17^
 
 ![G:\\Thesis\\Documents\\Thesis Manuscript\\Picture\\TGA MQ
