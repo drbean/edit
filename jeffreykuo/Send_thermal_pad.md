@@ -370,22 +370,22 @@ Figure 3. FTIR spectra of MQ resin and Vi-MQT resins.
 
 Figure 4. FTIR spectra of MQ resin and Al-MQT resins.
 
-In Figure 4., it can be seen that small peak appeared at 958 cm^-1^ that
-refer to the out-of-plane C-H brand from the vinyl group. ^35,39^ This
-peak has small intensity due to the small addition of vinyl group in
-resin. Decreasing intensity trend of an unsaturated methyl group at 1402
-cm^-1^ occurred with the addition of the vinyl group in resin structure.
-The vinyltrisilanol structure reacted with residual silanol group from
-siloxane prepolymer, compete simultaneously with trimethylsilanol. This
-phenomenon also causes the disappearance of the peak at 3124 cm^-1^ in
-highest vinyl content addition on the Vi-MQT resin. In Figure 5., it
-clearly is seen that new broad peak revealed at 3460 cm^-1^, indicated
-hydroxyl group that be expected from Al-OH. The peak at 1086 cm^-1^ also
-be widened due to new peak revealed at 1060 cm^-1^ that indicated
-asymmetric stretching Al-O-Si bond. ^27^ For a better understanding of
-the difference of MQ, Vi-MQT and Al-MQT structure, comparison of FTIR
-spectrum is shown in Figure 5. Based on the results, it can be concluded
-that the silicone resins synthesis has been successfully done.
+In Figure 4., it can be seen that a small peak appears at 958 cm^-1^ (not marked in figure),
+referring to the out-of-plane C-H band from a vinyl group. ^35,39^ This
+peak is a small intensity one due to the small presence of the vinyl group in
+the resin. The decreasing intensity trend for an unsaturated methyl group at 1402
+cm^-1^ co-occurred with the addition of the vinyl group to the resin structure.
+The vinyltrisilanol structure reacted with the residual silanol group from
+the siloxane prepolymer, competing simultaneously with trimethylsilanol. This
+phenomenon also caused the disappearance of the peak at 3124 cm^-1^ for
+the highest vinyl content concentration in the Vi-MQT resin. From Figures 3 and 4., it
+clearly is seen that a new broad peak is revealed at 3460 cm^-1^, indicating
+the hydroxyl group that is to be expected from Al-OH. The peak at 1086 cm^-1^ also
+widened due to the new peak revealed at 1060 cm^-1^ that indicates
+asymmetric stretching of the Al-O-Si bond. ^27^ For a better understanding of
+the difference of the MQ, Vi-MQT and Al-MQT structures, a comparison of the FTIR
+spectra is shown in Figure 5. Based on the results, it can be concluded
+that the silicone resin synthesis was successfully completed.
 
 ![G:\\Thesis\\Documents\\Part\\Part 1\\FTIR
 comparison.jpg](media\image8.jpeg){width="6.182638888888889in"
