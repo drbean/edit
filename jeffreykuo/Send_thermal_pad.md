@@ -395,19 +395,19 @@ Figure 5. Spectrum comparison of silicone resins.
 
 ### **Molecular weight and morphology of silicone resins**
 
-The molecular weight of silicone resins was listed in Table 4. The
-number average and weight average molecular weight of MQ resin, Mn and
-Mw, was 41301 g mol^-1^ and 47982 g mol^-1^, respectively, with narrow
-molecular weight distribution (PDI) as 1.161. For Vi-MQT and Al-MQT
-showed a similar decreasing trend of molecular weight with higher
-addition of T unit in their structure. ^40^ Addition of T unit in MQT
-structure decreases the Mn and Mw until 18906 and 28641 g mol^-1^,
-respectively, for Vi-MQT and 17497 and 27114 g mol^-1^, respectively,
-for Al-MQT. The decreasing trend of molecular weight was due to
-increasing of the end-capping unit in the synthesis reaction. An
-end-capped unit from M and T unit would react with silanol group from
-siloxane prepolymer, caused the propagating process was stopped and
-yielded a smaller size of the polymer. ^36^
+The molecular weight of the silicone resins is listed in Table 4. The
+number average and weight average molecular weight of the MQ resin, Mn and
+Mw, was 41301 g mol^-1^ and 47982 g mol^-1^, respectively, with a narrow
+molecular weight distribution (PDI) of 1.161. Vi-MQT and Al-MQT
+showed the same decreasing trend in molecular weight with greater
+addition of T units to their structure. ^40^ Addition of T units to the MQT
+structure decreased Mn and Mw until they reached 18906 and 28641 g mol^-1^,
+respectively, for the Vi-MQT resins and until 17497 and 27114 g mol^-1^, respectively,
+for the Al-MQT ones. The decreasing trend in molecular weight was due to
+an increase in the end-capping units in the synthesis reaction. An
+end-capped unit from an M and T unit would react with a silanol group from
+the siloxane prepolymer, causing the propagating process to stop and
+yield a smaller-sized polymer. ^36^
 
 Table 4. Physical appearance of silicone resins.
 
