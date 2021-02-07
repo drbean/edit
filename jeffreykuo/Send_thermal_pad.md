@@ -413,19 +413,19 @@ Table 4. Physical appearance of silicone resins.
 
 ### **Structure of crosslinked network**
 
-The composite was characterized its structure, thermal stability and
-mechanical properties. Incorporation of silicone resins would change the
-crosslinked network structure of silicone rubber. The effect of addition
-MQ resin on the crosslink density of silicone rubber is shown in Figure
+The composite exhibited characteristic structural, thermal stability and
+mechanical properties. Incorporation of silicone resins changed the
+crosslinked network structure of the silicone rubber. The effect of additional
+MQ resin on the crosslink density of the silicone rubber is shown in Figure
 6, and corresponding values are summarized in Table 5. From the results,
 it can be seen that the density of silicone rubber did not change
-significantly with the addition of MQ resin. The gel content, crosslink
-density (*Ve*) and a molecular weight between crosslinks (Mc) of
-silicone rubber were changed with the addition of MQ resin. Gel content
-and *Ve* reduced with the addition of MQ resin, while the Mc increased
-with the addition of MQ resin. The gel content of silicone rubber
-decreased from 97.77% to 77.19% and *Ve* also reduced from 1.787X 10^-4^
-until 0.735X 10^-4^, while Mc enhanced from 5901 to 14622 g mol^-1^ with
+significantly with the addition of MQ resin. However, the gel content, crosslink
+density (*Ve*) and molecular weight between crosslinks (Mc) of
+silicone rubber did change. Gel content
+and *Ve* were reduced with the additional MQ resin, while Mc increased.
+with the addition of MQ resin. The gel content of the silicone rubber
+decreased from 97.77% to 77.19% and *Ve* also fell from 1.787X 10^-4^
+to 0.735X 10^-4^, while Mc rose from 5901 to 14622 g mol^-1^ with
 the addition of 30 phr MQ resin.
 
 ![](media\image9.jpeg){width="5.010416666666667in" height="2.41875in"}
