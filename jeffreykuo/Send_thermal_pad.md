@@ -509,16 +509,16 @@ heat-resistance indexes showed a similar trend with T~30~ changing from the 243.
 of the MQ resin composite to 239.24, 249.80 and 275.10^o^C for the
 Vi-MQT1, Vi-MQT3 and Vi-MQT5 resin ones, respectively.
 
-The temperature at 30% of weight loss also decreased from 578.04^o^C of
-MQ resin addition to 573.65, 549.45 and 549.89^o^C for addition of
-Al-MQT1, Al-MQT3 and Al-MQT5 resin, respectively. The corresponding heat
-resistance index reduced from 243.21^o^C of MQ resin addition to 240.60,
-233.18 and 228.93^o^C for addition of Al-MQT1, Al-MQT3 and Al-MQT5
-resin, respectively, resulting lower thermal stability of silicone
-rubber. Based on the results, it can be concluded that vinyl-silicone
-resin effectively improved the thermal stability of silicone composite
+The temperature at 30% of weight loss also decreased from 578.04^o^C for
+the MQ resin composite to 573.65, 549.45 and 549.89^o^C for the
+Al-MQT1, Al-MQT3 and Al-MQT5 resin ones, respectively. The corresponding heat
+resistance indexes decreased from the 243.21^o^C for the MQ resin composite to 240.60,
+233.18 and 228.93^o^C for the Al-MQT1, Al-MQT3 and Al-MQT5
+resin ones, respectively, indicating lower thermal stability of these silicone
+rubber composites. Based on the results, it can be concluded that vinyl-silicone
+resin effectively improves the thermal stability of silicone composites
 compared with MQ, aluminum-silicone resins and even neat silicone
-composite, with the best improvement with addition of Vi-MQT5 resin.
+composite, with the best improvement being for addition of Vi-MQT5 resin.
 
 **Table 8.** Characteristic degradative data of composites with addition
 of Vi-MQT and Al-MQT resin
