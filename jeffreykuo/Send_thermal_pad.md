@@ -494,20 +494,20 @@ addition of MQ resin in N~2~ atmosphere.
 Table 7. Characteristic degradative data of composites with addition of
 MQ resin.
 
-Addition of MQ resin to silicone rubber was replaced with Vi-MQT and
-Al-MQT resin to investigate its influence in the thermal stability of
-silicone rubber composites, as shown in Figure 9, and summary of its
-value was listed in Table 8. Addition of Vi-MQT resin to replace MQ
+Vi-MQT and Al-MQT resin was substituted in place of MQ resin 
+to investigate their influence as an addition to silicone rubber on the thermal stability of
+silicone rubber composites, with results shown in Figure 9, and summarized
+in Table 8. The use of Vi-MQT resin in place of MQ
 resin improved the initial characteristic thermal degradation of
 silicone rubber. The initial characteristic temperatures at 5% of weight
-loss decreased from 373.84^o^C to 235.15, 388.88 and 381.08^o^C for the
-addition of Vi-MQT1, Vi-MQT3 and Vi-MQT5 silicone resin. For temperature
-at 30% of weight loss, the temperatures slightly decreased to 563.67^o^C
-at Vi-MQT1 addition from 578.04^o^C then increased to 590.43^o^C and
-681.68^o^C for Vi-MQT3 and Vi-MQT5 addition. The corresponding
-heat-resistance index showed similar trend with T~30~, from 243.21^o^C
-of MQ resin addition to 239.24, 249.80 and 275.10^o^C for addition of
-Vi-MQT1, Vi-MQT3 and Vi-MQT5 resin, respectively.
+loss decreased from 373.84^o^C to 235.15, and then rebounded to 388.88 and 381.08^o^C for the
+addition of Vi-MQT1, Vi-MQT3 and Vi-MQT5 silicone resins, respectively. The temperatures
+at 30% of weight loss slightly decreased to 563.67^o^C
+for Vi-MQT1 addition, down from 578.04^o^C, and then increased to 590.43^o^C and
+681.68^o^C for Vi-MQT3 and Vi-MQT5, respectively. The corresponding
+heat-resistance indexes showed a similar trend with T~30~ changing from the 243.21^o^C
+of the MQ resin composite to 239.24, 249.80 and 275.10^o^C for the
+Vi-MQT1, Vi-MQT3 and Vi-MQT5 resin ones, respectively.
 
 The temperature at 30% of weight loss also decreased from 578.04^o^C of
 MQ resin addition to 573.65, 549.45 and 549.89^o^C for addition of
