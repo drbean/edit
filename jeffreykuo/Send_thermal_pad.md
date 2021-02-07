@@ -400,7 +400,7 @@ number average and weight average molecular weight of the MQ resin, Mn and
 Mw, was 41301 g mol^-1^ and 47982 g mol^-1^, respectively, with a narrow
 molecular weight distribution (PDI) of 1.161. Vi-MQT and Al-MQT
 showed the same decreasing trend in molecular weight with greater
-addition of T units to their structure. ^40^ Addition of T units to the MQT
+addition of T units to the resins. ^40^ Adding T units to the MQT
 structure decreased Mn and Mw to a final level of 18906 and 28641 g mol^-1^,
 respectively, for the Vi-MQT resins and 17497 and 27114 g mol^-1^, respectively,
 for the Al-MQT ones. The decreasing trend in molecular weight was due to
