@@ -43,7 +43,7 @@ the device and heat sink surfaces. Elastomeric thermal pads,
 made of a thermally conductive rubber consisting of rubber/polymeric elastomer
 material mixed with thermally conductive inorganic filler, are one way adopted to approach this problem. 
 A popular matrix used for such thermal pads is silicone rubber,
-an elastomer (rubber-like material) composed of siloxane (a functional chemical group consisting of
+an elastomer (rubber-like material) composed of siloxane (a functional group consisting of
 alternate silicon and oxygen atoms, -Si-O- on a backbone chain with 
 substituents branching from the silicon atom.)^4,5^ The thermal conductivity of
 silicone rubber alone, being about 0.2 W m^-1^ K^-1^, ^6-9^, cannot satisfy the
