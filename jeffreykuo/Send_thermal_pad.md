@@ -436,16 +436,16 @@ points of silicone rubber with addition of MQ resin.
 **Table 5.** Network structure of silicone rubber with addition of MQ
 resin.
 
-Addition of MQ resin to silicone rubber was replaced with Vi-MQT and
-Al-MQT resin to investigate its influence in the crosslinked network
-structure of silicone rubber, as shown in Figure 7., and summary of its
-value was listed in Table 6. The 10 phr of the silicone resin was
-chosen. Addition of Vi-MQT reduced the gel content and *Ve* of silicone
-rubber. Incorporation of Vi-MQT5 showed highest decline value of
-crosslink density of silicone rubber, even it has a lower value than the
-addition of 30 phr of MQ resin addition (0.642 X10^-4^ compared with
-0.735 X10^-4^). For Al-MQT5 addition on silicone rubber showed similar
-the crosslink density property like MQ resin (1.418 X10^-4^ compared
+Addition of Vi-MQT and Al-MQT resins to the silicone rubber was then substituted for MQ addition
+to investigate their influence on the silicone rubber crosslinked network
+structure, as shown in Figure 7., with a summary of the
+values listed in Table 6. A 10 phr level for silicone resin was
+chosen. Addition of Vi-MQT reduced the gel content and *Ve*.
+Incorporation of Vi-MQT5 produced the highest decline in
+crosslink density, with even a lower value than the
+addition of 30 phr of MQ resin (0.642 X10^-4^ compared with
+0.735 X10^-4^). On the other hand, Al-MQT5 addition on silicone rubber showed a similar
+crosslink density to that of MQ resin (1.418 X10^-4^ compared
 with 1.426 X10^-4^).
 
 ![](media\image10.JPG){width="5.424307742782152in" height="3.0in"}
