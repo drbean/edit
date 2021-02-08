@@ -571,30 +571,30 @@ Figure 10. Mechanical properties of silicone rubber composites with
 addition of MQ resin; (a) tensile strength, (b) elongation at break and
 (c) hardness.
 
-Addition of MQ resin to silicone rubber was replaced with Vi-MQT and
-Al-MQT resin to investigate its influence on the mechanical properties
-of silicone rubber and its composite with the *h*-BN particle, as shown
-in Figure 11.The 10 phr of the silicone resin was chosen. It can be seen
-that replacing MQ resin with Vi-MQT would reduced the tensile strength
+MQ resin was replaced with Vi-MQT and
+Al-MQT resin as an additive to silicone rubber to investigate their influence on the mechanical properties
+of silicone rubber and its composites with the *h*-BN particle, as shown
+in Figure 11. A figure of 10 phr of silicone resin was again chosen. It can be seen
+that replacing MQ resin with Vi-MQT reduced the tensile strength
 of silicone rubber, from 1.862 MPa to 1.823, 1.777 and 1.530 MPa for
-addition of Vi-MQT1, Vi-MQT3 and Vi-MQT5 resin, respectively. For
-addition Al-MQT in silicone rubber/*h*-BN composite, the best value was
-obtained by addition of Al-MQT3 with 1.711 MPa. The existence of
-hetero-metal bond promoted synergy effect that can be dispersed
-homogeneously in the oligosiloxane structure. ^41^ Addition of
-vinyl-silicone resin enhanced the elongation property, from 808% with MQ
-resin addition to 847, 877 and 987% for addition of Vi-MQT1, Vi-MQT3 and
-Vi-MQT5 resin, respectively. Addition of aluminum-silicone resin
-improved the elongation property, from 808% with MQ resin addition to
-817, 870 and 867% for addition of Al-MQT1, Al-MQT3 and Al-MQT5 resin,
-respectively. In composite system, addition of vinyl-silicone resin
-gives better improvement on elongation at break property than
-aluminum-silicone resin. Addition of Vi-MQT5 resin could enhanced up to
-1063% while addition of Al-MQT3 only showed 793 % elongation, compared
-with MQ resin addition at 731%. The hardness of silicone resin
-significantly reduced with the addition of Vi-MQT resin, but slightly
-enhanced with the addition of Al-MQT resin due to the existence of Al-O
-bond in the structure.
+the three Vi-MQT resins, Vi-MQT1, Vi-MQT3 and Vi-MQT5, respectively. In the
+case of Al-MQT as additive to the silicone rubber/*h*-BN composite, the best value was
+obtained by Al-MQT3 at 1.711 MPa. The existence of
+a hetero-metal bond promotes a synergy effect that can disperse
+homogeneously in the oligosiloxane structure. ^41^ The
+vinyl-silicone resin additive enhanced elongation, from 808% with the MQ
+resin to 847, 877 and 987% for the three Vi-MQT1, Vi-MQT3 and
+Vi-MQT5 resins, respectively. Addition of the aluminum-silicone resin
+also improved elongation, from 808% with the MQ resin to
+817, 870 and 867% for the three Al-MQT1, Al-MQT3 and Al-MQT5 resins,
+respectively. But in the composite systems, the addition of a vinyl-silicone resin
+improved elongation at break properties more than
+the aluminum-silicone resins. Addition of the Vi-MQT5 resin enhanced elongation up to
+1063% while addition of the Al-MQT3 one only resulted in 793% elongation, not much greater than
+the MQ resin's 731%. The hardness of the silicone rubber
+was significantly reduced with the addition of Vi-MQT resin, but slightly
+increased with the addition of Al-MQT resin due to the existence of Al-O
+bonds in the structure.
 
 ![G:\\Thesis\\Documents\\Thesis Manuscript\\Picture\\Tensile Silicone
 Resin.JPG](media\image16.jpeg){width="5.125in"
