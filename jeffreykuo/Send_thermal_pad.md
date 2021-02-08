@@ -755,12 +755,12 @@ Table 9. Results of flame retardancy test of silicone rubber composites.
 
 **Volume Resistivity of composites**
 
-The volume resistivity of silicone rubber composites was listed in Table
-10. It can be seen that composites with high addition of filler loading
-enhanced its volume resistivity, from \>10^13^ to \>10^11^ Ω cm at 100
+The volume resistivity of silicone rubber composites is listed in Table
+10. It can be seen that composites with high filler loadings have
+enhanced volume resistivity, from \>10^13^ to \>10^11^ Ω cm at 100
 phr of *h*-BN. The existence of impurities and defects in the structure
-also can enhance the volume resistivity of composite \[47\]. Addition of
-silicone resin did not give significant effect to volume resistivity
+also can enhance volume resistivity ^47^. Addition of
+silicone resin did not have significant effect on volume resistivity
 property.
 
 **Table 10.** Results of volume resistivity test of silicone rubber
