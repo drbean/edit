@@ -724,14 +724,14 @@ Figure 14. Density of silicone rubber composites.
 
 **Volatile Content of Composite**
 
-The volatile content of thermal pads are shown in Figure 15. It can be
-seen that the volatile content of silicone rubber reduced with the
-addition of *h*-BN filler, from 0.963% of neat silicone rubber to 0.152%
-of addition of 100 phr filler content. Addition of silicone resin in the
-structure of composite increased the volatile content at 100 phr filler
-addition to 0.196, 0.699 and 0.214% for MQ, Vi-MQT3 and Al-MQT3 resin,
-respectively. Increasing of volatile content was due to the lower
-crosslink density of silicone rubber compared with neat silicone rubber.
+The volatile content of the thermal pads is shown in Figure 15. It can be
+seen that the volatile content of silicone rubber was reduced by the
+addition of *h*-BN filler, from 0.963% for the neat silicone rubber to 0.152%
+for the 100-phr *h*-BN composite. Addition of silicone resin in the
+structure of the composite increased the volatile content for the 100-phr *h*-BN loading
+to 0.196, 0.699 and 0.214% for the three MQ, Vi-MQT3 and Al-MQT3 resins,
+respectively. The increase in volatile content was due to the lower
+crosslink density of the composite compared with neat silicone rubber.
 
 ![](media\image24.jpeg){width="4.723611111111111in"
 height="2.2916666666666665in"}
