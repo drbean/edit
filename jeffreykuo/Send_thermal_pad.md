@@ -740,16 +740,16 @@ Figure 15. Volatile content of silicone rubber composites.
 
 **Flame Resistance of Composite**
 
-The flame resistance category of silicone rubber composites was listed
-in Table 9. It can be seen that silicone rubber considerably flammable,
-both in neat silicone rubber and silicone rubber modified with silicone
-resins. Once being ignited, silicone rubber burns rapidly and release a
-large amount of heat \[46\]. Addition of flame retardant material can
+The flame resistance of the silicone rubber composites is listed
+in Table 9. It can be seen that the composites are quite flammable,
+both in the form of neat silicone rubber and in that of silicone rubber modified with silicone
+resin. Once ignited, silicone rubber burns rapidly and releases a
+large amount of heat ^46^. Addition of flame retardant material can
 enhance its flame resistance. *h*-BN can be introduced into silicone
-rubber to enhance its flame resistance property. Based on the result,
-satisfying flame resistance of silicone rubber can be achieved with the
-addition of more than 80 phr of the *h*-BN particle. Addition of silicone
-resin did not give significant influence to flame retardancy property.
+rubber to enhance this property. Based on the results listed,
+it can be seen satisfying flame resistance properties can be achieved with the
+addition of more than 80 phr of *h*-BN particles. Addition of silicone
+resin did not have a significant influence on flame retardancy.
 
 Table 9. Results of flame retardancy test of silicone rubber composites.
 
