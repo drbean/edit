@@ -538,7 +538,7 @@ the results, it can be seen that the presence of MQ resin in both
 silicone rubber and its composites significantly changes their mechanical
 properties. Addition of MQ resin in silicone rubber reduces tensile
 strength and hardness but improves the elongation at break properties.
-^43^ In this experiment, the tensile strength was reduced from 2.099 MPa to 0.856 MPa on 30 phr
+^43^ In this study, the tensile strength was reduced from 2.099 MPa to 0.856 MPa on 30 phr
 of MQ resin addition.
 
 Incorporation of an *h*-BN particle in silicone rubber also reduced the
