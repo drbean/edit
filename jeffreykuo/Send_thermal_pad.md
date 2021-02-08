@@ -630,32 +630,32 @@ the target values of this study, as shown in Table 1.
 
 ### **Thermal conductivity**
 
-The thermal conductivity property of thermal pads is shown in Figure 12.
-It can be seen that the thermal conductivity of composite enhanced with
-higher addition of filler loading. The thermal conductivity of composite
-improved from 0.213 W m^-1^ K^-1^ in neat silicone rubber to 3.253 W
-m^-1^ K^-1^ with the addition of 100 phr of the *h*-BN particle,
-resulting 1427% enhancement of thermal conductivity. Addition of 20 phr
-particle only resulted in 0.501 W m^-1^ K^-1^ of thermal conductivity
-(135% enhancement). Addition of silicone resin improved the thermal
-conductivity of silicone rubber composite. In neat silicone rubber, the
+The thermal conductivity of the thermal pads is shown in Figure 12.
+It can be seen that the thermal conductivity of the composites increased with
+higher filler loadings, improving
+from 0.213 W m^-1^ K^-1^ for neat silicone rubber to 3.253 W
+m^-1^ K^-1^ with the addition of 100 phr of *h*-BN particles,
+for a 1427% enhancement. The addition of 20 phr
+only resulted in 0.501 W m^-1^ K^-1^ of thermal conductivity
+(a 135% enhancement). Addition of silicone resin improved the thermal
+conductivity of the silicone rubber composite. For neat silicone rubber, however, the
 addition of silicone resin reduced its thermal conductivity, from 0.213
-W m^-1^ K^-1^ to 0.189, 0.174 and 0.199 W m^-1^ K^-1^ with the addition
-of MQ, Vi-MQT3 and Al-MQT3 resin, respectively. Addition of low *h*-BN
-content (20 phr) resulting in a similar trend with the former result.
-The existence of silicone resin in the structure of silicone rubber will
-enhance the free volume and reduce the covalent bond which is a very
-important aspect for thermal conduction mechanism in the polymer
-material. Further addition of *h*-BN particle yielded higher thermal
-conductivity on the composite with silicone resin compared with the
-pristine one. The thermal conductivity improved from 3.253 W m^-1^ K^-1^
-at composite without silicone resin addition to 3.611, 3.962 and 4.817 W
-m^-1^ K^-1^ at composite with the addition of MQ, Vi-MQT3 and Al-MQT3
-resin, respectively, at 100 phr filler concentration. The best
-improvement of thermal conductivity was achieved by silicone composite
-with Al-MQT3 resin. Higher thermal conductivity on silicone rubber
-composite with Al-MQT3 resin was due to synergistic effect of *h*-BN
-filler with silicon and aluminum atom in silicone resin structure. ^44^
+W m^-1^ K^-1^ to 0.189, 0.174 and 0.199 W m^-1^ K^-1^ for the three
+MQ, Vi-MQT3 and Al-MQT3 resins, respectively. Addition of small amounts of *h*-BN
+(20 phr) resulted in a similar relationship between the three resins as for neat silicone rubber.
+But, the presence of silicone resin in the structure of silicone rubber 
+leads to the enhancement of the free volume and reduction of covalent bonds, which is a very
+important aspect of the thermal conduction process in polymer
+material. Further addition of *h*-BN particles yielded higher thermal
+conductivity on the composites with silicone resins compared with the
+pristine one. At the highest 100 phr filler concentration, thermal conductivity improved from 3.253 W m^-1^ K^-1^
+for the composite without added silicone resin to 3.611, 3.962 and 4.817 W
+m^-1^ K^-1^ for the composites with the three MQ, Vi-MQT3 and Al-MQT3
+resins, respectively. The best
+improvement in thermal conductivity was achieved by the Al-MQT3 resin silicone composite.
+The higher thermal conductivity on that
+composite was due to the synergistic effect of the *h*-BN
+filler with the silicon and aluminum atom in the silicone resin structure. ^44^
 
 ![](media\image19.jpeg){width="4.724409448818897in"
 height="3.335718503937008in"}
