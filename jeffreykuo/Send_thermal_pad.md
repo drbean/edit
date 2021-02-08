@@ -612,21 +612,21 @@ Figure 11. Mechanical properties of silicone rubber composites with
 addition of silicone resin; (a) tensile strength, (b) elongation at
 break and (c) hardness.
 
-Evaluation Performance of Silicone Rubber Composite
+Evaluation Performance of Silicone Rubber Composites
 
-The thermal conductivity will enhance significantly with the existence
-of high filler loadings. Addition of high filler does not only improve
-the thermal conductivity property of silicone rubber but also some
-properties will be affected, especially for its flexibility property.
-Based on the preliminary results, MQ, Vi-MQT3 and Al-MQT3 resin were
-chosen as a modifier of silicone rubber/*h*-BN to form a thermal pad.
-Addition of silicone resin was made constant, at 10 phr. *h*-BN filler
+Thermal conductivity is enhanced significantly by the existence
+of high filler loadings, but the addition of large amounts of filler not only improves
+the thermal conductivity of silicone rubber. Other
+properties are also affected, especially flexibility.
+Based on the above preliminary results, MQ, Vi-MQT3 and Al-MQT3 resin were
+chosen as modifiers of the silicone rubber/*h*-BN composite to form thermal pads.
+Addition of the silicone resin was kept constant, at 10 phr. The *h*-BN filler
 concentration was increased up to 100 phr. The critical concentration
-for percolation of cubical particles in polymer matrices is known to be
-around 30% volume. The 100 phr filler concentration is higher than 30%
-volume, ^14^ caused the silicone rubber matrix was saturated, prevent it
-for being filled. The thermal pad was evaluated its performance based on
-the target value of this study, as shown in Table 1.
+for the percolation of cubical particles in polymer matrices is known to be
+around 30% by volume. The 100 phr filler concentration is higher than 30%
+by volume, ^14^ and is a value where the silicone rubber matrix would become saturated, preventing it
+from being further filled. The performance of the thermal pads with these parameters was evaluated based on
+the target values of this study, as shown in Table 1.
 
 ### **Thermal conductivity**
 
