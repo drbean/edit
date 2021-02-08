@@ -664,30 +664,30 @@ Figure 12. Thermal conductivity of silicone rubber composites.
 
 Mechanical properties
 
-The mechanical properties of thermal pads were shown in Figure 13. The
-tensile strength of silicone rubber decreased with the addition of
-*h*-BN particle, from 2.099 MPa of neat silicone rubber to 1.248 MPa
-with the addition of 100 phr particles. This is typical for composites
-with poor interfacial interaction. ^13^ In high filler loading, an
-incomplete dispersion of filler occurred and more defects were
-formed.^18^ Therefore the tensile strength of silicone rubber/*h*-BN
-composites was decreased. However in a composite system, composite with
-silicone resin showed better tensile strength, as shown in Figure 15
-(a). In high filler loadings (100 phr), the tensile strength of
-composite improved to 1.274, 1.290 and 1.312 MPa for the addition of MQ,
-Vi-MQT3 and Al-MQT3 resin, respectively. The elongation of silicone
-rubber decreased with the addition of high *h*-BN loadings, from 737% of
-neat silicone rubber to 22% of silicone rubber with 100 phr *h*-BN
-particle. This behaviour is generally explained as the effect in the
+The mechanical properties of the thermal pads are shown in Figure 13. 
+Tensile strength decreased with the addition of
+*h*-BN particles to neat silicone rubber, from 2.099 MPa for the neat state to 1.248 MPa
+for the 100-phr particle composite. This is typical for composites
+with poor interfacial interaction. ^13^ In high filler loadings, an
+incomplete dispersion of filler occurs and more defects are
+formed.^18^ Therefore the tensile strength of the silicone rubber/*h*-BN
+composites decreased. In the composites with
+silicone resin, better tensile strength was achieved, as shown in Figure 15
+(a). For high filler loadings (100 phr), the tensile strength of
+the composite improved to 1.274, 1.290 and 1.312 MPa for the three MQ,
+Vi-MQT3 and Al-MQT3 resins, respectively. Elongation 
+also decreased with high *h*-BN loadings, from 737% for
+neat silicone rubber to 22% for the 100-phr 
+particle composite. This behaviour is generally explained as the effect of the
 lack of matrix/filler adhesion and poor filler distribution in the
-matrix. ^45^ The hardness property increased with the addition of high
-*h*-BN filler loadings, from 29 shore A of neat silicone rubber to 75
-shore A of silicone rubber with 100 phr *h*-BN particle. Addition of
-silicone resin slightly reduced the hardness of silicone rubber
-composites. In high filler loadings, the hardness property reduces to
-69, 71 and 72 shore A for the addition of MQ, Vi-MQT3 and Al-MQT3 resin,
-respectively. Addition of MQ resin resulted in lowest hardness property
-of silicone rubber composites.
+matrix. ^45^ On the other hand, hardness increased with high
+*h*-BN filler loadings, from 29 shore A for neat silicone rubber to 75
+shore A for the rubber/100-phar *h*-BN composite. The addition of
+silicone resin slightly reduced the hardness of the silicone rubber
+composites. For the high filler loadings, hardness fell to
+69, 71 and 72 shore A for the three MQ, Vi-MQT3 and Al-MQT3 resins,
+respectively. Addition of the MQ resin resulted in the lowest hardness 
+of the silicone rubber composites.
 
 ![G:\\Thesis\\Documents\\Thesis Manuscript\\Picture\\Tensile
 comparison.JPG](media\image20.jpeg){width="4.330114829396326in"
