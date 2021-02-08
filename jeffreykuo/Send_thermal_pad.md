@@ -230,7 +230,7 @@ Co., Taiwan), and. TMCS as M unit, TEOS as Q unit, VTMS as T unit.
 Two-system silicone rubber (KET-1001-10 A/B, Shin Etsu Co. Ltd.,
 Taiwan), Toluene, industrial grade solvent (Trans Chief Chemical
 Industry Co. Ltd., Taiwan.) Tetrahydrofuran (THF, 99% HPLC grade, Duksan
-Pure Chemicals Co., South Korea.), Sodium bicarbonate (NaHCO~3~, Chruch
+Pure Chemicals Co., South Korea.), Sodium bicarbonate (NaHCO~3~, Church
 & Dwight Co., USA.) was used as a neutralizing agent. Hexagonal boron
 nitride (*h*-BN, U Materials Co.Ltd., Taiwan).
 
