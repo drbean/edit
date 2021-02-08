@@ -706,15 +706,15 @@ tensile strength, (b) elongation at break and (c) hardness.
 
 **Density of Thermal Pads**
 
-The density property of thermal pads are shown in Figure 14. It can be
-seen that the addition of *h*-BN particle increased the density of
-silicone rubber. The density increased from 1.054 g cm^-3^ at neat
-silicone rubber to 1.418 g cm^-3^ with the addition of 100 phr *h*-BN
-particle. This phenomenon naturally occurs due to differences in density
-between the silicone rubber and *h*-BN filler. High filler loading will
-increase the density of composites. Addition of silicone resin slightly
-decreased the density of composite to 1.405, 1.407 and 1.411 g cm^-3^
-for the addition of MQ, Vi-MQT3 and Al-MQT3 resin, respectively.
+The density of the thermal pads is shown in Figure 14. It can be
+seen that the addition of *h*-BN particles increased the density of
+the resulting composites, from 1.054 g cm^-3^ for neat
+silicone rubber to 1.418 g cm^-3^ for the 100-phr *h*-BN composite.
+This phenomenon simply occurs due to the differences in density
+of the silicone rubber and *h*-BN filler. High filler loadings will
+increase the density of the composite. Addition of silicone resin slightly
+decreased the composite densities to 1.405, 1.407 and 1.411 g cm^-3^
+for the three MQ, Vi-MQT3 and Al-MQT3 resins, respectively.
 
 ![G:\\Thesis\\Documents\\Thesis Manuscript\\Picture\\Density
 comparison.jpg](media\image23.jpeg){width="4.7243055555555555in"
