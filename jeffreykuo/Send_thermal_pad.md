@@ -327,7 +327,7 @@ nitrogen flow at 40 mL min^-1^. The heat resistance of the material
 
 Thermal conductivity was tested with a thermal conductivity analyzer
 (Hot Disk TPS 2500S) using the transient plane source method, and following the ISO
-22007-2 standard. The pads' mechanical properties were determined using a
+22007-2 standard. Mechanical properties were determined using a
 universal tensile tester (Chun Yen Testing Machines, CY-6040A) with
 weight loading of 500 kg and cross-head speed of 10 mm min^-1^, under the
 ASTM D412 standard. The hardness was measured with a hardness tester
