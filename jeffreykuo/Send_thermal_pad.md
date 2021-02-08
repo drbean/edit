@@ -541,17 +541,17 @@ strength and hardness but improves the elongation at break properties.
 ^43^ In this study, the tensile strength was reduced from 2.099 MPa to 0.856 MPa on 30 phr
 of MQ resin addition.
 
-Incorporation of an *h*-BN particle in silicone rubber also reduced the
-tensile strength of silicone rubber, from 2.099 MPa to 1.648 MPa, and
-elongation of silicone rubber, from 737% to 657%. Addition of 10 phr MQ
-resin slightly enhanced the tensile property, from 1.648 MPa to 1.659
-MPa. Further addition of MQ resin (20 and 30 phr) even exceed the
+Incorporation of *h*-BN particles in silicone rubber also reduced 
+tensile strength and elongation, from 2.099 MPa to 1.648 MPa,
+and 737% to 657%, respectively. Addition of 10 phr MQ
+resin then slightly enhanced tensile strength, up from 1.648 MPa to 1.659
+MPa. Further addition of MQ resin (20 and 30 phr) even exceeded the
 tensile value of the neat silicone rubber/*h*-BN composite, as shown in
-Figure 12 (a), however, its value is reduced compared with silicone
-composite with addition of 10 phr MQ resin. In composites, structure
-showed increment trends of elongation at break, due to the good
+Figure 11 (a). However, these values are reduced compared with the silicone
+composite with the addition of just 10 phr MQ resin. In the composites, structure
+showed an incremental trend in elongation at break, due to the good
 interfacial reaction between filler and matrix. Addition of MQ resin
-also reduced the hardness properties both of silicone rubber and
+also reduced the hardness properties both of the silicone rubber and
 silicone rubber/*h*-BN composites.
 
 ![G:\\Thesis\\Documents\\Thesis Manuscript\\Picture\\Tensile
