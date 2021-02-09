@@ -801,14 +801,14 @@ by silicone resin
 **Morphology of composites**
 
 The morphology of neat silicone rubber and silicone composite is shown
-in Figure 16. It can be seen in Figure 16. (a), the morphology of neat
-silicone rubber is plain and smooth. Addition of 20 phr of *h*-BN, as
-shown in Figure 16. (b), the filler did not spread homogeneously, tend
-to form agglomerates. This phenomenon was due to poor compability
-between filler and matrix. Further addition of *h*-BN, as shown in
-Figure 16. (c), the silicone composite showed rough surface due to the
-existence of filler agglomerates and some void was formed among the
-agglomerates. This condition leads to reduction of some properties,
+in Figure 16. As can be seen from Figure 16. (a), the morphology of the neat
+ silicone rubber was plain and smooth. Figure 16. (b) shows on addition of 20 phr of *h*-BN, the filler 
+ failed to spread homogeneously, tending
+to form agglomerates due to poor compability
+between filler and matrix. On further addition of *h*-BN, as shown in
+Figure 16. (c), the silicone composite developed rough surfaces due to the
+existence of filler agglomerates and voids formed among the
+agglomerates. This condition led to reductions in the values of some properties,
 especially mechanical properties.
 
 ![](media\image25.jpeg){width="6.53125in" height="4.739583333333333in"}
