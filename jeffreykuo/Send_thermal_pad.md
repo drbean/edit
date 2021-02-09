@@ -779,21 +779,21 @@ value and improved with the addition of silicone resin, the best
 improvement being achieved by addition of Al-MQT3 resin. 
 Composites without silicone resin showed low elongation at break, only
 22%, as expected from the poor compatibility between the silicone rubber and
-*h*-BN particles. The addition of silicone resin was able to more than double its
+*h*-BN particles. The addition of silicone resin was able to more than double 
 flexibility, with the best improvement being achieved by
-addition of Vi-MQT3 resin. The hardness of the composites achieved
+addition of Vi-MQT3 resin. Hardness of the composites was less than
 the maximum predetermined value and the addition of silicone resin
-slightly reduced the hardness with the best reduction by addition of MQ
-resin. The thermal conductivity of composite achieved the predetermined
-value and improve with the addition of silicone resin with the best
-improvement by addition of Al-MQT3 resin. The volatile content of
-silicone resin enhanced with addition of silicone resin due to the lower
-crosslink density, however the value still below than the predetermined
-limit. The flame retardancy and volume resistivity properties did not
-change significantly with the addition of silicone resin and its value
-still on a safe level. Based on the results, It can be concluded that
-addition of silicone resin enhanced the properties of silicone composite
-and satisfy all of predetermined target value in this research.
+slightly reduced it, with the best reduction achieved by addition of MQ
+resin. Thermal conductivity of the composites surpassed the predetermined
+value and improved with the addition of silicone resin, with the best
+improvement being for addition of Al-MQT3 resin. Volatile content of
+the composites increased with the addition of silicone resin due to the lower
+crosslink density. However, values were still below the predetermined
+limit. Flame retardancy and volume resistivity did not
+change significantly with the addition of silicone resin and values
+continued at a safe level. Based on these results, it can be concluded that
+the addition of silicone resin enhances the properties of silicone composites,
+satisfying all of the predetermined target values of this research.
 
 Table 11. Performance evaluation of silicone rubber composite modified
 by silicone resin
