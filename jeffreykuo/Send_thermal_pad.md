@@ -768,20 +768,20 @@ composites.
 
 ### **Performance evaluation**
 
-From the earlier discussions, the performance evaluation of silicone
-rubber composite is shown in Table 11. It can be observed that silicone
+The performance evaluation of the silicone
+rubber composites, drawing on data from the discussion above, is shown in Table 11. It can be observed that silicone
 rubber/*h*-BN composites possess good thermal conductivity, mechanical
-properties and other properties. The density of composite with silicone
+and other properties. The density of the composites with silicone
 resin showed a slight reduction compared with the neat composite. The
-density value for all of samples was lower than the predetermined limit.
-The tensile strength of silicone composite was exceeds the expected
-value and improve with the addition of silicone resin, the best
-improvement was achieved by addition of Al-MQT3 resin. Silicone
-composite without silicone resin showed low elongation at break, only
-22%, as expected from poor compatibility between the silicone rubber and
-*h*-BN particle. Addition of silicone resin successfully enhanced its
-flexibility more than doubled, with the best improvement was achieved by
-addition of Vi-MQT3 resin. The hardness of silicone composite achieved
+density of all of the samples was lower than the predetermined limit.
+The tensile strength of the composites exceeded the expected
+value and improved with the addition of silicone resin, the best
+improvement being achieved by addition of Al-MQT3 resin. 
+Composites without silicone resin showed low elongation at break, only
+22%, as expected from the poor compatibility between the silicone rubber and
+*h*-BN particles. The addition of silicone resin was able to more than double its
+flexibility, with the best improvement being achieved by
+addition of Vi-MQT3 resin. The hardness of the composites achieved
 the maximum predetermined value and the addition of silicone resin
 slightly reduced the hardness with the best reduction by addition of MQ
 resin. The thermal conductivity of composite achieved the predetermined
