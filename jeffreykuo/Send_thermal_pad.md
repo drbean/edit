@@ -816,34 +816,34 @@ especially mechanical properties.
 Figure 16. Fracture morphology of (a) neat silicone rubber, and silicone
 composite with (b) 20 phr and (c) 100 phr of filler addition.
 
-The comparison of fracture surface morphology of silicone composite with
+A comparison of the fracture surface morphologies of different silicone composites with
 100 phr of *h*-BN filler is shown in Figure 17. Analysis of these images
-reveals that agglomeration of *h*-BN filler and void generated when the
+reveals agglomerations of *h*-BN filler and voids generated when
 filler peeled off. In Figure 17. (a), it can be seen that the composite
-has many defects and void, indicating poor compatibility between filler
-and matrix.^47^ Matrix cannot be binding filler well, resulting in the
-interfacial phase filled with air and yield poor composite properties.
+has many defects and voids, indicating poor compatibility between filler
+and matrix.^47^ The matrix cannot be binding filler well, resulting in 
+interfacial phases filled with air and yielding poor composite properties.
 The existence of air inside the composite would enhance the thermal
-resistance of the material, resulting in ineffective of the heat
-transfer process. Addition of silicone resin, as shown in Figure 17.
-(b-d), showed better morphology than a pristine one. Silicone resin acts
-as a bridge and enhance the adhesion property of silicone rubber,
+resistance of the material, resulting in ineffectiveness of the heat
+transfer process. Addition of silicone resin to the composite, as shown in Figure 17.
+(b-d), resulted in better morphology than the pristine one. The silicone resin acts
+as a bridge and enhances the adhesion of silicone rubber,
 resulting in better compatibility between filler and matrix. Better
-compatibility will enhance its filler distribution and improved some
-properties of the composite, especially for mechanical properties. The
-high level of filler distribution is not always resulting in high
-thermal conductivity. In Figure (c), it has the best filler distribution
-and no filler agglomeration was formed. Compared with Figure (c), the
-addition of aluminum-silicone resin as shown in Figure (d) showed filler
-distribution is not too good, however, its thermal conductivity was
-highest among the others. Regardless of the synergistic effect as
-mentioned before, the high level of filler distribution will enhance the
-interfacial interaction between filler and matrix, lead to increase of
-thermal contact resistance. The effective way of heat transfer is from
-filler-to-filler. It other words, filler agglomerations is needed to
+compatibility will enhance filler distribution and improve some
+properties of the composite, especially mechanical properties. But, a
+high level of filler distribution does not always result in high
+thermal conductivity. The composite in Figure (c) had the best filler distribution
+and no filler agglomerates were formed. Compared with the composite of Figure (c), the filler
+distribution of the aluminum-silicone one in Figure (d) was not as good.
+However, the thermal conductivity of that composite was
+higher than either those of Figure 17 (b,c) or of any of the others. Regardless of the synergistic effect as
+mentioned above, a high level of filler distribution will enhance 
+interfacial interaction between filler and matrix, and lead to an increase of
+thermal contact resistance. The effective heat transfer route is from
+filler-to-filler. In other words, filler agglomerations are needed to
 accelerate the heat transfer process. Based on the morphology results,
-Figure 17. (d) has some filler agglomerations with sufficient filler
-distribution, resulting higher thermal conductivity.
+Figure 17. (d) shows the existence of some filler agglomerations with sufficient filler
+distribution results in higher thermal conductivity.
 
 ![G:\\Thesis\\Documents\\Thesis Manuscript\\Picture\\Morphology
 comparison.jpg](media\image26.jpeg){width="6.020833333333333in"
