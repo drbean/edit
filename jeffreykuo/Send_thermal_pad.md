@@ -855,46 +855,46 @@ Al-MQT3 resin
 
 # **Conclusions**
 
-The silicone resin was synthesized using hydrolysis-polycondensation
+Silicone resin was synthesized using the hydrolysis-polycondensation
 method as a modifier for silicone rubber/*h*-BN composites. Three kinds
-of silicone resin have been obtained i.e., MQ resin, vinyl-silicone
+of silicone resin were obtained i.e., MQ resin, vinyl-silicone
 resin (Vi-MQT resin) and aluminum-silicone resin (Al-MQT resin).
-Addition of vinyl- and aluminum-bond as functional unit reduced the
-molecular weight of MQ resin due to shorter propagation process . The
-thermal stability of Vi-MQT and Al-MQT resin was higher than MQ resin
-due to higher bond dissociation energy, except Al-MQT5 resin. Both of
-Vi-MQT and Al-MQT resin yielded higher residue content than MQ resin.
-Addition of MQ unit only improved the thermal stability of composite
-when the concentration is 10 phr. Addition of Vi-MQT and Al-MQT resin
-enhanced the thermal stability due to crosslinking reaction and by
-hetero-metal synergistic effect in silicone resin structure
-respectively. When it applied on the composite system, silicone
-composite with Vi-MQT resin showed higher thermal stability. Enhancement
-on the characteristic temperatures at maximum degradation of silicone
-composite with the addition of silicone resin indicated stronger
-interaction between the silicone rubber and particles with the addition
-of silicone resins. Increasing filler concentration of *h*-BN up to 100
-phr enhanced the thermal conductivity and hardness composite up to 3.253
-W m^-1^ K^-1^ and 75 shore A but reduced the tensile strength to 1.248
-MPa and elongation 22% respectively. Addition of silicone resin improved
-the thermal conductivity of composites, up to 3.661, 3.962 and 4.817 W
-m^-1^ K^-1^ for MQ, Vi-MQT3 and Al-MQT3 resin, respectively. The tensile
-strength improved up to 1.274, 1.290 and 1.312 MPa for MQ, Vi-MQT3 and
-Al-MQT3 resin, elongation at break increased to 125, 188 and 150% , and
-hardness 69, 71 and 72 shore A with the addition of MQ, Vi-MQT3 and
-Al-MQT3 resin, respectively. The volatile content of composite increased
-from 0.152% of the neat composite to 0.196, 0.699 and 0.214% for MQ,
-Vi-MQT3 and Al-MQT3 resin, respectively. The density, flame resistance
-and volume resistivity can change with the addition of silicone resins.
-Addition of silicone resin slightly decreased the density of composite
-to 1.405, 1.407 and 1.411 g cm^-3^ for the addition of MQ, Vi-MQT3 and
-Al-MQT3 resin, respectively. Addition of silicone resin in the structure
-of composite increased the volatile content at 100 phr filler addition
-to 0.196, 0.699 and 0.214% for MQ, Vi-MQT3 and Al-MQT3 resin. *h*-BN can
+Addition of vinyl and aluminum bonds as functional units reduced the
+molecular weight of the resulting MQ resin due to a shorter propagation process. The
+thermal stability of the Vi-MQT and Al-MQT resin was higher than the MQ resin
+due to higher bond dissociation energy, except for the Al-MQT5 resin. Both of
+the Vi-MQT and Al-MQT resins yielded higher residue content than the MQ resin.
+Addition of MQ units only improved the thermal stability of composites
+when the concentration was 10 phr. Addition of Vi-MQT and Al-MQT resins
+enhanced thermal stability due to the crosslinking reaction and 
+hetero-metal synergistic effect in silicone resin structure,
+respectively. When applied in a composite system, silicone
+composites with Vi-MQT resin showed higher thermal stability. Enhancement
+of the characteristic temperatures at maximum degradation of the
+composites with the addition of silicone resins indicated stronger
+interaction between the silicone rubber and resin particles.
+Increasing filler concentration of *h*-BN up to 100
+phr increased thermal conductivity and hardness of the composites to 3.253
+W m^-1^ K^-1^ and 75 shore A but reduced tensile strength and elongation to 1.248
+MPa and 22%, respectively. Addition of silicone resin improved
+thermal conductivity of the composites, up to 3.661, 3.962 and 4.817 W
+m^-1^ K^-1^ for the three MQ, Vi-MQT3 and Al-MQT3 resins, respectively. Tensile
+strength improved to 1.274, 1.290 and 1.312 MPa,
+elongation at break increased to 125, 188 and 150%, and
+hardness dropped to 69, 71 and 72 shore A with the addition of the three MQ, Vi-MQT3 and
+Al-MQT3 resins, respectively. Volatile content of the composites increased
+from 0.152% for the neat composite to 0.196, 0.699 and 0.214% for ones with the three MQ,
+Vi-MQT3 and Al-MQT3 resins, respectively. Density, flame resistance
+and volume resistivity also changed with the addition of silicone resin.
+Addition of silicone resin slightly decreased the density of composites
+to 1.405, 1.407 and 1.411 g cm^-3^ for the addition of the MQ, Vi-MQT3 and
+Al-MQT3 resins, respectively. Addition of silicone resin in the structure
+of composites increased the volatile content of 100-phr filler composites
+to 0.196, 0.699 and 0.214% for the MQ, Vi-MQT3 and Al-MQT3 resins. *h*-BN can
 be introduced into silicone rubber to enhance its flame resistance
-property. It can be seen that composites with high addition of filler
-loading enhanced its volume resistivity, from \>10^13^ to \>10^11^ Ω cm
-at 100 phr of *h*-BN. In the future, the results can be used as a
-breakthrough for developing new composite material as elastomeric
-application and attract an interest of the industrial communities for
+properties. Finally, composites with high filler
+loadings enhanced their volume resistivity, from \>10^13^ to \>10^11^ Ω cm
+at 100 phr of *h*-BN. In the future, the results will be of use aiding
+breakthroughs in the development of new composite material with elastomeric
+applications that attract the interest of industrial communities in
 large-scale production.
