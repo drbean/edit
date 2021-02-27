@@ -41,9 +41,7 @@ al., 2019a; Wadhwaniya et.al., 2017) and have caused huge economic
 losses to individuals and society (Amandus et al., 2012; Ramaswamy &
 Mosher, 2018). The proportion of falls among all types of injury around the
 globe increased from 23.1% in 1997-2007 to 27.7% in 2007-2017 (James
-et al., 2018). In Taiwan and the United States during the period 2009 to 2018, the proportions of falls at work rose from 15.82% to 21.21%, and from
-24.35% to 26.97% of all occupational injuries, respectively (BLS,
-2019; OSHA, 2019). Falls occur because of slips, trips and loss of balance,
+et al., 2018). From 2009 to 2018, the proportion of falls among all occupational injuries in Taiwan rose from 15.8% to 21.2% (BLS, 2019). A similar trend was also observed in the USA (OSHA, 2019). Falls occur because of slips, trips and loss of balance,
 among other reasons. The literature has shown that tripping and
 slipping are the main contributors of falls (Bentley & Haslam, 1999;
 Berg et al., 1997). Tripping has been considered one of the main
