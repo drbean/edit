@@ -520,5 +520,5 @@ lagging foot given the environmental conditions in our experiment.
 The step length upon barrier crossing was also significantly affected
 only by illumination condition and barrier type. This may suggest that the
 participants adjusted step length upon barrier crossing, regarding it as primary,
-in the case of changes in these two factors. It was also found that the participants adopted different gait strategies to control their foot movements when they were about to engage different types of barrier. In addition, our participants gained benefits from a small amount of lighting less than 0.01 lx on the walkway when they were approaching the barrier. These findings are novel which enhance our understanding of human gait upon barrier crossing
+in the case of changes in these two factors. It was also found that the participants adopted different gait strategies to control their foot movements when they were about to engage different types of barrier. In addition, our participants gained benefits from a small (less than 0.01 lx) amount of lighting on the walkway when they were approaching the barrier. These findings are novel, enhancing our understanding of human gait upon barrier crossing,
 and will be beneficial for the prevention of tripping and falling.
