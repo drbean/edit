@@ -449,9 +449,7 @@ condition. And the MFC~lag~ in the stick condition
 was also significantly (*p*\<0.05) higher than that in the board condition,
 up 20.76 mm. When the barrier was a stick, the participants tended to
 raise both of their leading and lagging feet higher upon crossing the
-barrier than when the barrier was a board. This finding that barrier
-type affects leg movements upon barrier crossing is consistent
-with that in the earlier study (Li et al., 2019b).
+barrier than when the barrier was a board. The result from the earlier study (Li et al., 2019b) was based only on the visual observation from the research personnel. The current study confirmed the result using kinematic data of the feet. This confirmation provides scientific evidence that the motion of the foot upon barrier crossing is affected by the type of the barrier. This implies that the participants adopted different gait strategies to control foot movement when they were about to engage different types of barrier. 
 
 As for mean step length, ST3 (723.49±62.14 mm) was significantly (*p*\<0.05) longer than ST2
 (657.08±91.44 mm) and ST4 (663.76±60.66). ST 2 was significantly
