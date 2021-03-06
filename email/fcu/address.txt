@@ -518,3 +518,6 @@ http://www.bpfeas.fcu.edu.tw/wSite/mp?mp=409701
 spfeng@fcu.edu.tw
 mcchuan@fcu.edu.tw
 ychihchen@fcu.edu.tw
+
+http://www.soa.fcu.edu.tw/wSite/mp?mp=330103
+yatishen@fcu.edu.tw
