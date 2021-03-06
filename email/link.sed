@@ -4,5 +4,6 @@ s/^.*[^[:alnum:]]\([-_.+[[:alnum:]]]\+\([@＠]\|at\)\([[:alnum:]]\+.[-[:alnum:]]
 
 # fcu
 /[[:alnum:]]@fcu.edu.tw/d
+/Copyright@.*Feng Chia/d
 s/<td>\([-._[:alnum:]]*\)<img src='images\/at.png' alt='at'\/>\([-._[:alnum:]]*\)\s*<\/td>/\1@\2/
 s/^\s*\([-._[:alnum:]]*\) at \([-._[:alnum:]]*\)\s*$/\1@\2/
