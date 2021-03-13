@@ -11,3 +11,7 @@ s/^\s*\([-._[:alnum:]]*\) at \([-._[:alnum:]]*\)\s*$/\1@\2/
 
 # scmu
 /@media/d
+
+# asia
+/@import/d
+/[^-._[:alnum:]]@[^-._[:alnum:]]l/d
